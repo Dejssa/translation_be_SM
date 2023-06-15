@@ -155,31 +155,31 @@ id <u(id)>, version <VersionText></color>",
 1000212,<arg1>:<arg2>:<arg3>,
 1000213,<arg1>:<arg2>,
 1000685,",",
-1000686,Brazilian Portuguese,
+1000686,Беларуская,
 1000687,Bulgarian,
 1000688,Czech,
 1000689,Danish,
 1000690,Dutch,
-1000691,Беларуская,
+1000691,English,
 1000692,Finnish,
-1000693,French,
-1000694,German,
+1000693,Français,
+1000694,Deutsch,
 1000695,Hungarian,
 1000696,Italian,
-1000697,Japanese,
+1000697,日本語,
 1000698,Korean,
 1000699,Norwegian,
-1000700,Polish,
+1000700,Polska,
 1000701,Portuguese,
 1000702,Romanian,
-1000703,Russian,
-1000704,Chinese (Simplified),
-1000705,Spanish,
+1000703,Русский,
+1000704,简化字,
+1000705,Español,
 1000706,Swedish,
 1000707,Chinese (Traditional),
 1000708,Thai,
-1000709,Turkish,
-1000710,Auto,
+1000709,Türkçe,
+1000710,Аўта,
 3548,Бязрамачны,
 3549,Поўны,
 3547,Аконны,
@@ -234,7 +234,7 @@ id <u(id)>, version <VersionText></color>",
 222956070647,<id> - <name>,<id> - <name>
 396476973183,"<id><color 0 128 0><opt(u(Comment),' - ','')>","<id><color 0 128 0><opt(u(Comment),' - ','')>"
 1000883,"droid, 12, aa",
-11873,Your attention is required!,
+11873,Патрабуецца ваша ўвага!,
 311539924249,"<ChooseColor><id><color 0 128 0><if(not_eq(Trigger,'StoryBitTick'))> (<Trigger>)</if><opt(u(Comment),' ','')><color 128 128 128><opt(u(save_in),' - ','')>","<ChooseColor><id><color 0 128 0><if(not_eq(Trigger,'StoryBitTick'))> (<Trigger>)</if><opt(u(Comment),' ','')><color 128 128 128><opt(u(save_in),' - ','')>"
 11874,Param <Name> = <Value>,
 11875,Param <Name> = <Value>%,
@@ -398,7 +398,7 @@ id <u(id)>, version <VersionText></color>",
 3574,Свячэнне,
 8034,Адаптацыя вачэй,
 10075,SSAO,
-12362,Адбітакі,
+12362,Адбіткі,
 3575,Згладжванне (AA),
 3576,Далёкасць прамалёўкі,
 7772,Дэтальнасцт аб'ектаў,
@@ -1128,30 +1128,30 @@ Before you get started, please take a moment to read our Privacy Policy.",
 4956,Treated 50 Colonists in a Sanatorium,
 4955,Assisted Self-Improvement,
 4957,Treat 50 Colonists in a Sanatorium,
-4959,Played as USA and researched all technologies in the Engineering tech-tree before Sol 100,
+4959,Played as USA and researched all technologies in the Engineering tech-tree before Сол 100,
 4958,For the Benefit of All,
-4960,Play as USA and research all technologies in the Engineering tech-tree before Sol 100,
-4962,Played as Blue Sun Corporation and exported 500 units of Rare Metals to Earth before Sol 100,
+4960,Play as USA and research all technologies in the Engineering tech-tree before Сол 100,
+4962,Played as Blue Sun Corporation and exported 500 units of Rare Metals to Earth before Сол 100,
 4961,Building a Better Future,
-4963,Play as Blue Sun Corporation and export 500 units of Rare Metals to Earth before Sol 100,
-7431,Played as China and reached a population of 200 before Sol 100,
+4963,Play as Blue Sun Corporation and export 500 units of Rare Metals to Earth before Сол 100,
+7431,Played as China and reached a population of 200 before Сол 100,
 4964,Interesting Times,
-4965,Play as China and reach a population of 200 before Sol 100,
-7698,Played as India and had 5 Domes before Sol 100,
+4965,Play as China and reach a population of 200 before Сол 100,
+7698,Played as India and had 5 Domes before Сол 100,
 4966,In the Service of Humankind,
-4967,Play as India and have 5 Domes before Sol 100,
-7699,Played as Europe and researched 5 Breakthrough Technologies before Sol 100,
+4967,Play as India and have 5 Domes before Сол 100,
+7699,Played as Europe and researched 5 Breakthrough Technologies before Сол 100,
 4968,Because we Care,
-4969,Play as Europe and research 5 Breakthrough Technologies before Sol 100,
-4971,Played as SpaceY and controlled 200 Drones before Sol 100,
+4969,Play as Europe and research 5 Breakthrough Technologies before Сол 100,
+4971,Played as SpaceY and controlled 200 Drones before Сол 100,
 4970,Aren't they Cute?,
-4972,Play as SpaceY and control 200 Drones before Sol 100,
-4974,Played as Russia and extracted 10000 resource units from Deposits before Sol 100,
+4972,Play as SpaceY and control 200 Drones before Сол 100,
+4974,Played as Russia and extracted 10000 resource units from Deposits before Сол 100,
 4973,Gagarin's Legacy,
-4975,Play as Russia and extract 10000 resource units from Deposits before Sol 100,
-4977,Played as the Church of the New Ark and had 100 people born on Mars before Sol 100,
+4975,Play as Russia and extract 10000 resource units from Deposits before Сол 100,
+4977,Played as the Church of the New Ark and had 100 people born on Mars before Сол 100,
 4976,The New Ark,
-4978,Play as the Church of the New Ark and have 100 people born on Mars before Sol 100,
+4978,Play as the Church of the New Ark and have 100 people born on Mars before Сол 100,
 4980,Had a Colonist with all four stats at maximum,
 4979,Perfect Moment,
 4981,Have a Colonist with all four stats at maximum,
@@ -1416,7 +1416,7 @@ These instruments require nothing but power and regular maintenance and, of cour
 
 Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a process that extracts water directly from the Martian atmosphere by alternately blowing air over a zeolite adsorption bed and heating the bed to extract the absorbed water. While the water output is less than that of the Water Extractor, there is no end to the amount of water it can generate, and its mechanical simplicity means Moisture Vaporators can be deployed anywhere on the Martian surface.",
 5192,Oxygen Tanks,
-5306,Water Extractors,
+5306,Экстрактары Вады,
 10962,Extracts Water from underground deposits.<newline><newline>All extractors raise dust resulting in more frequent maintenance for buildings in the grey area.,
 5311,Water Towers,
 5035,<concrete(Stored_Concrete)>,
@@ -1517,7 +1517,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 5012,This marvel of Martian engineering produces colossal amounts of Power. It provides light for nearby solar panels during the night in addition to heating the surrounding area. Consumes vast amounts of Water on startup.,
 5093,Geoscape Dome,
 5094,Geoscape Domes,
-5095,"A slice of Earth on Mars, this Dome increases the Comfort of all Residences within. It also increases the Sanity of its inhabitants every Sol.",
+5095,"A slice of Earth on Mars, this Dome increases the Comfort of all Residences within. It also increases the Sanity of its inhabitants every Сол.",
 8913,Expand Mohole I,
 8915,Expand Mohole II,
 8916,Expand Mohole III,
@@ -1551,12 +1551,12 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 3519,Moisture Vaporator,
 5289,"Generates Power. While closed the generator is protected from dust, but produces less power.",
 5200,Produces Polymers from Water and Fuel.,
-3524,Polymer Factory,
+3524,Палімерны Завод,
 3522,Machine Parts Factory,
 3523,Electronics Factory,
 5307,Extracts Water from underground deposits. All extractors contaminate nearby buildings with dust.,
 5160,Extracts Metals from underground deposits. All extractors contaminate nearby buildings with dust.,
-3527,Metals Extractor,
+3527,Экстрактар Металаў,
 5034,Extracts sulfurous rich regolith from Concrete deposits and produces Concrete. All extractors contaminate nearby buildings with dust.,
 5224,Extracts Rare Metals from underground deposits. All extractors contaminate nearby buildings with dust.,
 5007,Provides living space for Colonists. Cramped quarters grant less Comfort during rest.,
@@ -1824,7 +1824,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 - Buildings require upkeep less often
 - Bonus Tech: <em>Mars Nouveau</em> (building costs in Metals & Concrete are reduced by 20%)",
 5319,Inventor,
-5320,"- Drones are gradually optimized to work and construct faster until Sol 100
+5320,"- Drones are gradually optimized to work and construct faster until Сол 100
 - Bonus Tech: <em>Autonomous Hubs</em> (Drone Hubs no longer require Power or maintenance)",
 5321,Oligarch,
 5322,"- Fuel production increased by 25%
@@ -2086,7 +2086,7 @@ Hints can be turned on or off from the <em>Gameplay</em> menu in <em>Options</em
 5406,The core mechanics of <em>Surviving Mars</em> explained.,
 5404,Game Mechanics,
 5405,GAME MECHANICS,
-5408,"All buildings deteriorate over time. When a building's maintenance bar is filled a drone is dispatched to bring the required maintenance resource and service the building. If the resource is not supplied within a Sol the building will stop operating until the maintenance resource is delivered and the building serviced.
+5408,"All buildings deteriorate over time. When a building's maintenance bar is filled a drone is dispatched to bring the required maintenance resource and service the building. If the resource is not supplied within a Сол the building will stop operating until the maintenance resource is delivered and the building serviced.
 
 Martian dust and disasters contribute to the deterioration of buildings outside of Domes.
 
@@ -2141,7 +2141,7 @@ If a Dome is left without power it won't provide heating to Colonists and they m
 
 Food, which can initially be brought from Earth via <em>Rockets</em>, can be grown later on using <em>Farms, Hydroponic Farms</em>, and <em>Fungal Farms</em>. In contrast to Water and Oxygen, Food is not a grid resource and needs to be transported with Drones.",
 5414,"New technologies will unlock new <em> buildings, upgrades,</em> colonist <em>perks</em> and other benefits for the colony. Standard technologies are divided in five fields with different themes. Researching any technology will make a new technology within its field available for research. Some technologies have fixed positions in their fields, others have randomized positions.
-Individual technologies are researched by generating research points equal to their costs. The <em>mission sponsor</em> may provide a fixed amount of research point per Sol, but research buildings will be needed to discover the later, more advanced, technologies in a timely manner. Outsourcing research is another option granting a fixed amount of research for a certain period in exchange for <em>Funding</em>.
+Individual technologies are researched by generating research points equal to their costs. The <em>mission sponsor</em> may provide a fixed amount of research point per Сол, but research buildings will be needed to discover the later, more advanced, technologies in a timely manner. Outsourcing research is another option granting a fixed amount of research for a certain period in exchange for <em>Funding</em>.
 
 Analyzing <em>anomalies</em> with an <em>Explorer</em> vehicle may grant research points or make new technologies available for research.
 
@@ -2219,11 +2219,11 @@ The process is facilitated by Drones, which extract Waste Rock to lower the grou
 701672144364,"<grey>""Geez, all that money we waste on space exploration; just think how many bombs that would buy!""<newline><right>Craig Bruce</grey><left>",
 162703517673,Buildings never malfunction due to lack of maintenance. <NoAchievements()>,
 359360313200,Easy Maintenance,
-177740838839,Adds 3000 research points per Sol and reveals all technologies. <NoAchievements()>,
+177740838839,Adds 3000 research points per Сол and reveals all technologies. <NoAchievements()>,
 831225179496,Easy Research,
 12818,"<grey>""Nothing in life is to be feared; It is only to be understood.""
 <right>Marie Curie</grey><left>",
-888956787429,The first Universal Depot you place will automatically fill with resources each Sol. <NoAchievements()>,
+888956787429,The first Universal Depot you place will automatically fill with resources each Сол. <NoAchievements()>,
 999555336280,Endless Supply,
 572957738460,"<grey>""Make the workmanship surpass the materials.""
 <right>Ovid</grey><left>",
@@ -2353,7 +2353,7 @@ The process is facilitated by Drones, which extract Waste Rock to lower the grou
 248041410082,SpaceY,
 900140529348,Blue Sun Corporation,
 171811838507,Church of the New Ark,
-12230,"Research per Sol: <research(SponsorResearch)>
+12230,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - Large Rocket payload (<cargo> kg)
@@ -2362,12 +2362,12 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - Rockets synthesize Fuel
 - Start with a Self-Sufficient Dome prefab",
 897535536615,Easy,
-10281,"Research per Sol: <research(SponsorResearch)>
+10281,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - Large Rocket payload (<cargo> kg)
 - Periodic additional funding",
-5485,"Research per Sol: <research(SponsorResearch)>
+5485,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - Can buy Applicants with funding
@@ -2375,34 +2375,34 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - Probes can discover deep Rare Metal deposits
 - Bonus Tech: <em>Deep Metal Extraction</em> (can extract deep metals and deep rare metals deposits)",
 145918815635,Easy,
-5486,"Research per Sol: <research(SponsorResearch)>
+5486,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - Passenger Rockets carry 10 additional Colonists
 - Applicants are generated twice as fast",
-5487,"Research per Sol: <research(SponsorResearch)>
+5487,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - All building costs reduced by 20%
 - Bonus Tech: <em>Low-G Engineering</em> (unlocks Medium Dome)",
-5489,"Research per Sol: <research(SponsorResearch)>
+5489,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - 5 extra starting technologies
 - Gain Funding every time a tech is researched. Gain double if it's a Breakthrough tech",
-5491,"Research per Sol: <research(SponsorResearch)>
+5491,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - Drone Hubs start with additional Drones
 - 50% cheaper advanced resources",
-5494,"Research per Sol: <research(SponsorResearch)>
+5494,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - All Colonists have the Religious trait
 - Birthrate is doubled
 - Hydroponic Farms performance reduced by 50 <em>(drawback)</em>",
 255679011844,Hard,
-5492,"Research per Sol: <research(SponsorResearch)>
+5492,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - Bonus Tech: <em>Fueled Extractors</em> (extractor upgrade that boosts production but consumes Fuel)
@@ -2410,7 +2410,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - Fuel Refinery prefab costs <percent(50)> less
 - Rockets have extended travel time <em>(drawback)</em>",
 363312214750,Hard,
-5496,"Research per Sol: <research(SponsorResearch)>
+5496,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - Discover more Breakthrough Anomalies
@@ -2795,7 +2795,7 @@ Remember you can speed up time via the HUD buttons at the bottom left of the scr
 9153,Awaiting Rocket,
 9157,Use the Build Menu <ButtonY> to place a <em>Power Accumulator</em> and connect it to the existing Power grid.,
 9156,Use the Build Menu to place a <em>Power Accumulator</em> and connect it to the existing Power grid.,
-3529,Water Extractor,
+3529,Экстрактар Вады,
 9158,"Use the Build menu to construct a Water Extractor near the Water deposit, then Power it up.",
 9160,"From the Build Menu <ButtonY> construct a <em>Water Tower</em> and connect it with Pipes to the Water Extractor.
 
@@ -2845,7 +2845,7 @@ When you are ready use the ""Launch"" option to send the first colonists on thei
 2. <right_click> again if there already was a worker in the slot (first time fires the worker) until the slot is shown in red. ",
 9181,Open the Build Menu with <ButtonY> and construct a <em>Research Lab</em> inside the Dome.,
 9180,Construct a <em>Research Lab</em> inside the Dome.,
-5235,Research Lab,
+5235,Даследчая Лабараторыя,
 9183,"Activate the <em>Second Shift</em> for the Research Lab.
 
 Focus the Info Panel with <RT> first.",
@@ -2935,7 +2935,7 @@ Use <RT> to focus the Dome's Info Panel.",
 5593,Sponsor Funding,
 5606,A resupply Rocket has arrived in orbit,
 5605,Resupply Arrived,Resupply Arrived
-7037,We have a Resupply,
+7037,У нас Папаўненне запасаў,
 5608,The Space Elevator delivered goods from orbit,
 5607,Space Elevator Delivery,Space Elevator Delivery
 7038,We have a delivery on the Space Elevator,
@@ -2944,8 +2944,8 @@ Use <RT> to focus the Dome's Info Panel.",
 8472,Imminent impact on our coordinates.,
 8471,Orbital Bombardment detected!,
 8473,Missile Alert,
-5622,Выберыце тэхналогію да даследаваньня,
-7045,Няма актыўных даследаваньняў,
+5622,Выберыце тэхналогію да дасьледаваньня,
+7045,Няма актыўных дасьледаваньняў,
 5626,Fractures: <count>,
 5625,Fractures,
 5636,Domes without Oxygen: <count>,
@@ -3175,10 +3175,10 @@ This is quicker and more efficient than using the HUD button.",
 <hint><if(gamepad)>You can open the Resupply screen from the <LT> menu and order a new Rocket or Supply Pod with resources, buildings and vehicles from Earth.</if><if(kbmouse)>You can open the Resupply screen from the <em>HUD button</em> and order a new Rocket or Supply Pod with resources, buildings and vehicles from Earth.</if>
 
 <hint>Resupply missions can be used as long as you have Funding to order a payload from Earth. Supply Pods cost extra, but Rockets will require refueling for the return trip.",
-430535344144,Resupply,
+430535344144,Папаўненне запасаў,
 983388575800,Mission Control suggests that we order a Rocket or Supply Pod with valuable payload from Earth. We still need all the help we can get to survive the harsh environment of the Red Planet.,
 5755,Continue playing,
-5754,"Sol <day> of our mission will be remembered. Our greatest project to date has been completed – the Dome is ready to harbor the first Colonists on Mars. We, the team at Mission Control, are honored to be among the ones chosen to mark the beginning of a new age.
+5754,"Сол <day> of our mission will be remembered. Our greatest project to date has been completed – the Dome is ready to harbor the first Colonists on Mars. We, the team at Mission Control, are honored to be among the ones chosen to mark the beginning of a new age.
 
 We created a place for humanity to call home, a place which reminds us of Earth. The Dome seems so fragile, like a glittering snow globe resting among the red sands. This makes us wonder – will our future be just as fragile? Would we be able to leave our cradle and thrive on this cold, distant world?",
 5753,First Dome Constructed!,
@@ -3207,13 +3207,13 @@ The following buildings do not function during Dust Storms:
 
 Meteor Storms cannot be avoided but some good practices may minimize their damage potential, such as not clustering vital buildings next to each other, Pipe and Cable redundancy and researching the tech for MDS Lasers from the Physics field.",
 5620,Meteor Storm,
-10479,"A Cold Wave is imminent. While most of our machinery is designed and able to function in such low temperatures, if a building outside stops working for more than a Sol, it will freeze and may not be repaired until after the Cold Wave has lifted.
+10479,"A Cold Wave is imminent. While most of our machinery is designed and able to function in such low temperatures, if a building outside stops working for more than a Сол, it will freeze and may not be repaired until after the Cold Wave has lifted.
 
 Cold Waves put an extra strain on the electrical grid and buildings will consume more electricity. One way to negate the effects of a Cold Wave is to place Subsurface Heaters (researched from the Physics field) near vulnerable buildings.
 
 The following buildings will freeze during a Cold Wave:
 - Water Tanks
-- Outside buildings that are not operational for more than a Sol",
+- Outside buildings that are not operational for more than a Сол",
 768080004870,"Although this is a controlled operation, the exact impact locations are outside our control and may endanger our colony.
 ",
 195953271943,Capture Meteors,
@@ -3262,11 +3262,11 @@ Below and Beyond
 7130,Warning,
 5768,"Everyone at Mission Control is impatient to see the rocket touching down and unloading its precious cargo - our remotely controlled eyes and hands on the Red Planet - the drones and rovers. Our goal is to secure a foothold for humanity by building the first Martian Dome. This daunting endeavor will allow the brave pioneers - the Founders - to settle on Mars and prove that the colony is sustainable. But until then we have to make sure the colony has enough construction resources, Water, Oxygen and Power.
 
-Mission Sponsor: <em><sponsor_name></em>
+Фундатар Місіі: <em><sponsor_name></em>
 
-Commander Profile: <em><commander_name></em>
+Профіль Камандзіра: <em><commander_name></em>
 ",
-5767,"Welcome to Mars, Commander!",
+5767,"Вітаем на Марсе, Камандзір!",
 7828,Read the Terms of Use (opens a web browser),
 7829,Read the Privacy Policy (opens a web browser),
 7830,I agree to the Terms of Use and the Privacy Policy,
@@ -3633,7 +3633,7 @@ Let’s get started!
 
 <effect><TutorialDisabledAchievementsText()>",
 9227,IMM Training Simulation,
-7155,Welcome to Mars!,
+7155,Вітаем на Марсе!,
 9231,<goal>Zoom in towards the suggested landing site.,
 5497,Camera Controls,
 9230,You need to master the camera controls and familiarize yourself with the terrain around the prospective colony site.,
@@ -3655,7 +3655,7 @@ Gathering basic resources for building construction is one of the first things o
 9242,"The Concrete Extractor building must be placed over or within proximity of a Concrete deposit.
 
 <goal>From the build menu, select to build a Concrete Extractor and place it at the proposed location.",
-5032,Concrete Extractor,
+5032,Экстрактар Бетонну,
 9241,"Along with Metals, Concrete is the other vital basic construction resource.",
 9245,"Buildings are constructed by Drones. If you place a building outside the Drones' work range it won't be constructed. When placing buildings, make sure that those buildings are within range of drone controllers like the Rocket, Drone Hubs or RC Commanders.
 
@@ -3773,7 +3773,7 @@ Anomalies often provide bonuses to research, such as unlocking new technologies 
 9296,This is the Research screen. From here you can choose and queue techs for Research.,
 9756,"Each tech has a cost in Research Points which are generated in various ways. Your sponsor provides some Research Points to start with. Once colonists arrive you will be able to construct Research Labs which generate Research Points faster.
 
-You can view a breakdown of the Research Points generated per Sol on the right side of the Research screen.
+You can view a breakdown of the Research Points generated per Сол on the right side of the Research screen.
 
 <goal>Close the Research screen to complete this tutorial. ",
 9300,"Play Next Tutorial - ""Power, Water & Maintenance""",
@@ -4581,7 +4581,7 @@ By the way, the sponsor HQ dubbed the Object Dredger and they require us to main
 6002,Finally!,
 6003,The ban on interplanetary flights was lifted. We can now request help from Earth.,
 6004,The Dredgers: Hands Full,
-7466,"Sol after Sol, our scientists worked their fingers to the bone trying to find a solution to our incoming Dredger problem. No such luck.",
+7466,"Сол after Сол, our scientists worked their fingers to the bone trying to find a solution to our incoming Dredger problem. No such luck.",
 6005,"The problem is the lack of information – so far, we know very little about the nature of the Dredgers. To us they appear as inscrutable as natural events were to our forefathers. The science team requests more data on the objects and, if possible, a closer inspection of several different targets.
 
 <effect>New Research available: Dredger Morphology
@@ -6005,34 +6005,34 @@ To them I have to say: the world is moving on. Try as you might, you have only s
 960724987608,Research <param1> Breakthrough technologies,
 655611441668,Research <param1> <param2> technologies,
 555751287934,Research <param1> technologies,
-187481407346,Construct a Dome by the end of Sol <param1>,
+187481407346,Construct a Dome by the end of Сол <param1>,
 164286480196,Convert <param1> Waste Rock to useful materials,
 141555589306,Deep scan <param1> Sectors,
-842272011718,Deplete <param1> underground Deposits by Sol <param2>,
+842272011718,Deplete <param1> underground Deposits by Сол <param2>,
 541471610030,Discover <param1> underground Deposits,
 733600960133,Have a Dome with more than <param1> Colonists,
 691160612158,Have <param1> Domes with Spires,
 625462310436,Export <funding(param1)> worth of Rare Metals,
-818037974162,Export <param1> Rare Metals by the end of Sol <param2>,
+818037974162,Export <param1> Rare Metals by the end of Сол <param2>,
 618829033661,Have <param1> Extractors working at <param2> Performance,
 782556327763,Have <param1> Founders at <param2> Comfort,
-616145140930,Generate <research(param1)> per Sol,
+616145140930,Generate <research(param1)> per Сол,
 852428145709,Generate <funding(param1)>,
 486938222863,Generate <funding(param1)> within <param2> Sols,
 651961761276,Generate <power(param1)>,
 627638836229,Have a Dome connected to <param1> other Domes,
-347382462924,Land a Colonist on Mars by Sol <param1>,
+347382462924,Land a Colonist on Mars by Сол <param1>,
 222780100659,Have <param1> Martianborn Colonists,
 155985857436,Have <param1> Martianborn specialists,
 166463872760,Have <param1> Martianborn <param2>,
-796650385521,Have <param1> Martianborn Colonists by the end of Sol <param2>,
+796650385521,Have <param1> Martianborn Colonists by the end of Сол <param2>,
 133445615586,Have <param1> <param2>,
 412460165603,"Build a Machine Parts Factory, a Polymer Factory and an Electronics Factory",
 150467907921,Produce <param1> advanced resources,
 695856253366,Produce <param1> <param2>,
-687648534870,Produce <param1> <param2> in a single Sol,
+687648534870,Produce <param1> <param2> in a single Сол,
 205028046460,Extract <param1> <param2> from an underground deposit,
-867818526841,Refuel a rocket the same Sol it lands,
+867818526841,Refuel a rocket the same Сол it lands,
 196634243926,Construct a <param1>,
 572604186609,"Have a <param1>, <param2> <param3>",
 925006846011,Spend <funding(param1)> Funding,
@@ -7253,7 +7253,7 @@ It has been an honor, Commander.
 115114777460,"all Colonists get Morale boost, research from Earth suspended for <sols(small_timeframe)> Sols",
 806151591322,"We’ll watch the games, alright – but with holograms! ",
 976120687786,"Colonists get large Morale boost, research from Earth suspended for <sols(big_timeframe)> Sols",
-687327488485,It looks like our weather predictions were a little off. The Cold Wave will probably last a Sol more than we previously thought.,
+687327488485,It looks like our weather predictions were a little off. The Cold Wave will probably last a Сол more than we previously thought.,
 123102472982,Long Winter,
 839881602984,"As you sip your hot Earl Gray tea, a weather update comes up on your monitor.",
 944660397278,Our first priority is to make sure our power generation is in working order.,
@@ -7465,7 +7465,7 @@ The list he gives you is impressive, and so easy to implement. As he handles it 
 
 <effect>Comfort in all residences improved by <happinesscomfort>",
 120794956328,Knowledge.,
-528223058737,<research(knowledgeresearch)> per Sol,
+528223058737,<research(knowledgeresearch)> per Сол,
 11050,"""Yes, it’s unorthodox, but so is the mystery of science, is it not?"" Then he leaves without a trace.
 
 The Scientists are puzzled with his suggestions, but when they test run the new method, it provides astonishing results.
@@ -7488,7 +7488,7 @@ The list he gives you is impressive, and so easy to implement.
 
 <effect>Comfort in all residences improved by <happinesscomfort>",
 875253584085,Knowledge.,
-426181959367,<research(knowledgeresearch)> per Sol,
+426181959367,<research(knowledgeresearch)> per Сол,
 337766628296,"""Great choice! Here’s how to improve your analytical methods.""",
 272738533394,"""Yes, it’s unorthodox, but so is the mystery of science, is it not?""
 
@@ -7622,10 +7622,10 @@ You remember that the Genius <DisplayName> had your special dispensation to stay
 <effect>Micro Fusion tech has been unlocked and its cost has been reduced by 50%.",
 494786709599,"A colonist bursts into your office. ""Eureka! I've got it!""",
 784882052902,"Small groups of people talk and laugh, while others dance to the groovy music. Someone sees you and the music stops abruptly. Everyone is looking slightly guilty.",
-683841873799,Party!,
+683841873799,Вечарынка!,
 949723673521,The door of the command room opens and you’re hit by the loud noise. A party!,
 446442320434,I expect the maintenance and efficiency reports on my desk by 11:00 local time.,
-139200594944,Party!,
+139200594944,Вечарынка!,
 827831603659,"Recreation is important, but duties, especially the duties of Mission Control, must never be forgotten.",
 315003773008,"Under your harsh gaze, the team cleans up the control room and attend their action stations. You take your seat – there’s work to do.
 
@@ -7641,13 +7641,13 @@ You remember that the Genius <DisplayName> had your special dispensation to stay
 
 <effect>+<comfort_bonus> Comfort for all Colonists",
 752382845123,The secret booze stash is in this locker.,
-250328973952,Party!,
+250328973952,Вечарынка!,
 921949943478,"You have to admit, your team needed to vent off some steam.",
 199287635635,"You join the argument of the Engineers about some nuts and bolts, then discuss the hilariously-crafted fake hypothesis of the Scientists and even taste some of the allegedly ""hangover-free"" moonshine of the Botanists. Who knows, there might be a grain of truth there - next morning you wake up with a smile and a light heart.
 
 <effect>+<comfort_bonus> Comfort for all Colonists",
-786481891870,How unprofessional! You call this dancing? Let me show you!,
-877213074013,Party!,
+786481891870,Дылетант! Вы клічыцце гэта танцамі? Глядзіце як трэба!,
+877213074013,Вечарынка!,
 810989908988,You couldn’t remember the last time you had so much fun!,
 441726918291,"And to be honest, when you wake up in the morning, you couldn’t remember what you did at the party last night. You take the headache as a positive sign while you’re trying to reach your action station. People that see you in the corridors give you warm smiles.
 
@@ -8806,7 +8806,7 @@ The kid's parents held an impromptu wake for the fallen hero.",
 6585,Martian Steel,
 6587,"Moisture Vaporator Upgrade (<em>Vector Pump</em>) - Water production increased by 100%.
 
-<grey>A new atmosphere pump design that doubles the volume of air processed by our Vaporators in a single Sol.</grey>",
+<grey>A new atmosphere pump design that doubles the volume of air processed by our Vaporators in a single Сол.</grey>",
 5171,Vector Pump,
 6588,"Fungal Farm Upgrade (<em>Superfungus</em>) - Increases production while increasing Oxygen consumption.
 
@@ -8852,7 +8852,7 @@ The kid's parents held an impromptu wake for the fallen hero.",
 <grey>""Clones can think creatively. You will find that they are immensely superior to drones.""
 <right>Unnamed Martian Scientist</grey><left>",
 7915,Cloning,
-7918,"<em>Domes</em> restore Sanity to their inhabitants every Sol.
+7918,"<em>Domes</em> restore Sanity to their inhabitants every Сол.
 
 <grey>Who knew that emitting a low level vibration could affect the human psyche in such a way?</grey>",
 7917,Good Vibrations,
@@ -9020,7 +9020,7 @@ New Building: <em>Large Nursery</em> (<buildinginfo('LargeNurseryCCP1')>) - A la
 <grey>""Live long and prosper""
 <right>Vulcan Salute</grey><left>",
 6353,Stem Reconstruction,
-6356,"New Wonder: <em>Geoscape Dome</em> (<buildinginfo('GeoscapeDome')>)  - A slice of Earth on Mars, this Dome has high Comfort and increases the Sanity of its inhabitants on every Sol.
+6356,"New Wonder: <em>Geoscape Dome</em> (<buildinginfo('GeoscapeDome')>)  - A slice of Earth on Mars, this Dome has high Comfort and increases the Sanity of its inhabitants on every Сол.
 
 <grey>""It's a fixer-upper of a planet but we could make it work."" 
 <right>Elon Musk</grey><left>",
@@ -9258,7 +9258,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 
 <grey>Drones being the backbone for most of the heavy and dangerous labor on Mars, it is essential our Hubs have greater operating capacity in order to employ more Drones at any given time.</grey>",
 6403,Drone Swarm,
-6426,"Generate <research(param1)> per Sol for each <em>RC Explorer</em> vehicle. Multiple vehicles result in collaboration losses.
+6426,"Generate <research(param1)> per Сол for each <em>RC Explorer</em> vehicle. Multiple vehicles result in collaboration losses.
 
 <grey>AI specifically tailored for our Explorers will think for itself, gathering only the data they have deemed could be of interest. The above will greatly contribute to our research initiatives.</grey>",
 6425,Explorer AI,
@@ -9682,8 +9682,8 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 11723,<n>%,<n>%
 12199,<n>.<d1>%,<n>.<d1>%
 11724,<n>.<d1><d2>%,<n>.<d1><d2>%
-12553,"From <building> <right><resource(sum, res)> per Sol<newline><left>",
-12554,"<name><right><resource(value,res)> per Sol<newline><left>",
+12553,"From <building> <right><resource(sum, res)> per Сол<newline><left>",
+12554,"<name><right><resource(value,res)> per Сол<newline><left>",
 12555,<name><right><value><newline><left>,<name><right><value><newline><left>
 12617,"Represents the average value of the four terraforming parameters. Gradual changes will accrue over time. Drastic changes will occur upon reaching specific thresholds:
 ",
@@ -9704,8 +9704,8 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 12632,"<color_tag>Wild vegetation boom</color><right><tp_threshold('VegetationBoom3', true, true)>",
 12575,Show historical data for <terraforming_param>,
 12472,<graph_right><param> Progress <em>(<progress>)</em></graph_right>,
-12473,<graph_left>Produced</graph_left> <em>(<produced>)</em> and <graph_right>Lost</graph_right> <em>(<loss>)</em> (per Sol),
-12474,<graph_right>Produced</graph_right> <em>(<produced>)</em> (per Sol),
+12473,<graph_left>Produced</graph_left> <em>(<produced>)</em> and <graph_right>Lost</graph_right> <em>(<loss>)</em> (per Сол),
+12474,<graph_right>Produced</graph_right> <em>(<produced>)</em> (per Сол),
 12025,Toxic Pool,
 12026,Toxic Pools,
 12027,Lowers Soil Quality and kills vegetation.,
@@ -9715,8 +9715,8 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 169527629741,Vegetation growth times are modified by this number.,
 821622645169,Vegetation Growth Multiplier,
 526462328425,Magnetic shield Decay Reduct (%),
-688497586064,Max Atmosphere Decay Per Sol (%),
-429699021494,Min Atmosphere Decay Per Sol (%),
+688497586064,Max Atmosphere Decay Per Сол (%),
+429699021494,Min Atmosphere Decay Per Сол (%),
 436795011549,Open Dome Cost Reduction (%),
 720547470017,Open Dome Electricity Reduction (%),
 12321,Open Dome Inside Buildings Maintenance Increase (%),
@@ -9791,7 +9791,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 656496435467,+<upgrade1_mul_value_1>% more reduction; +<power(upgrade1_add_value_2)> Consumption.,
 337421482752,Magnetic Field Generator,
 747648281692,Magnetic Field Generators,
-832863675408,"Improves the magnetic field of the planet, decreasing the loss of Atmosphere by <resource(decay_atmosphere_reduct,'AtmosphereTP')> per Sol. Generates Research proportionally to the current Atmosphere. May trigger localized Marsquakes.",
+832863675408,"Improves the magnetic field of the planet, decreasing the loss of Atmosphere by <resource(decay_atmosphere_reduct,'AtmosphereTP')> per Сол. Generates Research proportionally to the current Atmosphere. May trigger localized Marsquakes.",
 5016,<GetColonistCount><icon_Colonist_small>,
 271257655554,Capital City,
 578494315832,Capital Cities,
@@ -9927,7 +9927,7 @@ All Special Projects concerning the Terraforming of Mars are colored in <green>G
 869824443032,<new_in('armstrong')>100% Vegetation terraforming,
 392743248058,Terraforming Initiative,
 918911922572,Terraforming Initiative,
-617023679873,"Research per Sol: <research(SponsorResearch)>
+617023679873,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - All Terraforming techs are 50% cheaper for research
@@ -9935,7 +9935,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - Can import RC Dozers from start
 - Bonus Tech: <em>Martian Vegetation</em> (unlocks Forestation Plant)
 - Bonus Tech: <em>Interplanetary Projects</em> (unlocks terraforming special projects)",
-12201,Your attention is required!,
+12201,Патрабуецца ваша ўвага!,
 650478062117,Planet Habitable,
 281399772465,Blue skies!,
 583751457449,Atmosphere Cleared,
@@ -10227,7 +10227,7 @@ A Marsquake has just started.",
 11951,Send a rocket to spread Cold-Resistant Bacteria on the surface of Mars.,
 748190004329,"<resource(terr_veg,'VegetationTP')>","<resource(terr_veg,'VegetationTP')>"
 560607733756,Repurpose our Moisture Vaporators and use them to spread Elsa. Big summer blowout!,
-289155162375,"postpone for 1 Sol and gain <resource(terr_veg_small,'VegetationTP')> for each working Moisture Vaporator",
+289155162375,"postpone for 1 Сол and gain <resource(terr_veg_small,'VegetationTP')> for each working Moisture Vaporator",
 244723611684,We can manage without Elsa. The cold never bothered me anyway.,
 899111607929,do nothing,
 188842842575,"Elsa, the new species of Cold-Resistant Bacteria, has been spread on the surface of Mars and it quickly adapted to the environment.
@@ -10420,7 +10420,7 @@ The problem is, someone has spread a rumor that this bacteria causes respiratory
 11969,Send a Geologist team to deliver Iron-Oxidizing Bacteria to the underground water system of Mars.,
 751890162327,"<resource(terr_atmo_big,'AtmosphereTP')>  <resource(terr_veg,'VegetationTP')>","<resource(terr_atmo_big,'AtmosphereTP')>  <resource(terr_veg,'VegetationTP')>"
 517528466912,Ignore their concerns and use our Water Extractors to distribute the bacteria.,
-174379095587,"postpone for 1 Sol and gain <resource(terr_atmo,'AtmosphereTP')> and <resource(terr_veg,'VegetationTP')> per Water Extractor",
+174379095587,"postpone for 1 Сол and gain <resource(terr_atmo,'AtmosphereTP')> and <resource(terr_veg,'VegetationTP')> per Water Extractor",
 403266441874,We will never endanger the health of our colonists!,
 254895734929,do nothing,
 985278121906,"The rocket returned after successfully spreading Iron-oxidizing Bacteria in the ferric oxide rich waters of the Red Planet.
@@ -10509,7 +10509,7 @@ The big question remains - who found any use for nails in outer space? And who w
 12206,I'm still waiting for the hammer to fall.,
 359578501216,"Orbital control has warned you about a giant ball of garbage heading to our location. It looks like it has formed in our orbit, but that cannot explain the traces of organic matter. Some jokingly speculate it was launched from Earth as a desperate attempt to get rid of their own junk.
 
-<effect>A Meteor Storm is on its way. You have 1 Sol to prepare and build more MDS Lasers to protect the colony.",
+<effect>A Meteor Storm is on its way. You have 1 Сол to prepare and build more MDS Lasers to protect the colony.",
 12207,Junk in Space: It's Raining Junk,
 571515760787,Space garbage... I think I can almost smell it from here.,
 12208,all Engineers lose some Morale,
@@ -10540,7 +10540,7 @@ We don't have the resources to do both.",
 202904821027,"Go on, spread it on Mars!",
 138332924409,unknown consequences,
 258057258870,Let's make some money of it. Patent it and sell it to Earth.,
-239797746195,"gain <funding(funding_gain)> in 1 Sol, unknown consequences",
+239797746195,"gain <funding(funding_gain)> in 1 Сол, unknown consequences",
 387601595177,Sounds too good to be true. We may need further research before we delve deeper.,
 415362818245,unlock further Research,
 745217428380,"On second thought, we'd rather drop this project.",
@@ -10818,9 +10818,9 @@ Damn scientists and their sense of humor. Under what name would you announce the
 791781400249,all Enthusiast Colonists gain Morale,
 547483711425,Call it Moses Seasplitter.,
 465380810193,all Religious Colonists gain Morale,
-530731757775,"It will be within shooting range of our MDS Lasers in 1 Sol. We can destroy them to trigger a shower of ice crystals and meteorites to the planetary surface.
+530731757775,"It will be within shooting range of our MDS Lasers in 1 Сол. We can destroy them to trigger a shower of ice crystals and meteorites to the planetary surface.
 
-<effect>You have 1 Sol to place additional MDS Lasers in order to intercept some of the meteorites.",
+<effect>You have 1 Сол to place additional MDS Lasers in order to intercept some of the meteorites.",
 450067050213,Shooting Stars,
 260716786164,We have located a large ice meteorite cluster which will fly nearby.,
 110298636393,"The meteorites which we manage to shoot will explode in debris fallout and enrich the Martian atmosphere with evaporated water and gases. On the other hand, they will probably cause some damage.",
@@ -11104,13 +11104,13 @@ With a closer look, you observe scores of creatures which crawl, swim and jump i
 11914,Resilient Vegetation,
 267024544181,"Genetically engineer a species of a shrimp which can benefit from Mars' low gravity and gain the ability to crawl and jump to the nearest water source on its own. Gain <resource(3000,'VegetationTP')>.",
 947528683676,Low-G Shrimp GMO,
-878909532079,"Fuel Refineries consume 50% more Water and produce 10% more Fuel, contributing to planetary Atmosphere by <resource(15,'AtmosphereTP')> per Sol for every working Fuel Refinery.",
+878909532079,"Fuel Refineries consume 50% more Water and produce 10% more Fuel, contributing to planetary Atmosphere by <resource(15,'AtmosphereTP')> per Сол for every working Fuel Refinery.",
 850242285234,Overloaded Fuel Refineries,
-674562544731,"Fuel Refineries consume 100% more Water and produce 25% more Fuel, contributing to planetary Atmosphere by <resource(30,'AtmosphereTP')> per Sol for every working Fuel Refinery.",
+674562544731,"Fuel Refineries consume 100% more Water and produce 25% more Fuel, contributing to planetary Atmosphere by <resource(30,'AtmosphereTP')> per Сол for every working Fuel Refinery.",
 441346450001,Advanced Overloaded Fuel Refineries,
-221257334288,"Shuttle Hubs consume 50% more Fuel and Shuttles move 10% faster, contributing to planetary Temperature by <resource(5,'TemperatureTP')> per Sol for every Shuttle in flight.",
+221257334288,"Shuttle Hubs consume 50% more Fuel and Shuttles move 10% faster, contributing to planetary Temperature by <resource(5,'TemperatureTP')> per Сол for every Shuttle in flight.",
 11984,Shuttle Afterburners,
-219844242465,"Shuttle Hubs consume 100% more Fuel and Shuttles move 25% faster, contributing to planetary Temperature by <resource(10,'TemperatureTP')> per Sol for every Shuttle in flight.",
+219844242465,"Shuttle Hubs consume 100% more Fuel and Shuttles move 25% faster, contributing to planetary Temperature by <resource(10,'TemperatureTP')> per Сол for every Shuttle in flight.",
 934533477240,Advanced Shuttle Afterburners,
 720433055573,"Research the life improving formula discovered by one of our colonists and verify its presumed qualities. 
 As a side effect, one may expect a 5% boost in the field of Biotech.",
@@ -11266,9 +11266,9 @@ New Building: <em>Forestation Plant</em> (<buildinginfo('ForestationPlant')>) - 
 12564,Terraforming Progress,
 11938,<left>Water Level <right><percent(WaterLevelPct)>,
 11939,Water Level<right><percent(WaterLevelPct)>,
-454408997924,"Contributes to the currently selected research project: <em><UIResearchProject></em>. The following stats are summary of the predicted Research production for the current Sol.
+454408997924,"Contributes to the currently selected research project: <em><UIResearchProject></em>. The following stats are summary of the predicted Research production for the current Сол.
 
-<left>Research per Sol<right><research(EstimatedDailyProduction)>
+<left>Research per Сол<right><research(EstimatedDailyProduction)>
 
 <left>Lifetime research<right><research(research_points_lifetime)>",
 457465350192,"Summary of the base terraforming effect of this building and the expected effect of all similar buildings. As long as this building is supplied with the required resources and working, it will gradually change one of the planetary parameters: Atmosphere, Temperature, Water or Vegetation.",
@@ -11277,7 +11277,7 @@ New Building: <em>Forestation Plant</em> (<buildinginfo('ForestationPlant')>) - 
 923951282236,"Current progress<right><resource(TerraformingProgress,ParameterInfoPanelIconName)>",
 12348,"As the Martian atmosphere increasingly thickens, more and more of it gets lost due to the lack of a magnetic field. Stationary Magnetic Field Generators and Magnetic Shields launched into orbit reduce this loss of Atmosphere.",
 582044802953,Terraforming Progress,
-12349,"Reduction per Sol<right><resource(decay_atmosphere_reduct,'AtmosphereTP')>",
+12349,"Reduction per Сол<right><resource(decay_atmosphere_reduct,'AtmosphereTP')>",
 12350,"Reduction from all buildings<right><resource(AtmosphereLossReductionSum,'AtmosphereTP')>",
 12351,"Current loss of atmosphere<right><resource(GetSolAtmosphereDecay,'AtmosphereTP')>",
 642715972231,Display visual representation of the underlying Soil Quality.,
@@ -11756,7 +11756,7 @@ This technological challenge to take advantage of what little wind there is on M
 11073,Good,
 11074,Excellent,
 11538,<standing> (<clamped_number>),<standing> (<clamped_number>)
-11193,Sol <sol>: <white><action></white>,
+11193,Сол <sol>: <white><action></white>,
 11087,"<resource(number,resource)>","<resource(number,resource)>"
 11088,"The following Rival Colonies have decided to help us:
 <list>",
@@ -11795,36 +11795,36 @@ This technological challenge to take advantage of what little wind there is on M
 743485382043,Threshold for RIval AI neutral standing,
 932206406649,Rival's standing reduction when not sending aid,
 10145,Workers in Corporate Offices receive Comfort penalty,
-10167,Played as USA and had a Geoscape Dome with a Megamall before Sol 100,
+10167,Played as USA and had a Geoscape Dome with a Megamall before Сол 100,
 10166,Space Shopping,
-10168,Play as USA and have a Geoscape Dome with a Megamall before Sol 100,
-10170,Played as China and had Tai-chi Gardens in 10 Domes before Sol 100,
+10168,Play as USA and have a Geoscape Dome with a Megamall before Сол 100,
+10170,Played as China and had Tai-chi Gardens in 10 Domes before Сол 100,
 10169,Tao,
-10171,Play as China and have Tai-chi Gardens in 10 Domes before Sol 100,
-10173,"Played as Blue Sun Corporation and produced $100,000 M Funding before Sol 100",
+10171,Play as China and have Tai-chi Gardens in 10 Domes before Сол 100,
+10173,"Played as Blue Sun Corporation and produced $100,000 M Funding before Сол 100",
 10172,Space Capitalism,
-10174,"Play as Blue Sun Corporation and produce $100,000 M Funding before Sol 100",
-10176,"Played as Europe and reached daily production of 10,000 Research before Sol 100",
+10174,"Play as Blue Sun Corporation and produce $100,000 M Funding before Сол 100",
+10176,"Played as Europe and reached daily production of 10,000 Research before Сол 100",
 10175,Europa Universalis,
-10177,"Play as Europe and reach daily production of 10,000 Research before Sol 100",
-10179,Played as India and converted 3000 Waste Rock to useful materials before Sol 100,
+10177,"Play as Europe and reach daily production of 10,000 Research before Сол 100",
+10179,Played as India and converted 3000 Waste Rock to useful materials before Сол 100,
 10178,"Waste Not, Want Not",
-10180,Play as India and convert 3000 Waste Rock to useful materials before Sol 100,
+10180,Play as India and convert 3000 Waste Rock to useful materials before Сол 100,
 10182,Played as SpaceY and complete all Sponsor Goals on challenge rating 500% or higher,
 10181,The Pace of Progress,
 10183,Play as SpaceY and complete all Sponsor Goals on challenge rating 500% or higher,
 10185,Played as Russia and had 500 colonists on challenge rating 500% or higher,
 10184,"No Pain, No Gain",
 10186,Play as Russia and have 500 colonists on challenge rating 500% or higher,
-10188,Played as Church of the new Ark and had 250 Colonists at 70+ Comfort before Sol 100,
+10188,Played as Church of the new Ark and had 250 Colonists at 70+ Comfort before Сол 100,
 10187,The Garden of Eden,
-10189,Play as Church of the new Ark and have 250 Colonists at 70+ Comfort before Sol 100,
-10191,Played as Japan and trained 200 specialists before Sol 100,
+10189,Play as Church of the new Ark and have 250 Colonists at 70+ Comfort before Сол 100,
+10191,Played as Japan and trained 200 specialists before Сол 100,
 10190,Bushido,
-10192,Play as Japan and train 200 specialists before Sol 100,
-10194,Played as Brazil and converted 2000 Waste Rock to Rare Metals before Sol 100,
+10192,Play as Japan and train 200 specialists before Сол 100,
+10194,Played as Brazil and converted 2000 Waste Rock to Rare Metals before Сол 100,
 10193,Gold Rush,
-10195,Play as Brazil and convert 2000 Waste Rock to Rare Metals before Sol 100,
+10195,Play as Brazil and convert 2000 Waste Rock to Rare Metals before Сол 100,
 5020,Service Bots,
 5021,This building no longer requires Workers and operates at <upgrade1_add_value_2> Performance.,
 10256,Mega Malls,
@@ -12186,7 +12186,7 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 256458010861,Brazil,
 758823386664,Very Easy,
 7021,International Mars Mission,
-12249,"Research per Sol: <research(SponsorResearch)>
+12249,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - <em>Zeus Rocket</em> - increased rocket payload (<cargo> kg)
@@ -12197,7 +12197,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - Start with a Self-Sufficient Dome prefab",
 7023,Recommended for first-time players,
 972378802790,Easy,
-5483,"Research per Sol: <research(SponsorResearch)>
+5483,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - <em>Zeus Rocket</em> - increased rocket payload (<cargo> kg)
@@ -12205,7 +12205,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - <em>Megamall</em> - service building that satisfies most interests
 - Periodic additional funding",
 5484,Blue Sun Corporation,
-342032143352,"Research per Sol: <research(SponsorResearch)>
+342032143352,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - <em>RC Harvester</em> - transporter rover that can harvest concrete from regolith deposits
@@ -12215,14 +12215,14 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - Probes can discover deep Rare Metal deposits
 - Bonus Tech: <em>Deep Metal Extraction</em> (can extract deep metals and deep rare metals deposits)",
 882785319134,Easy,
-172009611331,"Research per Sol: <research(SponsorResearch)>
+172009611331,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - <em>RC Generator</em> - RC Commander that can generate power as a solar panel
 - <em>Tai-chi Garden</em> - small exercising garden, visitors recover small amounts of Health and may become Fit
 - Passenger Rockets carry 10 additional Colonists
 - Applicants are generated twice as fast",
-972853819891,"Research per Sol: <research(SponsorResearch)>
+972853819891,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - <em>RC Constructor</em> - transporter rover that can construct buildings
@@ -12230,7 +12230,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - All building costs reduced by 20%
 - Bonus Tech: <em>Low-G Engineering</em> (unlocks Medium Dome)",
 5488,Europe,
-938808160214,"Research per Sol: <research(SponsorResearch)>
+938808160214,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - <em>RC Seeker</em> - RC Commander that works as a sensor tower when stationary
@@ -12238,7 +12238,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - 5 extra starting technologies
 - Gain Funding every time a tech is researched. Gain double if it's a Breakthrough tech",
 5490,SpaceY,
-880574954148,"Research per Sol: <research(SponsorResearch)>
+880574954148,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - <em>Dragon Rocket</em> - has smaller cargo capacity (<cargo>) but is faster and requires less fuel
@@ -12246,7 +12246,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - Drone Hubs start with additional Drones
 - 50% cheaper advanced resources",
 454832892339,Brazil,
-236069435611,"Research per Sol: <research(SponsorResearch)>
+236069435611,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - <em>Large Supply Pod</em> - special supply pod that can carry more cargo
@@ -12256,7 +12256,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - Colonists suffer no penalties when using passages to work or visit connected domes
 - 5 free Large Supply Pods",
 5493,Church of the New Ark,
-725449809291,"Research per Sol: <research(SponsorResearch)>
+725449809291,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - <em>Ark Pod</em> - a supply pod that can carry passengers
@@ -12264,7 +12264,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - All Colonists have the Religious trait
 - Birthrate is doubled
 - Hydroponic Farms performance reduced by 50 <em>(drawback)</em>",
-894959418798,"Research per Sol: <research(SponsorResearch)>
+894959418798,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - <em>RC Driller</em> - a special rover that can extract resources from underground deposits but wastes some of the deposit
@@ -12275,7 +12275,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - Rockets have extended travel time <em>(drawback)</em>",
 574527829385,Hard,
 5495,Paradox Interactive,
-651537811106,"Research per Sol: <research(SponsorResearch)>
+651537811106,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - <em>Jumper Shuttle</em> - faster shuttles that use parabolic trajectories
@@ -12285,7 +12285,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - Rockets require more fuel to launch <em>(drawback)</em>",
 756371553955,Hard,
 794934094417,Japan,
-420248056524,"Research per Sol: <research(SponsorResearch)>
+420248056524,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - <em>Wasp Drone</em> - faster, flying drone
@@ -12456,10 +12456,10 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 11546,<NegotiationsContactTitle>,<NegotiationsContactTitle>
 495316409698,"<rival_colony> is no longer offering <resource(number2, res2)> for <resource(number1, res1)>",
 869467608381,Closed Trade Route,
-886793501620,<rival_name> has nearly completed a Milestone,
-901784464065,Rumor,
+886793501620,<rival_name> амаль дасягнуў Вяху,
+901784464065,Чутка,
 195350756558,<rival_name> will scan a Planetary Anomaly in <countdown>,
-752757193902,Rumor,
+752757193902,Чутка,
 973361405652,Officers caught by <sponsor_name>: <colonist(number)>,
 426005553209,The rocket and its entire crew were seized by <rival>,
 391391566838,Failed Covert Op,
@@ -13069,7 +13069,7 @@ Just a word of caution, in these competitive times, trickery and acts of sabotag
 768331944087,The Mysterious Rocket,
 700971864695,A mystery Rocket has entered orbit and is signaling readiness to make touchdown.,
 193876362971,There may be helpless crew members onboard. Land the rocket immediately! ,
-546824435598,Observe the Rocket for a Sol or two and land it afterwards.,
+546824435598,Observe the Rocket for a Сол or two and land it afterwards.,
 544417467170,Remember Homer’s Iliad? We are not falling for this old trick. Ignore it.,
 616723366874,"The Rocket had ten passengers on board - all pronounced dead upon examination. 
 
@@ -13152,7 +13152,7 @@ You sit at your desk, staring blankly at the wall. If only you had believed them
 588912591373,"Yet, our scientists are still here. Acting embarrassed, they say they no longer feel threatened. Maybe whoever was planning the abduction has changed their mind?
 
 We may never know.",
-714916134412,The two Sol window the scientists were worried about has passed and our security upgrade measures are incomplete.,
+714916134412,The two Сол window the scientists were worried about has passed and our security upgrade measures are incomplete.,
 179996108672,"A Research Lab has been raided by unknown forces, that left a trail of dead colonists behind them. Surveillance footage goes black right at the time of the act and there are virtually no traces left behind. How they entered, or left the Dome remains a complete and utter mystery.
 
 <effect><deathcount> Colonists were killed by rival spies.",
@@ -13213,7 +13213,7 @@ Commander, there is one other thing. Agent Sanders is nowhere to be found. Her r
 133476740352,"Welcome to your new home, agent Sanders. You are a hero!",
 439291374863,"Agent Trish Sanders evaluates she is well in the clear and hasn't attracted any suspicion.
 
-Meanwhile, a new opportunity directly presented itself - two large cargo deliveries are planned to happen the next week, with a 3 Sol gap between them.
+Meanwhile, a new opportunity directly presented itself - two large cargo deliveries are planned to happen the next week, with a 3 Сол gap between them.
 
 Agent Sanders has gained access to their landing guidance software and can reroute one of the deliveries and make it look like a malfunction. Some preparation is required. The hastier the operation - the bigger the risk.
 
@@ -13369,7 +13369,7 @@ We can blatantly steal their cargo, but we certainly won't be able to feign igno
 11093,TRADE,
 375830037565,Distress Call,
 11094,DISTRESS CALL,
-11206,You can't broadcast new distress calls<newline>until Sol <sol>,
+11206,You can't broadcast new distress calls<newline>until Сол <sol>,
 276853084179,Contact,
 104264997596,CONTACT,
 866157818822,COVERT OPS,
@@ -13378,10 +13378,10 @@ We can blatantly steal their cargo, but we certainly won't be able to feign igno
 680184578592,<ExpeditionTime>,<ExpeditionTime>
 11992,"Offering <resource(number2, res2)> for <resource(number1, res1)>",
 142879937372,TRADE,
-758288630325,"<left>Funding (last Sol)<right><funding(LastDayProduction)>
+758288630325,"<left>Funding (last Сол)<right><funding(LastDayProduction)>
 <left>Lifetime Funding<right><funding(LifetimeProduction)>",
 144363313401,Production,
-520109060523,Funding per Sol<right><funding(EstimatedDailyProduction)>,
+520109060523,Funding per Сол<right><funding(EstimatedDailyProduction)>,
 11500,Transport Mode,
 346118123189,Convert this Landing Pad to a Trade Pad used to facilitate exports to other Colonies.,
 744941005824,Cannot be converted while servicing landed or inbound Rockets,
@@ -13405,16 +13405,16 @@ We can blatantly steal their cargo, but we certainly won't be able to feign igno
 988022647874,Determines the amount of tradable resource to load.,
 719458282810,Trade in progress,
 994335923825,<UICurrentTrade>,<UICurrentTrade>
-148211008423,"The following stats are summary of the expected Game development progress for the current Sol. However, game development tends to be unpredictable, so take them with a grain of salt.
+148211008423,"The following stats are summary of the expected Game development progress for the current Сол. However, game development tends to be unpredictable, so take them with a grain of salt.
 
-Base game progress per Sol<right><EstimatedDailyTotal>
-<left>Game progress per Sol<right><EstimatedDailyProduction>
+Base game progress per Сол<right><EstimatedDailyTotal>
+<left>Game progress per Сол<right><EstimatedDailyProduction>
 <left>Collaboration loss<right><EstimatedDailyLoss>
 
 <left>Lifetime game progress<right><lifetime_game_progress>",
 107107412200,Game Progress <percent(GameProgress)>,
 450047774303,<CurrentGame>,<CurrentGame>
-150004798370,Game progress per Sol<right><EstimatedDailyProduction>,
+150004798370,Game progress per Сол<right><EstimatedDailyProduction>,
 11367,"Space Race is the first expansion of Surviving Mars, introducing new sponsors, new events, rival colonies, unique buildings, vehicles, and more.",
 11095,Space Race,
 11426,Trophy collection for Space Race,
@@ -13468,7 +13468,7 @@ Base game progress per Sol<right><EstimatedDailyTotal>
 205862840642,Red Target,
 622934285139,<CurrentShow>,<CurrentShow>
 917423125470,Show progress<right><percent(ShowProgress)>,
-524089352810,TV Show progress per Sol<right><EstimatedDailyProduction>,
+524089352810,TV Show progress per Сол<right><EstimatedDailyProduction>,
 891812028784,Lifetime production<right><funding(LifetimeProduction)>,
 391279476663,In-Dome Buildings Pack adds a medical post.,
 469614409798,In-Dome Buildings Pack,
@@ -13572,7 +13572,7 @@ Base game progress per Sol<right><EstimatedDailyTotal>
 32,Power Production,
 34,Work State,
 10365,<count> <name>,<count> <name>
-5648,Buildings Not Working,
+5648,Будынкі не працуюць,
 379,Suspended,
 7327,Turned On,
 7328,Turned Off,
@@ -13771,7 +13771,7 @@ Base game progress per Sol<right><EstimatedDailyTotal>
 7620,"<resource(resource)><right><resource(GetAmountStored,max_storage,resource)>",
 7621,"<resource(resource)><right><resource(GetAmountStored,max_storage,resource)>",
 6731,Maximum Storage,
-6732,Production per Sol,
+6732,Production per Сол,
 13730,Weight: <value> kg<newline><newline><cost>,
 13942,"<resource(amount,max_amount,type)>","<resource(amount,max_amount,type)>"
 13943,"<resource(amount,type)>","<resource(amount,type)>"
@@ -13847,7 +13847,7 @@ Base game progress per Sol<right><EstimatedDailyTotal>
 635,Feature,
 636,Cluster,
 638,Dome name,
-641,Colonist Sanity Recover per Sol,
+641,Colonist Sanity Recover per Сол,
 12882,<dome> with Spire,
 9703,<red><resource(dome)><icon_Power></red>,<red><resource(dome)><icon_Power></red>
 9704,<resource(dome)><icon_Power>,<resource(dome)><icon_Power>
@@ -13917,7 +13917,7 @@ Base game progress per Sol<right><EstimatedDailyTotal>
 295,Idle<right><drone(IdleDronesCount)>,
 647,<red>Not working. Drones won't receive further instructions.</red>,
 8492,Drones ordered: <num>,
-653,Dust per Sol,
+653,Dust per Сол,
 654,Dust Range,
 11450,Deposit Type,
 11459,Improves the Comfort of all residences when in the radius of a Dome.,
@@ -14281,7 +14281,7 @@ Services: <em><list></em>",
 821,Concrete Deposit,
 822,A Regolith-rich terrain that can be processed into Concrete. Can be exploited by a <em>Concrete Extractor</em>.,
 823,Max visitors per shift,
-824,Min points per Sol,
+824,Min points per Сол,
 825,Points to evaluate,
 8739,<red>Cannot be trained here</red>,
 8740,Currently training here,
@@ -14666,7 +14666,7 @@ Services: <em><list></em>",
 977,Сканаваны,
 978,Глыбока Сканаванны,
 979,"<em>Scanned, scan again for deep deposits and Anomalies</em>",
-980,No resources,
+980,Брак рэсурсаў,
 13612,Underground ,
 13613,"<nodes> <resource_prefix><display_name><right><resource(amount,res)>","<nodes> <resource_prefix><display_name><right><resource(amount,res)>"
 981,"Underground <display_name><right><resource(amount,res)>",
@@ -14855,12 +14855,12 @@ Services: <em><list></em>",
 483,Water production<right><water(number)>,
 9713,<water(number)>,<water(number)>
 479,Production capacity<right><water(production)>,
-480,Production per Sol<right><water(ProductionEstimate)>,
+480,Production per Сол<right><water(ProductionEstimate)>,
 481,Lifetime production<right><water(production_lifetime)>,
 469,<newline><center><em>Storage</em>,
 471,"Waste Rock<right><wasterock(GetWasterockAmountStored,wasterock_max_storage)>",
 1066,Oxygen production,
-484,Production per Sol<right><air(ProductionEstimate)>,
+484,Production per Сол<right><air(ProductionEstimate)>,
 485,Lifetime production<right><air(production_lifetime)>,
 29,Max water consumption while charging,
 1068,Max water output while discharging,
@@ -14917,7 +14917,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 11701,Tourists<right><colonist(number)>,
 12429,This Microsoft account is already linked to another Paradox account. Do you want to link it to the new Paradox account instead?,
 914616772802,OVERALL TERRAFORMING PROGRESS,
-10975,1 Sol ,
+10975,1 Сол ,
 10976,<sol> Sols ,
 10977,<h> h,
 10978,1 Sensor Tower,
@@ -14981,14 +14981,14 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 11412,Trigger fireworks,
 1157,Complete thread,
 1158,Custom score,
-1159,<display_name> - Sol <sol>,
+1159,<display_name> - Сол <sol>,
 11675,<display_name> - <enactor>,<display_name> - <enactor>
 1000066,Entity testing only possible when a map is loaded,
 1000048,Entity Name,
 1160,Decal Mod Entity,
-10104,Mission Sponsor: <em><display_name></em>,
+10104,Фундатар Місіі: <em><display_name></em>,
 11466,Coordinates: <em><coord></em>,
-10105,Commander Profile: <white><display_name></white>,
+10105,Профіль камандзіра: <white><display_name></white>,
 10496,(<GetProgressText>/<GetTargetText>),(<GetProgressText>/<GetTargetText>)
 12430,Using the <sponsor> Sponsor Mod Item,
 12431,Cannot determine Sponsor Mod Item. More than one Sponsor Mod Items are active.,
@@ -15068,7 +15068,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 3507,Bonus event Anomalies,
 3508,Bonus free Tech Anomalies,
 3511,Bonus Rockets,
-8754,Additional research points per Sol,
+8754,Additional research points per Сол,
 8755,Increase max colonists per rocket,
 8756,Additional starting applicants,
 8022,Game Apply,
@@ -17557,7 +17557,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 7878,A drone is on the way to repair this building.,
 241499798174,"The condition of buildings deteriorates over time. Martian dust and disasters contribute to deterioration of outside buildings. Deteriorated buildings will need to be serviced by a Drone and supplied with their required maintenance resource or they will malfunction.<EasyMaintenanceText(true)><newline><newline>Current deterioration<right><percent(MaintenanceProgress)><newline><left>Last serviced<right><LastMaintenance>
 <MaintenanceText>",
-7350,<red>Няма актыўных даследаваньняў</red>,
+7350,<red>Няма актыўных дасьледаваньняў</red>,
 13787,<LeftTrigger> Prioritize research,
 13788,<RightTrigger> Deprioritize research,
 3918,Unknown Tech (<FieldDisplayName>),
@@ -17573,14 +17573,14 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 3610,Aggregated information for all resources in the Colony.,
 235513581267,Resource Overview,
 7853,Colonists Overview,
-3611,"Last export<right>Sol <day>, Hour <hour><newline><left>Rare Metals exported<right><preciousmetals(amount)>",
+3611,"Last export<right>Сол <day>, Hour <hour><newline><left>Rare Metals exported<right><preciousmetals(amount)>",
 3612,Last export<right>N/A,
 10402,Celebrities,
-10552,Funding<right><white><funding(total)></white>,
-3614,Rare Metals price<right><white><funding(price)></white>,
-3615,Last Export<right><white><funding(LastExportFunding)></white>,
+10552,Бюджэт<right><white><funding(total)></white>,
+3614,Кошт Рэдкіх Металаў <right><white><funding(price)></white>,
+3615,Апошні Экспарт<right><white><funding(LastExportFunding)></white>,
 10406,Total Export<right><funding(TotalExportFunding)>,
-10524,Last Sol Income:,
+10524,Last Сол Income:,
 10408,<tab 30><source><right><funding(amount)>,<tab 30><source><right><funding(amount)>
 10525,<tab 30>Other sources<right><funding(amount)>,
 10410,Total<right><funding(amount)>,
@@ -17616,9 +17616,9 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 3632,Oxygen shortage<right><red><air(number)></red>,
 3633,Water surplus<right><green><water(number)></green>,
 3634,Water shortage<right><red><water(number)></red>,
-3635,"Basic resource production, consumption and other stats from the <em>last Sol</em>. Resources in consumption buildings are not counted towards the total available amount. Resource maintenance is estimated per Sol.",
-3654,"Advanced resource production, consumption and other stats from the <em>last Sol</em>. Resources in consumption buildings are not counted towards the total available amount. Resource maintenance is estimated per Sol.",
-12292,"Other resource production, consumption and stats from the <em>last Sol</em>. Resources in consumption buildings are not counted towards the total available amount.",
+3635,"Basic resource production, consumption and other stats from the <em>last Сол</em>. Resources in consumption buildings are not counted towards the total available amount. Resource maintenance is estimated per Сол.",
+3654,"Advanced resource production, consumption and other stats from the <em>last Сол</em>. Resources in consumption buildings are not counted towards the total available amount. Resource maintenance is estimated per Сол.",
+12292,"Other resource production, consumption and stats from the <em>last Сол</em>. Resources in consumption buildings are not counted towards the total available amount.",
 12085,Seeds production<right><seeds(SeedsProducedYesterday)>,
 12293,Seeds consumption<right><seeds(SeedsConsumedByConsumptionYesterday)>,
 13656,<u(prefab)><right><prefab(count)>,<u(prefab)><right><prefab(count)>
@@ -17731,7 +17731,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 3686,Load anyway,
 6851,Warning,
 10888,This savegame was loaded in the past without required mods or with an incompatible game version. It may not function properly.,
-3688,Autosave Sol <current_sol>,
+3688,Autosave Сол <current_sol>,
 3691,Random number,
 3692,Random percent,
 3693,Input register,
@@ -17771,7 +17771,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 3690,Register,
 3723,New body text,
 3724,Limit log to,
-7799,<em>Sol <sol>:</em> <text>,
+7799,<em>Сол <sol>:</em> <text>,
 3725,Notification ID,
 6853,Auto Update,
 3726,Expression,
@@ -17846,7 +17846,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 3780,Random Hours,
 3781,Random Sols,
 3782,Target hour,
-3783,Target Sol,
+3783,Target Сол,
 3784,Wait subtype,
 15,Resource,
 1000100,Amount,
@@ -18227,7 +18227,7 @@ Larger networks will malfunction more often.",
 12399,<red>Surface water is still frozen. Increase the Temperature of the planet.<red>,
 11604,<time(time)>,<time(time)>
 14343,In Orbit,
-6896,"Mission Control, Log #<number><newline><newline>",
+6896,"Кіраваньне місіяй, запіс #<number><newline><newline>",
 4167,Return to Earth?,
 8718,Please don't go. The drones need you. They look up to you.<newline><newline>Are you sure you want to exit the game?,
 4263,Press any button,
@@ -18319,11 +18319,11 @@ Larger networks will malfunction more often.",
 4374,<red><trait_text></red>,
 4370,Effects:,
 4375,Interests: <em><list></em><newline>,
-4380,Sol <sol>: <clr><reason></color>,
-8760,Sol <sol>: <clr>Visited <display_name> in a different dome <amount></color>,
-4376,Sol <sol>: <clr>Visited <display_name> <amount></color>,
-4378,Sol <sol>: <clr>Trait <display_name> <amount></color>,
-6937,Sol <sol>: <clr><u(reason)><amount></color>,
+4380,Сол <sol>: <clr><reason></color>,
+8760,Сол <sol>: <clr>Visited <display_name> in a different dome <amount></color>,
+4376,Сол <sol>: <clr>Visited <display_name> <amount></color>,
+4378,Сол <sol>: <clr>Trait <display_name> <amount></color>,
+6937,Сол <sol>: <clr><u(reason)><amount></color>,
 4382,Log of recent changes:,
 4362,Workplace<right><h SelectWorkplace InfopanelSelect><WorkplaceDisplayName></h>,
 12762,Enjoying their holiday (Tourist),
@@ -18579,7 +18579,7 @@ Larger networks will malfunction more often.",
 3963,Service Comfort: <Stat(comfort)>,
 3964,<em>Workers:</em> <colonist(workers)> (single work shift),
 3965,<em>Workers:</em> <colonist(total)> (<colonist(workers)> per work shift),
-12001,"<em>Terraforming effect: +<resource(number, res)> per Sol.</em>",
+12001,"<em>Terraforming effect: +<resource(number, res)> per Сол.</em>",
 3957,for each 5 hexes-long section,
 8099,<colonist(workers)> ,
 8955,"
@@ -18627,9 +18627,9 @@ New Spire Building: <em><template_display_name></em> ",
 9641,Show historical data for Drones and Shuttles.,
 8962,<graph_right>Drones</graph_right> <em>(<drones>)</em>,
 8963,<graph_right>Shuttles</graph_right> <em>(<shuttles>)</em>,
-9642,Show historical data for colony Buildings and completed constructions per Sol.,
+9642,Show historical data for colony Buildings and completed constructions per Сол.,
 8964,<graph_right>Buildings</graph_right> <em>(<buildings>)</em>,
-8966,<graph_right>Completed Constructions per Sol</graph_right> <em>(<constructions>)</em>,
+8966,<graph_right>Completed Constructions per Сол</graph_right> <em>(<constructions>)</em>,
 9643,"Show historical data for Power - stored Power, average production and demand per hour.",
 8967,<graph_right>Stored Power</graph_right> <em>(<power>)</em>,
 11519,<graph_left>Produced</graph_left> <em>(<produced>)</em> and <graph_right>Demanded</graph_right> <em>(<demand>)</em> Power (average per hour),
@@ -18641,9 +18641,9 @@ New Spire Building: <em><template_display_name></em> ",
 8973,<graph_right>Stored Water</graph_right> <em>(<water>)</em>,
 11521,<graph_left>Produced</graph_left> <em>(<produced>)</em> and <graph_right>Demanded</graph_right> <em>(<demand>)</em> Water (average per hour),
 9647,<resource>,<resource>
-9648,"Show historical data for <resource> - stockpiled <resource>, production and consumption per Sol.",
+9648,"Show historical data for <resource> - stockpiled <resource>, production and consumption per Сол.",
 8977,<graph_right>Stockpiled <resource></graph_right> <em>(<amount>)</em>,
-8979,<graph_left>Produced</graph_left> <em>(<produced>)</em> and <graph_right>Consumed</graph_right> <em>(<consumed>)</em> (per Sol),
+8979,<graph_left>Produced</graph_left> <em>(<produced>)</em> and <graph_right>Consumed</graph_right> <em>(<consumed>)</em> (per Сол),
 4194,<red><value></red>,
 9722,<center><em>Traits</em>,
 9723,<center><em>Interests</em>,
@@ -18714,7 +18714,7 @@ New Spire Building: <em><template_display_name></em> ",
 3869,Homeless,
 6859,Unemployed,
 7679,<name><right><index> / <max>,
-3996,Map Overview,
+3996,Агляд Мапы,
 6868,None,
 8664,Uper Item definition,
 9807,<n>.<rem>Млрд.,
@@ -18728,7 +18728,7 @@ New Spire Building: <em><template_display_name></em> ",
 9780,<red><tnum></red>,<red><tnum></red>
 9781,$<funding>,$<funding>
 9782,<estimate><icon_Research_orig>  <progress><image UI/Icons/res_theoretical_research.tga>,<estimate><icon_Research_orig>  <progress><image UI/Icons/res_theoretical_research.tga>
-5621,Няма актыўных даследаваньняў,
+5621,Няма актыўных дасьледаваньняў,
 12475,Researching <em><name></em> (<percent(progress)>),
 13813,Estimated remaining time: <timeH(researchETA)>,
 9783,<power><icon_Power_orig>  <air><icon_Air_orig>  <water><icon_Water_orig>,<power><icon_Power_orig>  <air><icon_Air_orig>  <water><icon_Water_orig>
@@ -18994,8 +18994,8 @@ Do you want to enable this mod anyway?",
 9671,Night Shift,
 9810,<white><count></white> BUILDINGS,
 431702306266,"<description>
-Deadline Sol <Deadline>
-Perfect Time Sol <PerfectDeadline>
+Deadline Сол <Deadline>
+Perfect Time Сол <PerfectDeadline>
 
 <if(Completed)>
 <CompletedText></if>",
@@ -19041,7 +19041,7 @@ Perfect Time Sol <PerfectDeadline>
 434472115528,Available Rockets,
 631332357625,<AvailableRockets>,<AvailableRockets>
 226146906598,<AvailablePods>,<AvailablePods>
-192510649062,Research per Sol,
+192510649062,Research per Сол,
 981138236987,<research(EstimatedRP)>,<research(EstimatedRP)>
 380120250163,GRID RESOURCES,
 828786133480,Power,
@@ -19206,7 +19206,7 @@ Perfect Time Sol <PerfectDeadline>
 4240,Select buildings / rovers,
 4239,Close / Cancel,
 4236,Pins<newline>(Build menu) Next category,
-4237,Build Menu,
+4237,Меню Будаўніцтва,
 4235,"Manage Infopanel
 (Hold) Infopanel shortcuts",
 649120194813,<ButtonY>,
@@ -19215,46 +19215,46 @@ Perfect Time Sol <PerfectDeadline>
 278990799792,<ButtonB>,
 128569337702,Reward:,
 857640145534,<caption>,<caption>
-8985,Sol <sol>: <value>,
-8986,Sol <sol>: <value1>/<value2>,
-774267355675,Sol,
+8985,Сол <sol>: <value>,
+8986,Сол <sol>: <value1>/<value2>,
+774267355675,Сол,
 430408802588,Visible sights,
-4017,Pause the game.,
-6869,Pause,
-10094,<em><ShortcutName('actionPauseGame')></em> Pause/unpause,
-4020,Play at normal speed.,
-4019,Normal,
-4023,Play at three times normal speed.,
-4022,Fast,
-4025,Play at five times normal speed.,
-4024,Fastest,
-4021,<em><ShortcutName('actionSpeedUp')>/<ShortcutName('actionSpeedDown')></em> Change game speed,
-4027,"Hour <hour> of Sol <day>.
+4017,Прыпыніць гульню.,
+6869,Паўза,
+10094,<em><ShortcutName('actionPauseGame')></em> Прыпыніць/перапыніць,
+4020,Гуляць на звычайнай хуткасці.,
+4019,Нармальна,
+4023,Гуляйце ўтрая хутчэй.,
+4022,Хутка,
+4025,Гуляйце ў пяць разоў хутчэй.,
+4024,Хутчэйша,
+4021,<em><ShortcutName('actionSpeedUp')>/<ShortcutName('actionSpeedDown')></em> Змена хуткасці гульні,
+4027,"Гадзіна <hour> Сол <day>.
 
-Martian days consist of nearly 25 Earth hours.",
+Марсіянскія суткі складаюцца з амаль 25 Зямных гадзін.",
 4026,Solar Date,
-4031,Sol <day>,
-8104,Martian days consist of nearly 25 Earth hours.,
-4028,Solar Time: <white>Hour <hour> of Sol <day></white>,
-4002,Order new construction. Construction usually requires resources and Drone workers in the area.,
-383281603855,Build Menu,
-11864,"<em><ShortcutName('actionOpenBuildMenu', 'keyboard')></em> Toggle Build Menu",
-4003,<em><ShortcutName('actionOpenBuildMenu')></em> Toggle Build Menu,
-4012,Switch between normal camera mode and Map Overview.,
+4031,Сол <day>,
+8104,Марсіянскія суткі складаюцца з амаль 25 Зямных гадзін.,
+4028,Час: <white>Гадзіг <hour> Сол <day></white>,
+4002,Замовіць новыя будынкі. Будынкі звычайна патрабуюць рэсурсы і дронаў на мясцовасці.,
+383281603855,Меню Будаўніцтва,
+11864,"<em><ShortcutName('actionOpenBuildMenu', 'keyboard')></em> Адкрыць/Cхаваць меню Будаўніцтва",
+4003,<em><ShortcutName('actionOpenBuildMenu')></em> Адкрыць/Cхаваць меню Будаўніцтва,
+4012,Пераключэнне паміж звычайным рэжымам камеры і Аглядам Мапы.,
 397338699529,Map overview mode not available for this map,
-786525376837,Map Overview,
-11865,"<em><ShortcutName('actionMapOverview', 'keyboard')></em> Toggle Overview Mode",
-4013,<em><ShortcutName('actionMapOverview')></em> Toggle Overview Mode,
-4006,Request a new cargo or passenger Rocket from Earth.,
-3997,Resupply,
-11866,"<em><ShortcutName('actionResupplyScreen', 'keyboard')></em> Open Resupply Screen",
-4007,<em><ShortcutName('actionResupplyScreen')></em> Open Resupply Screen,
+786525376837,Агляд Мапы,
+11865,"<em><ShortcutName('actionMapOverview', 'keyboard')></em> Змяниць Рэжым Агляду,",
+4013,<em><ShortcutName('actionMapOverview')></em> Змяниць Рэжым Агляду,,
+4006,Запытайце з Зямлі грузавую або пасажырскую ракету.,
+3997,Забеспячэньне,
+11866,"<em><ShortcutName('actionResupplyScreen', 'keyboard')></em> Адкрыйць экран Забеспячэньня",
+4007,<em><ShortcutName('actionResupplyScreen')></em> Адкрыйць экран Забеспячэньня,
 4009,<red>All resupply missions are suspended.</red>,
 4004,"Manage the research of new Technologies.
 
 Current Research: <em><CurrentResearchName></em>
 <left>Research progress: <em><percent(CurrentResearchProgress)></em>",
-311,Research,
+311,Дасьледаваньні,
 11867,"<em><ShortcutName('actionResearchScreen', 'keyboard')></em> Open Research Screen",
 4005,<em><ShortcutName('actionResearchScreen')></em> Open Research Screen,
 12303,"<em><ShortcutName('actionColonyControlCenter', 'keyboard')></em> Toggle Command Center",
@@ -19281,7 +19281,7 @@ Current Research: <em><CurrentResearchName></em>
 500807906538,Фінансаваньне,
 325404562808,<FundingText>,<FundingText>
 113756642387,<ResearchRollover>,<ResearchRollover>
-783732441536,Research,
+783732441536,Дасьледаваньні,
 816190283569,<DPad> Navigate <DPadDown> Close,
 212300384149,<ResearchText>,<ResearchText>
 11682,<ElectricityGridRollover>,<ElectricityGridRollover>
@@ -19507,8 +19507,8 @@ Mission parameters and colony site are predetermined.",
 862915989275,Perfect Time,
 8800,Game Rules,
 3486,Mystery,
-225737815082,Sol <DeadlineCompleted>,
-756685042373,Sol <DeadlinePerfected>,
+225737815082,Сол <DeadlineCompleted>,
+756685042373,Сол <DeadlinePerfected>,
 639503956525,<GameRulesList>,<GameRulesList>
 13690,<Mystery>,<Mystery>
 193636721608,SUMMARY,
@@ -19648,8 +19648,8 @@ Mission parameters and colony site are predetermined.",
 14345,PREPARE,
 14346,SEND,
 259960110713,Standing,
-3474,Фундатар місіі,
-3478,Профіль камандзіра,
+3474,Фундатар Місіі,
+3478,Профіль Камандзіра,
 3980,Будынкі,
 12112,Дасьледаваньні,
 744641294225,Другія рэсурсы,
@@ -20256,8 +20256,8 @@ Current status: <em><UIWorkingStatus></em>",
 436167298715,<FundingRollover>,
 3617,Available funding<right><white><funding(Funding)></white>,
 491631842119,<ResearchRollover>,
-357380421238,Research,
-7873,Research per Sol<right><white><ResearchPoints(EstimatedRP)></white>,
+357380421238,Дасьледаваньні,
+7873,Research per Сол<right><white><ResearchPoints(EstimatedRP)></white>,
 293266371918,<GridRollover>,
 3618,Grid Resources,
 195574843186,<PowerLine>,
@@ -20482,14 +20482,14 @@ Queue tasks by using <em>Shift + <right_click></em>",
 581,This building has deteriorated and will stop working soon unless it receives maintenance.<EasyMaintenanceText()>,
 746855187624,"This building needs maintenance and is waiting for <resource(maintenance_resource_amount, maintenance_resource_type)>",
 604012311372,<UISectionMineRollover>,
-472,"Production per Sol<right><resource(PredictedDailyProduction, GetResourceProduced)>",
+472,"Production per Сол<right><resource(PredictedDailyProduction, GetResourceProduced)>",
 473,"Stored <resource(exploitation_resource)><right><resource(GetAmountStored,max_storage,exploitation_resource)>",
 957982342940,<UISectionPowerGridRollover>,
 576,Power production<right><power(current_production)>,
 321,Total demand<right><power(consumption)>,
 322,Stored Power<right><power(current_storage)>,
 571,Power grid,
-508800248152,Production per Sol<right><power(UIPowerProductionToday)><newline><left>Lifetime production<right><power(UIPowerProductionLifetime)>,
+508800248152,Production per Сол<right><power(UIPowerProductionToday)><newline><left>Lifetime production<right><power(UIPowerProductionLifetime)>,
 437,Power production<right><power(UIPowerProduction)>,
 438,Elevation boost<right><ElevationBonus>%,
 433366911234,"Terraforming boost<right><modifier_percent('electricity_production', 'TP Boost Atmosphere')>",
@@ -20507,10 +20507,10 @@ Queue tasks by using <em>Shift + <right_click></em>",
 7784,Max output<right><power(max_electricity_discharge)>,
 368,Open the Research screen to select a new Technology to be researched.,
 367,Research technology,
-765045268446,Contributes to the currently selected research project: <em><UIResearchProject></em>. The following stats are summary of the predicted Research production for the current Sol.<newline><newline>Base research per Sol<right><research(EstimatedDailyTotal)><newline><left>Research per Sol<right><research(EstimatedDailyProduction)><newline><left>Collaboration loss<right><research(EstimatedDailyLoss)><newline><newline><left>Lifetime research<right><research(research_points_lifetime)>,
+765045268446,Contributes to the currently selected research project: <em><UIResearchProject></em>. The following stats are summary of the predicted Research production for the current Сол.<newline><newline>Base research per Сол<right><research(EstimatedDailyTotal)><newline><left>Research per Сол<right><research(EstimatedDailyProduction)><newline><left>Collaboration loss<right><research(EstimatedDailyLoss)><newline><newline><left>Lifetime research<right><research(research_points_lifetime)>,
 308,Research Progress <percent(ResearchProgress)>,
 452635643808,<UIResearchProject>,
-445070088246,Research per Sol<right><research(EstimatedDailyProduction)>,
+445070088246,Research per Сол<right><research(EstimatedDailyProduction)>,
 327961439148,Colonists live and rest in Residential Buildings. Their Health and Sanity will deteriorate if they are homeless.,
 702480492408,Residents<right><UIResidentsCount> / <colonist(UICapacity)>,
 424588493338,Comfort of residents<right><em><Stat(service_comfort)></em>,
@@ -20530,7 +20530,7 @@ Queue tasks by using <em>Shift + <right_click></em>",
 8989,Colonist en route,
 8993,<ButtonX> Open this residential slot,
 241057577251,<UISectionResourceProducerRollover>,
-466,"Production per Sol (predicted)<right><resource(PredictedDailyProduction, GetResourceProduced)>",
+466,"Production per Сол (predicted)<right><resource(PredictedDailyProduction, GetResourceProduced)>",
 478,"Stored <resource(GetResourceProduced)><right><resource(GetAmountStored,max_storage,GetResourceProduced)>",
 142125981715,View and adjust the RC Safari's waypoints. The RC Safari has a maximum of 10 waypoints. Moving the RC Safari manually removes the currently set waypoints.,
 401282745585,Waypoints<right><count(safari_route)>/10,
@@ -20565,7 +20565,7 @@ Status: <on_off(IsResourceEnabled(res))>",
 310324952912,Attention,
 330979236014,Not producing at full capacity due to lack of demand. Can produce <water(current_throttled_production)> more if needed,
 809879280014,Not producing at full capacity due to lack of demand. Can produce <air(current_throttled_production)> more if needed,
-527,Each Service Building will accept a number of visitors during each open work shift. Colonists seek to visit a building corresponding to one of their interests chosen every Sol at random. The visit will improve their Comfort up to the Service Comfort value.,
+527,Each Service Building will accept a number of visitors during each open work shift. Colonists seek to visit a building corresponding to one of their interests chosen every Сол at random. The visit will improve their Comfort up to the Service Comfort value.,
 257506711483,Select a trait that is affected by this building.,
 988789013053,<left_click> Change<newline><em>Ctrl + <left_click> on trait</em> Select in all <display_name_pl>,
 958322390788,<ButtonA> Change<newline><em><ButtonX> on trait</em> Select in all <display_name_pl>,
@@ -20578,7 +20578,7 @@ Status: <on_off(IsResourceEnabled(res))>",
 13822,Next graduate in:,
 11444,Upgrade: <name>,
 11445,Upgrade cost<right><cost>,
-7423,Each Service Building will accept a number of visitors during each open work shift. Colonists seek to visit a building corresponding to one of their interests chosen every Sol at random. The visit will improve their Comfort up to the Service Comfort value.,
+7423,Each Service Building will accept a number of visitors during each open work shift. Colonists seek to visit a building corresponding to one of their interests chosen every Сол at random. The visit will improve their Comfort up to the Service Comfort value.,
 526,Visitors,
 708009583391,Inside<right><count(visitors)>/<colonist(max_visitors)>,
 529,Today<right><colonist(visitors_per_day)>,
@@ -20723,12 +20723,12 @@ Status: <on_off(IsResourceEnabled(res))>",
 4862,Low,
 646,Medium,
 4863,High,
-4698,Dust accumulation per Sol,
-4699,Building dust accumulation per Sol,
-4696,Maximum dust accumulated per Sol,
-4697,Building dust max percentage per Sol,
-4700,Minimum dust accumulated per Sol,
-4701,Building dust min per Sol,
+4698,Dust accumulation per Сол,
+4699,Building dust accumulation per Сол,
+4696,Maximum dust accumulated per Сол,
+4697,Building dust max percentage per Сол,
+4700,Minimum dust accumulated per Сол,
+4701,Building dust min per Сол,
 4702,Modifier applied to dust accumulated by buildings,
 4703,Building dust modifier,
 4704,Modifier applied to maintenance points accumulated by buildings,
@@ -20937,8 +20937,8 @@ Status: <on_off(IsResourceEnabled(res))>",
 4624,Experimental Research Speed Mod,
 4631,Research points generated per RC Commander,
 222544894200,Number of Breakthroughs reserved for Planetary Anomalies,
-4627,Sponsor Funding gained per Sol,
-4628,Sponsor Research per Sol,
+4627,Sponsor Funding gained per Сол,
+4628,Sponsor Research per Сол,
 4634,Go To command will automatically cause unsiege if target is further than this distance,
 4635,RC Commander distance to provoke automatic unsiege,
 4642,The amount of battery drained from RC Commander when recharging a Drone.,
