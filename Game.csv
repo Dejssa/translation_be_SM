@@ -183,10 +183,10 @@ id <u(id)>, version <VersionText></color>",
 3548,Бязрамачны,
 3549,Поўны,
 3547,Аконны,
-3550,Fullscreen,
+3550,Поуны экран,
 1000119,<FormatResolution(pt)>,
 1000121,Па змаўчанні,
-9718,Unlimited,
+9718,Неабмежаваны,
 12364,Выкл.,
 12365,Ніз.,
 12366,Высокі,
@@ -211,8 +211,8 @@ id <u(id)>, version <VersionText></color>",
 7969,4x,
 7970,8x,
 8079,16x,
-7381,High,
-7382,High,
+7381,Высокі,
+7382,Высокі,
 1000122,Дысплей,
 1000123,ДЫСПЛЕЙ,
 1000125,ВІДЭА,
@@ -382,7 +382,7 @@ id <u(id)>, version <VersionText></color>",
 12217,<NodeColor><class> <color 128 128 128><Id><PlacementText>,<NodeColor><class> <color 128 128 128><Id><PlacementText>
 1000252,New Update Available,
 1000253,Download & Install,
-1000254,Cancel,
+1000254,Скасаваць,
 1000255,Download error,
 1000256,"Download failed, please try again later.",
 1000257,Connected to <host>:<port>,
@@ -404,11 +404,11 @@ id <u(id)>, version <VersionText></color>",
 7772,Дэтальнасцт аб'ектаў,
 3577,Разьдзяленьне Адсотак,
 3578,FPS лічыльнік,
-3579,Master Volume,
-3580,Music,
-3581,Sounds,
-7811,Voice,
-3582,Mute when Minimized,
+3579,Агульная гучнасць,
+3580,Музыка,
+3581,Гукі,
+7811,Голас,
+3582,Без гуку пры згортваньні,
 3592,Апавяшчэнні падказкі,
 7544,Display Area Margin,
 1000102,Мова,
@@ -780,14 +780,14 @@ Before you get started, please take a moment to read our Privacy Policy.",
 1000163,<ButtonB> Прапусціць,
 1000164,Escape: Прапусціць,
 1000616,OK,
-1000246,Cancel,
+1000246,Скасаваць,
 1000617,OK,
 1000926,OK,
-1000247,Cancel,
+1000247,Скасаваць,
 1000927,Up (^),
 1000928,Down (v),
 1000417,OK,
-1000418,Cancel,
+1000418,Скасаваць,
 1000406,English,
 1000407,French,
 1000408,German,
@@ -2317,22 +2317,22 @@ The process is facilitated by Drones, which extract Waste Rock to lower the grou
 981695360405,Sirenum Alpha,
 567778241127,Sirenum Beta,
 420110169199,Xanthe Alpha,
-979029137252,Scan an Anomaly,
-326786953545,Launch a Rocket from Mars,
-761999391455,Find Water on Mars,
-639900467782,Construct a Dome,
-168049511046,First human on Mars,
-488379408129,First Martianborn,
-665036099552,Produce Food,
-149119990393,Research a Breakthrough,
-106610630022,All Sponsor Goals,
-785508231749,Scan all Sectors,
-180356594159,100 Colonists,
-539130058924,500 Colonists,
-174129126515,1000 Colonists,
-833327755106,Construct a Mega Dome,
-781931111320,Construct a Wonder,
-590068197487,40% Workers in Workshops,
+979029137252,Анамалія сканавана,
+326786953545,Запусціце ракету з Марса,
+761999391455,Знайдзіце ваду на Марсе,
+639900467782,Пабудуйце купал,
+168049511046,Першы чалавек на Марсе,
+488379408129,Першы марсіянін,
+665036099552,Выгадуйце ежу,
+149119990393,Даследуйце прарыў,
+106610630022,Усе мэты фундатара,
+785508231749,Сканаваць усе сектары,
+180356594159,100 Каланістаў,
+539130058924,500 Каланістаў,
+174129126515,1000 Каланістаў,
+833327755106,Пабудуйце мега купал,
+781931111320,Пабудуйце цуд,
+590068197487,40% Рабочых ў майстэрнях,
 5474,Mars Express,
 5475,Voyager,
 5476,Final Countdown,
@@ -6814,24 +6814,24 @@ How do we answer?",
 370673392125,A meaningless jab coming from a place where no one understands the problems we face on Mars. Carry on!,
 11059,<number_of_killed> colonists have died in research experiments,
 262478553203,"<if(is_commander(""rocketscientist""))>[<commander_profile>] Testing out the new engine will be a high-stake endeavor. Perhaps it would be wise to keep the payloads minimal until design kinks have been ironed out.",
-161497508085,Experimental Rocket,
+161497508085,Эксперыментальная ракета,
 170727039645,A new rocket engine has been developed by our sponsor on Earth.  We have been offered the dubious honor of testing the first prototype.,
-896864450689,We accept!,
-11208,rocket travel time <traveltime_decrease>%,
-439284841942,Let me have a look at the blueprints,
-867291257749,rocket travel time permanently decreased by <traveltime_decrease>%,
+896864450689,Мы прымаем!,
+11208,час палёту ракеты <traveltime_decrease>%,
+439284841942,Дазвольце мне зірнуць на чарцяжы,
+867291257749,час палёту ракеты назаўжды скараціўся на <traveltime_decrease>%,
 226537612431,Sounds too risky,
 599350313758,"Luckily, the engine flaw was removed and the design has been updated to the new specs before any tragic accident took place.",
 807191043341,"Luckily, the engine flaw was removed and the design has been updated to the new specs before any tragic accident took place.
 
 Your own technical expertise contributed to the discovery of the flaw. You shudder to think about what could've happened if another commander was in charge of the mission.",
-933659636572,Experimental Rocket,
+933659636572,Эксперыментальная ракета,
 293409988154,A critical design flaw has been discovered in the prototype rocket. How could they miss that?,
 563709608634,"Luckily, our rockets are safe now",
 158294637830,"Sadly, the prototype engine had a crucial flaw. Precautions have been taken so this won't happen again. Still, the Rocket and its entire payload have been destroyed.
 
 <effect>Lose 1 Rocket, the payload has been destroyed.",
-157487678554,Experimental Rocket - Launch Failure,
+157487678554,Эксперыментальная ракета - Памылка Запуску,
 588921706704,"The rocket launch was a catastrophic failure! A seal in the booster ruptured allowing a jet of pressurized gas into the fuel chamber, ultimately causing a massive explosion! ",
 120979156754,A tragic loss! The passengers will be commemorated as heroes.,
 916159646901,At least no human lives have been lost...,
@@ -9164,10 +9164,10 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 <grey>""From the first day to this, sheer greed was the driving spirit of civilization.""
 <right>Friedrich Engels</grey><left>",
 6440,Extractor Amplification,
-6443,"<em>Вежы Сканеры</em> больш не патрабуе Энергіі або абслугоўвання.
+6443,"<em>Вежы-Сканеры</em> больш не патрабуе Энергіі або абслугоўвання.
 
 <grey>Надзейныя даныя датчыкаў важныя для даследавання Марса.</grey>",
-6442,Aўтаномныя Сканеры,
+6442,Aўтаномныя сканеры,
 6453,"New Building: <em>Subsurface Heater</em> (<buildinginfo('SubsurfaceHeater')>) - Increases the local temperature in cold areas and protects nearby buildings from Cold Waves. Consumes Water.
 
 <grey>Mars has an average surface temperature of −55 degrees Celsius, with inclinations to fall well beneath −130.</grey>",
@@ -9899,32 +9899,32 @@ Import greenhouse gases from Earth, capture ice asteroids, nuke its polar caps t
 
 <em>Special Projects</em> are made available by researching Techs and by increasing the Terraforming Parameters. Each project requires a <em>Rocket</em> to be available.
 
-All Special Projects concerning the Terraforming of Mars are colored in <green>Green</green> in the <em>Planetary View</em>.",
+All Special Projects concerning the Terraforming of Mars are colored in <green>Green</green> in the <em>Агляд планеты</em>.",
 865761886470,<new_in('armstrong')>Special Projects,
 598406747376,No planetary terraforming. Related buildings and techs are not available.,
 745314075069,No Terraforming,
 500342499064,"<grey>""Things do not change; we change.""
 <right>Henry David Thoreau</grey><left>",
-569276295516,Send a Rocket to complete one of the Special Projects that appear in the Planetary View.,
-754470867259,<new_in('armstrong')>Complete a Special Project,
+569276295516,Send a Rocket to complete one of the Special Projects that appear in the Агляд планеты.,
+754470867259,<new_in('armstrong')>Выканайце спецпраект,
 532751737426,Research Adapted Vegetation and have a Forestation Plant with Plant Type set to a tree. Trees require high Temperature<icon_TemperatureTP_alt> and Water<icon_WaterTP_alt> terraforming progress.,
-194143329868,<new_in('armstrong')>Plant a Tree on the surface of Mars,
+194143329868,<new_in('armstrong')>Пасадзіце дрэва на паверхні Марса,
 594640680312,Research Lake Crafting and construct a Lake.,
-637326803967,<new_in('armstrong')>Dig a Lake,
+637326803967,<new_in('armstrong')>Выкапайце возера,
 196951125366,Have <tp_threshold('LiquidWater')> terraforming progress.,
-625564457793,<new_in('armstrong')>Liquid Water on the surface of Mars,
+625564457793,<new_in('armstrong')>Вадкая вада на паверхні Марса,
 588918071492,Have <tp_threshold('RainStart')> terraforming progress.,
-770272958580,<new_in('armstrong')>First Rainfall,
+770272958580,<new_in('armstrong')>Першыя ападкі,
 595935243906,Have <tp_threshold('AtmosphereBreathable')> terraforming progress.,
-232371013531,<new_in('armstrong')>Breathable Atmosphere,
+232371013531,<new_in('armstrong')>Атмасфера прыгодна да дыхання,
 398907679702,"Research, construct and maintain Carbonate Processors and complete Special Projects to achieve maximum Atmosphere terraforming.",
-840558176469,<new_in('armstrong')>100% Atmosphere terraforming,
+840558176469,<new_in('armstrong')>100% Терафарміраваньне атмасферы,
 883134526540,"Research, construct and maintain GHG Factories and Core Heat Convectors and complete Special Projects to achieve maximum Temperature terraforming.",
-221889569841,<new_in('armstrong')>100% Temperature terraforming,
+221889569841,<new_in('armstrong')>100% Терафарміраваньне тэмпературы,
 850117384046,"Research, construct and fill Lakes and complete Special Projects to achieve maximum Water terraforming.",
-284267811051,<new_in('armstrong')>100% Water terraforming,
+284267811051,<new_in('armstrong')>100% Терафарміраваньне вады,
 887622869917,Research and complete Seed Vegetation special projects to achieve maximum Vegetation terraforming.,
-869824443032,<new_in('armstrong')>100% Vegetation terraforming,
+869824443032,<new_in('armstrong')>100% Терафарміраваньне расліннасці,
 392743248058,Terraforming Initiative,
 918911922572,Terraforming Initiative,
 617023679873,"Research per Сол: <research(SponsorResearch)>
@@ -10074,7 +10074,7 @@ Our restless efforts to purify the Martian atmosphere and make it suitable for h
 996393820487,No More Blue Skies,
 269336522838,"Congratulations, you have successfully made the first step towards turning Mars into a lush green heaven! You have unlocked the Seeds resource that can be imported from Earth. 
 
-Seeds are stored into specialized Storages and used by Forestation Plants and Open Farms for planting vegetation outside the Domes. Most plants require some terraforming progress to be made. Check out the Atmosphere, Temperature, surface Water and the Vegetation coverage in the Planetary View. Improving these terraforming parameters will improve the productivity of some buildings, decrease the severity of disasters and ultimately may render Mars lush, breathable and covered with liquid water.",
+Seeds are stored into specialized Storages and used by Forestation Plants and Open Farms for planting vegetation outside the Domes. Most plants require some terraforming progress to be made. Check out the Atmosphere, Temperature, surface Water and the Vegetation coverage in the Агляд планеты. Improving these terraforming parameters will improve the productivity of some buildings, decrease the severity of disasters and ultimately may render Mars lush, breathable and covered with liquid water.",
 787968236076,Martian Vegetation Researched,
 654805450447,"The Atmosphere parameter represents the density and the composition of the Martian atmosphere. Above certain density, Atmosphere is gradually lost over time, due to the lack of a natural magnetic field on Mars.
 
@@ -10101,7 +10101,7 @@ Increase <em>Soil Quality</em>, <em>Temperature</em> and <em>Water</em> paramete
 
 Further terraforming info is available in the <em>Encyclopedia</em>.",
 375815846093,Seeds,
-229383406802,"New terraforming special projects are available on the <em>Planetary View</em>. They are marked in green. Completing them will advance our terraforming efforts.
+229383406802,"New terraforming special projects are available on the <em>Агляд планеты</em>. They are marked in green. Completing them will advance our terraforming efforts.
 
 Send a <em>Rocket</em> on an expedition to complete a terraforming <em>Special Project</em>. 
 
@@ -10543,7 +10543,7 @@ We don't have the resources to do both.",
 239797746195,"gain <funding(funding_gain)> in 1 Сол, unknown consequences",
 387601595177,Sounds too good to be true. We may need further research before we delve deeper.,
 415362818245,unlock further Research,
-745217428380,"On second thought, we'd rather drop this project.",
+745217428380,"Калі падумаць, лепш адмовімся ад гэтага праекта.",
 518690638506,do nothing,
 989178961931,"Your security advisor comes to your office with a large folder in hand. She warns you about some suspicious activity they initially thought to be sabotage: chemical compounds missing from a lab, satellites redirected from a certain point on Mars... Turns out, our friend <DisplayName> who wanted to improve mankind with his pacifying Water of Peace, has taken things into his own hands.
 
@@ -11152,7 +11152,7 @@ New Building: <em>Forestation Plant</em> (<buildinginfo('ForestationPlant')>) - 
 <grey>""We can look out on an alien landscape that no one has seen before and find it beautiful."" 
 <right>David Grinspoon</grey><left>",
 11924,Conservation Landscaping,
-736232359403,"Unlocks the <em>Import Greenhouse Gases</em> (improves Atmosphere <icon_AtmosphereTP_alt>) and <em>Capture Ice Asteroids</em> (improves Water <icon_WaterTP_alt>) special projects, accessible via the Planetary View.
+736232359403,"Unlocks the <em>Import Greenhouse Gases</em> (improves Atmosphere <icon_AtmosphereTP_alt>) and <em>Capture Ice Asteroids</em> (improves Water <icon_WaterTP_alt>) special projects, accessible via the Агляд планеты.
 
 <grey>""If you want to lift yourself up, lift up someone else."" 
 <right>Booker T. Washington</grey><left>",
@@ -11196,7 +11196,7 @@ New Building: <em>Forestation Plant</em> (<buildinginfo('ForestationPlant')>) - 
 <grey>""If the world seems cold to you, kindle fires to warm it."" 
 <right>Lucy Larcom</grey><left>",
 11933,Core Heat Convector,
-993832501510,"Unlocks the <em>Melt the Polar Caps</em> (improves Water <icon_WaterTP_alt>) special project, accessible via the Planetary View.
+993832501510,"Unlocks the <em>Melt the Polar Caps</em> (improves Water <icon_WaterTP_alt>) special project, accessible via the Агляд планеты.
 
 <grey>""This will be the first of a thousand worlds that we will give life to. For we are gods, and we are lonely, so we shall create."" 
 <right>Adrian Tchaikovsky, Children of Time</grey><left>",
@@ -11206,12 +11206,12 @@ New Building: <em>Forestation Plant</em> (<buildinginfo('ForestationPlant')>) - 
 <grey>""It takes as much energy to wish as it does to plan."" 
 <right>Eleanor Roosevelt</grey><left>",
 11935,Terraforming Amplification,
-463756338973,"Unlocks the <em>Launch Space Mirror</em> (improves Temperature<icon_TemperatureTP_alt>) and <em>Launch Magnetic Shield</em> (decreases loss of Atmosphere <icon_AtmosphereTP_alt>) special projects, accessible via the Planetary View.
+463756338973,"Unlocks the <em>Launch Space Mirror</em> (improves Temperature<icon_TemperatureTP_alt>) and <em>Launch Magnetic Shield</em> (decreases loss of Atmosphere <icon_AtmosphereTP_alt>) special projects, accessible via the Агляд планеты.
 
 <grey>""Wherever you go, no matter what the weather, always bring your own sunshine."" 
 <right>Anthony J. D'Angelo</grey><left>",
 11936,Mega Satellites,
-657028556688,"Unlocks the <em>Seed Vegetation</em> (improves Vegetation <icon_VegetationTP_alt>) and <em>Cloud Seeding</em> (improves Water <icon_WaterTP_alt>) special projects, accessible via the Planetary View.
+657028556688,"Unlocks the <em>Seed Vegetation</em> (improves Vegetation <icon_VegetationTP_alt>) and <em>Cloud Seeding</em> (improves Water <icon_WaterTP_alt>) special projects, accessible via the Агляд планеты.
 
 <grey>""The winds of grace are always blowing, but you have to raise the sail."" 
 <right>Ramakrishna</grey><left>",
@@ -11989,7 +11989,7 @@ This technological challenge to take advantage of what little wind there is on M
 744246919168,no rival has <Wonder>,
 589834739097,a rival has <Wonder>,
 222052904706,"Pick a rival colony, where <ConditionsFormat>",
-571448163922,<Standing> Standing,
+571448163922,<Standing> Адносіны,
 581068842525,Landed Rocket,
 710122859906,offered trade route,
 810880668746,has no trade routes,
@@ -12001,10 +12001,10 @@ This technological challenge to take advantage of what little wind there is on M
 165565631269,doesn't have <Wonder>,
 522717072858,"colony of <display_name('MissionSponsorPreset',SponsorName)>",
 459080068052,"is not colony of <display_name('MissionSponsorPreset',SponsorName)>",
-927569338977,more than <Standing> Standing,
-761043301303,less than <Standing> Standing,
-302559892969,<Standing1> or <Standing2> Standing,
-729187528898,Standing is not <Standing1> or <Standing2>,
+927569338977,больш за <Standing> Адносінаў,
+761043301303,менш за <Standing> Адносінаў,
+302559892969,<Standing1> або <Standing2> Адносінаў,
+729187528898,Адносіны ані <Standing1>, ані <Standing2>,
 839874317370,Max Rival Standing <Condition> <Amount>,
 971727631649,Min Rival Standing <Condition> <Amount>,
 730926808504,Add a trade route,
@@ -12059,61 +12059,61 @@ This technological challenge to take advantage of what little wind there is on M
 708368647885,Chooses a random Rival Colony,
 647624657930,"Gets twice more Food from Passenger Rockets
 Landed Rockets synthesise Fuel
-Initial Standing: <em>Slightly Positive</em>
+Initial Адносіны: <em>Slightly Positive</em>
 Development speed: <em>Relaxed</em>
 Bias: <em>Colonists</em>",
 676634361258,"Receives periodic Funding
-Initial Standing: <em>Neutral</em>
+Initial Адносіны: <em>Neutral</em>
 Development speed: <em>Expansive</em>
 Bias: <em>Colonists</em>",
 462771347545,"Always offers Funding for basic resources
 Employs Colonists to produce Funding
-Initial Standing: <em>Slightly Negative</em>
+Initial Адносіны: <em>Slightly Negative</em>
 Development speed: <em>Normal</em>
 Bias: <em>Production</em>",
 262548018189,Constructed Corporate Office,
 624983238957,"Always offers resources for Food
 Passenger Rockets carry more Colonists
 Has double birth rates
-Initial Standing: <em>Neutral</em>
+Initial Адносіны: <em>Neutral</em>
 Development speed: <em>Expansive</em>
 Bias: <em>Mining</em>",
 395180792330,"Has increased birth rates
 Produces more Metals
-Initial Standing: <em>Neutral</em>
+Initial Адносіны: <em>Neutral</em>
 Development speed: <em>Normal</em>
 Bias: <em>Colonists, Mining</em>",
 974165148834,"Always offers Research points for any tradable resource
 Gains Funding whenever a tech is researched
-Initial Standing: <em>Neutral</em>
+Initial Адносіны: <em>Neutral</em>
 Development speed: <em>Normal</em>
 Bias: <em>Research</em>",
 258507598563,"Buys advanced resources at 50% cost
-Initial Standing: <em>Neutral</em>
+Initial Адносіны: <em>Neutral</em>
 Development speed: <em>Normal</em>
 Bias: <em>Production</em>",
 971858618751,"Produces more Rare Metals
-Initial Standing: <em>Neutral</em>
+Initial Адносіны: <em>Neutral</em>
 Development speed: <em>Normal</em>
 Bias: <em>Mining</em>",
 848135376130,Brazil,
 758531549660,"Has double birth rates
-Initial Standing: <em>Slightly Negative</em>
+Initial Адносіны: <em>Slightly Negative</em>
 Development speed: <em>Normal</em>
 Bias: <em>Colonists</em>",
 934610215177,"Always offers basic resources for advanced resources
 Produces more Concrete
-Initial Standing: <em>Neutral</em>
+Initial Адносіны: <em>Neutral</em>
 Development speed: <em>Expansive</em>
 Bias: <em>Mining</em>",
 323735020672,"Produces Funding by releasing games
-Initial Standing: <em>Unpredictable</em>
+Initial Адносіны: <em>Unpredictable</em>
 Development speed: <em>Normal</em>
 Bias: <em>Research</em>",
 141041316027,Released a new game,
 842378421255,"Produces Metals without using Colonists
 Gains research points when exploring sectors
-Initial Standing: <em>Neutral</em>
+Initial Адносіны: <em>Neutral</em>
 Development speed: <em>Normal</em>
 Bias: <em>Research</em>
 ",
@@ -12204,7 +12204,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - <em>Advanced Orbital Probe</em> - scans five sectors
 - <em>Megamall</em> - service building that satisfies most interests
 - Periodic additional funding",
-5484,Blue Sun Corporation,
+5484,Карпарацыя 'Сінія Свяцілы',
 342032143352,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
@@ -12374,24 +12374,24 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 356412163668,"How dare you? Mind your language, or I'll make you regret this.",
 851108889980,Contact,
 282430223792,Can you also spare some shuttles?,
-493437452191,"-25 Standing, aid Rocket is on the way, get 2 Shuttle Hub prefabs",
-211635844575,Thank you!,
-244752266452,"-20 Standing, aid Rocket is on the way",
-820944809188,Let me rephrase my request...,
-514971224804,-10 Standing,
-247391182154,What do you want?,
-226348953584,On second thought...,
+493437452191,"-25 Адносін, Ракета з дапамогаў у пуці, атрымайце 2 зборных ЦК Шатламі",
+211635844575,Дзякуй!,
+244752266452,"-20 Адносін, Ракета з дапамогаў у пуці",
+820944809188,Дазвольце мне перафармуляваць запыт...,
+514971224804,-10 Адносін,
+247391182154,Чаго хаціце?,
+226348953584,Калі падумаць...,
 871472136580,What do you want?,
 993967459548,We need Metals,
 169968368423,We need Concrete,
 128954319804,We need Food,
-364872241501,On second thought...,
+364872241501,Калі падумаць...,
 799274647381,What do you want?,
 367527373955,We need Polymers,
 328754292111,We need Machine Parts,
 541621217058,We need Electronics,
 521255950570,They can't help,
-990315714894,On second thought...,
+990315714894,Калі падумаць...,
 194805488333,Offer resources,
 148975242532,"send resources with a Rocket, gain Standing",
 504217644348,Initiate trade,
@@ -12416,10 +12416,10 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 595608511051,Help Rocket,
 536884410763,Basic resource,
 351818891928,Advanced resource,
-727554349776,On second thought...,
-601929705879,On second thought...,
+727554349776,Калі падумаць...,
+601929705879,Калі падумаць...,
 297659968639,What do you offer?,
-424168816047,On second thought...,
+424168816047,Калі падумаць...,
 672572347211,Two more words – accretionary wedge!,
 11497,-40 Standing; +20 Standing with all other Rival Colonies,
 11496,-40 Standing; +10 Standing with all other Rival Colonies,
@@ -15121,7 +15121,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 1186,Strange pile of rocks,
 1187,Mirror Sphere excavation site,
 1188,Action in progress.,
-6780,Cancel.,
+6780,Скасаваць.,
 1189,Already completed.,
 1190,Too far from any Drone commander.,
 1191,No Sensor Tower in range.,
@@ -18121,7 +18121,7 @@ Larger networks will malfunction more often.",
 11678,Notification,
 6877,OK,
 6878,OK,
-6879,Cancel,
+6879,Скасаваць,
 11862,Switch to hybrid control scheme?,
 11863,Do you want to command the game with both gamepad and mouse?,
 1000022,Author,
@@ -18265,7 +18265,7 @@ Larger networks will malfunction more often.",
 6922,"A remote-controlled vehicle, property of EsoCorp.",
 6923,"A remote-controlled combat vehicle, reclaimed by the Colony. Protects against meteor strikes and EsoCorp vehicles.",
 9627,"<UnitMoveControl('ButtonA',interaction_mode)>: Use Tunnel",
-6720,Cancel,
+6720,Скасаваць,
 6925,Send Drones to this vehicle.,
 6926,Cancel repairs.,
 6924,Repair,
@@ -18540,7 +18540,7 @@ Larger networks will malfunction more often.",
 4505,Create an automatic transport route. Selected resource will be collected near the origin point and delivered to the destination. The route will be active until all sources are exhausted or there is no more room at the destination.,
 7555,<left_click> Create route mode,
 7408,<left_click>Set Source  <em><left_click> (again)</em> Set Destination<newline><right_click> Cancel,
-7512,<ButtonA> Cancel,
+7512,<ButtonA> Скасаваць,
 7556,<ButtonA> Create route mode,
 10987,If Automated Mode is activated the RC Transport will gather resources automatically.<newline><newline>Current Status: <em><on_off(auto_mode_on)></em>,
 13735,"<UnitMoveControl('ButtonA', interaction_mode)>: Clear Rubble",
@@ -19167,7 +19167,7 @@ Perfect Time Сол <PerfectDeadline>
 864744602325,Reset Camera,
 970807214544,Resupply Screen,
 771055429123,Research Screen,
-805731420530,Planetary View,
+805731420530,Агляд планеты,
 7695,Next Dome,
 411744294712,Previous Dome,
 7696,Next Rover,
@@ -19204,9 +19204,9 @@ Perfect Time Сол <PerfectDeadline>
 4242,Rotate / Zoom view<newline>(press) Cycle Rovers,
 4238,Select Drones or Colonists,
 4240,Select buildings / rovers,
-4239,Close / Cancel,
+4239,Зачыніць / Скасаваць,
 4236,Pins<newline>(Build menu) Next category,
-4237,Меню Будаўніцтва,
+4237,Меню будаўніцтва,
 4235,"Manage Infopanel
 (Hold) Infopanel shortcuts",
 649120194813,<ButtonY>,
@@ -19237,14 +19237,14 @@ Perfect Time Сол <PerfectDeadline>
 8104,Марсіянскія суткі складаюцца з амаль 25 Зямных гадзін.,
 4028,Час: <white>Гадзіг <hour> Сол <day></white>,
 4002,Замовіць новыя будынкі. Будынкі звычайна патрабуюць рэсурсы і дронаў на мясцовасці.,
-383281603855,Меню Будаўніцтва,
-11864,"<em><ShortcutName('actionOpenBuildMenu', 'keyboard')></em> Адкрыць/Cхаваць меню Будаўніцтва",
-4003,<em><ShortcutName('actionOpenBuildMenu')></em> Адкрыць/Cхаваць меню Будаўніцтва,
+383281603855,Меню будаўніцтва,
+11864,"<em><ShortcutName('actionOpenBuildMenu', 'keyboard')></em> Адкрыць/Cхаваць меню будаўніцтва",
+4003,<em><ShortcutName('actionOpenBuildMenu')></em> Адкрыць/Cхаваць меню будаўніцтва,
 4012,Пераключэньне паміж звычайным рэжымам камеры і Аглядам Мапы.,
 397338699529,Map overview mode not available for this map,
-786525376837,Агляд Мапы,
-11865,"<em><ShortcutName('actionMapOverview', 'keyboard')></em> Змяниць Рэжым Агляду,",
-4013,<em><ShortcutName('actionMapOverview')></em> Змяниць Рэжым Агляду,,
+786525376837,Агляд мапы,
+11865,"<em><ShortcutName('actionMapOverview', 'keyboard')></em> Змяниць рэжым агляду,",
+4013,<em><ShortcutName('actionMapOverview')></em> Змяниць рэжым агляду,,
 4006,Запытайце з Зямлі грузавую або пасажырскую ракету.,
 3997,Забеспячэньне,
 11866,"<em><ShortcutName('actionResupplyScreen', 'keyboard')></em> Адкрыйць экран Забеспячэньня",
@@ -19274,9 +19274,9 @@ Current Research: <em><CurrentResearchName></em>
 7386,<em><ShortcutName('actionRadio')></em> Open Radio,
 4001,"Save, load, change options or quit the game.",
 11031,Interact with Planetary Anomalies located far from our colony.,
-11030,Planetary View,
-11847,"<em><ShortcutName('actionPlanetaryView', 'keyboard')></em> Open Planetary View",
-11032,<em><ShortcutName('actionPlanetaryView')></em> Open Planetary View,
+11030,Агляд планеты,
+11847,"<em><ShortcutName('actionPlanetaryView', 'keyboard')></em> Адчыніць агляд планеты",
+11032,<em><ShortcutName('actionPlanetaryView')></em> Адчыніць агляд планеты,
 974796457889,<FundingRollover>,<FundingRollover>
 500807906538,Фінансаваньне,
 325404562808,<FundingText>,<FundingText>
@@ -19405,9 +19405,9 @@ Current Research: <em><CurrentResearchName></em>
 12305,<em><ShortcutName('actionColonyControlCenter')></em> Toggle Command Center,
 6895,OK,
 11465,VIRTUAL KEYBOARD,
-433085262825,MILESTONES,
-700087753666,DIFFICULTY CHALLENGE <white><percent(rating)>,
-841674688207,"SCORE <white><sum(0, 'ChallengeScore')>",
+433085262825,ВЕХІ,
+700087753666,СКЛАДАНАСЦЬ ВЫЗОВА <white><percent(rating)>,
+841674688207,"ВЫНІК <white><sum(0, 'ChallengeScore')>",
 611518845262,<CompleteText>,
 940959765296,"<def(ChallengeScore,'')>",
 663189700951,<research(reward_research)>,<research(reward_research)>
@@ -19619,9 +19619,9 @@ Mission parameters and colony site are predetermined.",
 494688646361,PAUSE,
 326024522451,RESUME,
 415232371915,<PinSummary>,<PinSummary>
-931381024216,PLANETARY VIEW,
-960994412922,SEND EXPEDITION,
-762629505520,CANCEL EXPEDITION,
+931381024216,АГЛЯД ПЛАНЕТЫ,
+960994412922,АДПРАВІЦЬ ЭКСПЕДЫЦЫЮ,
+762629505520,СКАСАВАЦЬ ЭКСПЕДЫЦЫЮ,
 482503373345,<white><Coord></white>,
 717906085951,<AnomalyDescription>,<AnomalyDescription>
 208937843602,View,
@@ -19777,7 +19777,7 @@ Research cost<right><ResearchPoints(cost)>",
 5466,ЗАГРУЗІЦЬ,
 5471,ВЫДАЛІЦЬ ГУЛЬНЮ,
 5451,ВЫДАЛІЦЬ,
-5450,АДМЕНІЦЬ,
+5450,СКАСАВАЦЬ,
 923579610255,<TitleText>,<TitleText>
 345255658639,TOURISTS in <rocket_name>,
 12783,Age Group,
