@@ -1466,8 +1466,8 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 5288,Stirling Generators,
 10265,"Generates Power. While closed the generator is protected from dust, but produces less Power.",
 5314,+<upgrade1_mul_value_1>% Production.,
-5315,Wind Turbine,
-5317,Generates Power. Increased production during Dust Storms and at high elevations.,
+5315,Ветравая турбіна,
+5317,Вырабляе энергію. Павелічэнне вытворчасці падчас пылавых бур і вышынях.,
 7667,+<upgrade1_mul_value_1>% Production.,
 5059,Electronics Factories,
 5029,+<upgrade1_mul_value_1>% Production; +<power(upgrade1_add_value_2)> Consumption.,
@@ -1556,7 +1556,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 3523,Electronics Factory,
 5307,Extracts Water from underground deposits. All extractors contaminate nearby buildings with dust.,
 5160,Extracts Metals from underground deposits. All extractors contaminate nearby buildings with dust.,
-3527,Экстрактар Металаў,
+3527,Металаэкстрактар,
 5034,Extracts sulfurous rich regolith from Concrete deposits and produces Concrete. All extractors contaminate nearby buildings with dust.,
 5224,Extracts Rare Metals from underground deposits. All extractors contaminate nearby buildings with dust.,
 5007,Provides living space for Colonists. Cramped quarters grant less Comfort during rest.,
@@ -2861,9 +2861,9 @@ With the Research Lab selected, hold <RT> and press <ButtonA>.",
 9188,"From the Research screen, queue <em>three</em> of the available technologies with <left_click>.",
 9191,"From the Build Menu <ButtonY>, construct a Shuttle Hub and connect it to the Power grid.",
 9190,Construct a <em>Shuttle Hub</em> and connect it to the Power grid.,
-9193,"From the Build Menu <ButtonY>, construct a <em>Rare Metals Extractor</em> and connect it to the Power grid.",
-9192,Construct a <em>Rare Metals Extractor</em> and connect it to the Power grid.,
-3530,Rare Metals Extractor,
+9193,"From the Build Menu <ButtonY>, construct a <em>Экстрактар рэдкіх металаў</em> and connect it to the Power grid.",
+9192,Construct a <em>Экстрактар рэдкіх металаў</em> and connect it to the Power grid.,
+3530,Экстрактар рэдкіх металаў,
 9195,"From the Build Menu <ButtonY>, construct a Living Complex inside the mining Dome.",
 9194,Construct a <em>Living Complex</em> inside the mining Dome.,
 3532,Living Complex,
@@ -2973,8 +2973,8 @@ Use <RT> to focus the Dome's Info Panel.",
 7057,Milestone achieved,
 10284,Reward: <reward_description>,
 10283,Goal Completed!,
-5654,Research Complete,
-7058,Research complete,
+5654,Даследаванне завершана,
+7058,Даследаванне завершана,
 988191445076,Buildings destroyed: <count>,
 221683525008,Buildings Destroyed,
 838552707693,"Departing Tourists: <tourist_count><newline>Received <funding(funds)> Funds, <applicants> applicants",
@@ -3801,7 +3801,7 @@ In this tutorial you will learn how to handle Power, Life Support grids and Buil
 9314,"Wind Turbines are a good alternative to Solar Panels as they operate day and night. They also get bonus Power production if built on high ground. However Wind Turbines have high upkeep cost and require maintenance more often than Solar Panels.
 
 <goal>Construct a Wind Turbine and connect it to the existing Power network.",
-5316,Wind Turbines,
+5316,Ветраныя турбіны,
 9313,We can use the Machine Parts left from the Concrete Extractor to build a Wind Turbine.,
 9316,"Solar Panels provide power only during the day and we don't have Accumulators to compensate at night. You can set some of the base buildings to automatically turn off at night using the building's shifts. 
 
@@ -3951,7 +3951,7 @@ In the next and final tutorial you will learn how to manage a larger colony, con
 9384,Shuttles can transport resources and colonists across great distances. ,
 9388,"Colonists can work in some outside buildings placed close to their Domes - such as extractors for Metals and Rare Metals. Since colonists will be needed for the extraction of these underground deposits, it is a good practice to place Domes near such deposits, as is the case in this simulation.
 
-<goal>Construct a Rare Metals Extractor next to the Rare Metals Deposit and connect it to the power grid.",
+<goal>Construct <em>Экстрактар рэдкіх металаў</em> каля <em>Радовішча рэдкіх металаў</em> and connect it to the power grid.",
 9386,Workplaces Outside the Domes,
 9387,Now that we have operational Shuttles it's time to establish a mining Dome.,
 9390,"Once you have provided a Dome with living space, colonists from other Domes will be able to resettle in it, provided it is within walkable distance or there are available Shuttles to fly them there.
@@ -3971,7 +3971,7 @@ In the next and final tutorial you will learn how to manage a larger colony, con
 
 <goal> From the Specialization Category, activate the Thumbs Up icon for Geologists and the Thumbs Down one for Scientists.",
 9397,Mining Dome,
-9398,"Being near a Rare Metals Deposit, this Dome is best suited as a mining hub so it's best to encourage Geologists to migrate here.",
+9398,"Being near <em>Радовішча рэдкіх металаў</em>, this Dome is best suited as a mining hub so it's best to encourage Geologists to migrate here.",
 9402,"To demonstrate Dome connections, let's first build a new Dome near our research Dome.
 
 <goal>Construct a Dome at the indicated location.",
@@ -9103,7 +9103,7 @@ New Dome: <em>Mega Trigon</em> (<buildinginfo('DomeMegaTrigon')>) - A bigger tri
 
 <grey>We have reached a proficiency in engineering that surpasses the most ambitious architectural achievements on Earth.</grey>",
 6385,Gravity Engineering,
-6390,"<em>Rare Metals Extractor</em> production increased by <param1>%.
+6390,"<em>Экстрактар рэдкіх металаў</em> production increased by <param1>%.
 
 <grey>Introducing state of the art plasma torches to our Rare Metals Extractors show a great promise for boosts in production.</grey>",
 6389,Plasma Cutters,
@@ -9124,7 +9124,7 @@ New Dome: <em>Mega Trigon</em> (<buildinginfo('DomeMegaTrigon')>) - A bigger tri
 6612,Dredger Morphology,
 6615,An attempt to decode the transmissions sent out by Dredgers in order to predict their behavior and landing sites.,
 6614,Dredger Wavelength Decoding,
-6617,"Water Extractor, Concrete Extractor, Metals Extractor and Rare Metals Extractor gain +<param1>% bonus production.
+6617,"Water Extractor, Concrete Extractor, Metals Extractor and Экстрактар рэдкіх металаў gain +<param1>% bonus production.
 
 <grey>Studying the behavior and structure of the Dredgers, our scientists are able to develop revolutionary advancements in mining equipment and archaeological survey</grey>
 
@@ -9780,7 +9780,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 132230066368,Core Heat Convector,
 970508703169,Core Heat Convectors,
 502029972735,"Delivers Water to an underground pipe network and effectively transports heat from the planetary core, improving the global Temperature<icon_TemperatureTP_alt>. Increases the local temperature in cold areas and protects nearby buildings from Cold Waves.",
-357216170041,Forestation Plant,
+357216170041,Лесапасадка,
 596878342034,Forestation Plants,
 869677365113,"Consumes Seeds to plant wild vegetation, increasing local Soil Quality. Plants will wither or grow according to local Soil Quality and global Temperature<icon_TemperatureTP_alt> and Water <icon_WaterTP_alt>. Improves global Vegetation <icon_VegetationTP_alt> if it's less than <resource(40000,'VegetationTP')>. Doesn’t work during Dust Storms and Toxic Rains.",
 11910,+<upgrade1_mul_value_1>% faster terraforming; +<power(upgrade1_add_value_2)> Consumption.,
@@ -9883,7 +9883,7 @@ Vegetation is increased by completing the <em>Seed Vegetation</em> Special Proje
 
 The more vegetation there is, the faster the spreading will become and conditions will become favorable for even forests to exists on Mars.
 
-The <em>Forestation Plant</em> building is used to spread <em>Vegetation</em> locally.",
+<em>Лесапасадка</em> выкарыстоўваецца да распаўсюджвання вакол сябе <em>Расліннасці</em>.",
 248444438392,<new_in('armstrong')>Terraforming: Vegetation,
 441607506889,"The <em>Water</em> parameter represents the quality and volume of surface water on Mars. The higher this parameter is, the more and larger water bodies will appear on Mars: lakes, seas and oceans.
 
@@ -9905,19 +9905,19 @@ All Special Projects concerning the Terraforming of Mars are colored in <green>G
 745314075069,No Terraforming,
 500342499064,"<grey>""Things do not change; we change.""
 <right>Henry David Thoreau</grey><left>",
-569276295516,Send a Rocket to complete one of the Special Projects that appear in the Агляд планеты.,
+569276295516,"Адпраўце ракету, каб выканаць адзін са спецпраектаў, якія з'яўляюцца ў <em>Аглядзе планеты</em>.",
 754470867259,<new_in('armstrong')>Выканайце спецпраект,
-532751737426,Research Adapted Vegetation and have a Forestation Plant with Plant Type set to a tree. Trees require high Temperature<icon_TemperatureTP_alt> and Water<icon_WaterTP_alt> terraforming progress.,
+532751737426,"Даследуйце прыстасаваную расліннасць і падрыхтуйце <em>Лесапасадку</em> з тыпам расліны, усталяваным на дрэва. Дрэвы патрабуюць высокай <em>Тэмпературы</em><icon_TemperatureTP_alt> і <em>Вады</em><icon_WaterTP_alt> ў <em>Терафарміраванні</em>  .",
 194143329868,<new_in('armstrong')>Пасадзіце дрэва на паверхні Марса,
-594640680312,Research Lake Crafting and construct a Lake.,
+594640680312,Даследуйце <em>Стварэнне возёр</em> і пабудуйце <em>Возера</em>.,
 637326803967,<new_in('armstrong')>Выкапайце возера,
-196951125366,Have <tp_threshold('LiquidWater')> terraforming progress.,
+196951125366,Патрабуе <tp_threshold('LiquidWater')> ў прогрэсе <em>Терафарміравання</em>.,
 625564457793,<new_in('armstrong')>Вадкая вада на паверхні Марса,
-588918071492,Have <tp_threshold('RainStart')> terraforming progress.,
+588918071492,Патрабуе <tp_threshold('RainStart')> ў прогрэсе <em>Терафарміравання</em>.,
 770272958580,<new_in('armstrong')>Першыя ападкі,
-595935243906,Have <tp_threshold('AtmosphereBreathable')> terraforming progress.,
+595935243906,Патрабуе <tp_threshold('AtmosphereBreathable')> ў прогрэсе <em>Терафарміравання</em>.,
 232371013531,<new_in('armstrong')>Атмасфера прыгодна да дыхання,
-398907679702,"Research, construct and maintain Carbonate Processors and complete Special Projects to achieve maximum Atmosphere terraforming.",
+398907679702,"Даследуйце, стварайце і падтрымлівайце перапрацоўшчыкі карбанатаў і выконвайце спецпраекты для дасягнення максімальнага тэрафармавання атмасферы.",
 840558176469,<new_in('armstrong')>100% Терафарміраванне атмасферы,
 883134526540,"Research, construct and maintain GHG Factories and Core Heat Convectors and complete Special Projects to achieve maximum Temperature terraforming.",
 221889569841,<new_in('armstrong')>100% Терафарміраванне тэмпературы,
@@ -9933,7 +9933,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - All Terraforming techs are 50% cheaper for research
 - Forestation Plants do not require Power
 - Can import RC Dozers from start
-- Bonus Tech: <em>Martian Vegetation</em> (unlocks Forestation Plant)
+- Bonus Tech: <em>Martian Vegetation</em> (unlocks Лесапасадку)
 - Bonus Tech: <em>Interplanetary Projects</em> (unlocks terraforming special projects)",
 12201,Патрабуецца ваша ўвага!,
 650478062117,Planet Habitable,
@@ -10112,7 +10112,7 @@ Further terraforming info is available in the <em>Encyclopedia</em>.",
 <em>Temperature</em> is increased by buildings in the <em>Terraforming build menu</em> and by completing <em>Special projects</em>.
 
 The <em>Temperature tooltip</em> provides further information.",
-337281897308,Temperature,
+337281897308,Тэмпература,
 581462325866,"Vegetation parameter represents the spreading and diversity of vegetation and bacterial life on a planetary scale. Its improvement boosts local vegetation growth speed and spread.
 
 <em>Vegetation</em> is increased by <em>working Forestation Plants</em> and by completing <em>Special Projects</em>.
@@ -11117,7 +11117,7 @@ As a side effect, one may expect a 5% boost in the field of Biotech.",
 11985,Water of Peace,
 824903427290,"New Resource: <em>Seeds</em> - used to plant vegetation on Mars. Can be brought from Earth or grown in Farms and Hydroponic Farms.
 
-New Building: <em>Forestation Plant</em> (<buildinginfo('ForestationPlant')>) - plants vegetation around it-self at the cost of Seeds. Increases local Soil Quality and improves  global Vegetation <icon_VegetationTP_alt>,
+Новы будынак: <em>Лесапасадка</em> (<buildinginfo('ForestationPlant')>) - plants vegetation around it-self at the cost of Seeds. Increases local Soil Quality and improves  global Vegetation <icon_VegetationTP_alt>,
 
 <grey>""Vegetation is the basic instrument the creator uses to set all of nature in motion."" 
 <right>Antoine Lavoisier</grey><left>",
@@ -11166,7 +11166,7 @@ New Building: <em>Forestation Plant</em> (<buildinginfo('ForestationPlant')>) - 
 
 <grey>""The little lake you love is the biggest ocean for you!"" 
 <right>Mehmet Murat ildan</grey><left>",
-11927,Lake Crafting,
+11927,Стварэнне возёр,
 638420009620,"Unlocks planting of <em>Bushes</em> and <em>Trees</em> in Forestation Plants. Fully-grown Bushes and Trees are harvested for Seeds by Drones.
 
 <grey>""Trees are the earth's endless effort to speak to the listening heaven."" 
@@ -11219,13 +11219,13 @@ New Building: <em>Forestation Plant</em> (<buildinginfo('ForestationPlant')>) - 
 206931232175,Loss of atmosphere,
 277656568245,Magnetic Shields,
 842959764549,"Represents the density and composition of the Martian atmosphere. The higher this parameter is, the more Earth-like the atmospheric pressure, Oxygen levels and cloud generation are.<newline><newline>The improving Atmosphere decreases the severity of <em>Dust Storms</em> and <em>Meteor Storms</em> and creates environmental conditions for <em>Toxic Rains</em> and <em>clear water Rains</em> to occur.<newline><newline>Atmosphere applies terraforming boost to the Power production of <em>Wind Turbines</em> and to the Oxygen production of <em>MOXIEs</em>. <red>Decreases</red> the Power production of <em>Solar Panels</em>.<newline><newline><em>At maximum improvement, the atmosphere of Mars becomes breathable rendering domes and pressure suits obsolete.</em>",
-723765912147,Atmosphere,
+723765912147,Атмасфера,
 637529677905,"Represents the global surface temperature on Mars. The higher this parameter is, the more favorable the conditions for Earth-like life are.<newline><newline>The improving Temperature decreases the severity of <em>Cold Wave</em> and creates environmental conditions for <em>Toxic Rains</em> and <em>clear water Rains</em> to occur.<newline><newline>Increased Temperature is required for <em>liquid water</em> to be present on the surface of Mars and in lakes. High enough Temperatures are also paramount for the habitability of the Martian surface and to be able to have <em>open-air Domes</em>.",
-920381483594,Temperature,
+920381483594,Тэмпература,
 690140647880,"Represents the spreading and diversity of vegetation and bacterial life on a planetary scale. The higher this parameter is, the more Mars looks like the tundra biome back on Earth, with the ultimate goal to become a quite harsh, yet habitable second home for Humanity.<newline><newline>The improving Vegetation increases the likelihood that plants will replicate and spread.<newline><newline><em>As wild vegetation improves, sporadic vegetation booms will occur.</em> Increased concentration of seeds in the wind causes lichen, grass, bushes or trees to spread throughout the colony.",
-582684290103,Vegetation,
+582684290103,Расліннасць,
 967369800333,"Represents the quality and volume of surface water on Mars. The higher this parameter is, the more and larger water bodies will appear on Mars: lakes, seas and oceans.<newline><newline>The improving Water creates environmental conditions for <em>Toxic Rains</em> and <em>clear water Rains</em> to occur.<newline><newline>Water applies terraforming boost to the Water production of <em>Moisture Vaporators</em>.",
-310269978907,Water,
+310269978907,Вада,
 419980839851,"SchemeBk, 22, aa",
 820939749171,"LibelSuitRg, 18, aa",
 772322857901,Bushes produce small amount of Seeds when fully-grown.,
@@ -11251,10 +11251,10 @@ New Building: <em>Forestation Plant</em> (<buildinginfo('ForestationPlant')>) - 
 548445061983,<left_click> Open Encyclopedia,
 12607,<ButtonA> Open Encyclopedia<newline><DPad> Navigate <DPadDown> Close,
 12479,<AtmosphereRollover>,<AtmosphereRollover>
-12480,Atmosphere,
+12480,Атмасфера,
 615771220556,<AtmosphereText>,<AtmosphereText>
 123033012735,<TemperatureRollover>,<TemperatureRollover>
-602825975582,Temperature,
+602825975582,Тэмпература,
 553383115867,<TemperatureText>,<TemperatureText>
 497622694313,<WaterRollover>,<WaterRollover>
 429318014327,Water,
@@ -11640,7 +11640,7 @@ But we bear the mark of our failure. We know that we were tried and found wantin
 763932893983,Small Spacebars,
 457100888010,Living Quarters,
 107213176619,Large Oxygen Tanks,
-5313,Polymer Blades,
+5313,Палімерныя клінкі,
 961916359908,Large Wind Turbine,
 947024336813,Large Wind Turbines,
 11420,Generates Power. Increased production during Dust Storms and at high elevations.,
@@ -12037,8 +12037,8 @@ This technological challenge to take advantage of what little wind there is on M
 243716196617,Збудована: Выпарнікі вільгаці,
 516194424164,Збудована: farms,
 801575663207,Збудована: Concrete Extractor,
-601660641143,Збудована: Metals Extractor,
-892685234280,Збудована: Rare Metals Extractor,
+601660641143,Збудована: Металаэкстрактар,
+892685234280,Збудована: Экстрактар рэдкіх металаў,
 549753714095,Збудована: Fuel Refinery,
 491436888630,Збудована: Polymer Factory,
 152436678499,Збудована: Machine Parts Factory,
@@ -12284,8 +12284,8 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - Researching a Breakthrough Tech grants Applicants
 - Rockets require more fuel to launch <em>(drawback)</em>",
 756371553955,Hard,
-794934094417,Japan,
-420248056524,"Research per Сол: <research(SponsorResearch)>
+794934094417,Японія,
+420248056524,"Даследаванняў ў Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - <em>Wasp Drone</em> - faster, flying drone
@@ -13550,23 +13550,23 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 2,Unlock Tech,
 8693,Grant Resources,
 8,Breakthrough Tech,
-12701,Anomaly,
+12701,Анамалія,
 14309,Rare anomaly,
 14310,Our scans have picked up a trace of something potentially revolutionary. We should investigate this as soon as possible.<newline><newline>Send an RC Explorer to analyze the Anomaly.,
 4,Tech Action,
 8694,Granted Resource,
 8695,Granted Amount,
-9,Anomaly,
+9,Анамалія,
 11,Our scientists believe that this Anomaly may lead to a <em>Breakthrough</em>.<newline><newline>Send an <em>Explorer</em> to analyze the Anomaly.,
-12,Scans have detected some interesting readings that might help us discover <em>new Technologies</em>.<newline><newline>Send an <em>Explorer</em> to analyze the Anomaly.,
-13,Sensors readings suggest that this Anomaly will help us with our current <em>Research</em> goals.<newline><newline>Send an <em>Explorer</em> to analyze the Anomaly.,
+12,"Сканаваньне выявіла цікавыя дадзеныя, якія могуць дапамагчы нам адкрыць <em>Новыя Тэхналогіі</em>.<newline><newline>Адпраўце <em>РК Даследчык</em> да аналізу анамаліі.",
+13,"Паказанні датчыкаў пасведядчаюць, што гэтая анамалія дапаможа нам у нашым бягучым <em>Даследаванні</em>.<newline><newline>Адпраўце <em>РК Даследчык</em> да аналізу анамаліі.",
 14,We have detected alien artifacts at this location that will <em>speed up</em> our Research efforts.<newline><newline>Send an <em>Explorer</em> to analyze the Anomaly.,
 17,"Period, base (s)",
 18,"Period, random (s)",
 19,Spawn Chance (%),
 20,Lifetime (s),
 21,Speed (m/s),
-22,Our scans have found some interesting readings in this Sector. Further analysis is needed.<newline><newline>Send an RC Explorer to analyze the Anomaly.,
+22,"Нашы сканеры выявілі цікавыя дадзеныя у гэтым сектары. Неабходны далейшы аналіз.<newline><newline>Адпраўце <em>РК Даследчык</em> да аналізу анамаліі.",
 8570,<green>Hive Mind <FormatSignInt(amount)></color>,
 31,Effect Range,
 32,Power Production,
@@ -14218,19 +14218,19 @@ Services: <em><list></em>",
 781,Very high,
 7,Is Revealed,
 6,Depth Layer,
-784,"<Description><newline><newline><ResourceName><right><resource(amount,max_amount,resource)><newline><left>Grade<right><grade_name>",
-791,Underground Metals,
-792,An underground deposit of Metals. Can be exploited by a <em>Metals Extractor</em> staffed by <em>Colonists</em>.,
+784,"<Description><newline><newline><ResourceName><right><resource(amount,max_amount,resource)><newline><left>Клас<right><grade_name>",
+791,Падземныя металы,
+792,"Падземнае радовішча металаў. Дабываюцца ў <em>Металаэкстрактар</em> працуюшчымі ў нім <em>Каланістамі</em>.",
 793,Deep Metals,
-794,A deep underground deposit of Metals. Can be exploited by a <em>Metals Extractor</em> staffed by <em>Colonists</em>.,
+794,A deep underground deposit of Metals. Can be exploited by a <em>Металаэкстрактар</em> staffed by <em>Colonists</em>.,
 795,Underground Water,
 796,An underground deposit of Water. Can be exploited by a <em>Water Extractor</em>.,
 797,Deep Water,
 798,Deep underground deposit of Water. Can be exploited by a <em>Water Extractor</em>.,
 799,Underground Rare Metals,
-800,An underground deposit of Rare Metals. Can be exploited by a <em>Rare Metals Extractor</em> staffed by <em>Colonists</em>.,
+800,An underground deposit of Rare Metals. Can be exploited by a <em>Экстрактар рэдкіх металаў</em> staffed by <em>Colonists</em>.,
 801,Deep Rare Metals,
-802,Deep underground deposit of Rare Metals. Can be exploited by a <em>Rare Metals Extractor</em> staffed by <em>Colonists</em>.,
+802,Deep underground deposit of Rare Metals. Can be exploited by a <em>Экстрактар рэдкіх металаў</em> staffed by <em>Colonists</em>.,
 13888,"Excess power, water and oxygen can be sent through the elevator between the surface and underground.",
 13889,<newline><center><em>Power</em><newline>,
 13890,Power production <current_map> <right><power(power_production)>,
@@ -14264,12 +14264,12 @@ Services: <em><list></em>",
 804,Deposit Entity Variant,
 805,<resource(resource)> Surface Deposit,
 806,"<description><newline><newline><ResourceName><right><resource(Amount,max_amount,resource)>",
-811,Metals Deposit,
-812,Scattered Metals. Harvested by Drones or RC Transports.,
-813,Regolith Deposit,
-814,Sulfur-rich regolith. Processed into Concrete by a Concrete Extractor,
-815,Polymers Deposit,
-816,Scattered Polymers. Harvested by Drones or RC Transports.,
+811,Радовішча металу,
+812,Раскіданыя металы. Збіраюцца <em>Дронамі</em> або <em>РК Пагрузчыкам</em>.,
+813,Радовішча рэгаліту,
+814,Багаты серай рэгаліт. Збіраецца як бетон <em>Дронамі</em> і <em>РК Пагрузчыкам</em>,
+815,Радовішча палімераў,
+816,Раскіданыя палімеры. Збіраюцца <em>Дронамі</em> або <em>РК Пагрузчыкам</em>.,
 817,Resource ,
 637,Prefab,
 818,Density 1,
@@ -14277,9 +14277,9 @@ Services: <em><list></em>",
 782,Max amount,
 16,Grade,
 783,Deep <resource(resource)>,
-820,"<Description><newline><newline><ResourceName><right><resource(Amount,max_amount,resource)><newline><left>Grade<right><grade_name>",
-821,Concrete Deposit,
-822,A Regolith-rich terrain that can be processed into Concrete. Can be exploited by a <em>Concrete Extractor</em>.,
+820,"<Description><newline><newline><ResourceName><right><resource(Amount,max_amount,resource)><newline><left>Клас<right><grade_name>",
+821,Бетоннае радовішча,
+822,"Багатая рэгалітамі мясцовасць, якую можна перапрацаваць у бетон. Дабываецца <em>Экстрактарам бетону</em>.",
 823,Max visitors per shift,
 824,Min points per Сол,
 825,Points to evaluate,
@@ -14574,7 +14574,7 @@ Services: <em><list></em>",
 8930,Too sharp curve.,
 8931,Sharp curve,
 12159,Can't extend from tilted pipes,
-877,Available resource<right><resource><newline><left>Grade<right><grade><left>,
+877,Available resource<right><resource><newline><left>Клас<right><grade><left>,
 11586,Vista - Comfort of residences will be boosted.,
 11458,Vista,
 13607,Vista - Morale of residences will be boosted.,
@@ -17959,7 +17959,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 12000,<u(SpecialProject)>,<u(SpecialProject)>
 3848,Брак спецыялізацыі,
 3850,Навуковец,
-3851,Навуковецы,
+3851,Навукоўцы,
 3852,"Адукаваны навуковец, які імкнецца адкрыць таямніцы Космасу.",
 3853,Інжынер,
 3854,Інжынеры,
@@ -18188,7 +18188,7 @@ Larger networks will malfunction more often.",
 4137,"Concrete is used in the construction of many Colony buildings, especially in the interior of the Domes.",
 4138,Most vital resource for sustaining humans on Mars. Water can be extracted from deposits using Water Extractors.,
 4140,"Rare Metals can be exported by refueled Rockets that return to Earth, increasing the Funding for the Colony. They are also used for creating Electronics.",
-4141,Temperature,
+4141,Тэмпература,
 13661,Exotic Minerals,
 13662,"Exotic Minerals can only be obtained from Asteroids. They are a valuable construction material for expanding into the underground, and can be exported to earth to increase the Funding for the Colony.",
 4142,Dust Devils,
@@ -18228,7 +18228,7 @@ Larger networks will malfunction more often.",
 11604,<time(time)>,<time(time)>
 14343,In Orbit,
 6896,"Кіраваньне місіяй, запіс #<number><newline><newline>",
-4167,Return to Earth?,
+4167,Вярнуцца да Зямлі?,
 8718,Please don't go. The drones need you. They look up to you.<newline><newline>Are you sure you want to exit the game?,
 4263,Press any button,
 1000623,You are not signed into a profile. You will be unable to save any game content until you sign in.,
@@ -19296,10 +19296,10 @@ Current Research: <em><CurrentResearchName></em>
 13685,Scanned Resources (Dev only),
 13686,<ScannedResourcesText>,<ScannedResourcesText>
 965950572237,<MetalsRollover>,<MetalsRollover>
-921009833362,Metals,
+921009833362,Металы,
 290848825416,<MetalsText>,<MetalsText>
 777092042856,<ConcreteRollover>,<ConcreteRollover>
-558957250020,Concrete,
+558957250020,Бетон,
 563905203540,<ConcreteText>,<ConcreteText>
 531540704716,<FoodRollover>,<FoodRollover>
 165513395865,Food,
@@ -19309,7 +19309,7 @@ Current Research: <em><CurrentResearchName></em>
 868548677390,<ButtonA> Cycle stored resources<newline><DPad> Navigate <DPadDown> Close,
 118276114882,<PreciousMetalsText>,<PreciousMetalsText>
 353676002560,<PolymersRollover>,<PolymersRollover>
-112574648549,Polymers,
+112574648549,Палімеры,
 456271481390,<PolymersText>,<PolymersText>
 565651032917,<MachinePartsRollover>,<MachinePartsRollover>
 478510455605,Machine Parts,
@@ -20160,7 +20160,7 @@ Status: <em><UILaunchStatus></em>",
 347,Cпажываньне,
 705011232956,<Consumption>,
 904,Рэльеф,
-906,Elevation Boost<right><ElevationBoost>%,
+906,Узмац. ад узвышша<right><ElevationBoost>%,
 905,Wind Turbines produce more Power at higher elevation.,
 852464821035,Soil Quality,
 493502715544,Average in range<right><AvgSoilQualityInRange>%,
@@ -20389,7 +20389,7 @@ Queue tasks by using <em>Shift + <right_click></em>",
 785,Remaining resources in the deposit.,
 489,Даступныя рэсурсы,
 810,"<ResourceName><right><resource(Amount,max_amount,resource)>",
-787,Grade<right><grade_name>,
+787,Клас<right><grade_name>,
 370449987367,Priority affects how often this building is serviced by Drones as well as its share of Power and life support. Notifications are not shown for buildings with low priority.<newline><newline>Current priority: <em><UIPriority></em>,
 369,Change Priority,
 7659,<ButtonA> Change priority<newline><ButtonX> Change priority of all <display_name_pl>,
@@ -20491,7 +20491,7 @@ Queue tasks by using <em>Shift + <right_click></em>",
 571,Power grid,
 508800248152,Production per Сол<right><power(UIPowerProductionToday)><newline><left>Lifetime production<right><power(UIPowerProductionLifetime)>,
 437,Вытворчасць энергіі<right><power(UIPowerProduction)>,
-438,Elevation boost<right><ElevationBonus>%,
+438,Узмац. ад узвышша<right><ElevationBonus>%,
 433366911234,"Узмац. ад тэрафармавання<right><modifier_percent('electricity_production', 'TP Boost Atmosphere')>",
 12120,Atmospheric effect<right><percent(TPBoostAtmosphere)>,
 272429157241,"Space Mirror<right><modifier_percent('electricity_production', 'spacemirror')>",
@@ -20617,11 +20617,11 @@ Status: <on_off(IsResourceEnabled(res))>",
 762021223496,<ButtonA> Toggle Overtime <newline><newline><ButtonX> Toggle Overtime for all <display_name_pl>,
 13823,Vistas,
 3984,Anomalies,
-3513,Concrete,
+3513,Бетон,
 7909,Basic construction material often used to construct and maintain Domes and Dome buildings.,
-3514,Metals,
+3514,Металы,
 7910,Basic construction materials often used to construct and maintain outside buildings. Required for the creation of Machine Parts.,
-3515,Polymers,
+3515,Палімеры,
 7911,"Advanced materials often used to construct and maintain Power accumulators, advanced Power generators, Domes and Spires.",
 3517,Electronics,
 7912,Advanced materials often used to construct and maintain scientific and infrastructure buildings.,
