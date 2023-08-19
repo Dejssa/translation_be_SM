@@ -1,10 +1,10 @@
 # Ліст перакладу тэрмінаў
 
 ## Агульныя
-- mission sponsor - Фундатар місіі
-- Mystery
+- Mission sponsor - Фундатар місіі
 - Commander - Камандзір
 - Rival - супраціўнік
+- Rovers - марсаход
 - Low-G - Нізкай-Г
 - Rival colony - Калонія сапернік
 - Applicant - Кандыдат
@@ -14,13 +14,14 @@
 - Research Sites - Месца дасьледваньня
 - Mission Control - Камандны Цэнтр
 - Drones Hub - ЦК дронаў
+- Standing - адносіны
 
 ## Рэсурсы
 - Waste Rock - Пустая парода
 
 ## Будынкі
 - GHG Factory - ВПГ фабрыка
-- MOXIE - МЭВК
+- MOXIE - МЭРТ
 - Drone Hubs - ЦК Дронамі
 
 ## Тэхналогіі
