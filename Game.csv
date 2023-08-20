@@ -1271,13 +1271,13 @@ Before you get started, please take a moment to read our Privacy Policy.",
 5308,Water Reclamation Systems,
 5017,Малы купал,
 5018,Малыя купалы,
-5019,Нявялікі купал прыдатны да першых дзён калоніі.,
+5019,Нявялікі купал прыдатны для першых дзён калоніі.,
 9012,Алмазны купал,
 9013,Алмазныя купалы,
-9014,"Канструкцыя купалу ў форме ромба, у якой ёсьць мейсца да двух шпіляў.",
+9014,"Канструкцыя купалу ў форме ромба, у якой ёсьць мейсца для двух шпіляў.",
 9006,Бачкавы купал,
 9007,Бачкавыя купалы,
-9008,"Альтэрнатыўная невялікая канфігурацыя купалу забяспечвае больш мейсца, але няма мейсца да шпілю.",
+9008,"Альтэрнатыўная невялікая канфігурацыя купалу забяспечвае больш мейсца, але няма мейсца для шпілю.",
 5146,Сярэдні купал,
 5147,Сярэднія купалы,
 5148,Канструкцыя купалу сярэдняга памеру.,
@@ -1335,7 +1335,7 @@ Before you get started, please take a moment to read our Privacy Policy.",
 10501,<left_click> Land Pod,
 10502,<ButtonA> Land Pod,
 10273,Supply Pods,
-10961,"Дастаўляе груз або колёністаў на Марс. Камандуе бліжэйшымі дронамі. Патрабуе <em>Паліва</em> для вяртаньня да Зямлі.<newline>Уздымае пыл пры пасадцы ды ўзлёце, выклікаючы набліжаючы догляд за будынкамі ў шэрай зоне.",
+10961,"Дастаўляе груз або колёністаў на Марс. Камандуе бліжэйшымі <em>Дронамі</em>. Патрабуе <em>Паліва</em> для вяртаньня да Зямлі.<newline>Уздымае пыл пры пасадцы й ўзлёце, выклікаючы хуткі догляд за будынкамі ў шэрай зоне.",
 6984,Defensive Turret,
 6985,Defensive Turrets,
 6986,A laser-targeting defense structure. Protect nearby buildings from meteors. Can attack enemy vehicles at extreme range.,
@@ -1399,7 +1399,7 @@ Before you get started, please take a moment to read our Privacy Policy.",
 5194,Pipe Valves,
 5195,Can be manually activated to cut off Water and Oxygen supply.,
 5128,МЭВКаў,
-5130,"МЭРК інструменты, якія выкарыстоўваюць МЭРТ (скарачэньне ад Марсіянскі Эксперыментальны Вытваральнік Тлёну) тэхналогію, вырабляць тлён з вялікай колькасьці CO2 ў атмасфэры Марса.
+5130,"МЭРК інструменты, якія выкарыстоўваюць МЭРТ (скарачэньне ад Марсіянскі Эксперыментальны Вытваральнік Тлёну) тэхналёгію, вырабляць тлён з вялікай колькасьці CO2 ў атмасфэры Марса.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
@@ -1599,7 +1599,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 889392282896,Provides living space for Tourists and Colonists. Luxurious hotel rooms that provide the best holiday experience. Tourists gain <em>Satisfaction</em> while staying here.,
 426921114197,Olympus Hotel,
 5139,Trains Specialists using modern remote learning techniques. Graduation speed depends on the individual student performance.,
-5137,Martian University,
+5137,Марсіянскі універсітэт,
 5179,Nursery,
 5198,Cultivates Perks in Children through special nurturing programs.,
 5196,Гульнявая пляцоўка,
@@ -1822,39 +1822,39 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 213177200768,Мэр места,
 156992981942,"- 2,000 Млн. дадатковага фінансаваньня
 - Будынкі патрабуюць меньш абслугоўваньня
-- Бонусная тэхналогія: <em>Марс Нуво</em> (кошт на будаўніцтва ў металах і бетоне зніжаецца на 20%)",
+- Бонусная тэхналёгія: <em>Марс Нуво</em> (кошт на будаўніцтва ў металах і бетоне зніжаецца на 20%)",
 5319,Bынаходца,
 5320,"- Дроны паступова аптымізуюцца для больш хуткай працы і канструяваньня да 100га Сола 
-- Бонусная тэхналогія: <em>Autonomous Hubs</em> (ЦК Дронамі больш не патрабуе энергію або абслугоўваньне)",
+- Бонусная тэхналёгія: <em>Autonomous Hubs</em> (ЦК Дронамі больш не патрабуе энергію або абслугоўваньне)",
 5321,Алігарх,
 5322,"- Вытворчасьць паліва павялічана на 25%
-- Бонусная тэхналогія: <em>Аркалогія</em> (адкрывае жылы шпіль)",
+- Бонусная тэхналёгія: <em>Аркалогія</em> (адкрывае жылы шпіль)",
 5323,Hydro Engineer,
 5324,"- Start with a Water deposit revealed
 - Domes consume 25% less Water
-- Бонусная тэхналогія: <em>Water Reclamation</em> (unlocks a spire which reduces Water consumption)",
+- Бонусная тэхналёгія: <em>Water Reclamation</em> (unlocks a spire which reduces Water consumption)",
 5325,Doctor,
 5326,"- Minimum Comfort required for birth lowered by 15
-- Бонусная тэхналогія: <em>Stem Reconstruction</em> (colonist lifespan is increased)",
+- Бонусная тэхналёгія: <em>Stem Reconstruction</em> (colonist lifespan is increased)",
 5327,Psychologist,
 5328,"- Colonists recover 5 additional Sanity while resting in their homes
-- Бонусная тэхналогія: <em>Behavioral Shaping</em> (unlocks a Sanatorium spire which treats colonists' flaws)",
+- Бонусная тэхналёгія: <em>Behavioral Shaping</em> (unlocks a Sanatorium spire which treats colonists' flaws)",
 5329,Politician,
 5330,"- All Funding gains are increased by <percent(20)>
-- Бонусная тэхналогія: <em>Martian Patents</em> (repeatable tech that grants Funding)",
+- Бонусная тэхналёгія: <em>Марсіянскія патэнты</em> (repeatable tech that grants Funding)",
 5331,Futurist,
 5332,"- Breakthrough techs are researched <percent(30)> faster
-- Бонусная тэхналогія: <em>Autonomous Sensors</em> (Вежы-сканеры no longer require Power or maintenance)",
+- Бонусная тэхналёгія: <em>Autonomous Sensors</em> (Вежы-сканеры no longer require Power or maintenance)",
 5333,Ecologist,
 5334,"- Service Comfort of decorations increased by 10
-- Бонусная тэхналогія: <em>Hanging Gardens</em> (unlocks a spire which improves residences in the Dome)",
+- Бонусная тэхналёгія: <em>Hanging Gardens</em> (unlocks a spire which improves residences in the Dome)",
 5335,Astrogeologist,
 5336,"- Start with a Rare Metal deposit revealed
 - Extractor production increased by 10%
-- Бонусная тэхналогія: <em>Deep Scanning</em> (allows the scanning of sectors for deep deposits)",
-5337,Вучоны-ракетазнаўца,
+- Бонусная тэхналёгія: <em>Deep Scanning</em> (allows the scanning of sectors for deep deposits)",
+5337,Навуковец-ракетазнаўца,
 5338,"- Пачынае з дадатковай ракетайя
-- Бонусная тэхналогія: <em>рэактыўны рухавік CO2</em> (адкрывае ЦК шатлаў да транспарціроўкі на адлегласьці)",
+- Бонусная тэхналёгія: <em>рэактыўны рухавік CO2</em> (адкрывае ЦК шатлаў да транспарціроўкі на адлегласьці)",
 8115,Rice engineered on Ganymede. Grows very fast and has high yield.,
 8114,Ganymede Rice,
 7009,Giant Rice,
@@ -2173,7 +2173,7 @@ Homeless Colonists will travel to another accessible Dome with available residen
 
 Each <em>Dome</em> can be set up to filter Colonists by age, specialization and other traits. Colonists with ANY of the must include traits, or ANY of the desired traits and NONE of the undesired ones will remain in the Dome. Others will seek another Dome with available living space and filter that matches their traits.",
 5418,Colonists - Moving Between Domes,
-8118,"Colonists with no specialization may be educated to receive a specialization in the Martian University. The University can provide needed specializations automatically or focus on a single desired specialization.
+8118,"Colonists with no specialization may be educated to receive a specialization in the Марсіянскі універсітэт. The University can provide needed specializations automatically or focus on a single desired specialization.
 
 Some, but not all, undesirable Flaws may be cured in the Sanatorium spire. Up to three different flaws can be treated in a single Sanatorium.
 
@@ -2219,7 +2219,7 @@ The process is facilitated by Drones, which extract Waste Rock to lower the grou
 701672144364,"<grey>""Божа, усе гэтыя грошы, якія мы марнуем на дасьледаваньне космасу; падумаць толькі, як шмат бомбаў магчыма было б купіць!""<newline><right>Крэйг Брус</grey><left>",
 162703517673,"Будынкі працуюць заўсёды, нават без абслугоўваньня. <NoAchievements()>",
 359360313200,Лёгкае абслугоўваньне,
-177740838839,Дадатковыя 3000 ачкоў дасьледаваньня ў Сол ды выяўляе ўсе тэхналогіі. <NoAchievements()>,
+177740838839,Дадатковыя 3000 ачкоў дасьледаваньня ў Сол ды выяўляе ўсе тэхналёгіі. <NoAchievements()>,
 831225179496,Лёгкае даследаваньне,
 12818,"<grey>""Нічога ў жыцці не варта баяцца; Гэта толькі патрэбна зразумець.""
 <right>Марыя Складоўская Кюры</grey><left>",
@@ -2254,8 +2254,8 @@ The process is facilitated by Drones, which extract Waste Rock to lower the grou
 463616041641,Перафінансаваны,
 354566377512,"<grey>""Прастата канчатковай складанасьці.""
 <right>Леанарда да Вінчы</grey><left>",
-861684992572,"Тэхналогія паратасованы падчас розных праходжаньняў на адной мапе. У адрозьненьне ад <em>Тэорыі хаосу</em>, некаторыя тэхналогіі гарантавана з'явяцца рана ці позна",
-607602869305,Разнастайнасьць тэхналогій,
+861684992572,"Тэхналогія паратасованы падчас розных праходжаньняў на адной мапе. У адрозьненьне ад <em>Тэорыі хаосу</em>, некаторыя тэхналёгіі гарантавана з'явяцца рана ці позна",
+607602869305,Разнастайнасьць тэхналёгій,
 868791037406,"<grey>""На самай справе, просты акт адкрыцьця скрыні вызначыць стан кошкі, хоць у гэтым выпадку кошка магла знаходзіцца ў трох пэўных станах: гэта Жывы, Мёртвы і Крывавая Лютасьць.""
 <right>Тэры Пратчэт</grey><left>",
 207099897295,Брак спецыялістаў сярод кандытатаў,
@@ -2373,7 +2373,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - Can buy Applicants with funding
 - Additional Rockets are significantly cheaper
 - Probes can discover deep Rare Metal deposits
-- Бонусная тэхналогія: <em>Здабыча глыбокіх металаў</em> (можа здабываць глыбокія радовішчы металаў і рэдкіх металаў)",
+- Бонусная тэхналёгія: <em>Здабыча глыбокіх металаў</em> (можа здабываць глыбокія радовішчы металаў і рэдкіх металаў)",
 145918815635,Easy,
 5486,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
@@ -2384,7 +2384,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - All building costs reduced by 20%
-- Бонусная тэхналогія: <em>Low-G Engineering</em> (unlocks Medium Dome)",
+- Бонусная тэхналёгія: <em>Low-G Engineering</em> (unlocks Medium Dome)",
 5489,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
@@ -2405,7 +2405,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 5492,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
-- Бонусная тэхналогія: <em>Fueled Extractors</em> (extractor upgrade that boosts production but consumes Fuel)
+- Бонусная тэхналёгія: <em>Fueled Extractors</em> (extractor upgrade that boosts production but consumes Fuel)
 - Fueled Extractors upgrade is free
 - Fuel Refinery prefab costs <percent(50)> less
 - Rockets have extended travel time <em>(drawback)</em>",
@@ -2944,10 +2944,10 @@ Use <RT> to focus the Dome's Info Panel.",
 8472,Imminent impact on our coordinates.,
 8471,Orbital Bombardment detected!,
 8473,Missile Alert,
-5622,Выберыце тэхналогію да дасьледаваньня,
+5622,Выберыце тэхналёгію да дасьледаваньня,
 7045,Брак актыўных дасьледаваньняў,
-5626,Fractures: <count>,
-5625,Fractures,
+5626,Шчыліны: <count>,
+5625,Шчыліны,
 5636,Domes without Oxygen: <count>,
 5635,No Oxygen,
 7050,We have an Oxygen shortage,
@@ -4139,7 +4139,7 @@ Scientists on Earth had long planned the creation of jet engines that could burn
 7171,The analysis tells us that we’ve found Iridium-rich sulfides! That’s a real rarity on Earth!,
 5814,"Mankind's ingenuity had found a myriad of applications for it. But we focused our plan on a much simpler, more vital role in our growing Colony – RTGs. Free energy for everyone!
 
-<effect>Зніжае кошт фізічных тэхналогій на 10%.",
+<effect>Зніжае кошт фізічных тэхналёгій на 10%.",
 5815,Цудоўна!,
 7172,"The Rover went dark for five hours. When it rebooted, it confirmed it had come into contact with an unusually high-voltage electrical charge.",
 5816,"The red alert was sounded immediately after we lost contact with the RC Explorer vehicle. Five long hours of fear and desperation ended with the reinstating of data feed. A wave of relief passed through the crowd of scientists gathered at the control center. The telescopic drill used to probe the crust at the Anomaly site disturbed a layer of magnetite-rich rocks, the source of the electric charge. The rover is still functional but it would take time before its locomotion systems are fully restored. The operators turned the defeat into a victory, devoting the unexpected time window to studying the magnetic properties of the Martian crust.
@@ -6110,7 +6110,7 @@ It looks like a failure in one of our МЭВК units has highlighted a design fl
 <effect>Усе негатыўныя наступствы ў МЭВКаў былі выдалены.",
 761191266566,"The core principle of extracting Oxygen from Martian CO2 is sound. The current implementation of the technology leaves a lot to be desired. Our Scientists believe that with all the information we have learned so far we can design a better МЭВК.
 
-<effect>МЭВК 2.0” тэхналогія цяпер даступны да дасьледаваньня.",
+<effect>МЭВК 2.0” тэхналёгія цяпер даступны да дасьледаваньня.",
 663664815047,"The expert report on the failing MOXIEs is almost 300 pages long, finding multiple issues with their design.",
 434294412464,We seem to be missing some parts for our <DisplayName> prefab. Also there seem to be parts that don’t fit anywhere and the instructions are no help at all.,
 725085981948,Bad Prefab,
@@ -6498,7 +6498,7 @@ All in all, the mysterious man wants you to shelter a number of Clone applicants
 838024366453,Direct payment.,
 356607953277,gain <funding(direct_payment)>,
 916749725800,Payment in royalties.,
-993109934364,the Martian Patents tech costs <boost>% less,
+993109934364,the Марсіянскія патэнты tech costs <boost>% less,
 121944684700,Logistics aid.,
 723404829087,gain <arcologies> Arcology Prefabs and <stirlings> Stirling Generator Prefabs,
 204528391449,"The endless stream of scientific data flowing in from the Red Planet is too much to be handled even by the largest scientific organization alone. The top brass of our sponsor have just made the decision to sell the scientific data to third parties by setting up remote transmission facilities on Mars.
@@ -7817,19 +7817,19 @@ When they saw that the authorities were not going to solve this problem, <Displa
 317832898775,This is wrong and immoral. Prepare to ship <DisplayName> back to Earth.,
 834502749510,Maybe <DisplayName> is the antidote for our crime problem. Set them loose.,
 11384,The vigilante strikes again,
-410008407981,They will tour all the different colonies on Mars and have got their own transportation covered. All RockScape's management needs from us is permission to play and to prepare a Dome for the event. ,
+410008407981,Яны аб'едуць усе розныя колёніі на Марсе і забясьпечаць уласны транспарт. Усё, што ад нас патрабуецца кіраўніцтву RockScape, - гэта дазвол на гульню і падрыхтоўку Купалу да мерапрыемства.,
 696204225880,RockScape,
-228017878512,A famous rock band called RockScape wishes to bring their music to Mars for a live performance.,
-982876057335,"Rock'n'Roll, baby!",
-335367414277,all Colonists gain <morale_boost> Morale for <sols(moraleboost_period)> Sols,
-906031307867,We have enough troubles. Don't rock the boat I say.,
-824937946497,We will need to prepare a Dome to withstand the noise levels an event like this suggests.,
-673706997571,all Colonists gain <morale_boost> Morale for <sols(moraleboost_period)> Sols,
+228017878512,Вядомая рок-група пад назвай RockScape жадае прывезьці сваю музыку на Марс для жывога выступу.,
+982876057335,"Rock'n'Roll, дзетка!",
+335367414277,Усе колёністы атрымліваюць <morale_boost> Маральнага духу на <sols(moraleboost_period)> Сол(ы),
+906031307867,"Хапае ў нас бед. Не разгойдвайце лодку.",
+824937946497,"Нам патрэбна будзе падрыхтаваць купал, каб ён вытрымліваў узровень шуму, які бывае на падобнай падзее.",
+673706997571,Усе колёністы атрымліваюць <morale_boost> Маральнага духу на <sols(moraleboost_period)> Сол(ы),
 360477300749,"It seems we hadn't properly estimated the noise levels and that even our Domes were not made to withstand the power of Rock and Roll.
 
-<effect>The concert caused several fractures in the superstructure of the hosting Dome.",
-242571177980,The concert was awesome - everyone had a blast but...,
-763073168647,I guess we didn't think this through.,
+<effect>Канцэрт стаў прычынай некалькіх шчылін надбудовы прымаючага Купалу.",
+242571177980,Гэта быў цудоўны канцэрт - усе атрымалі задавальненьне, але...,
+763073168647,"Мяркую, што мы не прадумалі гэта.",
 510881587031,We had to suspend the rocket launch due to suspicious atmospheric patterns. There is nothing wrong with the Rocket and it is now ready for launch again. However people are concerned - after all rockets are our only way back home. ,
 580256524353,Rocket Launch Failed,
 161329772050,Several colonists have gathered to watch the launch. Their anticipation is quickly replaced by concern as the engines remain silent and the Rocket remains firmly on the ground.,
@@ -8262,7 +8262,7 @@ The patient's stay with us was brief, but they left a changed colony behind them
 900504002510,This is their right! We can only hope that we will again manage to see each other eye to eye in the future!,
 532763989295,"Traitors! If they are not true to the ideals of our Colony, they will receive no support from us!",
 515755842460,I am certain that a diplomatic solution will present itself in time.,
-699399257349,"""All humans on Mars share a common dream - the dream of colonizing a new planet together. Sometimes, mired in our daily problems, we forget this for a while, but ultimately we always remember that this is what brought us here. Fractures and division among ourselves are not part of this dream. If the Martian Republic is to become a reality, it would be a reality that we would create together!""
+699399257349,"""All humans on Mars share a common dream - the dream of colonizing a new planet together. Sometimes, mired in our daily problems, we forget this for a while, but ultimately we always remember that this is what brought us here. Шчыліны and division among ourselves are not part of this dream. If the Martian Republic is to become a reality, it would be a reality that we would create together!""
 
 <effect>We have regained control over the rogue Dome. All colonists in the Colony have lost the Renegade trait. All Colonists have increased Morale for the next <sols(morale_boost_duration)> Sols.",
 184300870505,Our colony is united once again! The rogue dome has rejoined us. Here is a statement from their leaders:,
@@ -9316,7 +9316,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 <grey>Advanced shuttle drives deliver more thrust and allow for greater cargo capacity.</grey>",
 6429,High-powered Jets,
 6433,"New Spire Building: <em>Network Node</em> (<buildinginfo('NetworkNode')>) - increases the research output of all Research Labs and Hawking Institutes in the Dome.<if_all(has_dlc('kerwin'))>
-Hospital Upgrade (<em>Remote Medic</em>) upgrade - decreases the total work slots. </if>
+Шпіталь Upgrade (<em>Remote Medic</em>) upgrade - decreases the total work slots. </if>
 
 <grey>Rapid transfer of information and an easier access to it could speed up research several times-fold.</grey>",
 6432,The Martian Network,
@@ -9328,12 +9328,12 @@ Hospital Upgrade (<em>Remote Medic</em>) upgrade - decreases the total work slot
 
 <grey>Martian concrete, made from equal parts regolith and sulfur, has some vast improvements over its Earth counterpart. Red concrete is stronger, more durable and can be recycled and reused simply by reheating it.</grey>",
 6436,Large-scale Excavation,
-6483,"More <em>applicants</em> will start to appear on Earth.<if_all(has_dlc('kerwin'))>
-Новы будынак: <em>TV Studio Workshop</em> (<buildinginfo('TVStudioWorkshopCCP1')>) - A workshop building which also generates funds for completing TV shows.</if>
+6483,"Больш <em>Кандыдатаў</em> будзе з'яўляцца на Зямлі.<if_all(has_dlc('kerwin'))>
+Новы будынак: <em>Тэлестудыйная майстэрня</em> (<buildinginfo('TVStudioWorkshopCCP1')>) - Майстэрня, таксама стварае сьродкі пасля завяршэньня тэлешоў.</if>
 
-<grey>PR research aimed at exposing the benefits and positive aspects of life as a Colonist on Mars.</grey>",
-6482,"""Live From Mars""",
-6487,"<em>Інжынеры й геолагі</em> маюць +<param1> прадукцыйнасьці калі працуюць па сьпецыяльнасьці.
+<grey>Дасьледаваньне, накіраванае на выкрыцьцё пераваг і станоўчых бакоў жыцьця колёніста на Марсе.</grey>",
+6482,"«Жывая трансляцыя з Марса»",
+6487,"<em>Інжынеры й геолагі</em> атрымліваюць +<param1> прадукцыйнасьці калі працуюць па сьпецыяльнасьці.
 
 <grey>""У геолагаў ёсьць прымаўка - камяні памятаюць.""
 <right>Ніл Армстранг</grey><left>",
@@ -9343,7 +9343,7 @@ Hospital Upgrade (<em>Remote Medic</em>) upgrade - decreases the total work slot
 <grey>""Дзьве планеты, адна чалавечая раса - дзеляцца ведамі і суіснуюць у Сонечнай сістэме.""
 <right>Марсіянскі навуковец</grey><left>",
 6484,Ініцыятыва «Зямля-Марс».,
-6489,"<em>Навукоўцы й батанікі</em> маюць +<param1> прадукцыйнасьці калі працуюць па сьпецыяльнасьці.
+6489,"<em>Навукоўцы й батанікі</em> атрымліваюць +<param1> прадукцыйнасьці калі працуюць па сьпецыяльнасьці.
 
 <grey>""Я батанік чорт падзяры! Бойцеся маей батанічная моцы!""
 <right>Эндзі Уір - Марсіянін</grey><left>",
@@ -9352,25 +9352,25 @@ Hospital Upgrade (<em>Remote Medic</em>) upgrade - decreases the total work slot
 
 <grey>У сувязі з ростам ажыятажу ў СМІ аб нашай місіі, гэта толькі пытаннье сацыяльнага манеўраваньня, каб зрабіць першую міжпланетную краўдфандынгавую кампанію рэальнасьцю.</grey>",
 6490,Марсавы Краўдфандынг,
-6493,"Новы будынак: <em>Martian University</em> (<buildinginfo('MartianUniversity')>) - Trains Scientists, Geologists, Botanists, Medic, Engineers or Security officers.<if_all(has_dlc('kerwin'))>
-Новы будынак: <em>School Spire</em> (<buildinginfo('SchoolSpireCCP1')>) - Teaches positive traits to children and can give the Genius trait after an upgrade.</if>
+6493,"Новы будынак: <em>Марсіянскі універсітэт</em> (<buildinginfo('MartianUniversity')>) - Падтрыхтоўвае навукоўцаў, геолагаў, батанікаў, медыкаў, інжынераў або афіцэраў бясьпекі.<if_all(has_dlc('kerwin'))>
+Новы будынак: <em>Шпіль-Школа</em> (<buildinginfo('SchoolSpireCCP1')>) - Вучыць дзяцей станоўчым рысам і можа даць рысу генія пасьля абнаўленьня.</if>
 
-<grey>College education is always free on Mars.</grey>",
-6492,Martian Education,
-6497,"License Martian technology for use back on Earth. Earn <em><funding(param1)></em> funding.
+<grey>Адукацыя на Марсе заўсёды бясплатнае.</grey>",
+6492,Марсіянская адукацыя,
+6497,"Ліцэнзацыя марсіянскай тэхналёгіі для выкарыстаньня на Зямлі. Дае <em><funding(param1)></em>.
 
-This tech is <em>repeatable</em> and can be researched multiple times.
+Гэта тэхналёгія <em>паўторна</em> й можа быць дасьледавана некалькі разоў.
 
-<grey>""Economic exchange between Mars and Earth would be mostly in the form of intellectual property""
-<right>Elon Musk</grey><left>",
-6496,Martian Patents,
-6499,"Lowers the risk of colonists developing flaws after <em>Sanity breakdown</em>.
+<grey>«Эканамічны абмен паміж Марсам і Зямлёй будзе ў асноўным у форме інтэлектуальнай уласьнасьці»
+<right>Ілон Маск</grey><left>",
+6496,Марсіянскія патэнты,
+6499,"Зніжае рызык развіцьця загану ў колёністаў пасля <em>Злому разважлівасьці</em>.
 
 <grey>""Beauty is not who you are on the outside, it is the wisdom and time you gave away to save another struggling soul like you.""
 <right>Shannon L. Alder</grey><left>",
-6498,Supportive Community,
-6501,"<em>Security Officers and Medics</em> have +<param1> performance when working in their specialty.<if_all(has_dlc('kerwin'))>
-Новы будынак: <em>Hospital</em> (<buildinginfo('HospitalCCP1')>) - A larger, more improved version of the Infirmary.</if>
+6498,Суполка падтрымкі,
+6501,"<em>Афіцэры аховы і медыкі</em> атрымліваюць +<param1> прадукцыйнасьці калі працуюць па сьпецыяльнасьці.<if_all(has_dlc('kerwin'))>
+Новы будынак: <em>Шпіталь</em> (<buildinginfo('HospitalCCP1')>) - Большая й палепшаная версія <em>Лазарэта</em>.</if>
 
 <grey>One can never be too prepared for the vast array of emergencies that could arise at any given moment on Mars.</grey>",
 6500,Emergency Training,
@@ -9818,7 +9818,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 577745051087,Геаінжынер,
 451989959636,"- Кошт імпарту насеньня зьніжаны на 50%
 - Бонусныя зборныя будынкі: 2 Парніковыя фабрыкі; 2x лясныя расьліны
-- Бонусная тэхналогія: <em>Спраектаваныя лесапасадкі</em> (Новыя лясы маюць шанс стварыць <em>Вісты</em> і <em>Месца дасьледваньня</em>)",
+- Бонусная тэхналёгія: <em>Спраектаваныя лесапасадкі</em> (Новыя лясы маюць шанс стварыць <em>Вісты</em> і <em>Месца дасьледваньня</em>)",
 12039,"Low yield and grows slowly but improves the soil, increasing the yield of the next crop. Will generate Seeds on harvest",
 212266860501,Seed Crops,
 469183974047,Seed Crops,
@@ -9901,7 +9901,7 @@ Import greenhouse gases from Earth, capture ice asteroids, nuke its polar caps t
 
 All Special Projects concerning the Terraforming of Mars are colored in <green>Green</green> in the <em>Агляд планеты</em>.",
 865761886470,<new_in('armstrong')>Special Projects,
-598406747376,Няма планетарнага тэрафармаваньня. Адпаведныя будынкі і тэхналогіі недаступныя.,
+598406747376,Няма планетарнага тэрафармаваньня. Адпаведныя будынкі і тэхналёгіі недаступныя.,
 745314075069,Без тэрафармаваньня,
 500342499064,"<grey>""Рэчы не мяняюцца; змяняемся мы.""
 <right>Генры Дэвід Тора</grey><left>",
@@ -9933,8 +9933,8 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - All Terraforming techs are 50% cheaper for research
 - Forestation Plants do not require Power
 - Can import RC Dozers from start
-- Бонусная тэхналогія: <em>Martian Vegetation</em> (unlocks Лесапасадку)
-- Бонусная тэхналогія: <em>Interplanetary Projects</em> (unlocks terraforming special projects)",
+- Бонусная тэхналёгія: <em>Martian Vegetation</em> (unlocks Лесапасадку)
+- Бонусная тэхналёгія: <em>Interplanetary Projects</em> (unlocks terraforming special projects)",
 12201,Патрабуецца ваша ўвага!,
 650478062117,Planet Habitable,
 281399772465,Blue skies!,
@@ -12213,7 +12213,7 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 - Можа купіць кандыдатаў за <em>$</em>
 - Дадатковыя ракеты значна танней
 - Зонды могуць выявіць глыбокія радовішча рэдкіх металаў
-- Бонусная тэхналогія: <em>Здабыча глыбокіх металаў</em> (можа здабываць глыбокія радовішчы металаў і рэдкіх металаў)",
+- Бонусная тэхналёгія: <em>Здабыча глыбокіх металаў</em> (можа здабываць глыбокія радовішчы металаў і рэдкіх металаў)",
 882785319134,Лёгка,
 172009611331,"Дасьледаваньне ў Сол: <research(SponsorResearch)>
 Кошт рэдкіх металаў: $<ExportPricePreciousMetals> M
@@ -12228,7 +12228,7 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 - <em>RC Constructor</em> - transporter rover that can construct buildings
 - <em>Metals Refinery</em> - slowly converts Waste Rock into Metals
 - All building costs reduced by 20%
-- Бонусная тэхналогія: <em>Low-G Engineering</em> (unlocks Medium Dome)",
+- Бонусная тэхналёгія: <em>Low-G Engineering</em> (unlocks Medium Dome)",
 5488,Эўропа,
 938808160214,"Дасьледаваньне ў Сол: <research(SponsorResearch)>
 Кошт рэдкіх металаў: $<ExportPricePreciousMetals> M
@@ -12269,7 +12269,7 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 
 - <em>RC Driller</em> - a special rover that can extract resources from underground deposits but wastes some of the deposit
 - <em>Concrete Plant</em> - an automated extractor that produces concrete without the need of a deposit but consumes fuel
-- Бонусная тэхналогія: <em>Fueled Extractors</em> (extractor upgrade that boosts production but consumes Fuel)
+- Бонусная тэхналёгія: <em>Fueled Extractors</em> (extractor upgrade that boosts production but consumes Fuel)
 - Fueled Extractors upgrade is free
 - Fuel Refinery prefab costs <percent(50)> less
 - Rockets have extended travel time <em>(drawback)</em>",
@@ -12456,7 +12456,7 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 11546,<NegotiationsContactTitle>,<NegotiationsContactTitle>
 495316409698,"<rival_colony> is no longer offering <resource(number2, res2)> for <resource(number1, res1)>",
 869467608381,Closed Trade Route,
-886793501620,<rival_name> амаль дасягнуў Вяху,
+886793501620,"Колёнія «<rival_name>» амаль дасягнула Вяху",
 901784464065,Чутка,
 195350756558,"Колёнія <em><rival_name></em> будзе сканаваць Пларную анамалію праз <countdown>",
 752757193902,Чутка,
@@ -13440,22 +13440,22 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 558807225108,+<upgrade2_add_value_1> Sanity and Health recovered when colonists visit.,
 901813344643,Medical Posts,
 262303707318,Security Posts,
-647244392621,TV Studio Workshops,
+647244392621,Тэлестудыйная майстэрняs,
 460566538686,Superior Education,
 424825161983,A little chance to generate a Genius.,
-315561489840,School Spires,
+315561489840,Шпіль-Школаs,
 987891901718,Large  Nurseries,
 421902371536,Retirement Homes,
 5005,Home Collective,
 5006,+<upgrade1_add_value_1> Service Comfort.,
 790515351038,Smart Apartments,
 5249,Cultivates desired Perks in children using modern remote learning techniques.,
-384348682454,School Spire,
+384348682454,Шпіль-Школа,
 103221689424,Provide a very comfortable living space exclusively for Seniors. Residents will recover additional Sanity when resting.,
 835908377588,Retirement Home,
 5273,Provide a very comfortable living space for Colonists. Residents will recover additional Sanity when resting.,
 501883047695,Smart Apartment,
-796043242474,Hospital,
+796043242474,Шпіталь,
 5181,Provides living space for children.,
 333901900457,Large Nursery,
 5107,"Visitors will recover Health and Sanity as long as they are not starving, dehydrated, freezing or suffocating. A Dome with a Medical Building has lower minimum Comfort requirement for births.",
@@ -13463,7 +13463,7 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 5256,Counters crime by Renegades. Reduces Sanity loss from disasters for all residents. All Officers in the Dome will try to prevent crime events.,
 312681324599,Security Post,
 424206471778,A vocation building dedicated to the creation of TV Reality Show for the Earth folks. Workers receive Comfort and Morale boost and count towards the Workshop milestone. Generates funding and Consumes Electronics.,
-624955932861,TV Studio Workshop,
+624955932861,Тэлестудыйная майстэрня,
 172424876291,Colonization Effort,
 205862840642,Red Target,
 622934285139,<CurrentShow>,<CurrentShow>
@@ -13884,7 +13884,7 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 8571,<red>Too many homeless Colonists. No more children will be born</red>,
 7769,Homeless penalty<right><HomelessBirthRatePenalty>%,
 11710,<center><em>Jobs</em>,
-276,This Dome is fractured and is losing oxygen.<newline><left>Number of fractures<right><fractures><newline><left>Cost of repairs<right><polymers(number)>,
+276,Гэты купал зламаны і губляе тлён.<newline><left>Колькасьць шчылін<right><fractures><newline><left>Кошт рамонту<right><polymers(number)>,
 10549,"Domes that are turned off do not accept Colonists and do not consume Power, Oxygen or Water. When a Dome is turned off, all buildings inside are turned off as well.<newline><newline>Current status: <em><UIWorkingStatus></em>",
 6751,Dome type,
 8050,Road Connection Type,
@@ -17583,7 +17583,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 10524,Прыбытак у апошні Сол:,
 10408,<tab 30><source><right><funding(amount)>,<tab 30><source><right><funding(amount)>
 10525,<tab 30>Other sources<right><funding(amount)>,
-10410,Total<right><funding(amount)>,
+10410,Усяго<right><funding(amount)>,
 9765,н/д,
 9766,<percent(number)>,<percent(number)>
 13807,Прыкладна ў Сол<right><ResearchPoints(EstimatedRP)>,
@@ -19228,7 +19228,7 @@ Perfect Time Сол <PerfectDeadline>
 4022,Хутка,
 4025,Гуляйце ў пяць разоў хутчэй.,
 4024,Хутчэйша,
-4021,<em><ShortcutName('actionSpeedUp')>/<ShortcutName('actionSpeedDown')></em> Змена хуткасьці гульні,
+4021,<em><ShortcutName('actionSpeedUp')>/<ShortcutName('actionSpeedDown')></em> Зьмена хуткасьці гульні,
 4027,"Гадзіна <hour> Сол <day>.
 
 Марсіянскія суткі складаюцца з амаль 25 Зямных гадзін.",
@@ -19250,7 +19250,7 @@ Perfect Time Сол <PerfectDeadline>
 11866,"<em><ShortcutName('actionResupplyScreen', 'keyboard')></em> Адкрыйць экран забеспячэньня",
 4007,<em><ShortcutName('actionResupplyScreen')></em> Адкрыйць экран забеспячэньня,
 4009,<red>All resupply missions are suspended.</red>,
-4004,"Кіруйце дасьледаваньнем новых тэхналогій.
+4004,"Кіруйце дасьледаваньнем новых тэхналёгій.
 
 Бягучыя дасьледаваньні: <em><CurrentResearchName></em>
 <left>Ход дасьледаваньняў: <em><percent(CurrentResearchProgress)></em>",
@@ -19368,11 +19368,11 @@ Perfect Time Сол <PerfectDeadline>
 10117,Follow Camera,
 10948," / <em><ShortcutName('actionFollowCamera', 'keyboard')></em>"," / <em><ShortcutName('actionFollowCamera', 'keyboard')></em>"
 10949," / <em><ShortcutName('actionTogglePin', 'keyboard')></em>"," / <em><ShortcutName('actionTogglePin', 'keyboard')></em>"
-4043,Pinned,
-4044,Unpin this item from the quick bar.,
-4045,Unpinned,
-4046,Pin this item to the quick bar.,
-4032,Open the corresponding Encyclopedia article.,
+4043,Замацаваны,
+4044,Адмацаваць гэты элемент ад панэлі хуткага доступу.,
+4045,Незамацаваны,
+4046,Замацаваць гэты элемент ад панэлі хуткага доступу.,
+4032,Адкрыць адпаведны артыкул энцыклёпэдыі.,
 7412,<DisplayName>,
 957712410031,<IPDescription>,
 608042494285,<left_click> Актываваць,
@@ -19660,7 +19660,7 @@ Mission parameters and colony site are predetermined.",
 996334672198,Вытворчасьць,
 400347448588,Спажываньне,
 562101525799,Назапашана,
-655663611091,Змена,
+655663611091,Зьмена,
 11629,СЕТКА <i>,
 12190,No objects to show.,
 543129469882,"Total production, consumption and storage of Power in the grid.",
@@ -19887,12 +19887,12 @@ Research cost<right><ResearchPoints(cost)>",
 12906,Sandbox,
 986382737958,Version: <u(LuaRevision)>,
 4523,ЗАЧЫНІЦЬ,
-552944862587,ОПЦЫЫ ГУЛЬНІ,
+552944862587,ОПЦЫІ ГУЛЬНІ,
 11476,Захаваць гульню,
 1009,Загрузіць гульню,
 11477,Опцыі,
 11478,Фота рэжым,
-7384,Энцыкляпэдыя,
+7384,Энцыклёпэдыя,
 697482021580,Дасягненьні,
 1136,Перазапусьціць мапу,
 1137,Вы упэўнены, што жадаеце перазапусьціць мапу?,
@@ -20376,7 +20376,7 @@ Queue tasks by using <em>Shift + <right_click></em>",
 452762661451,Capacity<right><resource(StoredAmount)>/<resource(max_shared_storage)>,
 660271041264,<CarriedResourceStr>,
 7419,<Description>,
-788,<center>Зараз нашыя тэхналогіі не дазваляюць нам дабывацб з гэтага радовішча,
+788,<center>Зараз нашыя тэхналёгіі не дазваляюць нам дабывацб з гэтага радовішча,
 7420,<Description>,
 607170415280,A switch or a valve can be used to split the grid into two sections.,
 7650,<left_click> Activate/Deactivate <newline><em>Ctrl + <left_click></em> Activate/Deactivate all,
@@ -20391,7 +20391,7 @@ Queue tasks by using <em>Shift + <right_click></em>",
 810,"<ResourceName><right><resource(Amount,max_amount,resource)>",
 787,Клас<right><grade_name>,
 370449987367,"Прыярытэт уплывае на тое, як часта гэта стварэньне абслугоўваюць <em>Дроны</em>, а таксама яго долю энергіі і жыцьцезабеспячэньня. Стварэньні з нізкім прыярытэтам не маюць апавяшчэньняў.<newline><newline>Бягучы прыарытэт: <em><UIPriority></em>",
-369,Змена прыярытэту,
+369,Зьмена прыярытэту,
 7659,<ButtonA> Змяніць прыярытэт<newline><ButtonX> Змяніць прыярытэт ва ўсіх <display_name_pl>,
 10950,"<newline><center><em><ShortcutName('actionPriority', 'keyboard')></em> Павысіць прыярытэт",
 10951,<left><left_click> Павысіць прыярытэт<right><right_click> Паменьшыць прыярытэт<binding><newline><center><em>Ctrl + <left_click></em> Змяніць прыярытэт усех <display_name_pl>,
@@ -20645,7 +20645,7 @@ Status: <on_off(IsResourceEnabled(res))>",
 11843,Насеньне,
 12053,Насеньне неабходна да пасадкі расьліннасьці на Марсе.,
 12755,Экзатычныя мінералы,
-12810,"Перадавыя матэрыялы, знойдзеныя на астэроідах. Патрабуюцца да новых прыкладаньняў, знойдзеных у дрэве тэхналогій Recon & Expansion.",
+12810,"Перадавыя матэрыялы, знойдзеныя на астэроідах. Патрабуюцца да новых прыкладаньняў, знойдзеных у дрэве тэхналёгій Recon & Expansion.",
 7697,<em>Эфэкт:</em> ,
 4774,<em>Падказка:</em> ,
 4773,<em>Мэта:</em> ,

@@ -43,6 +43,7 @@
 - Sanity - Разважлівасьць
 - Morale - Маральны дух
 - Earthsick - Тугаваньне па Зямлі
+- Sanity breakdown - Злом разважлівасьці
 
 ## Марс
 - Dust Devil - Пясчаны віхор
