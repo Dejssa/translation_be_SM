@@ -15,6 +15,7 @@
 - Mission Control - Камандны Цэнтр
 - Drones Hub - ЦК дронаў
 - Standing - адносіны
+- Controller - Кантрольлер
 
 ## Рэсурсы
 - Waste Rock - Пустая парода
