@@ -45,6 +45,19 @@
 - Morale - Маральны дух
 - Earthsick - Тугаваньне па Зямлі
 - Sanity breakdown - Злом разважлівасьці
+- Social - Сацыяльныя
+- Relaxation - 
+- Exercise - 
+- Gaming - 
+- Shopping - Закупы
+- Luxury - 
+- Drinking - 
+- Gambling - 
+- Playing - 
+- Dining - Харчаваньне
+- Safari - 
+- Medical Checks - Мед. агляды
+- Food - Ежа
 
 ## Марс
 - Dust Devil - Пясчаны віхор
