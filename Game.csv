@@ -1342,7 +1342,7 @@ Before you get started, please take a moment to read our Privacy Policy.",
 4478,<description><newline><newline><DronesStatusText><newline><left>Drones<right><drone(DronesCount)>,
 8880,Пляцоўка для пасадкі,
 8881,Пляцоўкі для пасадкі,
-8882,Спецыяльная пасадачная пляцоўка, якая абараняе будынкі і транспартныя сьродкі побач ад пылу падчас пасадак і ўзлётаў <em>Ракет</em>.,
+8882,Спецыяльная пасадачная пляцоўка, якая абараняе будынкі й транспартныя сьродкі побач ад пылу падчас пасадак і ўзлётаў <em>Ракет</em>.,
 5123,MDS Lasers,
 5124,Destroys any falling meteors in its range. Has a short cooldown between shots.,
 5208,Power Decoy,
@@ -1363,10 +1363,10 @@ Before you get started, please take a moment to read our Privacy Policy.",
 5302,"Уваход і выхад з тунэля могуць злучаць электрасеткі й сеткі жыцьцезабесьпячэньня ў розных мейсцах і на розных вышынях. Марсаходы могуць выкарыстоўваць тунэлі, каб дасягнуць мейсцы, якія інакш не змаглі б.",
 884894533739,Рампа,
 636241981257,Рампы,
-403148106629,"Пазначце дзьве плоскія паверхні да злучэньня з магчымасьцьцю дасягнаньня <em>Дронамі</em>. Спажывае <em>Пустую пароду</em>, каб падняць рэльеф. Лішак глебы і камянёў даюць <em>Пустую пароду</em>.<if(has_dlc('armstrong'))><newline><newline><em>Пагаршае якасьць мясцовай глебы.</em></if>",
+403148106629,"Пазначце дзьве плоскія паверхні да злучэньня з магчымасьцьцю дасягнаньня <em>Дронамі</em>. Спажывае <em>Пустую пароду</em>, каб падняць рэльеф. Лішак глебы й камянёў даюць <em>Пустую пароду</em>.<if(has_dlc('armstrong'))><newline><newline><em>Пагаршае якасьць мясцовай глебы.</em></if>",
 466444527211,Раўнаваньне,
 573594258625,Раўнаваньне,
-799522759563,"Адзначае роўную паверхню каб распаўсюдзіць далей з дапамогай <em>Дронаў</em>. Спажывае <em>Пустую пароду</em>, каб падняць рэльеф. Лішак глебы і камянёў даюць <em>Пустую пароду</em>.<if(has_dlc('armstrong'))><newline><newline><em>Пагаршае якасьць мясцовай глебы.</em></if>",
+799522759563,"Адзначае роўную паверхню каб распаўсюдзіць далей з дапамогай <em>Дронаў</em>. Спажывае <em>Пустую пароду</em>, каб падняць рэльеф. Лішак глебы й камянёў даюць <em>Пустую пароду</em>.<if(has_dlc('armstrong'))><newline><newline><em>Пагаршае якасьць мясцовай глебы.</em></if>",
 165516974733,Скальнае ўтварэньне,
 255661810896,Скальныя ўтварэньні,
 622475429978,Стыльная кампазіцыя з карэнных марсіянскіх парод.,
@@ -1457,7 +1457,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 8912,Stores <preciousmetals(UIMaxStorageAmount)>. Некаторыя рэсурсы будуць перавезены ў іншыя склады ў межах радыусу дзеяньня <em>Дронаў</em>.,
 5014,Atomic Accumulators,
 5211,Power Switches,
-5212,Can be manually activated to cut off the Power supply.,
+5212,"Можа быць актываваны ўручную, каб адключыць электразабесьпячэньне.",
 5086,Autoregulator,
 5087,Reduces Workplaces by <abs(upgrade1_add_value_1)>.,
 5089,This building no longer requires Workers and operates at <upgrade2_add_value_2> Performance.,
@@ -1467,7 +1467,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 10265,"Generates Power. While closed the generator is protected from dust, but produces less Power.",
 5314,+<upgrade1_mul_value_1>% Production.,
 5315,Ветравая турбіна,
-5317,Вырабляе энергію. Павелічэньне вытворчасьці падчас пясчаных бур і вышынях.,
+5317,Вырабляе энергію. Павелічэньне вытворчасьці падчас пясчаных бур і на вышынях.,
 7667,+<upgrade1_mul_value_1>% Production.,
 5059,Electronics Factories,
 5029,+<upgrade1_mul_value_1>% Production; +<power(upgrade1_add_value_2)> Consumption.,
@@ -1488,7 +1488,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 10964,"Здабывае <em>Рэдкія металы</em> з падземных радовішчаў.<newline><newline>Усе выцяжкі ўздымаюць пыл, што прыводзіць да больш частага абслугоўваньня будынкаў у шэрай зоне.",
 7666,"+<upgrade1_mul_value_1>% Production as long as the building is supplied with Fuel. If not supplied with Fuel, the building will continue to operate but will lose the bonus.",
 5033,Concrete Extractors,
-10965,"Extracts sulfurous rich regolith from Concrete deposits and produces Concrete.<newline><newline>Усе выцяжкі ўздымаюць пыл, што прыводзіць да больш частага абслугоўваньня будынкаў у шэрай зоне.",
+10965,"Здабывае багаты серай рэгаліт з радовішча бетону і вырабляе <em>Бетон</em>.<newline><newline>Усе выцяжкі ўздымаюць пыл, што прыводзіць да больш частага абслугоўваньня будынкаў у шэрай зоне.",
 388446725632,Фабрычны ШІ,
 828188588588,+<upgrade1_mul_value_1>% Вытворчасьць.,
 672501118965,Automation,
@@ -1550,7 +1550,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 5174,Вылучае ваду з атмасфэры. Вытворчасьць меньш пры размяшчэньні побач з іншымі выпарнікамі. Не працуе падчас пясчаных бур.,
 3519,Выпарнік вільгаці,
 5289,"Generates Power. While closed the generator is protected from dust, but produces less power.",
-5200,Вырабляе палімеры з вады й паліва.,
+5200,Вырабляе <em>Палімеры</em> з <em>Вады</em> й <em>Паліва</em>.,
 3524,Палімерны Завод,
 3522,Machine Parts Factory,
 3523,Electronics Factory,
@@ -1580,9 +1580,9 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 5120,Вялікая сонечная панэль,
 5092,Generates significant amounts of Power but requires Workers from a nearby Dome.,
 5090,Fusion Reactor,
-5015,"Stores Power. High capacity and max output, but charges slowly.",
+5015,"Назапашвае <em>Энергію</em>. Высокая ёмістасьць і максімальная магутнасьць, але зараджаецца павольна.",
 5207,"Назапашае энергію. Колькасьць падаваемай энергіі абмежавана максімальнай магутнасьцю акумулятара.",
-5205,Акумулятар Энергіі,
+5205,Акумулятар энергіі,
 5129,Produces Oxygen. No production during Dust Storms.,
 5127,МЭВК,
 5312,Захоўвае ваду. Не працуе пад час <em>Халодных хваль</em>.,
@@ -1594,7 +1594,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 5045,Drone Assembler,
 5069,Produces Food. Consumes Water depending on crop type.,
 5101,Hydroponic Farm,
-10245,Slowly turns waste rock into building materials. Produces Concrete.,
+10245,Павольна перапрацоўвае <em>Пустую пароду</em> ў будаўнічыя матэрыялы. Вырабляе <em>Бетон</em>.,
 10243,Перапрацоўшчык пустой пароды,
 889392282896,Provides living space for Tourists and Colonists. Luxurious hotel rooms that provide the best holiday experience. Tourists gain <em>Satisfaction</em> while staying here.,
 426921114197,Olympus Hotel,
@@ -1637,7 +1637,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 12565,Pond,
 5218,Зрабіце марсіянскую ноч крыху ярчэй.,
 5216,Лямпа праектар,
-5145,Прыгожы парк з алеямі і лаўкамі.,
+5145,Прыгожы парк з алеямі й лаўкамі.,
 5262,Малыя Алеі,
 5116,A place for relaxation and recreation.,
 5263,Small Fountain,
@@ -2775,16 +2775,16 @@ This will take a while, so you may want to speed up time.",
 
 Use <RT> to focus the Info Panel.",
 9148,"Select the ruins of the Concrete Extractor and use the ""<em>Clear</em>"" action to send a Drone to remove the ruins.",
-9152,"Open the Build Menu and select the <em>Salvage Tool</em> from the Infrastructure category.
+9152,"Адкрыйце меню будоўлі і абярыце <em>Разабарць</em> з катэгорыі <em>Інфраструктура</em>.
 
-With the Salvage tool active press <ButtonA> on the Cables close to the site of the salvaged Concrete Extractor to delete them.
+З актыўным інструментам <em>разаборкі</em> націсьніце <ButtonA> на Кабелі побач з мейсцам разобранага <em>Экстрактару Бетона</em>, каб выдаліць іх.
 
-Use <ButtonB> to cancel Salvage Tool mode.",
-9151,"Open the Build Menu and select the <em>Salvage Tool</em> from the Infrastructure category.
+Націсьніце <ButtonB> каб адмяніць рэжым <em>разаборкі</em>.",
+9151,"Адкрыйце меню будоўлі і абярыце <em>Разабарць</em> з катэгорыі <em>Інфраструктура</em>.
 
-With the Salvage tool active <left_click> on the Cables close to the site of the salvaged Concrete Extractor to delete them.
+З актыўным інструментам <em>разаборкі</em> <left_click> на Кабелі побач з мейсцам разобранага <em>Экстрактару Бетона</em>, каб выдаліць іх.
 
-Use <right_click> to cancel Salvage Tool mode.",
+Націсьніце <right_click> каб адмяніць рэжым <em>разаборкі</em>.",
 9150,The Salvage Tool,
 9155,"Wait for the arrival of the Rocket, then land it near the base.
 
@@ -7624,7 +7624,7 @@ You remember that the Genius <DisplayName> had your special dispensation to stay
 784882052902,"Невялікія групы людзей размаўляюць і сьмяюцца, а іншыя танчаць пад завадную музыку. Хтосьці бачыць вас, і музыка рэзка спыняецца. Усе выглядаюць крыху вінаватымі.",
 683841873799,Вечарынка!,
 949723673521,"Дзьверы каманднага пакоя адчыняюцца, і вас ударае моцны шум. Вечарынка!",
-446442320434,"Я чакаю справаздач аб абслугоўваньні і эфектыўнасьці на маім стале да 11:00 па мясцовым часе.",
+446442320434,"Я чакаю справаздач аб абслугоўваньні й эфектыўнасьці на маім стале да 11:00 па мясцовым часе.",
 139200594944,Вечарынка!,
 827831603659,"Recreation is important, but duties, especially the duties of Mission Control, must never be forgotten.",
 315003773008,"Under your harsh gaze, the team cleans up the control room and attend their action stations. You take your seat – there’s work to do.
@@ -9164,7 +9164,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 <grey>""From the first day to this, sheer greed was the driving spirit of civilization.""
 <right>Friedrich Engels</grey><left>",
 6440,Extractor Amplification,
-6443,"<em>Вежы-сканеры</em> больш не патрабуе Энергіі або абслугоўваньня.
+6443,"<em>Вежы-сканеры</em> больш не патрабуе <em>Энергіі</em> або абслугоўваньня.
 
 <grey>Надзейныя даныя датчыкаў важныя да дасьледаваньня Марса.</grey>",
 6442,Aўтаномныя сканеры,
@@ -9185,11 +9185,11 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 
 <grey>The Stirling Radioisotope Generator is a generator based on a Stirling engine powered by a large radioisotope heater unit.</grey>",
 3521,Stirling Generator,
-6451,"Новы будынак: <em>Atomic Accumulator</em> (<buildinginfo('AtomicBattery')>) - Stores electrical Power. Has huge capacity but charges slowly.
+6451,"Новы будынак: <em>Атамны акумулятар</em> (<buildinginfo('AtomicBattery')>) - Назапашвае энергію. Мае вялікую ёмістасьць, але зараджаецца павольна.
 
-<grey>""History will remember the twentieth century for two technological developments: atomic energy and space flight.""
-<right>Neil Armstrong</grey><left>",
-5013,Atomic Accumulator,
+<grey>""Гісторыя запомніць дваццатае стагоддзе двума тэхнолёгічнымі распрацоўкамі: атамнай энергетыкай і палётамі ў космас.""
+<right>Ніл Армстранг</grey><left>",
+5013,Атамны акумулятар,
 6445,"<em>Solar Panels</em> are gradually cleaned from dust when closed, resulting in less frequent maintenance.
 
 <grey>Solar Panels are inherently vulnerable to dust, more so than any other equipment used on Mars. Thus automatic dust repulsion systems are put in place to spread out maintenance periods.</grey>",
@@ -11641,9 +11641,9 @@ But we bear the mark of our failure. We know that we were tried and found wantin
 457100888010,Living Quarters,
 107213176619,Large Oxygen Tanks,
 5313,Палімерныя клінкі,
-961916359908,Large Wind Turbine,
-947024336813,Large Wind Turbines,
-11420,Generates Power. Increased production during Dust Storms and at high elevations.,
+961916359908,Вялікая ветравая турбіна ,
+947024336813,Вялікія ветравыя турбіны,
+11420,Вырабляе энергію. Павелічэньне вытворчасьці падчас пясчаных бур і на вышынях.,
 5318,"Wind turbines generate electrical power from the Martian winds. The amount generated depends on how powerful the winds they are exposed to are, so proper positioning is essential as higher ground tends to be windier.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
@@ -11861,7 +11861,7 @@ This technological challenge to take advantage of what little wind there is on M
 3526,ЦК Шатлаў,
 488637940578,Пляцоўка для гандлёўкі,
 659817241693,Пляцоўкі для гандлёўкі,
-315150447455,"Прапануе рэсурсы для экспарту ў іншыя колёніі на Марсе. Калоніі супраціўнікі будуць адпраўляць гандлёвыя прапановы толькі ў тым выпадку, калі ўстаноўлены імпартныя і экспартныя рэсурсы. Даступна толькі для ракет, якія належаць іншым колёніям. Будынкі і транспартныя сьродкі побач абаронены ад пылу падчас пасадак і ўзлётаў <em>Ракет</em>.",
+315150447455,"Прапануе рэсурсы для экспарту ў іншыя колёніі на Марсе. Калоніі супраціўнікі будуць адпраўляць гандлёвыя прапановы толькі ў тым выпадку, калі ўстаноўлены імпартныя й экспартныя рэсурсы. Даступна толькі для ракет, якія належаць іншым колёніям. Будынкі й транспартныя сьродкі побач абаронены ад пылу падчас пасадак і ўзлётаў <em>Ракет</em>.",
 11323,Банэр,
 11324,Банэры,
 11325,"""Мы ганарымся тым, што наш сьцяг тут, на чырвонай планеце.""",
@@ -11942,7 +11942,7 @@ This technological challenge to take advantage of what little wind there is on M
 718364513536,Immediately scans a Sector and the four adjacent Sectors for deposits and anomalies.,
 562855111629,Generates Power. Heats the surrounding area when opened.,
 288495591252,Advanced Stirling Generator,
-5261,Размяшчае і запраўляе шатлы, якія транспартуюць рэсурсы на вялікія адлегласьці паміж дэпо і перасяленьню колёністаў паміж купаламі.,
+5261,"Размяшчае й запраўляе шатлы, якія транспартуюць рэсурсы на вялікія адлегласьці паміж складамі й перасяляюць колёністаў паміж купаламі.",
 10261,Jumper Shuttle Hub,
 10254,A place to meditate and seek meaning beyond the physical world. Visitors recover Sanity.,
 10252,Temple Spire,
@@ -13612,7 +13612,7 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 6726,Reloading,
 12259,Automated,
 12260,Queued tasks<right><number>,
-78,Infrastructure,
+78,Інфраструктура,
 83,Domes,
 84,"Homes, Education & Research",
 85,Dome Services,
@@ -13620,7 +13620,7 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 87,Decorations,
 11408,Знешнія ўпрыгажэньні,
 88,Wonders,
-12424,Landscaping,
+12424,Ландшафтны дызайн,
 1000155,Hidden,
 151,Display Name (pl),
 152,Build Menu Category,
@@ -13634,9 +13634,9 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 4103,Encyclopedia ID,
 160,Encyclopedia Text,
 11469,Keybinding allowed,
-7615,Build Shortcut,
-7616,Build Shortcut 2,
-7617,Gamepad Shortcut,
+7615,Скарачэньне будаўніцтва,
+7616,Скарачэньне будаўніцтва 2,
+7617,Скарачэньне кантрольлеру,
 167,Label 1,
 168,Label 2,
 169,Label 3,
@@ -13946,7 +13946,7 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 254,Time until next harvest<right><number> Sols,
 255,<em>The farm is not working. The crops are decaying</em>,
 256,<em>The farm is not working. New crops won't be planted</em>,
-3967,Base production: ,
+3967,Базавая вытворчасьць: ,
 12702,Tourists Only,
 12703,Any Colonist,
 671,Hit Chance,
@@ -14596,7 +14596,7 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 883,Cables connect adjacent buildings to the power grid when constructed.,
 884,Pipes transport Oxygen and Water and have to be connected to buildings on the spots indicated with a pipe connection icon.,
 8777,Connect two domes by placing both ends of the Passage on empty hexes inside two nearby domes.,
-885,Power Switch,
+885,Выключальнік сілкаваньня,
 886,Pipe Valve,
 8813,Праязны пандус,
 887,Place a power switch,
@@ -18567,7 +18567,7 @@ Larger networks will malfunction more often.",
 6972,Выкл.,
 1000120,<arg1> x <arg2>,
 6973,Выкл.,
-3956,Research <em><tech_name></em> to unlock this building.,
+3956,Дасьледуйце <em><tech_name></em> каб разблакаваць гэты будынак.,
 8902,за сэгмэнт,
 10540,Кошт: Бракуе (Правіла дармоваў пабудовы),
 263,Кошт: ,
@@ -18580,7 +18580,7 @@ Larger networks will malfunction more often.",
 3964,<em>Працоўныя:</em> <colonist(workers)> (single work shift),
 3965,<em>Працоўныя:</em> <colonist(total)> (<colonist(workers)> у рабочую зьмену),
 12001,"<em>Эфэкт терафарміраваньня: +<resource(number, res)> у Сол.</em>",
-3957,for each 5 hexes-long section,
+3957,за кожную секцыю 5 гескаў у даўжыню,
 8099,<colonist(workers)> ,
 8955,"
 Новая купала: <em><template_display_name></em> ",
@@ -18590,12 +18590,12 @@ Larger networks will malfunction more often.",
 Новы будынак (шпіль): <em><template_display_name></em> ",
 3968,Вы можаце пабудаваць гэты будынак толькі адзін раз.,
 3969,Даступныя зборныя будынкі: <number>,
-11416,"You need prefab parts for this building. Use a resupply Rocket to bring more <em>prefabs</em> from Earth, or research the technology <em><tech_name> (<tech_field_name>)</em>.",
-11417,"You need prefab parts for this building. Use a resupply Rocket to bring more <em>prefabs</em> from Earth, or research the technologies",
+11416,"Вам патрэбны модулі для гэтага будынка. Запытайце ракету забесьпячэньня з Зямлі, каб прывезьці больш <em>Модулёў</em>, або дасьледуйце тэхналёгію <em><tech_name> (<tech_field_name>)</em>.",
+11417,"Вам патрэбны модулі для гэтага будынка. Запытайце ракету забесьпячэньня з Зямлі, каб прывезьці больш <em>Модулёў</em>, або дасьледуйце тэхналёгію",
 1000539,",",
 11418,and,
 11419,<descr> <em><tech_name> (<tech_field_name>)<separator></em>,<descr> <em><tech_name> (<tech_field_name>)<separator></em>
-3970,"You need prefab parts for this building. Use a resupply Rocket to bring more <em>prefabs</em> from Earth, or research the corresponding <em>Technology</em>.",
+3970,"Вам патрэбны модулі для гэтага будынка. Запытайце ракету забесьпячэньня з Зямлі, каб прывезьці больш <em>Модулёў</em>, або дасьледуйце адпаведную <em>Тэхналёгію</em>.",
 7907,Дасягнута максімальная колькасьць купалаў,
 8720,<formatedbuildinginfo('Passage')>,<formatedbuildinginfo('Passage')>
 8721,"<description>
@@ -18606,7 +18606,7 @@ Larger networks will malfunction more often.",
 12604,<left_click><left_click> Адкрыць экран дасьледаваньняў,
 12605,<ButtonX> Адкрыць экран дасьледаваньняў,
 8100,<formatedbuildinginfo('ElectricityGridElement')>,
-3971,Connect Power producers and consumers by establishing Power grids.,
+3971,Злучае вытворцаў і спажыўцоў энергіі праз стварэньня электрасетак.,
 8101,"<description>
 
 <formatedbuildinginfo('ElectricitySwitch')>","<description>
@@ -18619,8 +18619,8 @@ Larger networks will malfunction more often.",
 <formatedbuildinginfo('LifesupportSwitch')>","<description>
 
 <formatedbuildinginfo('LifesupportSwitch')>"
-10930,"Shortcut - <em><ShortcutName(shortcut, 'keyboard')></em>",
-3974,"Пазначае будынкі, кабелі і трубы, якія падлягаюць зносу. Палова кошту будаўнічых рэсурсаў любых разобраных будынкаў будзе кампенсавана.",
+10930,"Скарачэньне - <em><ShortcutName(shortcut, 'keyboard')></em>",
+3974,"Пазначае будынкі, кабелі й трубы, якія падлягаюць зносу. Палова кошту будаўнічых рэсурсаў любых разобраных будынкаў будзе кампенсавана.",
 9640,"Show historical data for Colonists, unemployed and homeless.",
 8959,<graph_right>Colonists</graph_right> <em>(<colonists>)</em>,
 8961,<graph_left>Unemployed</graph_left> <em>(<unemployed>)</em> and <graph_right>Homeless</graph_right> <em>(<homeless>)</em>,
@@ -19189,8 +19189,8 @@ Perfect Time Сол <PerfectDeadline>
 204031300524,Filter colonists by traits,
 748588275043,Last Notification,
 614477738289,Last Constructed Building,
-881,Power Cables,
-882,Pipes,
+881,Сілавыя кабелі,
+882,Трубы,
 554083515055,CHEATS,
 867595017482,<display_name>,
 790001218703,Game speed / Infobar / Map Switch,
@@ -19663,7 +19663,7 @@ Mission parameters and colony site are predetermined.",
 11629,СЕТКА <i>,
 12190,No objects to show.,
 543129469882,"Total production, consumption and storage of Power in the grid.",
-79,Power,
+79,Энергія,
 12113,<left_click><left_click> Show all buildings in the grid,
 12114,<ButtonA> Show all buildings in the grid,
 681455976969,<power(CurrentProduction)>,<power(CurrentProduction)>
