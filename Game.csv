@@ -1353,7 +1353,7 @@ Before you get started, please take a moment to read our Privacy Policy.",
 5259,"Павялічвае хуткасьць сканаваньня, асабліва бліжэйшых сэктараў. Пашырае папярэдняе папярэджаньне аб катастрофах.",
 5293,Падземны абагравальнік,
 5294,Падземныя абагравальнікі,
-5295,Павышае мясцовую тэмпературу ў халодных раёнах і абараняе будынкі побач ад <em>Халодных хваль</em>.,
+5295,Павышае мясцовую тэмпэратуру ў халодных раёнах і абараняе будынкі побач ад <em>Халодных хваль</em>.,
 12369,Ракеты,
 731448797928,Ракета транспартуе рэсурсы й людзей паміж Зямлёю й Марсам.,
 5299,Трыбаэлектрычны ачышчальнік,
@@ -2015,20 +2015,20 @@ Apart from being essential for supporting life inside Domes and field buildings 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
 The most important ingredient for life as we know it to exist is by no means scarce on Mars. However, it is mostly frozen and underground, making it difficult for acquiring. As bringing the water needed to sustain a city on Mars back from Earth will be a huge burden on every craft and far from efficient, constructing a steady water supply solely by harnessing water ice found on Mars is absolutely essential for the survival of any colony. ",
-5395,"Conditions on Mars are utterly hostile for humans to roam and work freely outside of <em>Domes</em>. This is why heavy-duty vehicles have been designed to tackle the tasks that humans can't.
+5395,"Умовы на Марсе абсалютна непрыемныя для таго, каб людзі маглі вольна блукаць і працаваць за межамі <em>Купалоў</em>. Вось чаму вялікагрузныя транспартныя сьродкі былі распрацаваны, каб вырашаць задачы, з якім не справіцца чалавеку.
 
-Vehicles are either remote-controlled <em>Rovers</em> or semi-autonomous <em>Drones</em> and <em>Shuttles</em>.",
-5393,Vehicles,
-5394,VEHICLES,
-5396,"Rockets are used to deliver supplies all the way from Earth, or bring colonists which have applied for a life on Mars.
+Транспартныя сьродкі гэта <em>марсаходы</em> з дыстанцыйным кіраваньнем, або паўаўтаномныя <em>Дроны</em> й <em>Шатлы</em>.",
+5393,Транспартныя сьродкі,
+5394,ТРАНСПАРТНЫЯ СЬРОДКІ,
+5396,"Ракеты выкарыстоўваюцца для дастаўкі забясьпечэньня зь Зямлі або колёністаў, якія падалі заяўку на жыцьцё на Марсе.
 
-They are re-usable, and once having refueled on Mars, can bring Rare Metals back to Earth for monetary gains.
+Іх магчыма выкарыстоўваць шматраз. Пасля запраўкі на Марсе яны могуць перавезьці рэдкія металы на Зямлю для атрыманьня грашоў.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
-Space rockets have far a greater role to play in the mission of establishing a permanent colony on Mars, than merely bringing the first colonists there. Until the colony can truly sustain itself, it will always be dependent on Earth for vital resources and the flow of colonists.
+Касьмічныя ракеты маюць значна большую ролю ў місіі стварэньня пастаяннай колёніі на Марсе, чым проста даставіць першых колёністаў. Пакуль колёнія не зможа існаваць без падтрымкі, яна заўсёды будзе залежыць ад Зямлі ў плане атрымання жыццёва важных рэсурсаў і патоку колёністаў.
 
-Although quite expensive, re-usable rocket technology has already been mastered to a degree that can have a rocket back in space within the same day of landing on either world. ",
+Нягледзячы на тое, што тэхналёгія шматразовага выкарыстаньня даволі дарагая, яна ўжо асвоена да такой узроўню, што ракета можа вярнуцца ў космас у той жа час пасля пасадкі й запраўкі на любым сьвеце.
 5397,"Drones are the backbone of the Martian colony’s work force. They are tasked with distributing resources, gathering resources from surface deposits, building and maintaining structures as well as repairing damaged structures and vehicles. 
 
 Although mostly autonomous, drones operate within the service range of whatever control hub they are assigned to, such as <em>Drone Hubs</em>, <em>Rockets</em> or <em>RC Commanders</em>.
@@ -2044,19 +2044,19 @@ Built to be resilient against most of what the Martian environment can throw at 
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
-The apex of human transport technology, Rovers are incredibly durable, making them resistant to most of the Martian calamities such as cold or dust. They may traverse the Colony site and reach distant spots, limited only by the topography, to tackle whatever they have been tasked with.",
+Вяршыня тэхналёгіі транспарту людзей, марсаходы неверагодна трывалыя, што робіць іх устойлівымі да большасьці марсіянскіх бедстваў, такіх як холад або пыл. Яны могуць перасякаць калонію й дасягаць далёкіх кропак, абмежаваныя толькі рэльефам, каб справіцца з тым, што ім даручана.",
 10474,"RC Transports are remote controlled vehicles which are tasked with the transportation of cargo, mostly from or to places outside of drone operating ranges. Furthermore, RC Transports may set up permanent transport routes, maintaining the flow of resources from one place to another.
 
 Transport rovers can also extract resource from surface deposit (<em>Metals</em> and <em>Polymers</em>) allowing extraction and transportation of far away deposit sites.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
-The apex of human transport technology, Rovers are incredibly durable, making them resistant to most of the Martian calamities such as cold or dust. They may traverse the colony site and reach distant spots, limited only by the topography, to tackle whatever they have been tasked with.",
-5400,"RC Explorers carry with them advanced examination and research apparatus, making them the perfect vehicle to analyze any anomalous reading from anywhere in the region. As all Rovers, they are remotely controlled and can reach far-out locations if the terrain permits it.
+Вяршыня тэхналёгіі транспарту людзей, марсаходы неверагодна трывалыя, што робіць іх устойлівымі да большасьці марсіянскіх бедстваў, такіх як холад або пыл. Яны могуць перасякаць калонію й дасягаць далёкіх кропак, абмежаваныя толькі рэльефам, каб справіцца з тым, што ім даручана.",
+5400,"РК Выведчыкі маюць з сабой перадавыя прылады для агляду й дасьледаваньня, што робіць іх ідэальнымі сьродкам для аналізу любых анамальных паказаньняў з любой кропкі рэгіёну. Як і ўсе марсаходы, яны кіруюцца дыстанцыйна й могуць дабрацца да далёкіх мейсцаў, калі гэта дазваляе мясьцовасьць.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
-The apex of human transport technology, Rovers are incredibly durable, making them resistant to most of the Martian calamities such as cold or dust. They may traverse the Colony site and reach distant spots, limited only by the topography, to tackle whatever they have been tasked with.",
+Вяршыня тэхналёгіі транспарту людзей, марсаходы неверагодна трывалыя, што робіць іх устойлівымі да большасьці марсіянскіх бедстваў, такіх як холад або пыл. Яны могуць перасякаць калонію й дасягаць далёкіх кропак, абмежаваныя толькі рэльефам, каб справіцца з тым, што ім даручана.",
 5401,"Shuttles are a safe and rapid transportation method for Colonists between distant <em>Domes</em> and can also deliver resources reliably wherever needed – distance being irrelevant. When not in use, they are stationed at <em>Shuttle Hubs</em>, where they are maintained and refueled.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
@@ -2913,9 +2913,9 @@ Use <RT> to focus the Dome's Info Panel.",
 11427,Выяўлен прарыў: <name>,
 544703564762,Планетарная анамалія прааналізавана,
 7040,Выяўлен прарыў,
-5613,New Breakthrough Techs: <count>,
-5612,Breakthroughs discovered,
-7041,Breakthroughs discovered,
+5613,Новыя прарыўныя тэхналёгіі: <count>,
+5612,Выяўлены прарыўныя тэналёгія,
+7041,Выяўлены прарыўныя тэналёгія,
 5615,An Anomaly was successfully analyzed,
 5617,Tech Boost: Reduced cost of techs by 5% (all fields) ,
 5616,Alien Artifact Analyzed,
@@ -4139,7 +4139,7 @@ Scientists on Earth had long planned the creation of jet engines that could burn
 7171,The analysis tells us that we’ve found Iridium-rich sulfides! That’s a real rarity on Earth!,
 5814,"Mankind's ingenuity had found a myriad of applications for it. But we focused our plan on a much simpler, more vital role in our growing Colony – RTGs. Free energy for everyone!
 
-<effect>Зніжае кошт фізічных тэхналёгій на 10%.",
+<effect>Зніжае кошт фізычных тэхналёгій на 10%.",
 5815,Цудоўна!,
 7172,"The Rover went dark for five hours. When it rebooted, it confirmed it had come into contact with an unusually high-voltage electrical charge.",
 5816,"The red alert was sounded immediately after we lost contact with the RC Explorer vehicle. Five long hours of fear and desperation ended with the reinstating of data feed. A wave of relief passed through the crowd of scientists gathered at the control center. The telescopic drill used to probe the crust at the Anomaly site disturbed a layer of magnetite-rich rocks, the source of the electric charge. The rover is still functional but it would take time before its locomotion systems are fully restored. The operators turned the defeat into a victory, devoting the unexpected time window to studying the magnetic properties of the Martian crust.
@@ -8664,18 +8664,18 @@ The kid's parents held an impromptu wake for the fallen hero.",
 339558921129,"Hours later, under your attentive care, the Colonist comes back to reality and is feeling better, although ashamed.
 
 <effect><DisplayName> has been saved.",
-6319,"The <em>Biotech</em> field deals with <em>Food</em> production, <em>life support</em> and <em>medicine</em>.",
-6318,БІЯТЭХНІКА,
-6358,"The <em>Engineering</em> field deals with <em>Buildings</em>, <em>Domes</em> and improves <em>Rocket</em> technology.",
-6357,ІНЖЫНЕРЫЯ,
-6398,"The <em>Robotics</em> field deals with <em>Drones, Rovers and Shuttles</em>, as well as building <em>automation</em>.",
+6319,"<em>Біётэніка</em> зьвязана з вытворчасьцьцю <em>Ежы</em>, <em>жыцьцёзабесьпячэньнем</em> і <em>мэдыцынай</em>.",
+6318,БІЁТЭНІКА,
+6358,"<em>Інжынэрыя</em> зьвязана з <em>Будынкамі</em>, <em>Купаламі</em> й <em>Ракетнымі</em> тэхнолёгіямі.",
+6357,ІНЖЫНЭРЫЯ,
+6398,"<em>Робататэхніка</em> зьвязана з <em>Дронамі, Марсаходамі й Шатламі</em>, як і з будынкамі <em>аўтаматызацыі</em>.",
 6397,РОБАТАТЭХНІКА,
-6439,"The <em>Physics</em> field deals with <em>Power</em> production, <em>exploration</em> and <em>disaster</em> safety.",
-6438,ФІЗІКА,
-6481,"The <em>Social</em> field deals with <em>Colonists</em>, <em>traits</em>, Martian <em>society</em> and <em>Funding</em>.",
+6439,"<em>Фізыка</em> зьвязана з вытворчасьцьцю <em>Энэргіі</em>, <em>выведкай</em> і бясьпекай пад час <em>бедстваў</em>.",
+6438,ФІЗЫКА,
+6481,"<em>Сацыяльная</em> зьвязана з <em>Колёністамі</em>, <em>Рысамі</em>, Марсіяніскім <em>грамадствам</em> і <em>Фінансаваньнем</em>.",
 6480,САЦЫЯЛЬНЫЯ,
 6520,ПРАРЫВЫ,
-6607,Mysteries,
+6607,Таямніцы,
 948928900281,Story Bits,
 6522,"<em>Buildings</em> construct themselves slowly without Drones. Nanites will seek out resources from nearby resource depots.
 
@@ -9333,7 +9333,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 
 <grey>Дасьледаваньне, накіраванае на выкрыцьцё пераваг і станоўчых бакоў жыцьця колёніста на Марсе.</grey>",
 6482,"«Жывая трансляцыя з Марса»",
-6487,"<em>Інжынеры й геолагі</em> атрымліваюць +<param1> прадукцыйнасьці калі працуюць па сьпецыяльнасьці.
+6487,"<em>Інжынэры й геолагі</em> атрымліваюць +<param1> прадукцыйнасьці калі працуюць па сьпецыяльнасьці.
 
 <grey>""У геолагаў ёсьць прымаўка - камяні памятаюць.""
 <right>Ніл Армстранг</grey><left>",
@@ -9352,7 +9352,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 
 <grey>У сувязі з ростам ажыятажу ў СМІ аб нашай місіі, гэта толькі пытаннье сацыяльнага манеўраваньня, каб зрабіць першую міжпланетную краўдфандынгавую кампанію рэальнасьцю.</grey>",
 6490,Марсавы Краўдфандынг,
-6493,"Новы будынак: <em>Марсіянскі універсітэт</em> (<buildinginfo('MartianUniversity')>) - Падтрыхтоўвае навукоўцаў, геолагаў, батанікаў, медыкаў, інжынераў або афіцэраў бясьпекі.<if_all(has_dlc('kerwin'))>
+6493,"Новы будынак: <em>Марсіянскі універсітэт</em> (<buildinginfo('MartianUniversity')>) - Падтрыхтоўвае навукоўцаў, геолагаў, батанікаў, медыкаў, інжынэраў або афіцэраў бясьпекі.<if_all(has_dlc('kerwin'))>
 Новы будынак: <em>Шпіль-Школа</em> (<buildinginfo('SchoolSpireCCP1')>) - Вучыць дзяцей станоўчым рысам і можа даць рысу генія пасьля абнаўленьня.</if>
 
 <grey>Адукацыя на Марсе заўсёды бясплатнае.</grey>",
@@ -9603,7 +9603,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 6718,Vegan,
 6679,"Каланісты без спэцыялізацыі будуць горш працаваць там, дзе патрабуюцца спэцыялісты.",
 6680,"Спэцыяліст навуковец, падрыхтаваны да працы ў дасьледчых будынках. Інтарэсы: +<em>Гульні</em>, -<em>Шопінг</em>",
-6681,"Інжынер, падрыхтаваны да працы на фабрыках. Інтарэсы: +<em>Харчаваньне</em>, -<em>Сацыяльныя</em>",
+6681,"Інжынэр, падрыхтаваны да працы на фабрыках. Інтарэсы: +<em>Харчаваньне</em>, -<em>Сацыяльныя</em>",
 6683,"Афіцэр аховы, падрыхтаваны да працы ў будынках аховы. Інтарэсы: +<em>Спорт</em>, -<em>Шопінг</em>",
 6682,Афіцэр,
 6684,"Спэцыяліст геалог, падрыхтаваны да працы ў экстрактарах. Інтарэсы: +<em>Выпіўка</em>, -<em>Рэлаксацыя</em>",
@@ -9815,7 +9815,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 11894,Change TerraformingParam with <Amount>,
 11895,Change <TerraformingParam> with <Amount>,
 256529540884,Terraforming,
-577745051087,Геаінжынер,
+577745051087,Геаінжынэр,
 451989959636,"- Кошт імпарту насеньня зьніжаны на 50%
 - Бонусныя зборныя будынкі: 2 Парніковыя фабрыкі; 2x лясныя расьліны
 - Бонусная тэхналёгія: <em>Спраектаваныя лесапасадкі</em> (Новыя лясы маюць шанс стварыць <em>Вісты</em> й <em>Месца дасьледваньня</em>)",
@@ -9907,7 +9907,7 @@ All Special Projects concerning the Terraforming of Mars are colored in <green>G
 <right>Генры Дэвід Тора</grey><left>",
 569276295516,"Адпраўце ракету, каб выканаць адзін са спэцпраектаў, якія з'яўляюцца ў <em>Аглядзе планеты</em>.",
 754470867259,<new_in('armstrong')>Выканайце спэцпраект,
-532751737426,"Дасьледуйце прыстасаваную расьліннасьць і падрыхтуйце <em>Лесапасадку</em> з тыпам расьліны, усталяваным на дрэва. Дрэвы патрабуюць высокай <em>Тэмпературы</em><icon_TemperatureTP_alt> й <em>Вады</em><icon_WaterTP_alt> ў <em>Терафарміраваньні</em>  .",
+532751737426,"Дасьледуйце прыстасаваную расьліннасьць і падрыхтуйце <em>Лесапасадку</em> з тыпам расьліны, усталяваным на дрэва. Дрэвы патрабуюць высокай <em>Тэмпэратуры</em><icon_TemperatureTP_alt> й <em>Вады</em><icon_WaterTP_alt> ў <em>Терафарміраваньні</em>  .",
 194143329868,<new_in('armstrong')>Пасадзіце дрэва на паверхні Марса,
 594640680312,Дасьледуйце <em>Стварэньне возёр</em> і пабудуйце <em>Возера</em>.,
 637326803967,<new_in('armstrong')>Выкапайце возера,
@@ -9920,7 +9920,7 @@ All Special Projects concerning the Terraforming of Mars are colored in <green>G
 398907679702,"Дасьледуйце, стварайце й падтрымлівайце перапрацоўшчыкі карбанатаў і выконвайце спэцпраекты да дасягненьня найбольшага тэрафармаваньня атмасфэры.",
 840558176469,<new_in('armstrong')>100% Терафарміраваньне атмасфэры,
 883134526540,"Research, construct and maintain GHG Factories and Core Heat Convectors and complete Special Projects to achieve maximum Temperature terraforming.",
-221889569841,<new_in('armstrong')>100% Терафарміраваньне тэмпературы,
+221889569841,<new_in('armstrong')>100% Терафарміраваньне тэмпэратуры,
 850117384046,"Research, construct and fill Lakes and complete Special Projects to achieve maximum Water terraforming.",
 284267811051,<new_in('armstrong')>100% Терафарміраваньне вады,
 887622869917,Research and complete Seed Vegetation special projects to achieve maximum Vegetation terraforming.,
@@ -9981,7 +9981,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 12581,Падказка па тэрафарміраваньні,
 310869146547,Тэрафармаваньне спэцпраект,
 12582,Падказка па тэрафарміраваньні,
-116350042257,Глабальны параметр: Тэмпература,
+116350042257,Глабальны параметр: Тэмпэратура,
 12583,Падказка па тэрафарміраваньні,
 531616809618,Глабальны параметр: Расьліннасьць,
 12584,Падказка па тэрафарміраваньні,
@@ -10004,7 +10004,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 413072482016,Cloud Seeding,
 501641182896,"Send a refurbished rocket to gather greenhouse gases from Earth's atmosphere and then dump them on Mars, improving the Atmosphere of the planet. <em>This action may cause toxic rains that are harmful to soil quality and plant life.</em>",
 934945450792,Import Greenhouse Gases,
-480263489895,"Запусьціце высокаадбівальнае паверхня, каб сфакусаваць больш сонечнага святла на планету, павялічваючы глабальную <em>Тэмпературу</em> й вытворчасьць энергіі ўсіх <em>Сонечных панэляў</em>.",
+480263489895,"Запусьціце высокаадбівальнае паверхня, каб сфакусаваць больш сонечнага святла на планету, павялічваючы глабальную <em>Тэмпэратуру</em> й вытворчасьць энергіі ўсіх <em>Сонечных панэляў</em>.",
 327750605010,Запусьціце Касмічнае люстэрка,
 554507410322,"Запусьціце штучны шчыт, каб палепшыць магнітнае поле планеты, процідзейнічаць сонечнаму ветру й памяньшыць страты атмасфэры. Ракета будзе страчана.",
 872760332022,Запусьціце Магнітны шчыт,
@@ -10112,7 +10112,7 @@ Further terraforming info is available in the <em>Encyclopedia</em>.",
 <em>Temperature</em> is increased by buildings in the <em>Terraforming build menu</em> and by completing <em>Special projects</em>.
 
 The <em>Temperature tooltip</em> provides further information.",
-337281897308,Тэмпература,
+337281897308,Тэмпэратура,
 581462325866,"Vegetation parameter represents the spreading and diversity of vegetation and bacterial life on a planetary scale. Its improvement boosts local vegetation growth speed and spread.
 
 <em>Vegetation</em> is increased by <em>working Forestation Plants</em> and by completing <em>Special Projects</em>.
@@ -11075,7 +11075,7 @@ With a closer look, you observe scores of creatures which crawl, swim and jump i
 125733583201,Look at these beauties!,
 148696591717,"Ugh, um, they look okay, I guess.",
 484466724024,The things I do for terraforming Mars.,
-515252262133,"The <em>Terraforming</em> field deals with Mars' global <em>Atmosphere, Temperature, Water and Vegetation</em>, <em>Special Projects</em>, production of <em>Seeds</em>, planting of <em>different vegetation types</em> and <em>landscaping</em>.",
+515252262133,"<em>Тэрафарміраваньне</em> зьвязана з Марсіянскімі <em>Атмасфэрай, Тэмпэратурай, Вадой і Расьліннасьцьцю</em>, <em>Спэцыяльнымі Праектамі</em>, вытворчасьцьцю <em>Насеньня</em>, пасадкай <em>рознай расьліннасьці</em> й <em>ландшафтным дызайнам</em>.",
 507853904264,ТЭРАФАРМІРАВАНЬНЕ,
 590729739949,"Instantly gain <param1>% in all terraforming parameters.
 
@@ -11221,7 +11221,7 @@ As a side effect, one may expect a 5% boost in the field of Biotech.",
 842959764549,"Represents the density and composition of the Martian atmosphere. The higher this parameter is, the more Earth-like the atmospheric pressure, Oxygen levels and cloud generation are.<newline><newline>The improving Atmosphere decreases the severity of <em>Dust Storms</em> and <em>Meteor Storms</em> and creates environmental conditions for <em>Toxic Rains</em> and <em>clear water Rains</em> to occur.<newline><newline>Atmosphere applies terraforming boost to the Power production of <em>Wind Turbines</em> and to the Oxygen production of <em>MOXIEs</em>. <red>Decreases</red> the Power production of <em>Solar Panels</em>.<newline><newline><em>At maximum improvement, the atmosphere of Mars becomes breathable rendering domes and pressure suits obsolete.</em>",
 723765912147,Атмасфэра,
 637529677905,"Represents the global surface temperature on Mars. The higher this parameter is, the more favorable the conditions for Earth-like life are.<newline><newline>The improving Temperature decreases the severity of <em>Cold Wave</em> and creates environmental conditions for <em>Toxic Rains</em> and <em>clear water Rains</em> to occur.<newline><newline>Increased Temperature is required for <em>liquid water</em> to be present on the surface of Mars and in lakes. High enough Temperatures are also paramount for the habitability of the Martian surface and to be able to have <em>open-air Domes</em>.",
-920381483594,Тэмпература,
+920381483594,Тэмпэратура,
 690140647880,"Represents the spreading and diversity of vegetation and bacterial life on a planetary scale. The higher this parameter is, the more Mars looks like the tundra biome back on Earth, with the ultimate goal to become a quite harsh, yet habitable second home for Humanity.<newline><newline>The improving Vegetation increases the likelihood that plants will replicate and spread.<newline><newline><em>As wild vegetation improves, sporadic vegetation booms will occur.</em> Increased concentration of seeds in the wind causes lichen, grass, bushes or trees to spread throughout the colony.",
 582684290103,Расьліннасьць,
 967369800333,"Represents the quality and volume of surface water on Mars. The higher this parameter is, the more and larger water bodies will appear on Mars: lakes, seas and oceans.<newline><newline>The improving Water creates environmental conditions for <em>Toxic Rains</em> and <em>clear water Rains</em> to occur.<newline><newline>Water applies terraforming boost to the Water production of <em>Moisture Vaporators</em>.",
@@ -11254,7 +11254,7 @@ As a side effect, one may expect a 5% boost in the field of Biotech.",
 12480,Атмасфэра,
 615771220556,<AtmosphereText>,<AtmosphereText>
 123033012735,<TemperatureRollover>,<TemperatureRollover>
-602825975582,Тэмпература,
+602825975582,Тэмпэратура,
 553383115867,<TemperatureText>,<TemperatureText>
 497622694313,<WaterRollover>,<WaterRollover>
 429318014327,Вада,
@@ -12695,7 +12695,7 @@ What is your response to this provocation?",
 323002136671,gain <standing_gain_low> Standing with all Colonies; a few Colonists lose Morale,
 114977811192,Do nothing. Reacting to such a stupid joke would be beneath us.,
 292689213195,gain <standing_gain_high> Standing with <DisplayName>; a few Colonists lose Morale,
-337391706448,"Паколькі прамежак часу, у які ўсё адбылося, быў даволі кароткім, наступнае хуткае расьсьледваньне выявіла пашкоджаньне праграмнага забеспячэньня ва ўсіх задзейнічаных Дронах. Ушкоджаньне, па словах нашых інжынераў, можа адбыцца толькі ў тым выпадку, калі сістэму ўзламалі.
+337391706448,"Паколькі прамежак часу, у які ўсё адбылося, быў даволі кароткім, наступнае хуткае расьсьледваньне выявіла пашкоджаньне праграмнага забеспячэньня ва ўсіх задзейнічаных Дронах. Ушкоджаньне, па словах нашых інжынэраў, можа адбыцца толькі ў тым выпадку, калі сістэму ўзламалі.
 
 Нягледзячы на тое, што гэта відавочны дыверсійны акт, мы не можам даказаць, хто менавіта вінаваты. Тое, што мы можам зрабіць, гэта падняць пытаньне ў зямныя судовыя органы - якія, верагодна, на кароткі час перашкодзяць усім аперацыям нашых супраціўнікаў (не толькі вінаватага).",
 351319490417,Халодныя машыны,
@@ -12909,7 +12909,7 @@ Until we get all our firewalls running again, we can block only a few of the cha
 570870101227,"Мы не можам дазволіць сабе агітаваць рабочых на заводах і экстрактарах.",
 821888202593,Медыкі й навукоўцы страчваюць маральны настрой на <sols(duration)> Сола,
 974841578922,Маральны дух у нашых лазарэтах і лабараторыях з'яўляецца галоўным прыярытэтам.,
-767657497786,Геолагі й інжынеры страчваюць маральны настрой на <sols(duration)> Сола,
+767657497786,Геолагі й інжынэры страчваюць маральны настрой на <sols(duration)> Сола,
 956894834772,"With so many devices found it is safe to assume that our rivals have stepped up their technological espionage game. 
 
 Common sense dictates we close our Labs to sniff out all spy devices.",
@@ -13186,14 +13186,14 @@ If we deny their request, it could become a point of friction.",
 712871969168,"This presents us with a golden opportunity to infiltrate the colony of <DisplayName> and perform both espionage and sabotage tasks. 
 
 With the proper training, Trish Sanders can do both, however, we have to act fast.",
-714351397790,Spy Games,
-150827210528,"An applicant slated to come to our colony has been listed as a desired applicant by a Rival Colony as well, obviously by mistake.",
-200682516922,Send Sanders to training camp. We can't miss this opportunity.,
+714351397790,Гульні шпіёнаў,
+150827210528,"Кандыдат, які павінен быў прыехаць да нас, быў унесены ў спіс пажаданых суіскальнікаў калёніі-суперніка, відавочна памылкова.",
+200682516922,Адправіць Сандэрса ў трэніровачны лагер. Мы не можам прапусьціць гэтую магчымасьць.,
 425845952919,"After a hasty training and a trip to Mars, our agent has successfully infiltrated our rivals. Commence operation ""Spy Games"".",
 272770950016,"Agent Sanders has established a communications channel with us. Initial plans are to steal any technology deemed of value.
 
 We are told to expect results within a few Sols.",
-906877286311,I don't want to antagonize our already strained relationship. Pass.,
+906877286311,Я не хачу зьнішчаць нашы і без таго напружаныя адносіны.,
 513936281590,We have no idea of Trish Sander's fate. We expect that these circumstances will sour the diplomatic relations with our rivals.,
 159168246228,Our agent has been caught!,
 405539095942,"All Factories broke down at once. So did our energy producers.
@@ -13204,7 +13204,7 @@ Commander, there is one other thing. Agent Sanders is nowhere to be found. Her r
 
 <effect>All Factories and Power Producers have malfunctioned.",
 152366516099,"Commander, the entire base is an state of emergency - just within a few minutes several disastrous events crippled our colony.",
-689410617689,"Trish Sanders, you played us all. ",
+689410617689,"Трыш Сандэрс, ты разыгралаў нас усіх.",
 909758220259,Trish Sanders,
 254468784079,"A special Shuttle brought in by our sponsor picked up agent Sanders and she is now safely en route to our colony.
 
@@ -17560,8 +17560,8 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 7350,<red>Брак актыўных дасьледаваньняў</red>,
 13787,<LeftTrigger> Prioritize research,
 13788,<RightTrigger> Deprioritize research,
-3918,Unknown Tech (<FieldDisplayName>),
-3919,"<FieldDescription><newline><newline>To unlock, research more technologies in this field or use the Explorer rover to analyze anomalies.",
+3918,Невядомая тэхналёгія (<FieldDisplayName>),
+3919,"<FieldDescription><newline><newline>Да разблакаваньня, дасьледуйце больш тэхналёгій у гэтай галіне або выкарыстоўвайце <em>РК Выведчык</em> для аналізу анамалій.",
 3920,<description><newline><newline><em>Дасьледавана</em>,
 10980,<description><newline><newline>Кошт дасьледаваньня<right><ResearchPoints(cost)><if(percent_check)><newline><left>Cost reduction<right><percent>%</if>,
 12638,<left_click> Дадаць у чаргу дасьледаваньняў<newline><em>Ctrl+<left_click></em> У першую чаргу,
@@ -17961,9 +17961,9 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 3850,Навуковец,
 3851,Навукоўцы,
 3852,"Падрыхтаваны навуковец, які імкнецца адкрыць таямніцы Космасу.",
-3853,Інжынер,
-3854,Інжынеры,
-3855,"Падрыхтаваны інжынер, будуючы лепшую будучыню для чалавецтва.",
+3853,Інжынэр,
+3854,Інжынэры,
+3855,"Падрыхтаваны інжынэр, будуючы лепшую будучыню для чалавецтва.",
 3856,Афіцэр,
 3857,Афіцэры,
 3858,"Падрыхтаваны афіцэр бяспекі, які абараняе нашу Утопію.",
@@ -18188,7 +18188,7 @@ Larger networks will malfunction more often.",
 4137,"Concrete is used in the construction of many Colony buildings, especially in the interior of the Domes.",
 4138,Most vital resource for sustaining humans on Mars. Water can be extracted from deposits using Water Extractors.,
 4140,"Rare Metals can be exported by refueled Rockets that return to Earth, increasing the Funding for the Colony. They are also used for creating Electronics.",
-4141,Тэмпература,
+4141,Тэмпэратура,
 13661,Exotic Minerals,
 13662,"Exotic Minerals can only be obtained from Asteroids. They are a valuable construction material for expanding into the underground, and can be exported to earth to increase the Funding for the Colony.",
 4142,Dust Devils,
@@ -18407,7 +18407,7 @@ Larger networks will malfunction more often.",
 7588,"<UnitMoveControl('ButtonA',interaction_mode)>: Repair this vehicle",
 7589,<red>Too many Drones are repairing this vehicle</red>,
 4404,Order the drone to load <resource_name>.,
-720,Nothing,
+720,Нічога,
 7395,"<resource(amount,resource)>",
 7396,Location,
 4439,Накірован да<right><h SelectTarget InfopanelSelect><Target></h>,
@@ -18457,9 +18457,9 @@ Larger networks will malfunction more often.",
 4424,Give command to move or interact with an object.,
 10927," / <em><ShortcutName('actionMoveInteract', 'keyboard')></em>"," / <em><ShortcutName('actionMoveInteract', 'keyboard')></em>"
 7401,<left_click><hint> Select target mode<newline><UnitMoveControl()> on target to move or interact,
-1684,RC Explorer,
-12090,RC Explorers,
-4455,A remote-controlled exploration vehicle that can analyze Anomalies.,
+1684,РК Выведчык,
+12090,РК Выведчыкі,
+4455,"Выведчыцкі апарат з дыстанцыйным кіраваньнем, які можа аналізаваць анамаліі.",
 9634,"<UnitMoveControl('ButtonA', interaction_mode)>:  Scan Anomaly",
 10241,RC Constructor,
 12073,RC Constructors,
@@ -19089,7 +19089,7 @@ Perfect Time Сол <PerfectDeadline>
 849526618919,ПРАГРЭС ТЭРАФАРМІРАВАНЬНЯ,
 516490202538,Атмасфэра,
 972097632831,<Atmosphere>,<Atmosphere>
-618229231873,Тэмпература,
+618229231873,Тэмпэратура,
 138871236663,<Temperature>,<Temperature>
 969321325521,Вада,
 999182219498,<Water>,<Water>
