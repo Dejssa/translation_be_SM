@@ -1298,7 +1298,7 @@ Before you get started, please take a moment to read our Privacy Policy.",
 9005,"Альтэрнатыўная сярэдняя канфігурацыя купалу. Танней, але забяспечвае менш жылой плошчы.",
 8812,"Connects nearby Domes, sharing Power and Life Support. Passages must start and end on a empty hex inside a Dome. Colonists can work and use services in Domes that are directly connected with passages to their residential Dome.",
 8814,Праязныя пандусы,
-8815,Дазваляе перамяшчацца транспартным сьродкам і беспілотнікам па праходах.,
+8815,Дазваляе перамяшчацца транспартным сродкам і беспілотнікам па праходах.,
 717850411664,Самадастатковы купал,
 639840852696,Самадастатковыя клавішупалы,
 410207944438,"Contains a small Dome suitable for the early days of the colony, together with Water and Oxygen producing facilities and storages.<newline><newline><em>Construction layout</em>, places the following buildings: Small Dome, МЭВК, 2 Выпарнікі вільгаці, Water Tower, Oxygen Tank, Food Depot, Power Cables and Pipes<if_all(not(has_researched('MoistureFarming')),not(has_prefabs('MoistureVaporator', 2)),not(has_prefabs('SelfSufficientDome')))><newline><newline><red>Research Moisture Farming to build Moisture Vaporators, or get prefabs from Earth.</red></if>",
@@ -1342,7 +1342,7 @@ Before you get started, please take a moment to read our Privacy Policy.",
 4478,<description><newline><newline><DronesStatusText><newline><left>Drones<right><drone(DronesCount)>,
 8880,Пляцоўка для пасадкі,
 8881,Пляцоўкі для пасадкі,
-8882,Спецыяльная пасадачная пляцоўка, якая абараняе будынкі й транспартныя сьродкі побач ад пылу падчас пасадак і ўзлётаў <em>Ракет</em>.,
+8882,Спецыяльная пасадачная пляцоўка, якая абараняе будынкі й транспартныя сродкі побач ад пылу падчас пасадак і ўзлётаў <em>Ракет</em>.,
 5123,MDS Lasers,
 5124,Destroys any falling meteors in its range. Has a short cooldown between shots.,
 5208,Power Decoy,
@@ -1358,8 +1358,8 @@ Before you get started, please take a moment to read our Privacy Policy.",
 731448797928,Ракета транспартуе рэсурсы й людзей паміж Зямлёю й Марсам.,
 5299,Трыбаэлектрычны ачышчальнік,
 5300,Выпраменьвае імпульсы, якія убіраюць пыл, назапашаны на будынках у зоне дзеяньня.,
-889,Тунель,
-5301,Тунелі,
+889,Тунэль,
+5301,Тунэлі,
 5302,"Уваход і выхад з тунэля могуць злучаць электрасеткі й сеткі жыцьцезабесьпячэньня ў розных мейсцах і на розных вышынях. Марсаходы могуць выкарыстоўваць тунэлі, каб дасягнуць мейсцы, якія інакш не змаглі б.",
 884894533739,Рампа,
 636241981257,Рампы,
@@ -2015,11 +2015,11 @@ Apart from being essential for supporting life inside Domes and field buildings 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
 The most important ingredient for life as we know it to exist is by no means scarce on Mars. However, it is mostly frozen and underground, making it difficult for acquiring. As bringing the water needed to sustain a city on Mars back from Earth will be a huge burden on every craft and far from efficient, constructing a steady water supply solely by harnessing water ice found on Mars is absolutely essential for the survival of any colony. ",
-5395,"Умовы на Марсе абсалютна непрыемныя для таго, каб людзі маглі вольна блукаць і працаваць за межамі <em>Купалоў</em>. Вось чаму вялікагрузныя транспартныя сьродкі былі распрацаваны, каб вырашаць задачы, з якім не справіцца чалавеку.
+5395,"Умовы на Марсе абсалютна непрыемныя для таго, каб людзі маглі вольна блукаць і працаваць за межамі <em>Купалоў</em>. Вось чаму вялікагрузныя транспартныя сродкі былі распрацаваны, каб вырашаць задачы, з якім не справіцца чалавеку.
 
-Транспартныя сьродкі гэта <em>марсаходы</em> з дыстанцыйным кіраваньнем, або паўаўтаномныя <em>Дроны</em> й <em>Шатлы</em>.",
-5393,Транспартныя сьродкі,
-5394,ТРАНСПАРТНЫЯ СЬРОДКІ,
+Транспартныя сродкі гэта <em>марсаходы</em> з дыстанцыйным кіраваньнем, або паўаўтаномныя <em>Дроны</em> й <em>Шатлы</em>.",
+5393,Транспартныя сродкі,
+5394,ТРАНСПАРТНЫЯ СРОДКІ,
 5396,"Ракеты выкарыстоўваюцца для дастаўкі забясьпечэньня зь Зямлі або колёністаў, якія падалі заяўку на жыцьцё на Марсе.
 
 Іх магчыма выкарыстоўваць шматраз. Пасля запраўкі на Марсе яны могуць перавезьці рэдкія металы на Зямлю для атрыманьня грашоў.
@@ -2028,18 +2028,18 @@ The most important ingredient for life as we know it to exist is by no means sca
 
 Касьмічныя ракеты маюць значна большую ролю ў місіі стварэньня пастаяннай колёніі на Марсе, чым проста даставіць першых колёністаў. Пакуль колёнія не зможа існаваць без падтрымкі, яна заўсёды будзе залежыць ад Зямлі ў плане атрымання жыццёва важных рэсурсаў і патоку колёністаў.
 
-Нягледзячы на тое, што тэхналёгія шматразовага выкарыстаньня даволі дарагая, яна ўжо асвоена да такой узроўню, што ракета можа вярнуцца ў космас у той жа час пасля пасадкі й запраўкі на любым сьвеце.
-5397,"Drones are the backbone of the Martian colony’s work force. They are tasked with distributing resources, gathering resources from surface deposits, building and maintaining structures as well as repairing damaged structures and vehicles. 
+Нягледзячы на тое, што тэхналёгія шматразовага выкарыстаньня даволі дарагая, яна ўжо асвоена да такой узроўню, што ракета можа вярнуцца ў космас у той жа час пасля пасадкі й запраўкі на любым сьвеце.",
+5397,"Дроны з'яўляюцца асновай працоўнай сілы марсіянскай колёніі. Ян разьмяркоўваюць рэсурсы, зьбіраць рэсурсы з паверховых радовішч, будуюць і абслугоўваюць будынкі, а таксама рамантуюць пашкоджаныя будынкі й транспартныя сродкі.
 
-Although mostly autonomous, drones operate within the service range of whatever control hub they are assigned to, such as <em>Drone Hubs</em>, <em>Rockets</em> or <em>RC Commanders</em>.
+У асноўным аўтаномныя, дроны працуюць у зоне абслугоўваньня любога цэнтра кіраваньня, да якога яны прызначаны, напрыклад <em>ЦК Дронаў</em>, <em>Ракеты</em> альбо <em>РК Кардынатар</em>.
 
-Drones run on batteries and need to charge up frequently. They may do so only at <em>RC Commander</em> and <em>Charging Stations</em> which in turn can be built individually or are found attached to <em>Drone Hubs</em>.
+Дроны працуюць ад акумулятара, і іх трэба часта зараджаць. Яны могуць зрабіць гэта толькі ў <em>РК Кардынатара</em> й <em>Зараднай станцыі</em> якія могуць быць пабудаваны асобна або быць прымацаваны да <em>ЦК Дронаў</em>.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
-All the heavy lifting and most of the field tasks are left to Drones. Drones are powerful, semi-autonomous utility vehicles which are equipped with state of the art instruments – fit for a wide range of manual labor.
+Усю цяжкую працу й большасць палявых задач яны бяруць на сабе. Дроны - гэта магутныя паўаўтаномныя карыснасць транспартныя сродкі, абсталяваныя самымі сучаснымі прыладамі, прыдатнымі для шырокага спектру ручной працы.
 
-Built to be resilient against most of what the Martian environment can throw at them, the arch-enemy of all man-made technology on Mars, dust, will eventually incapacitate drones if not cleaned regularly.",
+Створаны быць устойлівым да большасці марсіянскага асяроддзя. Закляты вораг усіх тэхналёгій на Марсе, пыл, у канчатковым выніку выведзе з ладу дроны, калі яго не чысціць рэгулярна.",
 5398,"RC Commanders are remote-controlled vehicles which can transport and deploy <em>Drones</em> to remote areas if needed. They can also repair any damage that the Drones have sustained.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
@@ -2052,7 +2052,7 @@ Transport rovers can also extract resource from surface deposit (<em>Metals</em>
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
 Вяршыня тэхналёгіі транспарту людзей, марсаходы неверагодна трывалыя, што робіць іх устойлівымі да большасьці марсіянскіх бедстваў, такіх як холад або пыл. Яны могуць перасякаць калонію й дасягаць далёкіх кропак, абмежаваныя толькі рэльефам, каб справіцца з тым, што ім даручана.",
-5400,"РК Выведчыкі маюць з сабой перадавыя прылады для агляду й дасьледаваньня, што робіць іх ідэальнымі сьродкам для аналізу любых анамальных паказаньняў з любой кропкі рэгіёну. Як і ўсе марсаходы, яны кіруюцца дыстанцыйна й могуць дабрацца да далёкіх мейсцаў, калі гэта дазваляе мясьцовасьць.
+5400,"РК Выведчыкі маюць з сабой перадавыя прылады для агляду й дасьледаваньня, што робіць іх ідэальнымі сродкам для аналізу любых анамальных паказаньняў з любой кропкі рэгіёну. Як і ўсе марсаходы, яны кіруюцца дыстанцыйна й могуць дабрацца да далёкіх мейсцаў, калі гэта дазваляе мясьцовасьць.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
@@ -2888,9 +2888,9 @@ Use <RT> to focus the Dome's Info Panel.",
 9211,Construct two Farms in the new Dome. They will be used as workplaces for the Colonists in the old Dome once the Domes are connected.,
 9213,"Using the Build Menu <ButtonY>, connect the two nearby Domes with a <em>Passage</em>. The passage must start in an unoccupied hex within one Dome and end in such a hex within the other Dome.",
 9212,Connect the two nearby Domes with a <em>Passage</em>. The passage must start in an unoccupied hex within one Dome and end in such a hex within the other Dome.,
-9216,"Open the Research screen by using <LT>, then select the <em>Extractor Amplification</em> research.",
-9215,"From the Research screen, select the <em>Extractor Amplification</em> research.",
-10282,Wait for the Extractor Amplification research to complete.,
+9216,"Адкрыйце экран дасьледаваньня праз <LT>, пасля выберыце дасьледаваньне <em>Узмацненьне экстрактара</em>.",
+9215,"На экране дасьледаваньня выберыце дасьледаваньне <em>экран дасьледаваньня</em>.",
+10282,Пачакайце пакуль дасьледаваньне <em>Узмацненьне экстрактара</em> будзе выканана.,
 9214,Research Upgrade,
 9218,<em>Upgrade</em> the Water Extractor building by following the indicators.,
 9792,Now wait for Drones to bring the resources needed to complete the <em>Upgrade</em>.,
@@ -7825,10 +7825,10 @@ When they saw that the authorities were not going to solve this problem, <Displa
 906031307867,"Хапае ў нас бед. Не разгойдвайце лодку.",
 824937946497,"Нам патрэбна будзе падрыхтаваць купал, каб ён вытрымліваў узровень шуму, які бывае на падобнай падзее.",
 673706997571,Усе колёністы атрымліваюць <morale_boost> Маральнага духу на <sols(moraleboost_period)> Сол(ы),
-360477300749,"It seems we hadn't properly estimated the noise levels and that even our Domes were not made to withstand the power of Rock and Roll.
+360477300749,"Здаецца, мы кепска ацанілі ўзровень шуму. Нашы купалы не былі зроблены, каб супрацьстаяць магутнасьці Rock'n'Roll'у.
 
 <effect>Канцэрт стаў прычынай некалькіх шчылін надбудовы прымаючага Купалу.",
-242571177980,Гэта быў цудоўны канцэрт - усе атрымалі задавальненьне, але...,
+242571177980,"Гэта быў цудоўны канцэрт - усе атрымалі задавальненьне, але...",
 763073168647,"Мяркую, што мы не прадумалі гэта.",
 510881587031,We had to suspend the rocket launch due to suspicious atmospheric patterns. There is nothing wrong with the Rocket and it is now ready for launch again. However people are concerned - after all rockets are our only way back home. ,
 580256524353,Rocket Launch Failed,
@@ -9163,7 +9163,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 
 <grey>""From the first day to this, sheer greed was the driving spirit of civilization.""
 <right>Friedrich Engels</grey><left>",
-6440,Extractor Amplification,
+6440,Узмацненьне экстрактара,
 6443,"<em>Вежы-сканеры</em> больш не патрабуе <em>Энергіі</em> або абслугоўваньня.
 
 <grey>Надзейныя даныя датчыкаў важныя да дасьледаваньня Марса.</grey>",
@@ -9329,7 +9329,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 <grey>Martian concrete, made from equal parts regolith and sulfur, has some vast improvements over its Earth counterpart. Red concrete is stronger, more durable and can be recycled and reused simply by reheating it.</grey>",
 6436,Large-scale Excavation,
 6483,"Больш <em>Кандыдатаў</em> будзе з'яўляцца на Зямлі.<if_all(has_dlc('kerwin'))>
-Новы будынак: <em>Тэлестудыйная майстэрня</em> (<buildinginfo('TVStudioWorkshopCCP1')>) - Майстэрня, таксама стварае сьродкі пасля завяршэньня тэлешоў.</if>
+Новы будынак: <em>Тэлестудыйная майстэрня</em> (<buildinginfo('TVStudioWorkshopCCP1')>) - Майстэрня, таксама стварае сродкі пасля завяршэньня тэлешоў.</if>
 
 <grey>Дасьледаваньне, накіраванае на выкрыцьцё пераваг і станоўчых бакоў жыцьця колёніста на Марсе.</grey>",
 6482,"«Жывая трансляцыя з Марса»",
@@ -9682,26 +9682,26 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 11723,<n>%,<n>%
 12199,<n>.<d1>%,<n>.<d1>%
 11724,<n>.<d1><d2>%,<n>.<d1><d2>%
-12553,"From <building> <right><resource(sum, res)> per Сол<newline><left>",
-12554,"<name><right><resource(value,res)> per Сол<newline><left>",
+12553,"<building> даюць <right><resource(sum, res)> у Сол<newline><left>",
+12554,"<name><right><resource(value,res)> у Сол<newline><left>",
 12555,<name><right><value><newline><left>,<name><right><value><newline><left>
-12617,"Represents the average value of the four terraforming parameters. Gradual changes will accrue over time. Drastic changes will occur upon reaching specific thresholds:
+12617,"Уяўляе сярэдняе значэньне чатырох параметраў тэрафарміраваньня. Паступовыя змены будуць нарастаць з часам. Пры дасягненьні пэўных парогавых значэнняў адбудуцца кардынальныя зьмены:
 ",
-12618,"<color_tag>Liquid water</color><right><tp_threshold('LiquidWater', 'true', 'true')>",
-12625,"<color_tag>Cold waves end</color><right><tp_threshold('ColdWaveStop', true, true)>",
-12623,"<color_tag>Dust storms end</color><right><tp_threshold('DustStormStop', true, true)>",
-12624,"<color_tag>Meteor storms end</color><right><tp_threshold('MeteorStormStop', true, true)>",
-12620,"<color_tag>Toxic rains start</color><right><tp_threshold('ToxicRainStart', true, true)>",
-12619,"<color_tag>Breathable atmosphere</color><right><tp_threshold('AtmosphereBreathable', true, true)>",
-12626,"<color_tag>Sustainable grass</color><right><tp_threshold('CanPlantGrass', true, true)>",
-12627,"<color_tag>Sustainable bushes</color><right><tp_threshold('CanPlantBushes', true, true)>",
-12628,"<color_tag>Sustainable pine trees</color><right><tp_threshold('CanPlantTrees', true, true)>",
-12629,"<color_tag>Sustainable mixed trees</color><right><tp_threshold('CanPlantMixedTrees', true, true)>",
-12621,"<color_tag>Clear-water rains start</color><right><tp_threshold('RainStart', true, true)>",
-12622,"<color_tag>Toxic rains end</color><right><tp_threshold('ToxicRainStop', true, true)>",
-12630,"<color_tag>Wild vegetation boom</color><right><tp_threshold('VegetationBoom1', true, true)>",
-12631,"<color_tag>Wild vegetation boom</color><right><tp_threshold('VegetationBoom2', true, true)>",
-12632,"<color_tag>Wild vegetation boom</color><right><tp_threshold('VegetationBoom3', true, true)>",
+12618,"<color_tag>Вадкая вада</color><right><tp_threshold('LiquidWater', 'true', 'true')>",
+12625,"<color_tag>Халодныя хвалі зьнік.</color><right><tp_threshold('ColdWaveStop', true, true)>",
+12623,"<color_tag>Пясчаная буры зьнік.</color><right><tp_threshold('DustStormStop', true, true)>",
+12624,"<color_tag>Метэорныя буры зьнік.</color><right><tp_threshold('MeteorStormStop', true, true)>",
+12620,"<color_tag>Атрутныя дажджы</color><right><tp_threshold('ToxicRainStart', true, true)>",
+12619,"<color_tag>Атмасфэра да дыханьня</color><right><tp_threshold('AtmosphereBreathable', true, true)>",
+12626,"<color_tag>Устойлівая трава</color><right><tp_threshold('CanPlantGrass', true, true)>",
+12627,"<color_tag>Ўстойлівыя кусты</color><right><tp_threshold('CanPlantBushes', true, true)>",
+12628,"<color_tag>Устойлівыя хваёвыя дрэвы</color><right><tp_threshold('CanPlantTrees', true, true)>",
+12629,"<color_tag>Устойлівыя зьмешаныя дрэвы</color><right><tp_threshold('CanPlantMixedTrees', true, true)>",
+12621,"<color_tag>Чыстыя дажджы</color><right><tp_threshold('RainStart', true, true)>",
+12622,"<color_tag>Атрутныя дажджы зьнік.</color><right><tp_threshold('ToxicRainStop', true, true)>",
+12630,"<color_tag>Бум дзікай расьліннасьці</color><right><tp_threshold('VegetationBoom1', true, true)>",
+12631,"<color_tag>Бум дзікай расьліннасьці</color><right><tp_threshold('VegetationBoom2', true, true)>",
+12632,"<color_tag>Бум дзікай расьліннасьці</color><right><tp_threshold('VegetationBoom3', true, true)>",
 12575,Show historical data for <terraforming_param>,
 12472,<graph_right><param> Progress <em>(<progress>)</em></graph_right>,
 12473,<graph_left>Produced</graph_left> <em>(<produced>)</em> and <graph_right>Lost</graph_right> <em>(<loss>)</em> (per Сол),
@@ -9755,16 +9755,16 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 710259377624,Seeds Depot,
 686258836140,Seeds Depots,
 333579055417,Захоўвае <seeds(max_storage_per_resource)>. Некаторыя рэсурсы будуць перавезены ў іншыя склады ў межах радыусу дзеяньня <em>Дронаў</em>.,
-901918261691,Large Lake,
-12576,Large Lakes,
-12057,Huge Lake,
-720945685049,Huge Lakes,
+901918261691,Вялікае возера,
+12576,Вялікія азёры,
+12057,Велізарнае возера,
+720945685049,Вялізныя азёры,
 745504016041,"Improves local Soil Quality, proportionally to its Water level. Consumes Water to fill up and requires constant refilling, due to surface evaporation. Doesn't increase Soil Quality and doesn't improve global Water<icon_WaterTP_alt> at low Temperature<icon_TemperatureTP_alt>.",
-250090510331,Lake,
-853630610242,Lakes,
+250090510331,Возера,
+853630610242,Азёры,
 159167383397,"Improves local Soil Quality, proportionally to its Water level. Consumes Water to fill up and requires constant refilling, due to surface evaporation. Doesn't increase Soil Quality and doesn't improve global Water<icon_WaterTP_alt> at low Temperature<icon_TemperatureTP_alt>.",
-721064881426,Small Lake,
-879042762208,Small Lakes,
+721064881426,Малое возера,
+879042762208,Малыя азёры,
 980319980035,"Improves local Soil Quality, proportionally to its Water level. Consumes Water to fill up and requires constant refilling, due to surface evaporation. Doesn't increase Soil Quality and doesn't improve global Water<icon_WaterTP_alt> at low Temperature<icon_TemperatureTP_alt>.",
 851744359351,<seeds(stored_seeds)>,<seeds(stored_seeds)>
 250847254033,Seeds Storage,
@@ -10069,7 +10069,7 @@ We are now able to open our Domes and rely on the Martian atmosphere alone to pr
 504780607315,"Today the sun rose above a scene so spectacularly normal, that it was everything but. Blueish skies hanging above the arid, grassy fields of what might as well have been the great plains of Utah... But was actually here, on Mars!
 
 Our restless efforts to purify the Martian atmosphere and make it suitable for humans have never achieved a more significant milestone. We are halfway there! But there is a lot of work remaining to be done.",
-403941280652,Blue Skies,
+403941280652,Блакітнае неба,
 830450953217,"As the atmospheric conditions have worsened the skies above are no longer blue, giving way to the all too familiar red haze once more.",
 996393820487,No More Blue Skies,
 269336522838,"Congratulations, you have successfully made the first step towards turning Mars into a lush green heaven! You have unlocked the Seeds resource that can be imported from Earth. 
@@ -11216,15 +11216,15 @@ As a side effect, one may expect a 5% boost in the field of Biotech.",
 <grey>""The winds of grace are always blowing, but you have to raise the sail."" 
 <right>Ramakrishna</grey><left>",
 11937,Planetary Projects,
-206931232175,Loss of atmosphere,
-277656568245,Magnetic Shields,
-842959764549,"Represents the density and composition of the Martian atmosphere. The higher this parameter is, the more Earth-like the atmospheric pressure, Oxygen levels and cloud generation are.<newline><newline>The improving Atmosphere decreases the severity of <em>Dust Storms</em> and <em>Meteor Storms</em> and creates environmental conditions for <em>Toxic Rains</em> and <em>clear water Rains</em> to occur.<newline><newline>Atmosphere applies terraforming boost to the Power production of <em>Wind Turbines</em> and to the Oxygen production of <em>MOXIEs</em>. <red>Decreases</red> the Power production of <em>Solar Panels</em>.<newline><newline><em>At maximum improvement, the atmosphere of Mars becomes breathable rendering domes and pressure suits obsolete.</em>",
+206931232175,Губляецца атмасфэры,
+277656568245,Магнітныя экраны,
+842959764549,"Уяўляе шчыльнасць і склад атмасферы Марса. Чым вышэй гэты параметр, тым больш атмасферны ціск, узровень тлёну і ўтварэньне аблокоў подобныя на Зямны.<newline><newline>Паляпшэньне атмасфэры памяншае вастрыню <em>Пясчаных бур</em> і <em>Метэорных бур</em>, стварае экалагічныя ўмовы каб адбываліся <em>Атрутныя дажджы</em> й <em>Чыстыя дажджы</em>.<newline><newline>Шчыльная атмасфэра ўзмацняе вытворчасьць энергіі <em>Ветравых турбін</em> і вытворчасьць тлёну ў <em>МЭРТах</em>. <red>Зьмяншае</red> вытворчасьць энергіі ў <em>Сонечных панэляў</em>.<newline><newline><em>Пры максімальным паляпшэньні, атмасфэра Марса становіцца прыдатнай да дыханьня, таму купалы і скафандры больш не патрэбны.</em>",
 723765912147,Атмасфэра,
-637529677905,"Represents the global surface temperature on Mars. The higher this parameter is, the more favorable the conditions for Earth-like life are.<newline><newline>The improving Temperature decreases the severity of <em>Cold Wave</em> and creates environmental conditions for <em>Toxic Rains</em> and <em>clear water Rains</em> to occur.<newline><newline>Increased Temperature is required for <em>liquid water</em> to be present on the surface of Mars and in lakes. High enough Temperatures are also paramount for the habitability of the Martian surface and to be able to have <em>open-air Domes</em>.",
+637529677905,"Уяўляе глабальную тэмпэратуру паверхні Марса. Чым вышэй гэты параметр, тым больш спрыяльныя ўмовы для жыцця як на Зямлі.<newline><newline>Павышэньне тэмпэратуры памяншае вастрыню <em>Халодных хавляў</em>, стварае экалагічныя ўмовы каб адбываліся <em>Атрутныя дажджы</em> й <em>Чыстыя дажджы</em>.<newline><newline>Павышэньне тэмпературы патрэбна каб на паверхні Марса з'явідася <em>Вадкая вада</em> і ў азёрах. Дастаткова высокая тэмпература таксама мае першараднае значэньне для таго, каб паверхня Марса была прыдатнай для пражываньня й каб былі <em>адкрытыя Купалы</em>.",
 920381483594,Тэмпэратура,
-690140647880,"Represents the spreading and diversity of vegetation and bacterial life on a planetary scale. The higher this parameter is, the more Mars looks like the tundra biome back on Earth, with the ultimate goal to become a quite harsh, yet habitable second home for Humanity.<newline><newline>The improving Vegetation increases the likelihood that plants will replicate and spread.<newline><newline><em>As wild vegetation improves, sporadic vegetation booms will occur.</em> Increased concentration of seeds in the wind causes lichen, grass, bushes or trees to spread throughout the colony.",
+690140647880,"Уяўляе распаўсюджваньне й разнастайнасьць расьліннасьці й бактэрыяльнага жыцьця ў планетарным маштабе. Чым вышэй гэты параметр, тым больш Марс падобны на біём тундры на Зямлі, канчатковая мэта якой - стаць даволі суровым, але прыдатным для жыцьця для чалавецтва.<newline><newline>Паляпшэньне расьліннасьці павялічвае верагоднасьць размнажэньня і распаўсюджваньня расьлін.<newline><newline><em>As wild vegetation improves, sporadic vegetation booms will occur.</em> Increased concentration of seeds in the wind causes lichen, grass, bushes or trees to spread throughout the colony.",
 582684290103,Расьліннасьць,
-967369800333,"Represents the quality and volume of surface water on Mars. The higher this parameter is, the more and larger water bodies will appear on Mars: lakes, seas and oceans.<newline><newline>The improving Water creates environmental conditions for <em>Toxic Rains</em> and <em>clear water Rains</em> to occur.<newline><newline>Water applies terraforming boost to the Water production of <em>Moisture Vaporators</em>.",
+967369800333,"Уяўляе якасьць і аб'ём паверхневых вод на Марсе. Чым вышэй гэты параметр, тым больш і больш буйных вадаёмаў будзе з'яўляцца на Марсе: азёры, моры й акіяны.<newline><newline>Павышэньне вады стварае экалагічныя ўмовы каб адбываліся <em>Атрутныя дажджы</em> й <em>Чыстыя дажджы</em>.<newline><newline>Вада ўзмацняе вытворчасьць вады ў <em>Выпарніках вільгаці</em>.",
 310269978907,Вада,
 419980839851,"SchemeBk, 22, aa",
 820939749171,"LibelSuitRg, 18, aa",
@@ -11248,7 +11248,7 @@ As a side effect, one may expect a 5% boost in the field of Biotech.",
 572143553590,Leaf Crops,
 873744167599,Wheat has medium growth time and average Food yields.,
 398488135544,Wheat,
-548445061983,<left_click> Open Encyclopedia,
+548445061983,<left_click> Адкрыць энцыклёпедыю,
 12607,<ButtonA> Open Encyclopedia<newline><DPad> Navigate <DPadDown> Зачыніць,
 12479,<AtmosphereRollover>,<AtmosphereRollover>
 12480,Атмасфэра,
@@ -11861,7 +11861,7 @@ This technological challenge to take advantage of what little wind there is on M
 3526,ЦК Шатлаў,
 488637940578,Пляцоўка для гандлёўкі,
 659817241693,Пляцоўкі для гандлёўкі,
-315150447455,"Прапануе рэсурсы для экспарту ў іншыя колёніі на Марсе. Калоніі супраціўнікі будуць адпраўляць гандлёвыя прапановы толькі ў тым выпадку, калі ўстаноўлены імпартныя й экспартныя рэсурсы. Даступна толькі для ракет, якія належаць іншым колёніям. Будынкі й транспартныя сьродкі побач абаронены ад пылу падчас пасадак і ўзлётаў <em>Ракет</em>.",
+315150447455,"Прапануе рэсурсы для экспарту ў іншыя колёніі на Марсе. Калоніі супраціўнікі будуць адпраўляць гандлёвыя прапановы толькі ў тым выпадку, калі ўстаноўлены імпартныя й экспартныя рэсурсы. Даступна толькі для ракет, якія належаць іншым колёніям. Будынкі й транспартныя сродкі побач абаронены ад пылу падчас пасадак і ўзлётаў <em>Ракет</em>.",
 11323,Банэр,
 11324,Банэры,
 11325,"""Мы ганарымся тым, што наш сьцяг тут, на чырвонай планеце.""",
@@ -12119,11 +12119,11 @@ Bias: <em>Research</em>
 ",
 967008099458,Japan,
 308211343641,Constructed Automatic Metals Extractor,
-10504,"Supply Pods are an alternative way to bring cargo from Earth to Mars. They arrive faster than Rockets, are single use each and may be salvaged once they crash-land at a chosen location. Supply Pods can bring less cargo than a Rocket can as well as just a single Rover.
+10504,"Капсулы паставак - гэта альтэрнатыўны варыянт дастаўкі грузу зь Зямлі на Марс. Яны прыбываюць хутчэй за ракеты. Аднаразовыя і могуць быць разобраны, як яны ўрэзаліся ў выбраным мейсцы. Капсулы паставак могуць перавозіць менш грузу за ракету, або толькі адзін марсаход.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
-Landing pods are especially useful during the fledgling phase of the colony because of their relatively low price and short arrival time.",
+Капсулы асабліва карысныя на этапе зараджэньня колёніі з-за іх нізкага кошту й кароткага часу прыбыцьця.",
 10505,"The Japanese Wasp Drones are the workhorse of the Colony. They are tasked with distributing resources, gathering resources from surface deposits, as well as building, maintaining and repairing structures. Their unique trait is that they can fly over obstacles and thus complete their goals regardless of the treacherous Martian terrain.
 
 Wasp Drones would complete most of their tasks autonomously, but only so in the service range of a Drone Controller - either a Drone Hub, a Rocket or RC Commander.
@@ -13574,8 +13574,8 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 10365,<count> <name>,<count> <name>
 5648,Будынкі не працуюць,
 379,Suspended,
-7327,Turned On,
-7328,Turned Off,
+7327,Уключаны,
+7328,Выключаны,
 12081,Rovers,
 9616,"<UnitMoveControl('ButtonA',interaction_mode)>: Use Tunnel",
 7322,The Rover will be salvaged in <em><countdown></em> sec.,
@@ -13718,15 +13718,15 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 12389,Waiting for stored resources to be moved out before demolishing.,
 13591,This building is being converted to a Prefab.,
 334,Энергія<right><green><power(electricity_consumption)></green>,
-335,Insufficient Power<right><red><power(electricity_consumption)></red>,
-336,Патрабуе энергіі<right><power(electricity_consumption)>,
-337,Oxygen<right><green><air(air_consumption)></green>,
-338,Insufficient Oxygen<right><red><air(air_consumption)></red>,
-339,Required Oxygen<right><air(air_consumption)>,
-340,Water<right><green><water(water_consumption)></green>,
-341,Insufficient Water<right><red><water(water_consumption)></red>,
-342,Required Water<right><water(water_consumption)>,
-343,"Insufficient <resource(consumption_resource_type)><right><red><resource(consumption_stored_resources,consumption_max_storage,consumption_resource_type)></red>",
+335,Нехапае Энергіі<right><red><power(electricity_consumption)></red>,
+336,Патрабуе Энергіі<right><power(electricity_consumption)>,
+337,Тлён<right><green><air(air_consumption)></green>,
+338,Нехапае Тлёну<right><red><air(air_consumption)></red>,
+339,Патрабуе Тлён<right><air(air_consumption)>,
+340,Вада<right><green><water(water_consumption)></green>,
+341,Нехапае Вады<right><red><water(water_consumption)></red>,
+342,Патрабуе Ваду<right><water(water_consumption)>,
+343,"Нехапае <resource(consumption_resource_type)><right><red><resource(consumption_stored_resources,consumption_max_storage,consumption_resource_type)></red>",
 344,"Назапашана <resource(consumption_resource_type)><right><resource(consumption_stored_resources,consumption_max_storage,consumption_resource_type)>",
 7336,"Назапашаная вада<right><water(stored_water,water_capacity)>",
 9689,<green><power(electricity_consumption)></green>,<green><power(electricity_consumption)></green>
@@ -14354,7 +14354,7 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 4308,<red>Out of reach</red>,
 4312,<red>Current work shift is closed</red>,
 12595,<red>Can't work here</red>,
-4313,"<UnitMoveControl('ButtonA', interaction_mode)>: Set Workplace",
+4313,"<UnitMoveControl('ButtonA', interaction_mode)>: Ўсталяваць працоўнае мейсца",
 6768,Колёніст працуе у гэтым будынку.<newline><newline>Спэцыялізацыя: <em><Specialization></em><newline>Прадукцыйнасьць: <em><performance></em><newline><PerformanceReasons><TraitsWarnings>,
 12394,A colonist assigned to work in this building.<newline><newline>Assignment Remaining: <em><time(WorkAssignmentRemaining)></em><newline>Specialization: <em><Specialization></em><newline>Worker Performance: <em><performance></em><newline><PerformanceReasons><TraitsWarnings>,
 12184,<left_click> Select  <right_click> Fire worker,
@@ -14916,7 +14916,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 11699,Destroyed drones<right><number>,
 11701,Tourists<right><colonist(number)>,
 12429,This Microsoft account is already linked to another Paradox account. Do you want to link it to the new Paradox account instead?,
-914616772802,OVERALL TERRAFORMING PROGRESS,
+914616772802,АГУЛЬНЫ ПРАГРЭС ТЭРАФАРМІРАВАНЬНЯ,
 10975,1 Сол ,
 10976,<sol> Sols ,
 10977,<h> h,
@@ -15074,7 +15074,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 8022,Game Apply,
 3,Grant Research,
 10377,Failed to load tracks for radio <radio>: <err>,
-11994,<ObjectsCount> units have been selected.,
+11994,<ObjectsCount> адзінка выбрана.,
 11995,<ObjectsDisplayName>,<ObjectsDisplayName>
 11998,<u(selection_class)>,<u(selection_class)>
 11997,<left><name><right><em><count></em>,<left><name><right><em><count></em>
@@ -15092,8 +15092,8 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 7577,<ButtonY> Разабраць,
 7578,<ButtonY> Скасаваць разбор,
 10902," / <em><ShortcutName('actionOnOff', 'keyboard')></em>"," / <em><ShortcutName('actionOnOff', 'keyboard')></em>"
-7611,<left_click><binding> Deactivate <newline><em>Ctrl + <left_click></em> Deactivate all <display_name_pl>,
-7612,<ButtonA> Deactivate <newline><ButtonX> Deactivate all <display_name_pl>,
+7611,<left_click><binding> Адключыць <newline><em>Ctrl + <left_click></em> Адключыць усе <display_name_pl>,
+7612,<ButtonA> Адключыць <newline><ButtonX> Адключыць усе <display_name_pl>,
 7613,<left_click><binding> Activate <newline><em>Ctrl + <left_click></em> Activate all <display_name_pl>,
 7614,<ButtonA> Activate <newline><ButtonX> Activate all <display_name_pl>,
 1162,Artificial Intelligence (Normal),
@@ -18163,12 +18163,12 @@ Larger networks will malfunction more often.",
 4063,Сэктар <u(display_name)>,
 1103,Мейсца колёніі,
 4128,<stl><name></style><completed><newline>,<stl><name></style><completed><newline>
-11173,<style PlanetCoordinatesHint><control_img> Move spot</style>,
-12296,<style PlanetCoordinatesHint><left_click> Move spot <right_click> Rotate</style>,
+11173,<style PlanetCoordinatesHint><control_img> Перамясьціць мейсца</style>,
+12296,<style PlanetCoordinatesHint><left_click> Перамясьціць мейсца <right_click> Круціць</style>,
 10921,<pos_name><style PlanetCoordinatesHint><control_img> Select</style>,
 10922,<pos_name><style PlanetCoordinatesHint><left_click> Select<newline><right_click> Rotate</style>,
-4129,<pos_name><lat>°<lat_dir> <long>°<long_dir><newline><style PlanetCoordinatesHint><control_img> Move spot</style>,
-12297,<pos_name><lat>°<lat_dir> <long>°<long_dir><newline><style PlanetCoordinatesHint><left_click> Move spot <right_click> Rotate</style>,
+4129,<pos_name><lat>°<lat_dir> <long>°<long_dir><newline><style PlanetCoordinatesHint><control_img> Перамясьціць мейсца</style>,
+12297,<pos_name><lat>°<lat_dir> <long>°<long_dir><newline><style PlanetCoordinatesHint><left_click> Перамясьціць мейсца <right_click> Круціць</style>,
 4131,<pos_name><lat>°<lat_dir> <long>°<long_dir>,
 6890,Latitude,
 6891,-70 to 70,
@@ -18300,7 +18300,7 @@ Larger networks will malfunction more often.",
 10539, +<amount></color>, +<amount></color>
 4304,<green>Nocturnal Adaptation <amount></color>,
 7587,<green>Martianborn Ingenuity <amount></color>,
-8758,Assign to Building,
+8758,Прызначыць да будынку,
 8759,"Assign this Colonist to a residence, workplace or training building. The Colonist will not change assignment for the next 5 Sols. If the target building is in another Dome located far away, a shuttle may be needed to reach it.",
 10924," / <em><ShortcutName('actionAssignToBuilding', 'keyboard')></em>"," / <em><ShortcutName('actionAssignToBuilding', 'keyboard')></em>"
 4354,Colonists are required to operate Dome buildings.<newline>,
@@ -18373,7 +18373,7 @@ Larger networks will malfunction more often.",
 667,Freeze Heat,
 4389,Freeze Chance Die,
 1681,Дрон,
-4390,"Аўтаматызаваны адзінка, кіраваная праз <em>ЦК дронаў</em>, <em>Ракетай</em> або <em>РК Камандзірам</em>. Зьбірае рэсурсы, будуе й абслугоўвае будынкі.",
+4390,"Аўтаматызаваны адзінка, кіраваная праз <em>ЦК дронаў</em>, <em>Ракетай</em> або <em>РК Кардынатар</em>. Зьбірае рэсурсы, будуе й абслугоўвае будынкі.",
 4391,"<description><newline><newline>Бягучы стан: <em><ui_command></em><newline>Батарэя<right><power(battery,battery_max)>",
 13733,"Assign to target Hub, Commander, Rocket or Elevator.",
 4428,"Assign to target Hub, Commander or Rocket.",
@@ -20182,17 +20182,17 @@ Export Amount<right><resource(TradeAmount)>",
 750759453664,Vehicle Inactive.,
 4427,Перапрызначыць,
 926548406718,Перапрызначыць,
-136037016366,Сьродак неактыўны.,
+136037016366,Сродак неактыўны.,
 8725,Перапрызначыць усех,
 4432,Пакінуць любы нясучы рэсурс.,
 404479069795,Пакінуць нясучы рэсурс,
-367823728879,Сьродак неактыўны.,
+367823728879,Сродак неактыўны.,
 640517755907,Разабраць,
 7824,Знішчыць дрон.,
 584248706535,Нясе<right><ResourceAmount>,
 682763161598,<DestName>,
 643657264628,<left>Кіруецца праз<right><h SelectCommandCenter InfopanelSelect><CommandCenterName></h>,
-4445,Дроны будуць шукаць станцыю падзарадкі пры разрадцы акумулятару. Адключаныя дроны магчыма зараджаць з дапамогай тэхнічных дронаў або <em>РК Камандзіраў</em>.,
+4445,Дроны будуць шукаць станцыю падзарадкі пры разрадцы акумулятару. Адключаныя дроны магчыма зараджаць з дапамогай тэхнічных дронаў або <em>РК Кардынатара</em>.,
 7608,"Акумулятар  <percent(battery,battery_max)>",
 544163488314,Using <red><percent(ColdPenalty)></red> more Power due to freezing weather,
 222599397553,Запаволены <red><percent(DustDevilPenalty)></red> праз <em>Пясчаны віхор</em>,
@@ -20226,9 +20226,9 @@ Export Amount<right><resource(TradeAmount)>",
 1207,Attempt to communicate with the Mirror Sphere via a nearby Вежа-сканер.,
 1208,Feed with Power,
 1209,Divert energy towards the Mirror Sphere from a nearby Power Accumulator.,
-292551169472,"Buildings that are turned off do not function and never consume Power or resources.
+292551169472,"Будынкі, якія адключаны, не працуюць і не спажываюць энергію або рэсурсы.
 
-Current status: <em><UIWorkingStatus></em>",
+Бягучы стан: <em><UIWorkingStatus></em>",
 10553,This building is currently disabled.,
 12414,Can't be assigned,
 12415,Assign to Building,
@@ -20242,10 +20242,10 @@ Current status: <em><UIWorkingStatus></em>",
 <UIRefundRes> будзе вернута пры разборы.",
 12118,Разабраць,
 12119,Разабраць,
-415548446634,Units,
+415548446634,Адзінкі,
 630467259098,<DetailedObjectsCount>,<DetailedObjectsCount>
 7658,<left><left_click> Павысіць прыярытэт<right><right_click> Паменьшыць прыярытэт<newline><center><em>Ctrl + <left_click></em> Змяніць прыярытэт усех <display_name_pl>,
-382329017655,Buildings that are turned off do not function and never consume Power or resources.<newline><newline>Current status: <em><UIWorkingStatus></em>,
+382329017655,"Будынкі, якія адключаны, не працуюць і не спажываюць энергію або рэсурсы.<newline><newline>Бягучы стан: <em><UIWorkingStatus></em>",
 635932171778,Будынак зараз адключаны,
 627191661712,Укл./Выкл.,
 238148642034,<left_click> Activate <newline><em>Ctrl + <left_click></em> Activate for all <display_name_pl>,

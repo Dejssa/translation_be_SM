@@ -16,14 +16,19 @@
 - Drones Hub - ЦК дронаў
 - Standing - адносіны
 - Controller - Кантрольлер
+- РК Кардынатар - РК Кардынатар
 
 ## Рэсурсы
 - Waste Rock - Пустая парода
 
 ## Будынкі
+
 - GHG Factory - ВПГ фабрыка
 - MOXIE - МЭРТ
 - Drone Hubs - ЦК Дронамі
+- Prefab - Модуль
+- Wind Turbine - Ветраная турбіна
+- Moisture Vaporators - 
 
 ## Тэхналогіі
 - Mars Nouveau - Марс Нуво
@@ -32,7 +37,7 @@
 
 ### Прафесіі
 - Scienciest - Навуковец
-- Engineers - Інжынер
+- Engineers - Інжынэр
 -  - Афіцэр
 - Geologists - Геолаг
 -  - Батанік
@@ -63,3 +68,4 @@
 - Dust Devil - Пясчаны віхор
 - Dust Storm - Пясчаная бура
 - Holiday Rating - Рэйтынг адпачынку
+- Cold waves - Халодныя хвалі
