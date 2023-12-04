@@ -1,6 +1,14 @@
 # Ліст перакладу тэрмінаў
 
+## Імёны
+Скончыў на Narayan
+
+## Гульня
+
+- Metatron - Мэтатрон
+
 ## Агульныя
+
 - Mission sponsor - Фундатар місіі
 - Commander - Камандзір
 - Rival - супраціўнік
@@ -29,6 +37,7 @@
 - Prefab - Модуль
 - Wind Turbine - Ветраная турбіна
 - Moisture Vaporators - 
+- Automatic Metals Extractor - Аўтаматычны мэталаэкстрактар
 
 ## Тэхналогіі
 - Mars Nouveau - Марс Нуво
@@ -44,7 +53,8 @@
 -  - Медык
 -  - Турыст
 
-### Статыстыка
+### Колёністы
+
 - Health - Здароўе
 - Sanity - Разважлівасьць
 - Morale - Маральны дух
@@ -62,7 +72,7 @@
 - Dining - Харчаваньне
 - Safari - 
 - Medical Checks - Мед. агляды
-- Food - Ежа
+- Performance - прадукцыйнасьць
 
 ## Марс
 - Dust Devil - Пясчаны віхор
