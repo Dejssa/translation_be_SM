@@ -343,15 +343,15 @@ id <u(id)>, version <VersionText></color>",
 1000874,Paste,
 1000871,Duplicate,
 1000249,Redo,
-449598530168,Cheats,
+449598530168,Чыты,
 1000862,New Attribute,
 888280433864,File,
-1000143,New Mod,
+1000143,Новы мод,
 885629433849,Load,
 327465361219,Edit,
 408637015506,Delete Mod,
 238591151127,Exit,
-886349881945,Cheats,
+886349881945,Чыты,
 791482327441,Help,
 12071,Delete,
 398847925161,New,
@@ -418,7 +418,7 @@ id <u(id)>, version <VersionText></color>",
 9714,Ліміт FPS,
 3565,UI Шкала,
 3566,Яскравасьць,
-1000618,Idle,
+1000618,Бяздзейны,
 3025,Andorra,
 3026,United Arab Emirates,
 3027,Afghanistan,
@@ -659,14 +659,14 @@ id <u(id)>, version <VersionText></color>",
 3262,South Africa,
 3263,Zambia,
 3264,Zimbabwe,
-1000758,Select your country,
-7712,Email,
-254784121325,Password,
-4125,Country,
-7709,YYYY,
-7713,Year of Birth,
-7710,MM,
-7711,DD,
+1000758,Выберыце сваю краіну,
+7712,Эмэйл,
+254784121325,Пароль,
+4125,Краіна,
+7709,ГГГГ,
+7713,Год нараджэньня,
+7710,ММ,
+7711,ДД,
 1000737,I have read and accept the Terms of Use,
 1000738,I have read and understood the Privacy Policy,
 8499,I want to receive news and offers from Surviving Mars and Paradox Interactive,
@@ -676,14 +676,14 @@ id <u(id)>, version <VersionText></color>",
 7722,account for PlayStation™Network,
 1000809,"Paradox Interactive will link your <account_type> to allow you to stay logged in to your Paradox Account when playing our games and to grant you benefits based on games that you own. Should you no longer wish to use this feature, go to the Paradox Account screen and unlink or log in to your Paradox Account on https://www.paradoxplaza.com and disconnect.",
 1000810,"Paradox Interactive will link your <account_type> to allow you to stay logged in to your Paradox Account when playing our games. Should you no longer wish to use this feature, go to the Paradox Account screen and unlink.",
-1000811,Logged in as: <email>,
-1000812,Linked to <account_type>,
-1000813,Not linked to <account_type>,
-7723,Link Paradox Account,
-7724,"Do you want to link your Paradox account to your <account_type>?
+1000811,Вы увайшлi як: <email>,
+1000812,Зьвязаны з <account_type>,
+1000813,Не зьвязана з <account_type>,
+7723,Зьвяўаць з ўліковым запісам Paradox,
+7724,"Вы хочаце зьвязаць свой уліковы запіс Paradox з сваім <account_type>?
 
 <platform_specific_text>",
-1000814,Automatic Login,
+1000814,Аўтаматычны ўваход,
 1000815,"You just logged in to your Paradox account, because it is linked to your <account_type>.",
 1000816,Unlink the Paradox account from the <account_type>,
 1000817,Link another Paradox account,
@@ -1218,14 +1218,14 @@ Before you get started, please take a moment to read our Privacy Policy.",
 5134,Склад частак машын,
 5135,Склады частак машын,
 5136,Захоўвае <machineparts(max_storage_per_resource)>. Некаторыя рэсурсы будуць перавезены ў іншыя склады ў межах радыусу дзеяньня <em>Дронаў</em>.,
-5163,Склад металаў,
+5163,Склад мэталаў,
 5164,Захоўвае <metals(max_storage_per_resource)>. Некаторыя рэсурсы будуць перавезены ў іншыя склады ў межах радыусу дзеяньня <em>Дронаў</em>.,
 5202,Склад палімераў,
 5203,Склады палімераў,
 5204,Захоўвае <polymers(max_storage_per_resource)>. Некаторыя рэсурсы будуць перавезены ў іншыя склады ў межах радыусу дзеяньня <em>Дронаў</em>.,
 5225,<preciousmetals(Stored_PreciousMetals)>,
-5226,Склад рэдкіх металаў,
-5227,Склады рэдкіх металаў,
+5226,Склад рэдкіх мэталаў,
+5227,Склады рэдкіх мэталаў,
 5228,Захоўвае <preciousmetals(max_storage_per_resource)>. Некаторыя рэсурсы будуць перавезены ў іншыя склады ў межах радыусу дзеяньня <em>Дронаў</em>.,
 507006680912,Amphitheaters,
 608163550358,A building where colonists gather to perform or listen to recitals. Visitors receive a Comfort and Satisfaction boost.,
@@ -1417,7 +1417,7 @@ These instruments require nothing but power and regular maintenance and, of cour
 Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a process that extracts water directly from the Martian atmosphere by alternately blowing air over a zeolite adsorption bed and heating the bed to extract the absorbed water. While the water output is less than that of the Water Extractor, there is no end to the amount of water it can generate, and its mechanical simplicity means Moisture Vaporators can be deployed anywhere on the Martian surface.",
 5192,Oxygen Tanks,
 5306,Экстрактары вады,
-10962,"Здабывае <em>Ваду</em> з падземных радовішчаў.<newline><newline>Усе выцяжкі ўздымаюць пыл, што прыводзіць да больш частага абслугоўваньня будынкаў у шэрай зоне.",
+10962,"Здабывае <em>Ваду</em> з падземных радовішч.<newline><newline>Усе выцяжкі ўздымаюць пыл, што прыводзіць да больш частага абслугоўваньня будынкаў у шэрай зоне.",
 5311,Water Towers,
 5035,<concrete(Stored_Concrete)>,
 8846,Concrete Storage,Concrete Storage
@@ -1478,17 +1478,17 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 7669,"+<upgrade1_mul_value_1>% Production as long as the building is supplied with Fuel. If not supplied with Fuel, the building will continue to operate but will lose the bonus.",
 5158,+<upgrade3_mul_value_1>% Production.,
 5159,Мэталаэкстрактары,
-10963,"Здабывае <em>Металы</em> з падземных радовішчаў.<newline><newline>Усе выцяжкі ўздымаюць пыл, што прыводзіць да больш частага абслугоўваньня будынкаў у шэрай зоне.",
+10963,"Здабывае <em>Мэталы</em> з падземных радовішч.<newline><newline>Усе выцяжкі ўздымаюць пыл, што прыводзіць да больш частага абслугоўваньня будынкаў у шэрай зоне.",
 8046,+<upgrade3_mul_value_1>% Вытворчасьць; +<power(upgrade3_add_value_2)> Спажываньне.,
 5199,Палімерныя заводы,
 7670,"+<upgrade1_mul_value_1>% Production as long as the building is supplied with Fuel. If not supplied with Fuel, the building will continue to operate but will lose the bonus.",
 5234,+<upgrade2_mul_value_2>% Вытворчасьць; +<power(upgrade2_add_value_1)> Спажываньне.,
 5222,+<upgrade3_mul_value_1>% Вытворчасьць.,
-5223,Экстрактары рэдкіх металаў,
-10964,"Здабывае <em>Рэдкія металы</em> з падземных радовішчаў.<newline><newline>Усе выцяжкі ўздымаюць пыл, што прыводзіць да больш частага абслугоўваньня будынкаў у шэрай зоне.",
+5223,Экстрактары рэдкіх мэталаў,
+10964,"Здабывае <em>Рэдкія мэталы</em> з падземных радовішч.<newline><newline>Усе выцяжкі ўздымаюць пыл, што прыводзіць да больш частага абслугоўваньня будынкаў у шэрай зоне.",
 7666,"+<upgrade1_mul_value_1>% Production as long as the building is supplied with Fuel. If not supplied with Fuel, the building will continue to operate but will lose the bonus.",
 5033,Concrete Extractors,
-10965,"Здабывае багаты серай рэгаліт з радовішча бетону і вырабляе <em>Бетон</em>.<newline><newline>Усе выцяжкі ўздымаюць пыл, што прыводзіць да больш частага абслугоўваньня будынкаў у шэрай зоне.",
+10965,"Здабывае багаты серай рэгаліт з радовішча бетону й вырабляе <em>Бетон</em>.<newline><newline>Усе выцяжкі ўздымаюць пыл, што прыводзіць да больш частага абслугоўваньня будынкаў у шэрай зоне.",
 388446725632,Фабрычны ШІ,
 828188588588,+<upgrade1_mul_value_1>% Вытворчасьць.,
 672501118965,Automation,
@@ -1555,7 +1555,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 3522,Machine Parts Factory,
 3523,Electronics Factory,
 5307,Extracts Water from underground deposits. All extractors contaminate nearby buildings with dust.,
-5160,Здабывае металы з падземных радовішчаў. Усе выцяжкі забруджваюць блізкія будынкі пылам.,
+5160,Здабывае мэталы з падземных радовішч. Усе выцяжкі забруджваюць блізкія будынкі пылам.,
 3527,Мэталаэкстрактар,
 5034,Extracts sulfurous rich regolith from Concrete deposits and produces Concrete. All extractors contaminate nearby buildings with dust.,
 5224,Extracts Rare Metals from underground deposits. All extractors contaminate nearby buildings with dust.,
@@ -1822,7 +1822,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 213177200768,Мэр места,
 156992981942,"- 2,000 Млн. дадатковага фінансаваньня
 - Будынкі патрабуюць меньш абслугоўваньня
-- Бонусная тэхналёгія: <em>Марс Нуво</em> (кошт на будаўніцтва ў металах і бэтоне зніжаецца на 20%)",
+- Бонусная тэхналёгія: <em>Марс Нуво</em> (кошт на будаўніцтва ў мэталах і бэтоне зніжаецца на 20%)",
 5319,Bынаходца,
 5320,"- Дроны паступова аптымізуюцца для больш хуткай працы й канструяваньня да 100га Сола 
 - Бонусная тэхналёгія: <em>Autonomous Hubs</em> (ЦК Дронамі больш не патрабуе энергію або абслугоўваньне)",
@@ -2022,7 +2022,7 @@ The most important ingredient for life as we know it to exist is by no means sca
 5394,ТРАНСПАРТНЫЯ СРОДКІ,
 5396,"Ракеты выкарыстоўваюцца для дастаўкі забясьпечэньня зь Зямлі або колёністаў, якія падалі заяўку на жыцьцё на Марсе.
 
-Іх магчыма выкарыстоўваць шматраз. Пасля запраўкі на Марсе яны могуць перавезьці рэдкія металы на Зямлю для атрыманьня грашоў.
+Іх магчыма выкарыстоўваць шматраз. Пасля запраўкі на Марсе яны могуць перавезьці рэдкія мэталы на Зямлю для атрыманьня грашоў.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
@@ -2373,7 +2373,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - Can buy Applicants with funding
 - Additional Rockets are significantly cheaper
 - Probes can discover deep Rare Metal deposits
-- Бонусная тэхналёгія: <em>Здабыча глыбокіх металаў</em> (можа здабываць глыбокія радовішчы металаў і рэдкіх металаў)",
+- Бонусная тэхналёгія: <em>Здабыча глыбокіх мэталаў</em> (можа здабываць глыбокія радовішчы мэталаў і рэдкіх мэталаў)",
 145918815635,Easy,
 5486,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
@@ -2573,9 +2573,9 @@ Follow the hint arrows by using <LB><RB> to navigate the categories and then <DP
 
 Then use <ButtonA> to select the building or sub category as in the case of the <em>Metals Depot</em>.",
 9036,<OpenBuildMenuTutorialHint1()>. Then follow the arrows to chose the <em>Metals Depot</em>.,
-5162,Склад металаў,
+5162,Склад мэталаў,
 9039,Now pick a spot where to place the <em>Metals Depot</em>. Make sure it is close to the Rocket. ,
-9038,Склад металаў,
+9038,Склад мэталаў,
 9826,"Use the following to control the game speed:
 
 <ShortcutName('actionSpeedUp')> - increase game speed
@@ -2770,17 +2770,17 @@ This will take a while, so you may want to speed up time.",
 9144,Open the <em>Resupply screen</em> from the command menu by pressing <LT> and then order a Cargo Rocket.,
 9143,"Open the <em>Resupply screen</em> by clicking on the icon in the HUD, then order a Cargo Rocket.",
 9146,"Order <em>20 Polymers, Machine Parts and Electronics</em>, then launch the Rocket with the Launch button.",
-9145,Order Advanced Resources,
+9145,Замова перадавых рэсурсаў,
 9149,"Select the ruins of the Concrete Extractor and use the ""<em>Clear</em>"" action to send a Drone to remove the ruins.
 
 Use <RT> to focus the Info Panel.",
 9148,"Select the ruins of the Concrete Extractor and use the ""<em>Clear</em>"" action to send a Drone to remove the ruins.",
-9152,"Адкрыйце меню будоўлі і абярыце <em>Разабарць</em> з катэгорыі <em>Інфраструктура</em>.
+9152,"Адкрыйце меню будоўлі й абярыце <em>Разабарць</em> з катэгорыі <em>Інфраструктура</em>.
 
 З актыўным інструментам <em>разаборкі</em> націсьніце <ButtonA> на Кабелі побач з мейсцам разобранага <em>Экстрактару Бетона</em>, каб выдаліць іх.
 
 Націсьніце <ButtonB> каб адмяніць рэжым <em>разаборкі</em>.",
-9151,"Адкрыйце меню будоўлі і абярыце <em>Разабарць</em> з катэгорыі <em>Інфраструктура</em>.
+9151,"Адкрыйце меню будоўлі й абярыце <em>Разабарць</em> з катэгорыі <em>Інфраструктура</em>.
 
 З актыўным інструментам <em>разаборкі</em> <left_click> на Кабелі побач з мейсцам разобранага <em>Экстрактару Бетона</em>, каб выдаліць іх.
 
@@ -2861,9 +2861,9 @@ With the Research Lab selected, hold <RT> and press <ButtonA>.",
 9188,"From the Research screen, queue <em>three</em> of the available technologies with <left_click>.",
 9191,"From the Build Menu <ButtonY>, construct a Shuttle Hub and connect it to the Power grid.",
 9190,Construct a <em>Shuttle Hub</em> and connect it to the Power grid.,
-9193,"From the Build Menu <ButtonY>, construct a <em>Экстрактар рэдкіх металаў</em> and connect it to the Power grid.",
-9192,Construct a <em>Экстрактар рэдкіх металаў</em> and connect it to the Power grid.,
-3530,Экстрактар рэдкіх металаў,
+9193,"From the Build Menu <ButtonY>, construct a <em>Экстрактар рэдкіх мэталаў</em> and connect it to the Power grid.",
+9192,Construct a <em>Экстрактар рэдкіх мэталаў</em> and connect it to the Power grid.,
+3530,Экстрактар рэдкіх мэталаў,
 9195,"From the Build Menu <ButtonY>, construct a Living Complex inside the mining Dome.",
 9194,Construct a <em>Living Complex</em> inside the mining Dome.,
 3532,Living Complex,
@@ -2920,83 +2920,83 @@ Use <RT> to focus the Dome's Info Panel.",
 5617,Tech Boost: Reduced cost of techs by 5% (all fields) ,
 5616,Alien Artifact Analyzed,
 325837540174,Планетарная анамалія прааналізавана,
-5651,New Techs are available for research,
+5651,Дасьледуйце новыя тэхнёлогіі,
 10285,"Здабыта <resource(points,resource)>",
 381507744281,Планетарная анамалія прааналізавана,
-5653,Research cost of all Techs reduced,
-7042,Anomaly analyzed,
-365036183955,Surviving Mars has been updated,
-294021715662,New Features,
-7441,Achievement Unlocked: <achievement>,
-5582,Buildings without Power: <count>,
-5590,Deposits found: <count>,
-5589,New Deposits,
-5594,<sponsor> funding: <funding(number)>,
-5593,Sponsor Funding,
+5653,Кошт дасьледаваньняў усіх тэхнёлогій зьніжаны,
+7042,AАнамалія прааналізавана,
+365036183955,Surviving Mars быў абноўлены,
+294021715662,Новыя мажлівасьці,
+7441,Дасягненьне разблакіравана: <achievement>,
+5582,Будынкі без энергіі: <count>,
+5590,Радовішча знойдзены: <count>,
+5589,Новыя радовішча,
+5594,<sponsor> фінансаваньне: <funding(number)>,
+5593,Спонсарскае фінансаваньне,
 5606,A resupply Rocket has arrived in orbit,
 5605,Resupply Arrived,Resupply Arrived
 7037,У нас папаўненьне запасаў,
 5608,Касмічны ліфт даставіў груз з арбіты,
 5607,Дастаўка касмічным ліфтам,Дастаўка касмічным ліфтам
-7038,We have a delivery on the Space Elevator,
-7673,Resources Lost,
-7672,Fuel Explosion,
+7038,У нас ёсьць дастаўка на касьмічным ліфце,
+7673,Рэсурсы страчаны,
+7672,Выбух паліва,
 8472,Imminent impact on our coordinates.,
 8471,Orbital Bombardment detected!,
-8473,Missile Alert,
+8473,Ракетная трывога,
 5622,Выберыце тэхналёгію да дасьледаваньня,
 7045,Брак актыўных дасьледаваньняў,
 5626,Шчыліны: <count>,
 5625,Шчыліны,
-5636,Domes without Oxygen: <count>,
-5635,No Oxygen,
-7050,We have an Oxygen shortage,
-5638,Domes without Water: <count>,
-5637,No Water,
-7051,We have a Water shortage,
-10475,Domes without Life Support: <count>,
-10476,No Life Support,
-5639,Domes without Power: <count>,
-5581,No Power,
-7033,We have a Power shortage,
+5636,Купалы без тлёну: <count>,
+5635,Брак тлёну,
+7050,У нас недахоп тлёну,
+5638,Купалы без вады: <count>,
+5637,Брак вады,
+7051,У нас недахоп вады,
+10475,Купалы без жыцьцезабеспячэньня: <count>,
+10476,Брак жыцьцезабеспячэньня,
+5639,Купалы без энэргіі: <count>,
+5581,Брак энэргіі,
+7033,У нас недахоп энергіі,
 5641,<low_on_resource_text> <resources>,
-7052,Low Storage,
-5643,Depleted deposits: <count>,
-5642,Depleted Deposits,
-7053,Deposit depleted,
-5645,Buildings with depleted deposits: <count>,
-5644,Idle Extractors,
-855084064691,Maintenance Needed,
+7052,Мала мейсца,
+5643,Высіленыя радовішча : <count>,
+5642,Высіленыя радовішча,
+7053,Радовішча высілена,
+5645,Будынкі з высілынымі радовішчамі: <count>,
+5644,Прастойныя экстрактары,
+855084064691,Абслугоўваньне патрабавана,
 5649,"<resource(count,'Homeless')>","<resource(count,'Homeless')>"
 756643722601,<display_name>: <research(reward_research)>,<display_name>: <research(reward_research)>
 5650,Вяха дасягнута!,
 7057,Вяха дасягнута,
-10284,Reward: <reward_description>,
-10283,Goal Completed!,
+10284,Узнагарода: <reward_description>,
+10283,Мэта выканана!,
 5654,Дасьледаваньне завершана,
 7058,Дасьледаваньне завершана,
-988191445076,Buildings destroyed: <count>,
-221683525008,Buildings Destroyed,
+988191445076,Будынкі зьнішчаны: <count>,
+221683525008,Будынкі зьнішчаны,
 838552707693,"Вылятаючыя турысты: <tourist_count><newline>Received <funding(funds)> Funds, <applicants> applicants",
-170213331054,Tourism Rewards,
+170213331054,Узнагарода за турызм,
 5663,Выберыце сэктар да сканаваньня,
 7063,Выберыце сэктар да сканаваньня,
 5665,<results>,
 5664,Сэктар <u(name)> засканаван,
 7064,Сэктар засканаван,
 137173434527,<leaks>,<leaks>
-5673,Drones with no controller: <count>,
-5675,Funding received: <funding(funding)>,
-5674,Rare Metals Export,
-7068,Funding received,
-5677,No edible Food has been harvested,
-5676,Crop Failure,
-7069,Crop failure reported,
-5680,Founder Stage,
-8923,Drone Heavy Load,
-8924,Shuttle Heavy Load,
-8925,No Fuel for Shuttles,
-8922,Transportation Problem,
+5673,Дроны без ЦК: <count>,
+5675,Атрымана фінансаваньня: <funding(funding)>,
+5674,Экспарт рэдкіх мэталаў,
+7068,Атрымана фінансаваньня,
+5677,Ядомая ежа не была сабрана,
+5676,Неўраджай,
+7069,Паведамляецца пра неўраджай,
+5680,Стадыя заснавальніка,
+8923,Дроны вельмі загруджаны,
+8924,Шатлы вельмі загруджаны,
+8925,Брак паліва для шатлаў,
+8922,Транспартныя праблемы,
 8853,Split Power grids: <count>,
 8852,Split Power Grids,
 8855,Split Life Support grids: <count>,
@@ -3951,7 +3951,7 @@ In the next and final tutorial you will learn how to manage a larger colony, con
 9384,Shuttles can transport resources and colonists across great distances. ,
 9388,"Colonists can work in some outside buildings placed close to their Domes - such as extractors for Metals and Rare Metals. Since colonists will be needed for the extraction of these underground deposits, it is a good practice to place Domes near such deposits, as is the case in this simulation.
 
-<goal>Construct <em>Экстрактар рэдкіх металаў</em> каля <em>Радовішча рэдкіх металаў</em> and connect it to the power grid.",
+<goal>Construct <em>Экстрактар рэдкіх мэталаў</em> каля <em>Радовішча рэдкіх мэталаў</em> and connect it to the power grid.",
 9386,Workplaces Outside the Domes,
 9387,Now that we have operational Shuttles it's time to establish a mining Dome.,
 9390,"Once you have provided a Dome with living space, colonists from other Domes will be able to resettle in it, provided it is within walkable distance or there are available Shuttles to fly them there.
@@ -3971,7 +3971,7 @@ In the next and final tutorial you will learn how to manage a larger colony, con
 
 <goal> From the Specialization Category, activate the Thumbs Up icon for Geologists and the Thumbs Down one for Scientists.",
 9397,Mining Dome,
-9398,"Being near <em>Радовішча рэдкіх металаў</em>, this Dome is best suited as a mining hub so it's best to encourage Geologists to migrate here.",
+9398,"Being near <em>Радовішча рэдкіх мэталаў</em>, this Dome is best suited as a mining hub so it's best to encourage Geologists to migrate here.",
 9402,"To demonstrate Dome connections, let's first build a new Dome near our research Dome.
 
 <goal>Construct a Dome at the indicated location.",
@@ -6388,7 +6388,7 @@ Alpenglow Robotix had dropped their usual smug attitude and are apologizing prof
 540767662028,Correct the search patterns.,
 968824402245,gain discount on the Deep Scanning tech,
 494623791079,Improve the drilling technology.,
-818223058478,Выяўляе тэналогіі <em>Глыбакаводная здабыча</em> ды <em>Здабыча глыбокіх металаў</em>,
+818223058478,Выяўляе тэналогіі <em>Глыбакаводная здабыча</em> ды <em>Здабыча глыбокіх мэталаў</em>,
 262277117951,Immediately exploit the new deposits.,
 297703279807,additional resources in all of the new deposits,
 534101555685,"It informs you that your old friend and teacher, Professor Richtmann, has just passed away. You often accompanied him on his trips and expeditions and discussed many aspects of science and philosophy together.
@@ -9103,7 +9103,7 @@ New Dome: <em>Mega Trigon</em> (<buildinginfo('DomeMegaTrigon')>) - A bigger tri
 
 <grey>We have reached a proficiency in engineering that surpasses the most ambitious architectural achievements on Earth.</grey>",
 6385,Gravity Engineering,
-6390,"<em>Экстрактар рэдкіх металаў</em> production increased by <param1>%.
+6390,"<em>Экстрактар рэдкіх мэталаў</em> production increased by <param1>%.
 
 <grey>Introducing state of the art plasma torches to our Rare Metals Extractors show a great promise for boosts in production.</grey>",
 6389,Plasma Cutters,
@@ -9124,7 +9124,7 @@ New Dome: <em>Mega Trigon</em> (<buildinginfo('DomeMegaTrigon')>) - A bigger tri
 6612,Dredger Morphology,
 6615,An attempt to decode the transmissions sent out by Dredgers in order to predict their behavior and landing sites.,
 6614,Dredger Wavelength Decoding,
-6617,"Water Extractor, Concrete Extractor, Metals Extractor and Экстрактар рэдкіх металаў gain +<param1>% bonus production.
+6617,"Water Extractor, Concrete Extractor, Metals Extractor and Экстрактар рэдкіх мэталаў gain +<param1>% bonus production.
 
 <grey>Studying the behavior and structure of the Dredgers, our scientists are able to develop revolutionary advancements in mining equipment and archaeological survey</grey>
 
@@ -9214,7 +9214,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 6461,"Can exploit deep <em>Metal</em> and <em>Rare Metal</em> deposits.
 
 <grey>Digging deep can be dangerous but it is necessary for sustained metal production.</grey>",
-6460,Здабыча глыбокіх металаў,
+6460,Здабыча глыбокіх мэталаў,
 6467,"Новы будынак: <em>Fusion Reactor</em> (<buildinginfo('FusionReactor')>) - Generates Power. Out-Dome building which requires Workers to operate.
 
 <grey>""I would like nuclear fusion to become a practical power source. It would provide an inexhaustible supply of energy, without pollution or global warming.""
@@ -9814,7 +9814,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 11893,<TerraformingParam> <Condition> <Amount>,<TerraformingParam> <Condition> <Amount>
 11894,Change TerraformingParam with <Amount>,
 11895,Change <TerraformingParam> with <Amount>,
-256529540884,Terraforming,
+256529540884,Тэрафарміраваньне
 577745051087,Геаінжынэр,
 451989959636,"- Кошт імпарту насеньня зьніжаны на 50%
 - Бонусныя зборныя будынкі: 2 Парніковыя фабрыкі; 2x лясныя расьліны
@@ -11218,11 +11218,11 @@ As a side effect, one may expect a 5% boost in the field of Biotech.",
 11937,Planetary Projects,
 206931232175,Губляецца атмасфэры,
 277656568245,Магнітныя экраны,
-842959764549,"Уяўляе шчыльнасць і склад атмасферы Марса. Чым вышэй гэты параметр, тым больш атмасферны ціск, узровень тлёну і ўтварэньне аблокоў подобныя на Зямны.<newline><newline>Паляпшэньне атмасфэры памяншае вастрыню <em>Пясчаных бур</em> і <em>Метэорных бур</em>, стварае экалагічныя ўмовы каб адбываліся <em>Атрутныя дажджы</em> й <em>Чыстыя дажджы</em>.<newline><newline>Шчыльная атмасфэра ўзмацняе вытворчасьць энергіі <em>Ветравых турбін</em> і вытворчасьць тлёну ў <em>МЭРТах</em>. <red>Зьмяншае</red> вытворчасьць энергіі ў <em>Сонечных панэляў</em>.<newline><newline><em>Пры максімальным паляпшэньні, атмасфэра Марса становіцца прыдатнай да дыханьня, таму купалы і скафандры больш не патрэбны.</em>",
+842959764549,"Уяўляе шчыльнасць і склад атмасферы Марса. Чым вышэй гэты параметр, тым больш атмасферны ціск, узровень тлёну й ўтварэньне аблокоў подобныя на Зямны.<newline><newline>Паляпшэньне атмасфэры памяншае вастрыню <em>Пясчаных бур</em> і <em>Метэорных бур</em>, стварае экалагічныя ўмовы каб адбываліся <em>Атрутныя дажджы</em> й <em>Чыстыя дажджы</em>.<newline><newline>Шчыльная атмасфэра ўзмацняе вытворчасьць энергіі <em>Ветравых турбін</em> і вытворчасьць тлёну ў <em>МЭРТах</em>. <red>Зьмяншае</red> вытворчасьць энергіі ў <em>Сонечных панэляў</em>.<newline><newline><em>Пры максімальным паляпшэньні, атмасфэра Марса становіцца прыдатнай да дыханьня, таму купалы й скафандры больш не патрэбны.</em>",
 723765912147,Атмасфэра,
-637529677905,"Уяўляе глабальную тэмпэратуру паверхні Марса. Чым вышэй гэты параметр, тым больш спрыяльныя ўмовы для жыцця як на Зямлі.<newline><newline>Павышэньне тэмпэратуры памяншае вастрыню <em>Халодных хавляў</em>, стварае экалагічныя ўмовы каб адбываліся <em>Атрутныя дажджы</em> й <em>Чыстыя дажджы</em>.<newline><newline>Павышэньне тэмпературы патрэбна каб на паверхні Марса з'явідася <em>Вадкая вада</em> і ў азёрах. Дастаткова высокая тэмпература таксама мае першараднае значэньне для таго, каб паверхня Марса была прыдатнай для пражываньня й каб былі <em>адкрытыя Купалы</em>.",
+637529677905,"Уяўляе глабальную тэмпэратуру паверхні Марса. Чым вышэй гэты параметр, тым больш спрыяльныя ўмовы для жыцця як на Зямлі.<newline><newline>Павышэньне тэмпэратуры памяншае вастрыню <em>Халодных хавляў</em>, стварае экалагічныя ўмовы каб адбываліся <em>Атрутныя дажджы</em> й <em>Чыстыя дажджы</em>.<newline><newline>Павышэньне тэмпературы патрэбна каб на паверхні Марса з'явідася <em>Вадкая вада</em> й ў азёрах. Дастаткова высокая тэмпература таксама мае першараднае значэньне для таго, каб паверхня Марса была прыдатнай для пражываньня й каб былі <em>адкрытыя Купалы</em>.",
 920381483594,Тэмпэратура,
-690140647880,"Уяўляе распаўсюджваньне й разнастайнасьць расьліннасьці й бактэрыяльнага жыцьця ў планетарным маштабе. Чым вышэй гэты параметр, тым больш Марс падобны на біём тундры на Зямлі, канчатковая мэта якой - стаць даволі суровым, але прыдатным для жыцьця для чалавецтва.<newline><newline>Паляпшэньне расьліннасьці павялічвае верагоднасьць размнажэньня і распаўсюджваньня расьлін.<newline><newline><em>As wild vegetation improves, sporadic vegetation booms will occur.</em> Increased concentration of seeds in the wind causes lichen, grass, bushes or trees to spread throughout the colony.",
+690140647880,"Уяўляе распаўсюджваньне й разнастайнасьць расьліннасьці й бактэрыяльнага жыцьця ў планетарным маштабе. Чым вышэй гэты параметр, тым больш Марс падобны на біём тундры на Зямлі, канчатковая мэта якой - стаць даволі суровым, але прыдатным для жыцьця для чалавецтва.<newline><newline>Паляпшэньне расьліннасьці павялічвае верагоднасьць размнажэньня й распаўсюджваньня расьлін.<newline><newline><em>As wild vegetation improves, sporadic vegetation booms will occur.</em> Increased concentration of seeds in the wind causes lichen, grass, bushes or trees to spread throughout the colony.",
 582684290103,Расьліннасьць,
 967369800333,"Уяўляе якасьць і аб'ём паверхневых вод на Марсе. Чым вышэй гэты параметр, тым больш і больш буйных вадаёмаў будзе з'яўляцца на Марсе: азёры, моры й акіяны.<newline><newline>Павышэньне вады стварае экалагічныя ўмовы каб адбываліся <em>Атрутныя дажджы</em> й <em>Чыстыя дажджы</em>.<newline><newline>Вада ўзмацняе вытворчасьць вады ў <em>Выпарніках вільгаці</em>.",
 310269978907,Вада,
@@ -11744,7 +11744,7 @@ This technological challenge to take advantage of what little wind there is on M
 11534,Выберыце колёнію саперніка да спаборніцтваў. Яны будуць змагацца за вехі й планетарныя анамаліі. У дадатак дадуць вам магчымасьць гандляваць з імі рэсурсамі.,
 11532,Сапернік <num>: <name>,
 11535,send rocket carrying <resource>,
-11536,Diplomacy - <DisplayName>,
+11536,Дыплёматыя - <DisplayName>,
 11537,Covert Ops - <DisplayName>,
 11709,", risk of failure",
 11656,", very dangerous",
@@ -12038,7 +12038,7 @@ This technological challenge to take advantage of what little wind there is on M
 516194424164,Збудована: farms,
 801575663207,Збудована: Concrete Extractor,
 601660641143,Збудована: Мэталаэкстрактар,
-892685234280,Збудована: Экстрактар рэдкіх металаў,
+892685234280,Збудована: Экстрактар рэдкіх мэталаў,
 549753714095,Збудована: Fuel Refinery,
 491436888630,Збудована: Polymer Factory,
 152436678499,Збудована: Machine Parts Factory,
@@ -12119,7 +12119,7 @@ Bias: <em>Research</em>
 ",
 967008099458,Японія,
 308211343641,Constructed Automatic Metals Extractor,
-10504,"Капсулы паставак - гэта альтэрнатыўны варыянт дастаўкі грузу зь Зямлі на Марс. Яны прыбываюць хутчэй за ракеты. Аднаразовыя і могуць быць разобраны, як яны ўрэзаліся ў выбраным мейсцы. Капсулы паставак могуць перавозіць менш грузу за ракету, або толькі адзін марсаход.
+10504,"Капсулы паставак - гэта альтэрнатыўны варыянт дастаўкі грузу зь Зямлі на Марс. Яны прыбываюць хутчэй за ракеты. Аднаразовыя й могуць быць разобраны, як яны ўрэзаліся ў выбраным мейсцы. Капсулы паставак могуць перавозіць менш грузу за ракету, або толькі адзін марсаход.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
@@ -12187,7 +12187,7 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 758823386664,Вельмі лёгка,
 7021,Міжнародная місія на Марс,
 12249,"Дасьледаваньне ў Сол: <research(SponsorResearch)>
-Кошт рэдкіх металаў: $<ExportPricePreciousMetals> Млн.
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
 - <em>Зеўс ракета</em> - падвышана карысная нагрузка ракеты (<cargo> кг)
 - <em>Перадавыя генератар Стырлінга</em> - выпрацоўвае энергію й захоўвае ад <em>Халодных хваль</em>
@@ -12198,7 +12198,7 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 7023,Рэкамендуецца пачаткоўцам,
 972378802790,Лёгка,
 5483,"Дасьледаваньне ў Сол: <research(SponsorResearch)>
-Кошт рэдкіх металаў: $<ExportPricePreciousMetals> Млн.
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
 - <em>Зеўс ракета</em> - падвышана карысная нагрузка ракеты (<cargo> кг)
 - <em>Перадавы арбітальны зонд</em> - скануе пяць сэктараў
@@ -12206,24 +12206,24 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 - Перыядычнае дафінансаваньне",
 5484,Карпарацыя 'Сінія Сьвяцілы',
 342032143352,"Дасьледаваньне ў Сол: <research(SponsorResearch)>
-Кошт рэдкіх металаў: $<ExportPricePreciousMetals> Млн.
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
 - <em>РК Камбайн</em> - транспарт, які можа здабываць бэтон з радовішч рэгаліту
 - <em>Карпаратыўны офіс</em> - наймае работнікаў і стварае фінансаваньне
 - Можа купіць кандыдатаў за <em>$</em>
 - Дадатковыя ракеты значна танней
-- Зонды могуць выявіць глыбокія радовішча рэдкіх металаў
-- Бонусная тэхналёгія: <em>Здабыча глыбокіх металаў</em> (можа здабываць глыбокія радовішчы металаў і рэдкіх металаў)",
+- Зонды могуць выявіць глыбокія радовішча рэдкіх мэталаў
+- Бонусная тэхналёгія: <em>Здабыча глыбокіх мэталаў</em> (можа здабываць глыбокія радовішчы мэталаў і рэдкіх мэталаў)",
 882785319134,Лёгка,
 172009611331,"Дасьледаваньне ў Сол: <research(SponsorResearch)>
-Кошт рэдкіх металаў: $<ExportPricePreciousMetals> Млн.
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
 - <em>РК Generator</em> - RC Commander that can generate power as a solar panel
 - <em>Тай-чі сад</em> - невялікі трэніровачны сад, наведвальнікі аднаўляюць невялікую колькасьць <em>Здароўя</em> й могуць стаць <em>Падцягнутыя</em>
 - Пасажырскія ракеты умяшчае 10 дадатковых колёністаў
 - Новая кандыдаты з'яўдяюцца ўдвая хутчэй",
 972853819891,"Дасьледаваньне ў Сол: <research(SponsorResearch)>
-Кошт рэдкіх металаў: $<ExportPricePreciousMetals> Млн.
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
 - <em>RC Constructor</em> - transporter rover that can construct buildings
 - <em>Metals Refinery</em> - slowly converts Waste Rock into Metals
@@ -12231,7 +12231,7 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 - Бонусная тэхналёгія: <em>Low-G Engineering</em> (unlocks Medium Dome)",
 5488,Эўропа,
 938808160214,"Дасьледаваньне ў Сол: <research(SponsorResearch)>
-Кошт рэдкіх металаў: $<ExportPricePreciousMetals> Млн.
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
 - <em>RC Seeker</em> - RC Commander that works as a sensor tower when stationary
 - <em>Low-G Lab</em> - a research building that is built outside domes and reduces the cost of Biotech and Physics techs
@@ -12239,7 +12239,7 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 - Gain Funding every time a tech is researched. Gain double if it's a Breakthrough tech",
 5490,SpaceY,
 880574954148,"Дасьледаваньне ў Сол: <research(SponsorResearch)>
-Кошт рэдкіх металаў: $<ExportPricePreciousMetals> Млн.
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
 - <em>Dragon Rocket</em> - has smaller cargo capacity (<cargo>) but is faster and requires less fuel
 - <em>Solar Array</em> - a large cluster of solar panels that have lower maintenance cost but are vulnerable to dust storms
@@ -12247,7 +12247,7 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 - 50% cheaper advanced resources",
 454832892339,Brazil,
 236069435611,"Дасьледаваньне ў Сол: <research(SponsorResearch)>
-Кошт рэдкіх металаў: $<ExportPricePreciousMetals> Млн.
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
 - <em>Large Supply Pod</em> - special supply pod that can carry more cargo
 - <em>Rare Metals Refinery</em> - turns waste rock into rare metals
@@ -12257,7 +12257,7 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 - 5 free Large Supply Pods",
 5493,Church of the New Ark,
 725449809291,"Дасьледаваньне ў Сол: <research(SponsorResearch)>
-Кошт рэдкіх металаў: $<ExportPricePreciousMetals> Млн.
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
 - <em>Ark Pod</em> - a supply pod that can carry passengers
 - <em>Temple Spire</em> - a service spire that satisfies Social interests and restores Sanity to visitors
@@ -12265,7 +12265,7 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 - Birthrate is doubled
 - Hydroponic Farms performance reduced by 50 <em>(drawback)</em>",
 894959418798,"Дасьледаваньне ў Сол: <research(SponsorResearch)>
-Кошт рэдкіх металаў: $<ExportPricePreciousMetals> Млн.
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
 - <em>RC Driller</em> - a special rover that can extract resources from underground deposits but wastes some of the deposit
 - <em>Concrete Plant</em> - an automated extractor that produces concrete without the need of a deposit but consumes fuel
@@ -12276,7 +12276,7 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 574527829385,Цяжка,
 5495,Paradox Interactive,
 651537811106,"Дасьледаваньне ў Сол: <research(SponsorResearch)>
-Кошт рэдкіх металаў: $<ExportPricePreciousMetals> Млн.
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
 - <em>Jumper Shuttle</em> - faster shuttles that use parabolic trajectories
 - <em>Game Developer</em> - produces games which grant funding depending on their success
@@ -12286,7 +12286,7 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 756371553955,Цяжка,
 794934094417,Японія,
 420248056524,"Дасьледаваньняў ў Сол: <research(SponsorResearch)>
-Кошт рэдкіх металаў: $<ExportPricePreciousMetals> Млн.
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
 - <em>Дрон-аса</em> - хуткі, лятаюшчы дрон
 - <em>Аўтаматычны мэталаэкстрактар</em> - мэталаэкстрактар які не патрабуе працоўнікаў
@@ -12352,7 +12352,7 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 231487725189,"Greetings. Listen carefully, for our words are backed with NUCLEAR WEAPONS!",
 737646184244,"Begone, heretic, and do not tempt my anger!",
 916453838004,"Greetings, Commander. What assistance do you need?",
-942710530182,"Good day, Commander. How is your colony holding up?",
+942710530182,"Добры дзень, Камандзір. Як ваша колёнія?",
 561306509182,"Oh, it's you. If this is the future, I'd like to live in the past.",
 560772816764,"Hello, is this planet Earth? Oh, it's you, Commander.",
 323795213046,"Greetings, Commander. Oh, one of those disturbing drones of yours is behind your back, watching me as if it tracks my every move. Can you put it away, please?",
@@ -12381,67 +12381,67 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 514971224804,-10 Адносін,
 247391182154,Чаго хаціце?,
 226348953584,Калі падумаць...,
-871472136580,What do you want?,
-993967459548,We need Metals,
-169968368423,We need Concrete,
-128954319804,We need Food,
+871472136580,Чаго вы хаціце?,
+993967459548,Нам патрэбны мэталы,
+169968368423,Нам патрэбны бэтон,
+128954319804,Нам патрэбны ежа,
 364872241501,Калі падумаць...,
-799274647381,What do you want?,
-367527373955,We need Polymers,
-328754292111,We need Machine Parts,
-541621217058,We need Electronics,
-521255950570,They can't help,
+799274647381,Чаго вы хаціце?,
+367527373955,We need палімеры,
+328754292111,We need часткі машын,
+541621217058,We need электроніка,
+521255950570,Яны не могуць дапамагчы,
 990315714894,Калі падумаць...,
-194805488333,Offer resources,
-148975242532,"send resources with a Rocket, gain Standing",
-504217644348,Initiate trade,
-219739579116,send a Rocket to trade,
-153310574818,Exchange technologies,
-798973139636,offer technology exchange,
-166004181815,Request resources,
-847407435807,"request resources, lose Standing",
-889478562234,Insult,
-999873992477,"lose Standing with the target Colony, gain Standing with other Colonies",
+194805488333,Прапанаваць рэсурсы,
+148975242532,"адпраўце рэсурсы ракетай, атрымайце паляпшэньне адносін",
+504217644348,Пачаць гандаль,
+219739579116,адпраўце ракету для гандлю,
+153310574818,Абмен тэхнёлогіямі,
+798973139636,Прапанова абмену тэхналогіямі,
+166004181815,Запытаць рэсурсы,
+847407435807,"запыт рэсурсаў губляе адносіны",
+889478562234,Абразіць,
+999873992477,"пагубленьне адносін з колёніяй, палепшэньне адносін з другімі колёніямі",
 957705354106,Зачыніць,
-129132282741,We will send you the gift as soon as possible.,
-490952840423,"+20 Standing, send aid Rocket",
-137177587242,We will provide medical expertise instead.,
-756326647639,+20 Standing,
-858384862857,We are always eager to help our fellow Martians!,
-594611091643,"+40 Standing, send aid Rocket",
-794746218101,We've reconsidered!,
-531199077969,-10 Standing,
-698259338261,You will accept <concrete(50000)>  and you will like it!,
-198902497893,"+40 Standing, send aid Rocket",
-595608511051,Help Rocket,
-536884410763,Basic resource,
-351818891928,Advanced resource,
+129132282741,Мы адправім вам падарунак як мага хутчэй.,
+490952840423,"+20 адносіны, адправіць ракету з дапамогай",
+137177587242,Замест гэтага мы забяспечым вам медыцынскую экспертызу.,
+756326647639,+20 адносіны,
+858384862857,Мы заўсёды імкнемся дапамагчы нашым марсіянам!,
+594611091643,"+40 адносіны, адправіць ракету з дапамогай",
+794746218101,Мы перамяркавалі!,
+531199077969,-10 адносіны,
+698259338261,Вы прымеце <concrete(50000)> і вам гэта спадабаецца!,
+198902497893,"+40 адносіны, адправіць ракету з дапамогай",
+595608511051,Дапаможная ракета,
+536884410763,Базавыя рэсурсы,
+351818891928,Перадавыя рэсурсы,
 727554349776,Калі падумаць...,
 601929705879,Калі падумаць...,
-297659968639,What do you offer?,
+297659968639,Якая ваша прапанова?,
 424168816047,Калі падумаць...,
 672572347211,Two more words – accretionary wedge!,
-11497,-40 Standing; +20 Standing with all other Rival Colonies,
-11496,-40 Standing; +10 Standing with all other Rival Colonies,
+11497,-40 адносіны; +20 адносіны з другімі колёніямі супраціўнікаў,
+11496,-40 адносіны; +10 адносіны з другімі колёніямі супраціўнікаў,
 649847787754,We will exchange <tech_player> for <tech_ai> with you.,
-121499700348,Let's do this some other time.,
-941090071670,We will provide medical expertise instead.,
-398271607151,gain 1 tech,
+121499700348,Давайце зробім гэта ў другі раз.,
+941090071670,Замест гэтага мы забяспечым вам медыцынскую экспертызу.,
+398271607151,Атрымаць 1 тэхналёгію,
 879769511884,"There is much potential in your idea, my friend.",
-374331054916,unlock 1 Breakthrough,
-11498,End transmission.,
-11547,Not now.,
+374331054916,Разблакаваць 1 прарыўную тэналёгію,
+11498,Скончыць перадачу.,
+11547,Не зараз.,
 186067509260,no landed rocket,
 318234852179,already negotiated,
-147627288183,Yes,
-592499732208,No,
-154342192068,Not now,
-574325228891,Do it,
-375251972181,Some other time,
+147627288183,Такё,
+592499732208,Не,
+154342192068,Не зараз,
+574325228891,Зрабі гэта,
+375251972181,У другі раз,
 463024962861,Фінансаваньне,
 197191856074,Дроны,
 366553319352,"Perfect time to test my newest gizmo, the ""Pied Piper"".",
-888855750646,steal more Drones,
+888855750646,выкрасьці больш Дронаў,
 853248500555,Should we task <number> Security Officers to fly to the rival colony and steal some of their Drones?,
 347861263026,Should we task <number> Security Officers to fly to the rival colony and try to steal technological advances?,
 485962158121,Should we task <number> Security Officers to fly to the rival colony and try to recruit colonists?,
@@ -12450,19 +12450,19 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 393536357519,"What a glorious idea, Commander! I think that exchanging research papers will bring many benefits to our colonies.",
 173881016886,"Sounds reasonable, commander. All those eggheads from both colonies will be jolly happy to work together.",
 939952339656,We would never share our secrets with treacherous scum like you!,
-807554317011,"I don't believe we know each other enough for such a serious step in our relationship. Perhaps we will get there, some day.",
+807554317011,"Я не лічу, што мы дастаткова ведаем адзін аднаго, каб зрабіць такі сур'ёзны крок у нашых адносінах. Магчыма, аднойчы, але не зараз.",
 393233322659,We may not have put so much effort in research like you and we have no technologies to offer. There are more important things in life than science!,
 837583412847,"I'm sorry, but your current research achievements are of no interest for us.",
 11546,<NegotiationsContactTitle>,<NegotiationsContactTitle>
-495316409698,"<rival_colony> is no longer offering <resource(number2, res2)> for <resource(number1, res1)>",
-869467608381,Closed Trade Route,
+495316409698,"<rival_colony> больш не прапануе <resource(number2, res2)> за <resource(number1, res1)>",
+869467608381,Закрыты гандлёвы шлях,
 886793501620,"Колёнія «<rival_name>» амаль дасягнула Вяху",
 901784464065,Чутка,
 195350756558,"Колёнія <em><rival_name></em> будзе сканаваць Пларную анамалію праз <countdown>",
 752757193902,Чутка,
 973361405652,Officers caught by <sponsor_name>: <colonist(number)>,
 426005553209,The rocket and its entire crew were seized by <rival>,
-391391566838,Failed Covert Op,
+391391566838,Няўдалы таемная апэрацыя,
 671743602440,Recruited Colonists: <number> <type>,
 142463125567,Stolen Drones: <drone(number)>,
 624987344934,Recruited rare Colonist: <trait_name>,
@@ -12697,10 +12697,10 @@ What is your response to this provocation?",
 292689213195,gain <standing_gain_high> Standing with <DisplayName>; a few Colonists lose Morale,
 337391706448,"Паколькі прамежак часу, у які ўсё адбылося, быў даволі кароткім, наступнае хуткае расьсьледваньне выявіла пашкоджаньне праграмнага забеспячэньня ва ўсіх задзейнічаных Дронах. Ушкоджаньне, па словах нашых інжынэраў, можа адбыцца толькі ў тым выпадку, калі сістэму ўзламалі.
 
-Нягледзячы на тое, што гэта відавочны дыверсійны акт, мы не можам даказаць, хто менавіта вінаваты. Тое, што мы можам зрабіць, гэта падняць пытаньне ў зямныя судовыя органы - якія, верагодна, на кароткі час перашкодзяць усім аперацыям нашых супраціўнікаў (не толькі вінаватага).",
+Нягледзячы на тое, што гэта відавочны дыверсійны акт, мы не можам даказаць, хто менавіта вінаваты. Тое, што мы можам зрабіць, гэта падняць пытаньне ў зямныя судовыя органы - якія, верагодна, на кароткі час перашкодзяць усім апэрацыям нашых супраціўнікаў (не толькі вінаватага).",
 351319490417,Халодныя машыны,
 12147,"Некалькі колёністаў атрымалі раненьні сёньня, ступень іх цяжкасьці была рознай, ва ўсіх выпадках зь удзелам Дронаў.",
-513823749836,Безумоўна, мы будзем трызвоніць аб гэтым. Інфармуем ААН.,
+513823749836,"Безумоўна, мы будзем трызвоніць аб гэтым. Інфармуем ААН.",
 240529774327,Усе супраціўнікі страчваюць фінансаваньне й адносіны становяцца горш,
 439896676591,"На шчасце ніхто не загінуў. Проста пераканайцеся, што з гэтага часу нашы Дроны лепш абаронены.",
 803525244144,"Because they deduced the window of opportunity was sure to close fast, they inserted a Trojan Horse to look around and try and hinder whatever operations they could. 
@@ -12975,7 +12975,7 @@ Your trade agent from Earth is worried enough to make a direct call. The 14-minu
 625389651212,Dumping,
 471283925764,Another Colony is selling Rare Metals at a much lower price.,
 974120987529,They can't keep this up for long. We can wait.,
-390117394390,"Кошт рэдкіх металаў -25% на 20 Сола, +25 Лаяльнасьці",
+390117394390,"Кошт рэдкіх мэталаў -25% на 20 Сола, +25 Лаяльнасьці",
 322820556479,We can organize some stock market shenanigans to press them.,
 858166211394,-25 Standing,
 330065851839,We can work out a barter deal with our trade partners.,
@@ -13193,7 +13193,7 @@ With the proper training, Trish Sanders can do both, however, we have to act fas
 272770950016,"Agent Sanders has established a communications channel with us. Initial plans are to steal any technology deemed of value.
 
 We are told to expect results within a few Sols.",
-906877286311,Я не хачу зьнішчаць нашы і без таго напружаныя адносіны.,
+906877286311,Я не хачу зьнішчаць нашы й без таго напружаныя адносіны.,
 513936281590,We have no idea of Trish Sander's fate. We expect that these circumstances will sour the diplomatic relations with our rivals.,
 159168246228,Our agent has been caught!,
 405539095942,"All Factories broke down at once. So did our energy producers.
@@ -13371,8 +13371,8 @@ We can blatantly steal their cargo, but we certainly won't be able to feign igno
 11094,DISTRESS CALL,
 11206,You can't broadcast new distress calls<newline>until Сол <sol>,
 276853084179,Contact,
-104264997596,CONTACT,
-866157818822,COVERT OPS,
+104264997596,КАНТАКТ,
+866157818822,ТАЕМНАЯ АПЭРАЦЫЯ,
 978374049304,Trade Routes,
 11548,Expedition Time,
 680184578592,<ExpeditionTime>,<ExpeditionTime>
@@ -13561,33 +13561,33 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 12,"Сканаваньне выявіла цікавыя дадзеныя, якія могуць дапамагчы нам адкрыць <em>Новыя Тэхналогіі</em>.<newline><newline>Адпраўце <em>РК Дасьледчыка</em> да аналізу анамаліі.",
 13,"Паказаньні датчыкаў пасьведядчаюць, што гэтая анамалія дапаможа нам у нашым бягучым <em>Дасьледаваньні</em>.<newline><newline>Адпраўце <em>РК Дасьледчыка</em> да аналізу анамаліі.",
 14,We have detected alien artifacts at this location that will <em>speed up</em> our Research efforts.<newline><newline>Send an <em>Explorer</em> to analyze the Anomaly.,
-17,"Period, base (s)",
-18,"Period, random (s)",
-19,Spawn Chance (%),
-20,Lifetime (s),
-21,Speed (m/s),
+17,"Перыяд, базавы (с)",
+18,"Пеоыяд, выпадкова (с)",
+19,Шанец з'яўленнья (%),
+20,Працягласьць жыцьця (с),
+21,Хуткасьць (м/с),
 22,"Нашы сканеры выявілі цікавыя дадзеныя у гэтым сэктары. Неабходны далейшы аналіз.<newline><newline>Адпраўце <em>РК Дасьледчык</em> да аналізу анамаліі.",
-8570,<green>Hive Mind <FormatSignInt(amount)></color>,
-31,Effect Range,
-32,Power Production,
-34,Work State,
+8570,<green>Вулей розуму <FormatSignInt(amount)></color>,
+31,Дыяпазон эфекту,
+32,Вытворчасьць энергіі,
+34,Стан працы,
 10365,<count> <name>,<count> <name>
 5648,Будынкі не працуюць,
-379,Suspended,
+379,Перапынены,
 7327,Уключаны,
 7328,Выключаны,
-12081,Rovers,
+12081,Марсаход,
 9616,"<UnitMoveControl('ButtonA',interaction_mode)>: Use Tunnel",
-7322,The Rover will be salvaged in <em><countdown></em> sec.,
-50,Status and current task of this vehicle.,
-25,Anomaly Scanning,
-52,Progress<right><percent(ScanAnomalyProgress)>,
-53,Malfunction,
-54,This vehicle has malfunctioned. It has to be repaired by Drones.,
-55,Analyzing an Anomaly,
+7322,Марсаход будзе разобраны праў <em><countdown></em> sec.,
+50,Стан і бягучая задача гэтага транспартнага сродку.,
+25,Сканаваньне анамалій,
+52,Прагрэс<right><percent(ScanAnomalyProgress)>,
+53,Няспраўнасьць,
+54,Гэты марсаход няспраўны. Атрамантуйце яго Дронамі.,
+55,Аналіз анамаліі,
 56,On a transport route,
 12704,On a Safari,
-58,<red>This unit has been destroyed. Salvage for materials.<red>,
+58,<red>Гэта адpзінка была зьнішчана. Разьбярыце на мэталы.<red>,
 59,Disembarking,
 60,Unloading cargo at target coordinates,
 61,Transfering power between vehicles,
@@ -13611,7 +13611,7 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 6725,Attacking,
 6726,Reloading,
 12259,Automated,
-12260,Queued tasks<right><number>,
+12260,Заданьні ў чарзе<right><number>,
 78,Інфраструктура,
 83,Domes,
 84,"Homes, Education & Research",
@@ -13687,7 +13687,7 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 11569,This building requires maintenance due to exceptional circumstances.,
 185,Doesn't function during Dust Storms.,
 7524,Building disabled by lightning strike. Will resume work in several hours.,
-187,No deposits,
+187,Брак радовішч,
 188,There are no exploitable deposits in range,
 189,Storage space is full,
 191,Неактыўная працоўная зьмена,
@@ -13914,7 +13914,7 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 8522,Constructing a Biorobot,
 293,Low Battery<right><drone(DischargedDronesCount)>,
 294,Broken<right><drone(BrokenDronesCount)>,
-295,Idle<right><drone(IdleDronesCount)>,
+295,Бяздзейныz<right><drone(IdleDronesCount)>,
 647,<red>Not working. Drones won't receive further instructions.</red>,
 8492,Drones ordered: <num>,
 653,Dust per Сол,
@@ -14186,7 +14186,7 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 761,<left>Waiting to export <right><res>,
 762,Going up,
 763,Going down,
-6766,Idle,
+6766,Бяздзейны,
 13604,Revealed,
 764,Spire Frame Entity,
 12425,Spire Frame Hide Open,
@@ -14219,18 +14219,18 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 7,Выяўлен,
 6,Depth Layer,
 784,"<Description><newline><newline><ResourceName><right><resource(amount,max_amount,resource)><newline><left>Клас<right><grade_name>",
-791,Падземныя металы,
-792,"Падземнае радовішча металаў. Дабываюцца ў <em>Мэталаэкстрактары</em> працуюшчымі ў нім <em>Каланістамі</em>.",
-793,Глыбінныя металы,
-794,"Глыбокападземнае радовішча металаў. Дабываюцца ў <em>Мэталаэкстрактары</em> працуюшчымі ў нім <em>Каланістамі</em>.",
+791,Падземныя мэталы,
+792,"Падземнае радовішча мэталаў. Дабываюцца ў <em>Мэталаэкстрактары</em> працуюшчымі ў нім <em>Каланістамі</em>.",
+793,Глыбінныя мэталы,
+794,"Глыбокападземнае радовішча мэталаў. Дабываюцца ў <em>Мэталаэкстрактары</em> працуюшчымі ў нім <em>Каланістамі</em>.",
 795,Падземныя вады,
 796,Падземнае радовішча вады. Дабываецца праз <em>Экстрактар вады</em>.,
 797,Глыбокія воды,
 798,"Глыбокападземнае радовішча вады. Дабываецца праз <em>Экстрактар вады</em>.",
-799,Падземныя рэдкія металы,
-800,"Падземнае радовішча рэдкіх металаў. Дабываюцца ў <em>Мэталаэкстрактары</em> працуюшчымі ў нім <em>Каланістамі</em>.",
-801,Глыбокія рэдкія металы,
-802,"Глыбокападземнае радовішча рэдкіх металаў. Дабываюцца ў <em>Мэталаэкстрактары</em> працуюшчымі ў нім <em>Каланістамі</em>.",
+799,Падземныя рэдкія мэталы,
+800,"Падземнае радовішча рэдкіх мэталаў. Дабываюцца ў <em>Мэталаэкстрактары</em> працуюшчымі ў нім <em>Каланістамі</em>.",
+801,Глыбокія рэдкія мэталы,
+802,"Глыбокападземнае радовішча рэдкіх мэталаў. Дабываюцца ў <em>Мэталаэкстрактары</em> працуюшчымі ў нім <em>Каланістамі</em>.",
 13888,"Excess power, water and oxygen can be sent through the elevator between the surface and underground.",
 13889,<newline><center><em>Power</em><newline>,
 13890,Power production <current_map> <right><power(power_production)>,
@@ -14264,8 +14264,8 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 804,Deposit Entity Variant,
 805,<resource(resource)> Surface Deposit,
 806,"<description><newline><newline><ResourceName><right><resource(Amount,max_amount,resource)>",
-811,Радовішча металу,
-812,Раскіданыя металы. Збіраюцца <em>Дронамі</em> або <em>РК Пагрузчыкам</em>.,
+811,Радовішча мэталу,
+812,Раскіданыя мэталы. Збіраюцца <em>Дронамі</em> або <em>РК Пагрузчыкам</em>.,
 813,Радовішча рэгаліту,
 814,Багаты серай рэгаліт. Збіраецца як бэтон <em>Дронамі</em> й <em>РК Пагрузчыкам</em>,
 815,Радовішча палімераў,
@@ -15060,7 +15060,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 3541,Modifier name <number>,
 3542,Modifier value <number>,
 8691,Cargo <number>,
-8692,Status <number>,
+8692,Стан <number>,
 3543,Sponsor nation name <number>,
 3544,Sponsor nation percent <number>,
 3491,Challenge Mod (%),
@@ -15138,7 +15138,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 1219,Decomposing into Metals,
 1220,Decomposing into Rare Metals,
 1221,Decomposing into Polymers,
-6781,Idle,
+6781,Бяздзейны,
 455,Occupied,
 456,Vacant,
 8112,Mystery Depot,
@@ -17577,7 +17577,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 3612,Last export<right>N/A,
 10402,Celebrities,
 10552,Бюджэт<right><white><funding(total)></white>,
-3614,Кошт рэдкіх металаў <right><white><funding(price)></white>,
+3614,Кошт рэдкіх мэталаў <right><white><funding(price)></white>,
 3615,Апошні экспарт<right><white><funding(LastExportFunding)></white>,
 10406,Агульны экспарт<right><funding(TotalExportFunding)>,
 10524,Прыбытак у апошні Сол:,
@@ -17671,7 +17671,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 3676,Rover Start,
 3677,Materials,
 3678,Probe,
-6722,Idle,
+6722,Бяздзейны,
 7537,Investigating the origin of the Black Cubes,
 7538,Being invaded by the Dredgers,
 7539,Dealing with the Spheres,
@@ -18201,7 +18201,7 @@ Larger networks will malfunction more often.",
 4149,Cold Wave,
 4150,"Cold Waves last several Sols, increasing the power consumption of vehicles, Drones and many field buildings. Water Towers are frozen during Cold Waves.",
 4151,Mars Locales,
-11175,Select a Point of Interest,
+11175,Выберыце кропка цікавасьці,
 10923,Select a Challenge,
 4152,Select a Colony Site,
 4153,<style LandingPosName><name></style>,<style LandingPosName><name></style>
@@ -18268,7 +18268,7 @@ Larger networks will malfunction more often.",
 6720,Скасаваць,
 6925,Send Drones to this vehicle.,
 6926,Cancel repairs.,
-6924,Repair,
+6924,Рамантаваць,
 632,Па-за зонай дзеяньня ЦК дронамі.,
 12089,Колёністы,
 4283,Worker performance,
@@ -18349,7 +18349,7 @@ Larger networks will malfunction more often.",
 4319,Just arrived,
 4320,Deceased,
 4321,On an expedition,
-6929,Idle,
+6929,Бяздзейны,
 6930,Dreaming,
 4323,Resting in <h SelectResidence InfopanelSelect><ResidenceDisplayName></h>,
 4324,Resting (homeless),
@@ -18416,7 +18416,7 @@ Larger networks will malfunction more often.",
 65,Malfunctioned,
 4406,Out of Power,
 4407,Recharging,
-6939,Idle,
+6939,Бяздзейны,
 4408,Repairing Drone,
 8503,Recharging Drone,
 76,Performing maintenance,
@@ -18426,11 +18426,11 @@ Larger networks will malfunction more often.",
 7398,Delivering <Resource>,
 4411,Going to pick up <SRequestResource>,
 12298,<red>This unit is frozen and can be fixed when the Cold Wave is over or when the area is heated.</red>,
-4413,<red>This unit has been destroyed. It can be salvaged for materials.</red>,
-4414,Deploying,
+4413,<red>Гэта адpзінка была зьнішчана. Разьбярыце на мэталы.</red>,
+4414,Разгортваньне,
 8105,Вяртаеца да кіроўца,
 9799,Унутры РК Камадзіра,
-4416,Returning to RC Commander,
+4416,Вяртаецца да РК Кардынатар,
 4417,Destroying Black Cubes,
 6723,Going through a tunnel,
 8106,Dismantling target,
@@ -18673,7 +18673,7 @@ Larger networks will malfunction more often.",
 504,"<resource('MachineParts' )><right><machineparts(Stored_MachineParts, MaxAmount_MachineParts)>",
 505,"<resource('Fuel' )><right><fuel(Stored_Fuel, MaxAmount_Fuel)>",
 8671,"<resource('MysteryResource' )><right><mysteryresource(Stored_MysteryResource, MaxAmount_MysteryResource)>","<resource('MysteryResource' )><right><mysteryresource(Stored_MysteryResource, MaxAmount_MysteryResource)>"
-12476,Terraforming,
+12476,Тэрафарміраваньне,
 9728,<count(visitors)>/<colonist(max_visitors)>,<count(visitors)>/<colonist(max_visitors)>
 9729,<UIResidentsCount>/<colonist(UICapacity)>,<UIResidentsCount>/<colonist(UICapacity)>
 9730,"<drone(DronesCount,MaxDronesCount)>","<drone(DronesCount,MaxDronesCount)>"
@@ -19069,13 +19069,13 @@ Perfect Time Сол <PerfectDeadline>
 867622188086,Вытворчасьці,
 320260921198,<ProductionBuildingsCount>,<ProductionBuildingsCount>
 733241404556,БАЗАВЫЯ РЭСУРСЫ,
-713516352322,Металы,
+713516352322,Мэталы,
 813997644883,<metals(AvailableMetals)>,<metals(AvailableMetals)>
 664110305028,Бэтон,
 814411638574,<concrete(AvailableConcrete)>,<concrete(AvailableConcrete)>
 281038741589,Ежа,
 313049198339,<food(AvailableFood)>,<food(AvailableFood)>
-933465905918,Рэдкія металы,
+933465905918,Рэдкія мэталы,
 649593042933,<preciousmetals(AvailablePreciousMetals)>,<preciousmetals(AvailablePreciousMetals)>
 252946080460,ПЕРАДАВЫЯ РЭСУРСЫ,
 153085345860,Палімеры,
@@ -19295,7 +19295,7 @@ Perfect Time Сол <PerfectDeadline>
 13685,Scanned Resources (Dev only),
 13686,<ScannedResourcesText>,<ScannedResourcesText>
 965950572237,<MetalsRollover>,<MetalsRollover>
-921009833362,Металы,
+921009833362,Мэталы,
 290848825416,<MetalsText>,<MetalsText>
 777092042856,<ConcreteRollover>,<ConcreteRollover>
 558957250020,Бэтон,
@@ -19573,8 +19573,8 @@ Mission parameters and colony site are predetermined.",
 797581848776,Выканана (0/5),
 11443,Выканана (<completed>/<max>),
 777283990085,Link,
-10990,Unlink,
-870730357845,Log Out,
+10990,Адвязаць,
+870730357845,Выйсьці,
 480995957868,Forgot Password?,
 12310,Create Account,
 598975766059,Login,
@@ -20022,14 +20022,14 @@ Export Amount<right><resource(TradeAmount)>",
 766548374853,Shuttles<right><count(shuttle_infos)>/<max_shuttles>,
 398,In flight<right><FlyingShuttles>,
 8700,Refueling<right><RefuelingShuttles>,
-717110331584,Idle<right><IdleShuttles>,
+717110331584,Бяздзейныя <right><IdleShuttles>,
 8701,Global load <right><GlobalLoadText>,
 11424,People transported last sol<right><count(people_flights)>,
 11425,Cargo flights last sol<right><count(cargo_flights)>,
 7818,Забараніць экспарт,
-7819,Забараніць экспарт рэдкіх металаў.,
+7819,Забараніць экспарт рэдкіх мэталаў.,
 7820,Дазволіць экспарт,
-7821,Дазволіць экспарт рэдкіх металаў.,
+7821,Дазволіць экспарт рэдкіх мэталаў.,
 7694,Бягучы стан Касмічны ліфту.,
 418,<Status>,
 7410,Карысная нагрузка гэтай ракеты,
@@ -20067,13 +20067,13 @@ Export Amount<right><resource(TradeAmount)>",
 Бягучы стан: <em><on_off(auto_export)></em>",
 8724,<left_click> Актываваць аўтаматычны рэжым <newline><em>,
 10113,<ButtonA> Актываваць аўтаматычны рэжым <newline><em>,
-8041,"Дазволіць або забараніць экспарт рэдкіх металаў на Зямлю. Калі каштоўныя металы экспартуюцца, колёнія атрымае фінансаваньне ў абмен.
+8041,"Дазволіць або забараніць экспарт рэдкіх мэталаў на Зямлю. Калі каштоўныя мэталы экспартуюцца, колёнія атрымае фінансаваньне ў абмен.
 
 Бягучы стан: Экспарт <em>дазволены</em>.",
 10114,<left_click> Забараніць экспарт<newline><em>Ctrl + <left_click></em> Забараніць экспарт ва ўсіх ракетах,
 10115,<ButtonA> Забараніць экспарт<newline><ButtonX> Забараніць экспарт ва ўсіх ракетах,
 8040,Дазволіць/Забараніць экспарт,
-8042,"Дазволіць або забараніць экспарт рэдкіх металаў на Зямлю. Калі каштоўныя металы экспартуюцца, колёнія атрымае фінансаваньне ў абмен.
+8042,"Дазволіць або забараніць экспарт рэдкіх мэталаў на Зямлю. Калі каштоўныя мэталы экспартуюцца, колёнія атрымае фінансаваньне ў абмен.
 
 Бягучы стан: Экспарт <em>забаронены</em>.",
 8109,<left_click> Дазволіць экспарт<newline><em>Ctrl + <left_click></em> Дазволіць экспарт ва ўсіх ракетах,
@@ -20263,12 +20263,12 @@ Export Amount<right><resource(TradeAmount)>",
 865218030019,<AirLine>,
 414702080411,<WaterLine>,
 973078040656,<BasicResourcesRollover>,
-3650,Металы<right><metals(AvailableMetals)>,
+3650,Мэталы<right><metals(AvailableMetals)>,
 3651,Бэтон<right><concrete(AvailableConcrete)>,
 3652,Food<right><food(AvailableFood)>,
 3653,Rare Metals<right><preciousmetals(AvailablePreciousMetals)>,
 574634411619,<AdvancedResourcesRollover>,
-500,Advanced Resources,
+500,Перадавыя рэсурсы,
 3669,Polymers<right><polymers(AvailablePolymers)>,
 3670,Electronics<right><electronics(AvailableElectronics)>,
 3671,Machine Parts<right><machineparts(AvailableMachineParts)>,
@@ -20330,19 +20330,19 @@ Export Amount<right><resource(TradeAmount)>",
 325361555787,If Automated Mode is activated the RC Explorer will look for revealed anomalies and move to analyze them.<newline><newline>Current Status: <on_off(auto_mode_on)>,
 806760132448,Vehicle inactive.,
 370544347739,Automated Mode,
-7656,"<left_click> Toggle Automated Mode
+7656,"<left_click> Пераключыць аўтаматычны рэжым
 <em>Ctrl + <left_click></em> Toggle for all Rovers",
 148065038595,"<ButtonA> Toggle Automated Mode
 <ButtonX> Toggle for all Rovers",
 519056325841,Clears the route and stops the rover,
 207617533981,Clear Route,
-370493164990,Current state or task of the rover.,
+370493164990,Бягучы стан або задача марсахода.,
 138085146102,Стан,
 49,Стан,
 51,<ui_command>,
-254905971665,"This is the list of tasks that have been issued to the rover. It'll try to complete them in the same order.
-Queue tasks by using <em>Shift + <right_click></em>",
-631597745343,Queued tasks,
+254905971665,"Гэта сьпіс задач, якія пастаўлены марсаходу. Ён паспрабуе выканаць іх у тым жа парадку.
+Дадаць заданьне ў чаргу праз <em>Shift + <right_click></em>",
+631597745343,Заданьні ў чарзе,
 12314,<ui_command_queue_title>,<ui_command_queue_title>
 12315,<ui_command_queue>,<ui_command_queue>
 10118,Contributes to the currently selected research project.<newline><newline>Lifetime research<right><research(research_points_lifetime)>,
@@ -20412,7 +20412,7 @@ Queue tasks by using <em>Shift + <right_click></em>",
 522,Capacity<right><air(air_capacity)>,
 7783,Max output<right><air(max_air_discharge)>,
 331402867293,<CheatsRollover>,
-27,Cheats,
+27,Чыты,
 8543,Buildings in cold environment will freeze if left without power.<newline><newline>Freezing progress<right><percent(FreezeProgress)><newline><left>Status<right><FreezeStatus>,
 626,All resources have to be delivered to the site. Construction is performed by Drones.,
 12613,Landscaping progress,
@@ -20549,12 +20549,12 @@ Queue tasks by using <em>Shift + <right_click></em>",
 10462,<LB> / <RB>    зьмяніць патрабуемая колькасьць,
 10463,Патрабуемая колькасьць <DesiredAmountUI>,
 494,Базавыя рэсурсы,
-347750586259,Advanced Resources,
-12809,Terraforming,
-583134961529,Recon & Expansion,
-376908863267,"Toggle storage of this resource.
+347750586259,Перадавыя рэсурсы
+12809,Тэрафарміраваньне
+583134961529,Выведка й пашырэньне,
+376908863267,"Пераключыць захоўваньне гэтага рэсурсу.
 
-Status: <on_off(IsResourceEnabled(res))>",
+Стан: <on_off(IsResourceEnabled(res))>",
 883661504598,<resource(res)>,<resource(res)>
 934659949775,<left_click> Toggle <newline><em>Ctrl + <left_click></em>Toggle for all <display_name_pl>,
 454042608125,<ButtonA> Toggle <newline><ButtonX> Toggle for all <display_name_pl>,
@@ -20618,7 +20618,7 @@ Status: <on_off(IsResourceEnabled(res))>",
 3984,Anomalies,
 3513,Бэтон,
 7909,"Асноўны будаўнічы матэрыял, які часта выкарыстоўваецца да будаўніцтва й абслугоўваньня купалаў і купальных будынкаў.",
-3514,Металу,
+3514,Мэталы,
 7910,"Асноўныя будаўнічыя матэрыялы, якія часта выкарыстоўваюцца да будаўніцтва й абслугоўваньня вонкавых будынкаў. Неабходны да стварэньня <em>Дэталяў машын</em>.",
 3515,Палімеры,
 7911,"Перадавыя матэрыялы, якія часта выкарыстоўваюцца да будаўніцтва й абслугоўваньня акумулятараў энергіі, перадавых генератараў энергіі, купалаў і шпіляў.",
@@ -20626,7 +20626,7 @@ Status: <on_off(IsResourceEnabled(res))>",
 7912,"Перадавыя матэрыялы, якія часта выкарыстоўваюцца да будаўніцтва й абслугоўваньня навуковых і інфраструктурных будынкаў.",
 3516,Дэталі машын,
 7913,"Перадавыя матэрыялы, якія часта выкарыстоўваюцца да будаўніцтва й абслугоўваньня экстрактараў і фабрык.",
-4139,Рэдкія металы,
+4139,Рэдкія мэталы,
 7985,Можна экспартаваць на Зямлю за <em>$</em> або перапрацоўваць у электроніку.,
 4518,Пустая парода,
 14360,Waste materials usually introduced as a byproduct of mining and landscaping activities.,
