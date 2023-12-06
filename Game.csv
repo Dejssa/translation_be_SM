@@ -1349,7 +1349,7 @@ Before you get started, please take a moment to read our Privacy Policy.",
 5209,Power Decoys,
 5210,Traps a single Mirror Sphere.,
 5230,Станцыі падзарадкі,
-5258,Вежы-сканеры,
+5258,Вежы-сканэры,
 5259,"Павялічвае хуткасьць сканаваньня, асабліва бліжэйшых сэктараў. Пашырае папярэдняе папярэджаньне аб катастрофах.",
 5293,Падземны абагравальнік,
 5294,Падземныя абагравальнікі,
@@ -1844,7 +1844,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 - Бонусная тэхналёгія: <em>Марсіянскія патэнты</em> (repeatable tech that grants Funding)",
 5331,Futurist,
 5332,"- Breakthrough techs are researched <percent(30)> faster
-- Бонусная тэхналёгія: <em>Autonomous Sensors</em> (Вежы-сканеры no longer require Power or maintenance)",
+- Бонусная тэхналёгія: <em>Autonomous Sensors</em> (Вежы-сканэры no longer require Power or maintenance)",
 5333,Ecologist,
 5334,"- Service Comfort of decorations increased by 10
 - Бонусная тэхналёгія: <em>Hanging Gardens</em> (unlocks a spire which improves residences in the Dome)",
@@ -1984,7 +1984,7 @@ Back on Earth, we humans are dependent on machines to sustain our advanced way o
 
 Smart design processes and accepted standards have made possible the stockpiling of Machine Parts that could be used in an array of instruments upon demand. Machine Parts could be delivered from Earth to meet the needs of any fledgling colony. But a hefty and reliable supply, one obtained only by having them manufactured on site, will be the foundation to bringing our Earthly way of life to the Martian dream city.",
 5386,Machine Parts,
-5388,"Metal  <image UI/Icons/Sections/Metals_1.tga>  is readily found on the Martian surface, deposited from ancient tectonic activity and meteor blasts. Further deposits can be found beneath the surface (by either <em>Orbital Probes</em> or <em>Вежы-сканеры</em>) which can be then mined with <em>Metal Extractors</em>.
+5388,"Metal  <image UI/Icons/Sections/Metals_1.tga>  is readily found on the Martian surface, deposited from ancient tectonic activity and meteor blasts. Further deposits can be found beneath the surface (by either <em>Orbital Probes</em> or <em>Вежы-сканэры</em>) which can be then mined with <em>Metal Extractors</em>.
 
 Metal is a basic building material and is used in a wide range of buildings. It is also used for manufacturing <em>Machine Parts</em>.
 
@@ -2383,8 +2383,8 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 5487,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
-- All building costs reduced by 20%
-- Бонусная тэхналёгія: <em>Low-G Engineering</em> (unlocks Medium Dome)",
+- Кошт будынкаў зьніжаны на 20%
+- Бонусная тэхналёгія: <em>Інжынэрыя нізкай гравітацыі</em> (разблакуе сярэдні купал)",
 5489,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
@@ -2485,13 +2485,13 @@ You can also construct specialized Depots for resources of a specific type.",
 5542,"The batteries of this Drone are depleted. It can be recharged by other Drones or rescued by an <em>RC Commander</em>.
 
 Consider constructing <em>Recharge Stations</em> where such problems occur to prevent this in the future.",
-5544,"Вежы-сканеры significantly boost your scanning speed for nearby Sectors. They also give advance warning for disasters.
+5544,"Вежы-сканэры significantly boost your scanning speed for nearby Sectors. They also give advance warning for disasters.
 
-Note that <em>Вежы-сканеры</em> require electrical Power that must be provided by a Power generating building such as a <em>Вялікая сонечная панэль</em>.",
-5543,Прапанаваны будынак: Вежа-сканер,
-5547,"Your first Вежа-сканер is now completed. It will significantly boost the speed for scanning sectors nearby.
+Note that <em>Вежы-сканэры</em> require electrical Power that must be provided by a Power generating building such as a <em>Вялікая сонечная панэль</em>.",
+5543,Прапанаваны будынак: Вежа-сканэр,
+5547,"Your first Вежа-сканэр is now completed. It will significantly boost the speed for scanning sectors nearby.
 To add a sector to the scanning queue, go to the <em>Overview mode</em> and press <ButtonY> on the desired sector. ",
-5546,"Your first Вежа-сканер is now completed. It will significantly boost the speed for scanning Sectors nearby.
+5546,"Your first Вежа-сканэр is now completed. It will significantly boost the speed for scanning Sectors nearby.
 To add a Sector to the scanning queue, go to the <em>Overview Mode</em> and <left_click> on the desired sector.",
 5545,Scanning Sectors,
 5549,The Drone Hub is a stationary command center that can control more Drones than the <em>RC Commander</em>. Consider constructing a Drone Hub in each of your major outposts.,
@@ -2698,10 +2698,10 @@ Make sure that the RC Commander Drones can reach the resources you already trans
 9103,"Select the <em>RC Commander</em> and move it close to the designated area for the expand.
 
 Make sure that the RC Commander Drones can reach the resources you already transported there beforehand.",
-9106,From the Build Menu <ButtonY> construct a <em>Вежа-сканер</em> and a <em>Stirling Generator</em> and make sure that they are connected.,
-9105,Construct a <em>Вежа-сканер</em> and a <em>Stirling Generator</em> and make sure that they are connected.,
-9753,The construction may take some time until the RC Transport delivers all the needed resources for the Вежа-сканер and Stirling Generator.,
-5257,Вежа-сканер,
+9106,From the Build Menu <ButtonY> construct a <em>Вежа-сканэр</em> and a <em>Stirling Generator</em> and make sure that they are connected.,
+9105,Construct a <em>Вежа-сканэр</em> and a <em>Stirling Generator</em> and make sure that they are connected.,
+9753,The construction may take some time until the RC Transport delivers all the needed resources for the Вежа-сканэр and Stirling Generator.,
+5257,Вежа-сканэр,
 9108,Zoom out by opening the Command Menu by using <LT> and then selecting <em>Map Overview</em> with <ButtonA>.,
 9107,Zoom out or use the HUD button to go to the <em>Map Overview</em>.,
 9111,Use a <em>Probe</em> to scan a sector. Select a sector by using <LS> and press <ButtonX> on it to scan.,
@@ -3741,16 +3741,16 @@ When moving far distances the RC Commander will first recall its drones before m
 
 <goal>Move the RC Commander to the site of the expand.",
 1682,РК Кардынатар,
-9285,"Use the resources that the RC Transport delivered to build and power a new Вежа-сканер that will help us scan the nearby locations for new resources and Anomalies.
+9285,"Use the resources that the RC Transport delivered to build and power a new Вежа-сканэр that will help us scan the nearby locations for new resources and Anomalies.
 
-<goal> Construct a Вежа-сканер and a Stirling Generator to power it.",
+<goal> Construct a Вежа-сканэр and a Stirling Generator to power it.",
 9283,New Expand,
-9284,We need to construct a new Вежа-сканер to scan the nearby environment.,
+9284,We need to construct a new Вежа-сканэр to scan the nearby environment.,
 9287,"You can scan new sectors to discover more resource deposits and Anomalies. This is done from the Map Overview.
 
 <goal>Go to the Map Overview.",
 9286,It is time to learn about scanning sectors and exploration.,
-9289,"There are two main ways to scan - one is to queue sectors for scanning. These sectors will be scanned one by one gradually over time. Вежы-сканеры speed up the scanning process of sectors near them.
+9289,"There are two main ways to scan - one is to queue sectors for scanning. These sectors will be scanned one by one gradually over time. Вежы-сканэры speed up the scanning process of sectors near them.
 
 The other way is to use Probes which you can buy using funding and bring on resupply Rockets from Earth.
 
@@ -4145,7 +4145,7 @@ Scientists on Earth had long planned the creation of jet engines that could burn
 5816,"The red alert was sounded immediately after we lost contact with the RC Explorer vehicle. Five long hours of fear and desperation ended with the reinstating of data feed. A wave of relief passed through the crowd of scientists gathered at the control center. The telescopic drill used to probe the crust at the Anomaly site disturbed a layer of magnetite-rich rocks, the source of the electric charge. The rover is still functional but it would take time before its locomotion systems are fully restored. The operators turned the defeat into a victory, devoting the unexpected time window to studying the magnetic properties of the Martian crust.
 
 <effect>The RC Explorer has malfunctioned. It has to be repaired by Drones.
-<effect>50% cost reduction for the following technologies: Low-G Drive (faster Drones and Rovers), Autonomous Sensors (Вежы-сканеры require no Power or Maintenance).
+<effect>50% cost reduction for the following technologies: Low-G Drive (faster Drones and Rovers), Autonomous Sensors (Вежы-сканэры require no Power or Maintenance).
 <effect> Gain <funding(200000000)> Funding.",
 7176,We found some useful material in the debris from a small meteorite.,
 5824,"After minimal processing, the resources can be transported and put to good use for the benefit of the Colony.
@@ -4352,9 +4352,9 @@ So far, there are three major camps. The moderate skeptics argue that the truth 
 
 Our structures tend to be much less dense than the monolithic Martian rocks. We can modify our sensor towers to create a fake Cherenkov Effect by bombarding the areas around our structures with particles which are harmless to our Colonists, but would still prevent the cubes from threatening our Colony.
 
-<effect>Вежы-сканеры now protect nearby buildings from the Black Cubes",
+<effect>Вежы-сканэры now protect nearby buildings from the Black Cubes",
 5902,A small victory – our efforts continue.,
-5903,S.H.E.P.I.D. research completed. Buildings within range of our Вежы-сканеры will be protected from the cubes.,
+5903,S.H.E.P.I.D. research completed. Buildings within range of our Вежы-сканэры will be protected from the cubes.,
 5884,We should research the S.H.E.P.I.D. technology to protect the Colony structures from the Black Cubes.,
 5904,"All cubes on Mars have started to pulsate, counting towards an unknown event.",
 5905,Power of Three: The Countdown,
@@ -7406,7 +7406,7 @@ Effect: <DisplayName> has become a Genius",
 918275190481,The monitor shows only static as the Rover’s GPS tracker shows an error message.,
 312584139772,We can't wait. Send out drones to search for the Rover.,
 820347352761,Send out shuttles to search for the Rover despite the Dust Storm.,
-445594090877,We can use our Вежы-сканеры to triangulate the signal.,
+445594090877,We can use our Вежы-сканэры to triangulate the signal.,
 303164088279,No reason to worry. We can wait.,
 117327520780,"From what we can tell from the cameras, the Rover has suffered a critical malfunction. We have no idea how it ended up on its current location.
 
@@ -7419,7 +7419,7 @@ Effect: <DisplayName> has become a Genius",
 680830269721,"From what we can tell from the cameras, the Rover has suffered a critical malfunction. We have no idea how it ended up on its current location.
 
 <effect>You will need to send Drones to repair the malfunctioned Rover.",
-966130025127,The sensor log scrolls up the screen as our Вежы-сканеры try to lock on the missing Rover’s emergency beacon. Finally a hit!,
+966130025127,The sensor log scrolls up the screen as our Вежы-сканэры try to lock on the missing Rover’s emergency beacon. Finally a hit!,
 143778116535,"From what we can tell from the cameras, the Rover has suffered a critical malfunction. We have no idea how it ended up on its current location.
 
 <effect>You will need to send Drones to repair the malfunctioned Rover.",
@@ -7691,7 +7691,7 @@ As you come closer, the crowd turns towards you.",
 729876011234,All Infirmaries disabled for <sols(disabled_infirmaries)> Sols,
 906559251331,Send in officers to disperse the crowd.,
 337714254015,All Colonists lose Morale for <sols(penalty_duration)> Sols,
-634794330490,"Our recent discovery of the “Low-G Engineering” technology has inspired our research team and they want to prototype a Medium Dome.
+634794330490,"Our recent discovery of the “Інжынэрыя нізкай гравітацыі” technology has inspired our research team and they want to prototype a Medium Dome.
 
 There are some concerns that our other scientific endeavors will suffer due to the distraction and a positive result is not guaranteed.",
 120968497094,Prototype Medium Dome,
@@ -7706,7 +7706,7 @@ There are some concerns that our other scientific endeavors will suffer due to t
 
 <effect>Scientists have their Morale increased by <morale_boost> for the next <sols(morale_boost_duration)> Sols.",
 193309428218,Our Scientists have failed to construct a working Medium Dome prototype.,
-922577396950,"<effect>Medium Dome prefab has been added. Insights gained from the project have resulted in a <tech_boost>% progress towards the ""Low-G Engineering"" technology.",
+922577396950,"<effect>Medium Dome prefab has been added. Insights gained from the project have resulted in a <tech_boost>% progress towards the ""Інжынэрыя нізкай гравітацыі"" technology.",
 733475515777,Our Scientists have succeeded in building the prototype Medium Dome.,
 136777362303,"Our recent discovery of the “Nuclear Fusion” technology has inspired our research team and they want to try to build a prototype Fusion Reactor.
 
@@ -8820,7 +8820,7 @@ The kid's parents held an impromptu wake for the fallen hero.",
 
 <grey>Through clever application of graphene and carbon based frictionless materials, we have managed to maximize the push of the Martian wind while minimizing the friction which slows down the rotor’s rotation cycle, thus delivering far more bang for every buck of wind.</grey>",
 6591,Frictionless Composites,
-10511,"<if_all(has_dlc('gagarin'),is_sponsor('ESA'))>Low-G Lab, </if>Research Lab & Hawking Institute Upgrade (<em>Zero-Space Computing</em>) - Research points production increased.
+10511,"<if_all(has_dlc('gagarin'),is_sponsor('ESA'))>Лабараторыя нізкай гравітацыі, </if>Research Lab & Hawking Institute Upgrade (<em>Zero-Space Computing</em>) - Research points production increased.
 
 <grey>Thinking outside the box, Martian mathematicians have begun developing a new mathematical apparatus which will open the doors to new scientific models and theories.</grey>",
 5232,Zero-Space Computing,
@@ -9060,7 +9060,7 @@ New Dome: <em>Trigon</em> (<buildinginfo('DomeTrigon')>) - A triangle base Dome.
 Новы будынак: <em>Low-G Amusement Park</em> (<buildinginfo('LowGAmusementPark')>) - A service building which provides Satisfaction for Tourists.
 
 <grey>Gaining experience in actually building constructions on Mars rather than just hypothesizing has vastly advanced our off-Earth architectural capabilities.</grey>",
-6373,Low-G Engineering,
+6373,Інжынэрыя нізкай гравітацыі,
 6376,"<em>In-Dome buildings</em> require maintenance less often.
 
 <grey>Shifting focus away from ""fixing it"" to ""avoiding it"" is the natural step forward for any Martian habitat.</grey>",
@@ -9118,7 +9118,7 @@ New Dome: <em>Mega Trigon</em> (<buildinginfo('DomeMegaTrigon')>) - A bigger tri
 6395,Orbital Engineering,
 6609,"A ""surface scratcher"" step towards understanding the elusive chemical properties of the mystery Cubes, what dangers the Cubes might pose and how to manage them.",
 6608,Dark Spectrometry,
-6611,The Spontaneous High-Energy Particle Interception and Deflection technology allows our Вежы-сканеры to detect and guide the materialization of a Black Cube to a safe location.,
+6611,The Spontaneous High-Energy Particle Interception and Deflection technology allows our Вежы-сканэры to detect and guide the materialization of a Black Cube to a safe location.,
 6610,S.H.E.P.I.D.,
 6613,Aims to find a way to capture and dismantle an alien Dredger by studying its structure and physical properties.,
 6612,Dredger Morphology,
@@ -9164,10 +9164,10 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 <grey>""From the first day to this, sheer greed was the driving spirit of civilization.""
 <right>Friedrich Engels</grey><left>",
 6440,Узмацненьне экстрактара,
-6443,"<em>Вежы-сканеры</em> больш не патрабуе <em>Энергіі</em> або абслугоўваньня.
+6443,"<em>Вежы-сканэры</em> больш не патрабуе <em>Энергіі</em> або абслугоўваньня.
 
 <grey>Надзейныя даныя датчыкаў важныя да дасьледаваньня Марса.</grey>",
-6442,Aўтаномныя сканеры,
+6442,Aўтаномныя сканэры,
 6453,"Новы будынак: <em>Subsurface Heater</em> (<buildinginfo('SubsurfaceHeater')>) - Increases the local temperature in cold areas and protects nearby buildings from Cold Waves. Consumes Water.
 
 <grey>Mars has an average surface temperature of −55 degrees Celsius, with inclinations to fall well beneath −130.</grey>",
@@ -9228,7 +9228,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 
 <grey>While the triboelectric effect is not very predictable or precise, it can be entrusted with removing dust from our structures.</grey>",
 6468,Triboelectric Scrubbing,
-10514,"<if_all(has_dlc('gagarin'),is_sponsor('ESA'))>Low-G Lab, </if> Research Lab, Hawking Institute & Network Node Upgrade (<em>Amplify</em>) - Increases production by <param1>% but also increases Power consumption.
+10514,"<if_all(has_dlc('gagarin'),is_sponsor('ESA'))>Лабараторыя нізкай гравітацыі, </if> Research Lab, Hawking Institute & Network Node Upgrade (<em>Amplify</em>) - Increases production by <param1>% but also increases Power consumption.
 
 <grey>""Your best and wisest refuge from all troubles is in your science.""
 <right>Ada Lovelace</grey><left>",
@@ -11834,7 +11834,7 @@ This technological challenge to take advantage of what little wind there is on M
 124523029541,+<upgrade1_mul_value_1>% Production.,
 998403217616,Amplify,
 887689175954,+<upgrade2_mul_value_2>% Вытворчасьць; +<power(upgrade2_add_value_1)> Спажываньне.,
-10230,Low-G Labs,
+10230,Лабараторыі нізкай гравітацыіs,
 10497,<left_click> Land Pod,
 10498,<ButtonA> Land Pod,
 536837546713,Ark Pod,
@@ -11932,7 +11932,7 @@ This technological challenge to take advantage of what little wind there is on M
 10503,RC Harvesters,
 10221,RC Seekers,
 10218,RC Generators,
-10222,"Remote-controlled vehicle that transports, controls and repairs Drones. Acts as a Вежа-сканер while idle.",
+10222,"Remote-controlled vehicle that transports, controls and repairs Drones. Acts as a Вежа-сканэр while idle.",
 10219,"Remote-controlled vehicle that transports, controls and repairs Drones. During the day it can gather Power via its solar panels to act as a power producer if connected to a network.",
 10216,"Remote-controlled vehicle that harvests Concrete from deposits, gathers resources from surface deposits and transports resources.",
 10214,RC Harvester,
@@ -11961,7 +11961,7 @@ This technological challenge to take advantage of what little wind there is on M
 10228,"Slowly processes Waste Rock, filtering for precious elements. Produces small amounts of Rare Metals.",
 10226,Rare Metals Refinery,
 10231,An outside research building dedicated to experimental research in a Low-G environment. The first operational lab provides a permanent tech cost reduction to Physics and Biotech research fields.,
-10229,Low-G Lab,
+10229,Лабараторыя нізкай гравітацыі,
 10257,"Money can't buy everything, but it can buy a lot! Colonists can satisfy all their interests here, except medical checks. The service quality is lower than in the more specialized service buildings.",
 10255,Mega Mall,
 10237,The health benefits of martial arts are unquestionable. Visitors recover Health and may become Fit.,
@@ -12170,7 +12170,7 @@ The ambition of the PRC to colonize Mars and absorb its vast riches into its fol
 10217,RC Generator,
 5399,"RC Seeker is a remote-controlled vehicle which can transport and deploy Drones to remote areas if needed. It can also repair any damaged Drones and return them to operational state.
 
-RC Seeker is equipped with a sensor array which is deployed when the vehicle isn't moving. This equipment acts as a Вежа-сканер and significantly speeds up the scanning process of nearby sectors of the map and in prediction of incoming disasters.
+RC Seeker is equipped with a sensor array which is deployed when the vehicle isn't moving. This equipment acts as a Вежа-сканэр and significantly speeds up the scanning process of nearby sectors of the map and in prediction of incoming disasters.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
@@ -12218,25 +12218,25 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 172009611331,"Дасьледаваньне ў Сол: <research(SponsorResearch)>
 Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
-- <em>РК Generator</em> - RC Commander that can generate power as a solar panel
+- <em>РК Гэнератар</em> - РК Кардынатар які выпрацоўвае энергію як сонечная панэль
 - <em>Тай-чі сад</em> - невялікі трэніровачны сад, наведвальнікі аднаўляюць невялікую колькасьць <em>Здароўя</em> й могуць стаць <em>Падцягнутыя</em>
 - Пасажырскія ракеты умяшчае 10 дадатковых колёністаў
 - Новая кандыдаты з'яўдяюцца ўдвая хутчэй",
 972853819891,"Дасьледаваньне ў Сол: <research(SponsorResearch)>
 Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
-- <em>RC Constructor</em> - transporter rover that can construct buildings
-- <em>Metals Refinery</em> - slowly converts Waste Rock into Metals
-- All building costs reduced by 20%
-- Бонусная тэхналёгія: <em>Low-G Engineering</em> (unlocks Medium Dome)",
+- <em>РК Будаўнік</em> - марсаход які можа будаваць будынкі
+- <em>Апрацоўшчык мэталаў</em> - павольна ператварае пустую пароду ў мэталы
+- Кошт будынкаў зьніжаны на 20%
+- Бонусная тэхналёгія: <em>Інжынэрыя нізкай гравітацыі</em> (разблакуе сярэдні купал)",
 5488,Эўропа,
 938808160214,"Дасьледаваньне ў Сол: <research(SponsorResearch)>
 Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
-- <em>RC Seeker</em> - RC Commander that works as a sensor tower when stationary
-- <em>Low-G Lab</em> - a research building that is built outside domes and reduces the cost of Biotech and Physics techs
-- 5 extra starting technologies
-- Gain Funding every time a tech is researched. Gain double if it's a Breakthrough tech",
+- <em>РК Шукальнік</em> - РК Кардынатар які працуе як вежа-сканэр
+- <em>Лабараторыя нізкай гравітацыі</em> - дасьледчы будынак, які пабудаваны па-за купаламі і зьніжае кошт біётэхналёгічных і фізычных тэхналёгій
+- 5 дадатковых тэнолёгій у пачатку
+- Атрымлівае фінансаваньне за кожную дасьледаваную тэхнолёгію. Двайны памер за прарыў",
 5490,SpaceY,
 880574954148,"Дасьледаваньне ў Сол: <research(SponsorResearch)>
 Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
@@ -13566,7 +13566,7 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 19,Шанец з'яўленнья (%),
 20,Працягласьць жыцьця (с),
 21,Хуткасьць (м/с),
-22,"Нашы сканеры выявілі цікавыя дадзеныя у гэтым сэктары. Неабходны далейшы аналіз.<newline><newline>Адпраўце <em>РК Дасьледчык</em> да аналізу анамаліі.",
+22,"Нашы сканэры выявілі цікавыя дадзеныя у гэтым сэктары. Неабходны далейшы аналіз.<newline><newline>Адпраўце <em>РК Дасьледчык</em> да аналізу анамаліі.",
 8570,<green>Вулей розуму <FormatSignInt(amount)></color>,
 31,Дыяпазон эфекту,
 32,Вытворчасьць энергіі,
@@ -14145,7 +14145,7 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 727,Renegades in the Dome <right><number>,
 7326,Не працуе,
 11230,Працуе,
-11231,Працуюшчыя Вежы-сканеры:<right><count>,
+11231,Працуюшчыя Вежы-сканэры:<right><count>,
 11232,Раньняе папярэджаньне:<right><time>,
 737,"<description>
 Паслугі: <em><list></em>",
@@ -14920,8 +14920,8 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 10975,1 Сол ,
 10976,<sol> Sols ,
 10977,<h> h,
-10978,1 Вежа-сканер,
-10979,<tower_number> Вежы-сканеры,
+10978,1 Вежа-сканэр,
+10979,<tower_number> Вежы-сканэры,
 1000725,OnInitEffect,
 1000726,Called early during the player setup - player structures not fully inited.,
 1000727,OnApplyEffect,
@@ -15104,12 +15104,12 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 1167,Black Cube Matrix,
 1168,Max Amount Black Cubes,
 1169,Black Cube<right><Stored_BlackCube>/<MaxAmount_BlackCube>,
-1170,The Dredgers (Normal),
-1171,"""Two possibilities exist: either we are alone in the Universe or we are not. Both are equally terrifying.""<newline><right>- Arthur C. Clarke",
-1172,Dredger,
+1170,Драгеры (Нармальна),
+1171,"""Існуе дзьве магчымасьці: альбо мы адны ваў Сусьвеце, альбо не. Абодве аднолькава жахлівы.""<newline><right>- Артур Кларк",
+1172,Драгеры,
 1173,A mysterious alien object which seems to excavate landmass from the Martian surface.,
 1174,<display_name> <idx>,
-1179,Dredgenaught,
+1179,Драгернаўт,
 1180,Inner Light (Easy),
 1181,"""Seize the time... Live now! Make now always the most precious time. Now will never come again.""<newline><right>- Jean-Luc Picard",
 8063,Marsgate (Hard),
@@ -15124,7 +15124,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 6780,Скасаваць.,
 1189,Already completed.,
 1190,Too far from any Drone commander.,
-1191,No Вежа-сканер in range.,
+1191,No Вежа-сканэр in range.,
 1192,No Accumulator with stored Power in range.,
 1193,The necessary technology hasn't been researched.,
 1194,There's no trapped Sphere.,
@@ -18144,7 +18144,7 @@ Larger networks will malfunction more often.",
 4049,<em><status></em>,
 4050,Скануем <em><percent(number)></em>,
 4051,Прыгодная да забудовы тэрыторыя<right><em><percent(number)></em>,
-4052,Узмацаваньне ад веж-сканераў<right><em><percent(bonus)></em>,
+4052,Узмацаваньне ад веж-сканэраў<right><em><percent(bonus)></em>,
 4053,<newline>High chance that this Sector contains:,
 4054,<tab 10><name>,
 4056,<ButtonY> Add/Remove sector from scan queue,
@@ -20223,7 +20223,7 @@ Export Amount<right><resource(TradeAmount)>",
 1204,Attempt to Pierce the Shell,
 1205,Attempt to penetrate the outer shell of the Mirror Sphere with several Drones in the area.,
 1206,Attempt to Communicate,
-1207,Attempt to communicate with the Mirror Sphere via a nearby Вежа-сканер.,
+1207,Attempt to communicate with the Mirror Sphere via a nearby Вежа-сканэр.,
 1208,Feed with Power,
 1209,Divert energy towards the Mirror Sphere from a nearby Power Accumulator.,
 292551169472,"Будынкі, якія адключаны, не працуюць і не спажываюць энергію або рэсурсы.
