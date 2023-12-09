@@ -1268,7 +1268,7 @@ Before you get started, please take a moment to read our Privacy Policy.",
 5245,Sanatoriums,
 270674404459,Exotic Mineral Automation,
 521502385710,This building no longer requires Workers and operates at <upgrade1_add_value_2> Performance.,
-5308,Water Reclamation Systems,
+5308,Сыстэма меліярацыя вады,
 5017,Малы купал,
 5018,Малыя купалы,
 5019,Нявялікі купал прыдатны для першых дзён колёніі.,
@@ -1463,7 +1463,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 5089,This building no longer requires Workers and operates at <upgrade2_add_value_2> Performance.,
 5091,Fusion Reactors,
 5275,Solar Panels,
-5288,Stirling Generators,
+5288,Генератар стырлінгаs,
 10265,"Generates Power. While closed the generator is protected from dust, but produces less Power.",
 5314,+<upgrade1_mul_value_1>% Production.,
 5315,Ветравая турбіна,
@@ -1472,7 +1472,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 5059,Electronics Factories,
 5029,+<upgrade1_mul_value_1>% Production; +<power(upgrade1_add_value_2)> Consumption.,
 10473,+<upgrade2_mul_value_1>% Production.,
-5075,Fuel Refineries,
+5075,Заводы паліва,
 7668,+<upgrade1_mul_value_1>% Production.,
 5131,Machine Parts Factories,
 7669,"+<upgrade1_mul_value_1>% Production as long as the building is supplied with Fuel. If not supplied with Fuel, the building will continue to operate but will lose the bonus.",
@@ -1546,7 +1546,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 10277,Reveals underground deposits in the scanned area.,
 5049,Кіруе <em>Дронамі</em> й размяркоўвае іх на розныя задачы.,
 5076,Produces Fuel from Water.,
-5074,Fuel Refinery,
+5074,Завод паліва,
 5174,Вылучае ваду з атмасфэры. Вытворчасьць меньш пры размяшчэньні побач з іншымі выпарнікамі. Не працуе падчас пясчаных бур.,
 3519,Выпарнік вільгаці,
 5289,"Generates Power. While closed the generator is protected from dust, but produces less power.",
@@ -1566,7 +1566,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 5009,"Provides living space for numerous Colonists, granting high Comfort.",
 5099,A beautiful park complex. Increases the Comfort of all Residences in the Dome.,
 5309,Recycles up to 70% of the Water used in the Dome.,
-3536,Water Reclamation System,
+3536,Сыстэма меліярацыя вады,
 5025,Creates Clones over time. Cloned Colonists grow and age twice as fast.,
 3537,Cloning Vats,
 5178,Increases the overall Research output of the Dome.,
@@ -1825,36 +1825,36 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 - Бонусная тэхналёгія: <em>Марс Нуво</em> (кошт на будаўніцтва ў мэталах і бэтоне зніжаецца на 20%)",
 5319,Bынаходца,
 5320,"- Дроны паступова аптымізуюцца для больш хуткай працы й канструяваньня да 100га Сола 
-- Бонусная тэхналёгія: <em>Autonomous Hubs</em> (ЦК Дронамі больш не патрабуе энергію або абслугоўваньне)",
+- Бонусная тэхналёгія: <em>Аўтаномныя ЦК</em> (ЦК Дронамі больш не патрабуе энергію або абслугоўваньне)",
 5321,Алігарх,
 5322,"- Вытворчасьць паліва павялічана на 25%
 - Бонусная тэхналёгія: <em>Аркалогія</em> (адкрывае жылы шпіль)",
-5323,Hydro Engineer,
-5324,"- Start with a Water deposit revealed
-- Domes consume 25% less Water
-- Бонусная тэхналёгія: <em>Water Reclamation</em> (unlocks a spire which reduces Water consumption)",
-5325,Doctor,
-5326,"- Minimum Comfort required for birth lowered by 15
-- Бонусная тэхналёгія: <em>Stem Reconstruction</em> (colonist lifespan is increased)",
-5327,Psychologist,
-5328,"- Colonists recover 5 additional Sanity while resting in their homes
-- Бонусная тэхналёгія: <em>Behavioral Shaping</em> (unlocks a Sanatorium spire which treats colonists' flaws)",
-5329,Politician,
-5330,"- All Funding gains are increased by <percent(20)>
-- Бонусная тэхналёгія: <em>Марсіянскія патэнты</em> (repeatable tech that grants Funding)",
-5331,Futurist,
-5332,"- Breakthrough techs are researched <percent(30)> faster
-- Бонусная тэхналёгія: <em>Autonomous Sensors</em> (Вежы-сканэры no longer require Power or maintenance)",
-5333,Ecologist,
-5334,"- Service Comfort of decorations increased by 10
-- Бонусная тэхналёгія: <em>Hanging Gardens</em> (unlocks a spire which improves residences in the Dome)",
-5335,Astrogeologist,
-5336,"- Start with a Rare Metal deposit revealed
-- Extractor production increased by 10%
-- Бонусная тэхналёгія: <em>Deep Scanning</em> (allows the scanning of sectors for deep deposits)",
+5323,Гідраінжынэр,
+5324,"- Пачынае з знайдзеным радовішчам вады
+- Куплы спажываюць на 25% менш вады
+- Бонусная тэхналёгія: <em>Меліярацыя вады</em> (адкрывае шпіль, што памяншае спажываньне вады)",
+5325,Лекар,
+5326,"- Мінімальны камфорт, неабходны для нараджэньня, зьніжаны на 15
+- Бонусная тэхналёгія: <em>Рэканструкцыя ствала</em> (працягласьць жыцьця колёністаў павялічваецца)",
+5327,Псіхолаг,
+5328,"- Колёністы аднаўляюць разважлівасьць на 5, адпачываючы ў сваіх дамах
+- Бонусная тэхналёгія: <em>Фарміраваньне паводзін</em> (адкрывае шпіль санаторый, які лечыць недахопы колёністаў)",
+5329,Палітык,
+5330,"- Усё фінансаваньнё павялічана на <percent(20)>
+- Бонусная тэхналёгія: <em>Марсіянскія патэнты</em> (паўтаральная тэхналёгія, якая дае фінансаваньне)",
+5331,Футурыст,
+5332,"- Прарывы дасьледуюцца хутчэй на <percent(30)>
+- Бонусная тэхналёгія: <em>Аўтаномныя сэнсары</em> (<em>Вежы-сканэры</em> больш не патрабуюць абслугоўваньне альбо энэргію)",
+5333,Эколаг,
+5334,"- Камфорт упрыгожваньняў павялічаны на 10
+- Бонусная тэхналёгія: <em>Вісячыя сады</em> (адкрывае шпіль, які паляпшае жыльлё ў купале)",
+5335,Астрагеолаг,
+5336,"- Пачынае з знайдзеным радовішчам рэдкіх мэталаў
+- Вытворчасьць экстрактараў павялічана на 10%
+- Бонусная тэхналёгія: <em>Глыбокае сканаваньне</em> (дазваляе сканаваць сэктары на глыбокія радовішча)",
 5337,Навуковец-ракетазнаўца,
 5338,"- Пачынае з дадатковай ракетай
-- Бонусная тэхналёгія: <em>рэактыўны рухавік CO2</em> (адкрывае ЦК шатлаў да транспарціроўкі на адлегласьці)",
+- Бонусная тэхналёгія: <em>рэактыўны рухавік CO2</em> (адкрывае <em>ЦК Шатлаў</em> да транспарціроўкі на адлегласьці)",
 8115,Rice engineered on Ganymede. Grows very fast and has high yield.,
 8114,Ganymede Rice,
 7009,Giant Rice,
@@ -1954,7 +1954,7 @@ Sulfur-based, waterless concrete is literally the foundation for every aspiring 
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
-Electrical power on Mars comes mostly from renewable and cheap sources such as wind power (<em>Wind Turbine</em>) and sunlight (<em>Solar Panel</em>), but also from fission (<em>Stirling Generator</em>) and fusion based sources (<em>Fusion Reactor</em>) as the technology available advances. It is then distributed via an extensive and durable cable network. 
+Electrical power on Mars comes mostly from renewable and cheap sources such as wind power (<em>Wind Turbine</em>) and sunlight (<em>Solar Panel</em>), but also from fission (<em>Генератар стырлінга</em>) and fusion based sources (<em>Fusion Reactor</em>) as the technology available advances. It is then distributed via an extensive and durable cable network. 
 
 <em> Power Switches</em> can be used to dynamically manage the flow of power in case of damaged cables or low power situations.",
 5383,"Electronics <image UI/Icons/Sections/Electronics_1.tga> are manufactured in <em>Electronics Factories</em> from <em>Rare Metals</em> and are mainly used for vehicle operating buildings, like <em>Drone Hubs</em> and <em>Shuttle Hubs</em>. 
@@ -1971,7 +1971,7 @@ Farms and Hydroponic Farms can grow different crops with different cycle pattern
 Making the Martian soil fit for farming, even within the protection of Domes, takes heavy alterations. First, toxin removers are applied to rid the Martian regolith of toxic substances like perchlorates. Then, the use of chemical decompressors to break down common Martian compounds and make nutrients out of them is employed. And finally, specifically designed bacteria to further modify all nutrients made into a more plant-use friendly form, is introduced. 
 
 Growing food on Mars greatly decreases costs and dependency on Earth.",
-5385,"Fuel <image UI/Icons/Sections/Fuel_1.tga> is synthesized in <em>Fuel Refineries</em> and is used to for refueling <em>Rockets</em> bound for Earth, for keeping <em>Shuttle Hubs</em> operational and for polymer production.
+5385,"Fuel <image UI/Icons/Sections/Fuel_1.tga> is synthesized in <em>Заводы паліва</em> and is used to for refueling <em>Rockets</em> bound for Earth, for keeping <em>Shuttle Hubs</em> operational and for polymer production.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
@@ -1984,7 +1984,7 @@ Back on Earth, we humans are dependent on machines to sustain our advanced way o
 
 Smart design processes and accepted standards have made possible the stockpiling of Machine Parts that could be used in an array of instruments upon demand. Machine Parts could be delivered from Earth to meet the needs of any fledgling colony. But a hefty and reliable supply, one obtained only by having them manufactured on site, will be the foundation to bringing our Earthly way of life to the Martian dream city.",
 5386,Machine Parts,
-5388,"Metal  <image UI/Icons/Sections/Metals_1.tga>  is readily found on the Martian surface, deposited from ancient tectonic activity and meteor blasts. Further deposits can be found beneath the surface (by either <em>Orbital Probes</em> or <em>Вежы-сканэры</em>) which can be then mined with <em>Metal Extractors</em>.
+5388,"Metal  <image UI/Icons/Sections/Metals_1.tga>  is readily found on the Martian surface, deposited from ancient tectonic activity and meteor blasts. Further deposits can be found beneath the surface (by either <em>Арбітальны зондs</em> or <em>Вежы-сканэры</em>) which can be then mined with <em>Metal Extractors</em>.
 
 Metal is a basic building material and is used in a wide range of buildings. It is also used for manufacturing <em>Machine Parts</em>.
 
@@ -2181,7 +2181,7 @@ The School building cultivates desired Perks in children living in the Colony. T
 
 The University, Sanatorium and School buildings are treated as workplaces - colonists being educated or treated there cannot work a job at the same time. The individual performance of the colonists determines how fast they receive a specialization, cure a flaw or their chance to cultivate a Perk from School. <em>Гульнявая пляцоўка</em> service building grants its effect to any children who visit it at least once during their childhood.",
 8117,Colonists - Managing Specializations and Traits,
-548840736550,"Tourists are <em>Colonists</em> who visit Mars for recreation, and are brought in from Earth through the resupply screen. They stay on Mars for 5 sols, looking to go home afterwards.
+548840736550,"Tourists are <em>колёністы</em> who visit Mars for recreation, and are brought in from Earth through the resupply screen. They stay on Mars for 5 sols, looking to go home afterwards.
 
 Upon returning to earth, each Tourist gives their holiday a rating based on their <em>Satisfaction</em> stat. They generate funds and new applicants based on their rating. Tourists with the <em>Saint</em>, <em>Celebrity</em> and <em>Genius</em> Traits give extra rewards.
 
@@ -2197,7 +2197,7 @@ Change your preferred controls and mappings using the Options menu.",
 
 Sectors can be queued for scanning from the <em>Map Overview</em>. Sensor towers drastically increase the scanning speed of sectors near them and provide a smaller overall bonus to sector scanning.
 
-A fast and expensive way to explore the map is to buy <em>Orbital Probes</em> from Earth which instantly scans a chosen sector. 
+A fast and expensive way to explore the map is to buy <em>Арбітальны зондs</em> from Earth which instantly scans a chosen sector. 
 
 Building in unexplored Sectors carries the risk of building directly on top of undiscovered <em>resource deposits</em>.",
 5424,"Wonders are exceptionally advanced and expensive structures that provide major benefits for the entire Colony. They are unlocked at the far ends of the <em>Research Fields</em>.
@@ -2373,7 +2373,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - Can buy Applicants with funding
 - Additional Rockets are significantly cheaper
 - Probes can discover deep Rare Metal deposits
-- Бонусная тэхналёгія: <em>Здабыча глыбокіх мэталаў</em> (можа здабываць глыбокія радовішчы мэталаў і рэдкіх мэталаў)",
+- Бонусная тэхналёгія: <em>Здабыча глыбокіх мэталаў</em> (можа здабываць глыбокія радовішча мэталаў і рэдкіх мэталаў)",
 145918815635,Easy,
 5486,"Research per Сол: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
@@ -2407,7 +2407,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 
 - Бонусная тэхналёгія: <em>Fueled Extractors</em> (extractor upgrade that boosts production but consumes Fuel)
 - Fueled Extractors upgrade is free
-- Fuel Refinery prefab costs <percent(50)> less
+- Завод паліва каштуе менш на <percent(50)>
 - Rockets have extended travel time <em>(drawback)</em>",
 363312214750,Hard,
 5496,"Research per Сол: <research(SponsorResearch)>
@@ -2502,19 +2502,19 @@ To add a Sector to the scanning queue, go to the <em>Overview Mode</em> and <lef
 7564,"A Cargo Rocket can deliver additional supplies for the colony, for example Advanced resources such as <em>Polymers, Machine Parts and Electronics</em>. Press <LT> and open the Resupply screen to order a Cargo Rocket from Earth.",
 5553,"A Cargo Rocket can deliver additional supplies for the Colony, for example Advanced resources such as <em>Polymers, Machine Parts and Electronics</em>. Open the Resupply screen to order a Cargo Rocket from Earth.",
 5555,"Select a Cargo Rocket and load the desired payload up to the Rocket’s capacity and your available funding. Plan carefully, you have a limited number of Rockets and travel times are significant.",
-5504,Rockets require fuel to return to Earth. Fuel is produced in a <em>Fuel Refinery</em> building that can be constructed from a prefab or researched. Fuel production requires Power and Water.,
+5504,Rockets require fuel to return to Earth. Fuel is produced in a <em>Завод паліва</em> building that can be constructed from a prefab or researched. Fuel production requires Power and Water.,
 5556,Priority is set from the Infopanel of individual buildings and constructions. Drones will try to complete higher priority tasks before lower priority ones. Buildings with higher priority will receive resources and Power in case of shortages.,
 5557,"Water can be produced by <em>Water Extractors</em> or <em>Moisture Vaporators</em>. Water Extractors require Water deposits, while Vaporator prefabs must be brought from Earth with resupply ships. Also consider setting up a <em>Water Tower</em> as an emergency storage. <em>Pipes</em> are used to connect all life support buildings.",
 5559,"Oxygen can be extracted from the atmosphere by a <em>МЭВК</em>. Since it is crucial for the survival of your future Colonists, an <em>Oxygen Tank</em> for storage is highly recommended. <em>Pipes</em> are used to connect all life support buildings.",
 5561,It might be a good idea to secure some Oxygen and Water supply before building your first Dome. You may cancel construction orders at any time before the building is ready.,
 5560,Too Early to Place a Dome,
 5562,<em>Domes</em> are habitable mega-structures in which the future Colonists on Mars will live. Their construction will take significant time and resources. Plan carefully when placing your first Dome – it has to be connected to a Water and Oxygen supply and Colonists from it will be able to work in the immediate area around it.,
-5563,"<em>Domes</em> have to be connected to working supply of Oxygen and Water with Pipes. <em>Colonists</em> will not be able to survive within the Dome if life support is not secured, so storage for Water and Oxygen is also recommended.",
-5565,<em>Colonists</em> live in residential buildings within the <em>Domes</em>. The basic residential building is called <em>Living Complex</em>.,
+5563,"<em>Domes</em> have to be connected to working supply of Oxygen and Water with Pipes. <em>Колёністы</em> will not be able to survive within the Dome if life support is not secured, so storage for Water and Oxygen is also recommended.",
+5565,<em>Колёністы</em> live in residential buildings within the <em>Domes</em>. The basic residential building is called <em>Living Complex</em>.,
 5564,Прапанаваны будынак: Living Complex,
 5567,"When you are ready you can invite the first Colonists to Mars. Launch a <em>Passenger Rocket</em> from Earth and land it near one of your Domes. The Rocket will carry some Food supplies, but you will have to secure Power, Oxygen, Water and living space in advance.",
 5566,Passenger Rockets,
-5569,"<em>Colonists</em> have several basic stats. You can monitor the condition of each Colonist in their Infopanel. To maintain your Colonist’s good health, you need to provide them with Water, Oxygen, Food and access to operational Service Buildings.",
+5569,"<em>Колёністы</em> have several basic stats. You can monitor the condition of each Colonist in their Infopanel. To maintain your Colonist’s good health, you need to provide them with Water, Oxygen, Food and access to operational Service Buildings.",
 5568,Stats,
 5571,A <em>Research Lab</em> will speed up the discovery of new technologies that will advance and improve the Colony.,
 5570,Прапанаваны будынак: Research Lab,
@@ -2601,11 +2601,11 @@ The <em>info panel</em> on the right side of the screen holds important informat
 9049,"Remember, the construction will finish more quickly on the fastest game speed.",
 9046,Construction Sites,
 9048,Well done! Now observe how the Drones will carry all the resources to the site and then construct the Concrete Extractor.,
-9051,Open the Build Menu using <ButtonY> and build a <em>Stirling Generator</em>.,
-9050,Place a <em>Stirling Generator</em> prefab by selecting it from the Build Menu.,
+9051,Open the Build Menu using <ButtonY> and build a <em>Генератар стырлінга</em>.,
+9050,Place a <em>Генератар стырлінга</em> prefab by selecting it from the Build Menu.,
 9054,"To cancel a Power Cable or to exit the Cable placing mode, use <ButtonB>.",
 9053,"To cancel a Power Cable or to exit the Cable placing mode, press <right_click>.",
-9052,Connect the Stirling Generator and the Concrete Extractor using a Power Cable from the Build Menu to power up the extractor.,
+9052,Connect the Генератар стырлінга and the Concrete Extractor using a Power Cable from the Build Menu to power up the extractor.,
 9057,From the Build Menu <ButtonY> place a <em>Concrete Depot</em> and a <em>Сьметнік</em> near your Concrete Extractor to store its production and waste output.,
 9056,Place a <em>Concrete Depot</em> and a <em>Сьметнік</em> near your Concrete Extractor to store its production and waste output.,
 9055,Waste Rock and Concrete Depot,
@@ -2614,30 +2614,30 @@ The <em>info panel</em> on the right side of the screen holds important informat
 9061,From the Build Menu <ButtonY> build a <em>Recharge Station</em> near the Concrete Extractor and connect it to the power grid. ,
 9060,Build a <em>Recharge Station</em> near the Concrete Extractor and connect it to the power grid.,
 5229,Станцыя падзарадкі,
-9064,"From the Build Menu <ButtonY>, build a <em>Moisture Vaporator</em>  and a <em>Fuel Refinery</em>. Connect both of them to the existing power grid.
+9064,"From the Build Menu <ButtonY>, build a <em>Moisture Vaporator</em>  and a <em>Завод паліва</em>. Connect both of them to the existing power grid.
 
 Adjacent power producers and consumers transfer power automatically.",
-9063,"Build a <em>Moisture Vaporator</em> and a <em>Fuel Refinery</em>. Connect both of them to the existing power grid.
+9063,"Build a <em>Moisture Vaporator</em> and a <em>Завод паліва</em>. Connect both of them to the existing power grid.
 
 Adjacent power producers and consumers transfer power automatically.",
 9062,Fuel Manufacturing,
-9067,"From the Build Menu <ButtonY>, build an extra <em>Stirling Generator</em> and connect it to the power grid using a Power Cable.",
-9066,Build an extra <em>Stirling Generator</em> and connect it to the power grid using a Power Cable.,
+9067,"From the Build Menu <ButtonY>, build an extra <em>Генератар стырлінга</em> and connect it to the power grid using a Power Cable.",
+9066,Build an extra <em>Генератар стырлінга</em> and connect it to the power grid using a Power Cable.,
 9065,Need More Power,
-9069,"Connect the Moisture Vaporator to the Fuel Refinery using a <em>Pipe</em> from the Build Menu <ButtonY>.
+9069,"Connect the Moisture Vaporator to the Завод паліва using a <em>Pipe</em> from the Build Menu <ButtonY>.
 
-Unlike Cables, Pipes have to be placed at specific spots to connect to a building. Look for the <image UI/Icons/pipe_icon.tga>  spots on the ground next to the Moisture Vaporator and the Fuel Refinery.
+Unlike Cables, Pipes have to be placed at specific spots to connect to a building. Look for the <image UI/Icons/pipe_icon.tga>  spots on the ground next to the Moisture Vaporator and the Завод паліва.
 
 To cancel a Pipe or to exit the Pipes placing mode, press <ButtonB>.",
-9068,"Connect the Moisture Vaporator to the Fuel Refinery with a <em>Pipe</em>.
+9068,"Connect the Moisture Vaporator to the Завод паліва with a <em>Pipe</em>.
 
-Unlike Cables, Pipes have to be placed at specific spots to connect to a building. Look for the <image UI/Icons/pipe_icon.tga>  spots on the ground next to the Moisture Vaporator and the Fuel Refinery.
+Unlike Cables, Pipes have to be placed at specific spots to connect to a building. Look for the <image UI/Icons/pipe_icon.tga>  spots on the ground next to the Moisture Vaporator and the Завод паліва.
 
 To cancel a Pipe or to exit the Pipes placing mode, press <right_click>.",
-12231,"Wait for the Fuel Refinery to produce <em>Fuel</em> and the Drones to load it to the Rocket
+12231,"Wait for the Завод паліва to produce <em>Fuel</em> and the Drones to load it to the Rocket
 
 You may select the Rocket with <ButtonA> and check out how much Fuel has already been delivered in its Info Panel to the right.",
-12232,"Wait for the Fuel Refinery to produce <em>Fuel</em> and the Drones to load it to the Rocket.
+12232,"Wait for the Завод паліва to produce <em>Fuel</em> and the Drones to load it to the Rocket.
 
 You can select the Rocket and check out how much Fuel has already been delivered in its Info Panel to the right.",
 9074,"Select the Rocket with <ButtonA> and use <RT> to focus the Rocket's info panel. Then select the ""<em>Launch</em>"" button to send it on its way back towards Earth.
@@ -2698,9 +2698,9 @@ Make sure that the RC Commander Drones can reach the resources you already trans
 9103,"Select the <em>RC Commander</em> and move it close to the designated area for the expand.
 
 Make sure that the RC Commander Drones can reach the resources you already transported there beforehand.",
-9106,From the Build Menu <ButtonY> construct a <em>Вежа-сканэр</em> and a <em>Stirling Generator</em> and make sure that they are connected.,
-9105,Construct a <em>Вежа-сканэр</em> and a <em>Stirling Generator</em> and make sure that they are connected.,
-9753,The construction may take some time until the RC Transport delivers all the needed resources for the Вежа-сканэр and Stirling Generator.,
+9106,From the Build Menu <ButtonY> construct a <em>Вежа-сканэр</em> and a <em>Генератар стырлінга</em> and make sure that they are connected.,
+9105,Construct a <em>Вежа-сканэр</em> and a <em>Генератар стырлінга</em> and make sure that they are connected.,
+9753,The construction may take some time until the RC Transport delivers all the needed resources for the Вежа-сканэр and Генератар стырлінга.,
 5257,Вежа-сканэр,
 9108,Zoom out by opening the Command Menu by using <LT> and then selecting <em>Map Overview</em> with <ButtonA>.,
 9107,Zoom out or use the HUD button to go to the <em>Map Overview</em>.,
@@ -2752,10 +2752,10 @@ To un-select a building use <ButtonB>.",
 9136,From the Build Menu <ButtonY> build a <em>Wind Turbine</em> and connect it to the existing Power network.,
 9135,Build a <em>Wind Turbine</em> and connect it to the existing Power network.,
 9134,Build a Wind Turbine,
-9139,"Select the Moisture Vaporator and Fuel Refinery and disable their <em>Night Shifts</em>, so that they won't consume Power during the night.
+9139,"Select the Moisture Vaporator and Завод паліва and disable their <em>Night Shifts</em>, so that they won't consume Power during the night.
 
 To un-select a building use <ButtonB>.",
-9138,"Select the Moisture Vaporator and Fuel Refinery and disable their <em>Night Shifts</em>, so that they won't consume Power during the night.",
+9138,"Select the Moisture Vaporator and Завод паліва and disable their <em>Night Shifts</em>, so that they won't consume Power during the night.",
 9140,Select the Вялікая сонечная панэль to view information about its <em>maintenance</em> and <em>breakdown</em>.,
 9142,"Select the RC Transport and then hold <RT> and press <ButtonA> on any surface metals deposit to order the vehicle to mine it.
 
@@ -3367,7 +3367,7 @@ What’s more important is that the wave of inspiration has swept over Earth, sp
 8140,Launch Issue: Suspended Missions,
 8143,Rockets cannot land or launch during Dust Storms. We will have to wait until the storm is over.,
 8142,Launch Issue: Dust Storm,
-8145,This Rocket is not yet refueled for the next voyage.<newline><newline>Fuel is produced in a Fuel Refinery building supplied with Water. It is then transported by Drones to the Rocket.,
+8145,This Rocket is not yet refueled for the next voyage.<newline><newline>Fuel is produced in a Завод паліва building supplied with Water. It is then transported by Drones to the Rocket.,
 8144,Launch Issue: Fuel,
 8766,The Rocket is not currently landed. It will have to land and refuel for re-launch.,
 8765,Launch Issue: Not Landed,
@@ -3662,11 +3662,11 @@ Gathering basic resources for building construction is one of the first things o
 You can select the Rocket to view its control radius.",
 9243,Drone Range,
 9244,You are trying to place a construction outside of the work range of your Drones.,
-9247,"Stirling Generators are excellent power sources but they are too complex to be built on Mars during the early stages of our colonization effort. That is why we ship them from Earth partially assembled in prefabs. Prefabs do not require any resources, only drones to unpack and assemble them.
+9247,"Генератар стырлінгаs are excellent power sources but they are too complex to be built on Mars during the early stages of our colonization effort. That is why we ship them from Earth partially assembled in prefabs. Prefabs do not require any resources, only drones to unpack and assemble them.
 
-We've provided you with a Stirling Generator prefab.
+We've provided you with a Генератар стырлінга prefab.
 
-<goal>Construct a Stirling Generator and then connect it to the Concrete extractor with a Power Cable or place the Stirling Generator adjacent to the Concrete Extractor for a direct connection.",
+<goal>Construct a Генератар стырлінга and then connect it to the Concrete extractor with a Power Cable or place the Генератар стырлінга adjacent to the Concrete Extractor for a direct connection.",
 9246,"Like most buildings, the Concrete Extractor needs  power in order to operate. Having a reliable electrical grid and supply is essential for the success of the colony.",
 9250,"The amount of Waste Rock per resource extracted depends on the Grade of the resource deposit. You can select a resource deposit to view its Grade and the amount of resources remaining in it.
 
@@ -3685,19 +3685,19 @@ We've provided you with a Stirling Generator prefab.
 9254,Drones run on batteries that have to be recharged periodically.,
 9257,"Every Rocket has enough fuel for a one-way trip to Mars and has to be refueled on site, so it can return to Earth and be reused.
  
-Fuel is produced in a Fuel Refinery. To setup the production chain, we will also need Water.
+Fuel is produced in a Завод паліва. To setup the production chain, we will also need Water.
 
-<goal>Build a Moisture Vaporator and then a Fuel Refinery.",
+<goal>Build a Moisture Vaporator and then a Завод паліва.",
 5503,Refueling the Rocket,
 9256,"Maintaining a steady supply chain between Earth and Mars is essential, especially during the early colonization stages. ",
-9260,"Luckily, we have an extra Stirling Generator Prefab we could use.
+9260,"Luckily, we have an extra Генератар стырлінга Prefab we could use.
 
-<goal>Build a new Stirling Generator along the power network.",
+<goal>Build a new Генератар стырлінга along the power network.",
 9258,Insufficient Power,
 9259,We don't have sufficient Power for all the buildings in the colony.,
-9262,"The Moisture Vaporator has to be connected with Pipes to the Fuel Refinery. 
+9262,"The Moisture Vaporator has to be connected with Pipes to the Завод паліва. 
 
-<goal>Connect the Moisture Vaporator to the Fuel Refinery with Pipes.",
+<goal>Connect the Moisture Vaporator to the Завод паліва with Pipes.",
 9261,A system of Pipes is used to deliver resources such as Water and Air where they are needed.,
 9264,"Use the Speed Controls to increase the game speed, so the Rocket refuels faster.
 
@@ -3743,7 +3743,7 @@ When moving far distances the RC Commander will first recall its drones before m
 1682,РК Кардынатар,
 9285,"Use the resources that the RC Transport delivered to build and power a new Вежа-сканэр that will help us scan the nearby locations for new resources and Anomalies.
 
-<goal> Construct a Вежа-сканэр and a Stirling Generator to power it.",
+<goal> Construct a Вежа-сканэр and a Генератар стырлінга to power it.",
 9283,New Expand,
 9284,We need to construct a new Вежа-сканэр to scan the nearby environment.,
 9287,"You can scan new sectors to discover more resource deposits and Anomalies. This is done from the Map Overview.
@@ -3807,7 +3807,7 @@ In this tutorial you will learn how to handle Power, Life Support grids and Buil
 
 There are three shifts - First Shift, Second Shift and Night Shift. Buildings will require Power, Resources and workers only during their active shifts.
 
-<goal>Disable the Night Shifts of the Moisture Vaporator and Fuel Refinery.",
+<goal>Disable the Night Shifts of the Moisture Vaporator and Завод паліва.",
 9137,Shifts & Power Management,
 9315,"Even with the Wind Turbine there won't be enough electricity to power the base, especially during the night.",
 9318,"Buildings require maintenance with Resources roughly every 6 or 7 Sols. Buildings that don't get maintenance break and won't function until repaired.
@@ -4145,7 +4145,7 @@ Scientists on Earth had long planned the creation of jet engines that could burn
 5816,"The red alert was sounded immediately after we lost contact with the RC Explorer vehicle. Five long hours of fear and desperation ended with the reinstating of data feed. A wave of relief passed through the crowd of scientists gathered at the control center. The telescopic drill used to probe the crust at the Anomaly site disturbed a layer of magnetite-rich rocks, the source of the electric charge. The rover is still functional but it would take time before its locomotion systems are fully restored. The operators turned the defeat into a victory, devoting the unexpected time window to studying the magnetic properties of the Martian crust.
 
 <effect>The RC Explorer has malfunctioned. It has to be repaired by Drones.
-<effect>50% cost reduction for the following technologies: Low-G Drive (faster Drones and Rovers), Autonomous Sensors (Вежы-сканэры require no Power or Maintenance).
+<effect>50% cost reduction for the following technologies: Low-G Drive (faster Drones and Rovers), Аўтаномныя сэнсары (Вежы-сканэры не патрабуюць абслугоўваньне альбо энэргію).
 <effect> Gain <funding(200000000)> Funding.",
 7176,We found some useful material in the debris from a small meteorite.,
 5824,"After minimal processing, the resources can be transported and put to good use for the benefit of the Colony.
@@ -6314,7 +6314,7 @@ What do we pick?",
 698041105984,Research Cooperation,
 756850281236,A new deep-space telescope will be launched to scan the cosmos from a point even further out than Mars.,
 583664306608,We could use some help with sector scanning.,
-615444876652,<orbital_probes> Orbital Probes,
+615444876652,<orbital_probes> Арбітальныя зонды,
 822369713406,Some extra resources would be welcome.,
 361865775796,<machineparts(resources_mp)> and <electronics(resources_ele)>,
 770430881627,We can always find a use for an extra Transport.,
@@ -6331,17 +6331,17 @@ Lambda Industries is officially extending a request for help with some of the da
 
 <goal>Research the Analyze Space Telescope Data tech to continue.",
 566382512198,Lambda Industries’ deep space telescope is performing as planned.,
-342271943630,"The rapid increase of cable faults ever since we turned on our first Stirling Generator connected to the grid, hints at some gross miscalculation stewing from the fringiness of it all.
+342271943630,"The rapid increase of cable faults ever since we turned on our first Генератар стырлінга connected to the grid, hints at some gross miscalculation stewing from the fringiness of it all.
 
-Our scientists have laid down the research needed to be done to fill in the potholes in the original Stirling Generator designs.
+Our scientists have laid down the research needed to be done to fill in the potholes in the original Генератар стырлінга designs.
 
-Research the Stirling Generator Cable Faults tech to fix the issue. Until then, keep in mind that cable faults won't appear when Stirling Generators are turned off.",
-269738125235,Stirling Generator Fault,
+Research the Генератар стырлінга Cable Faults tech to fix the issue. Until then, keep in mind that cable faults won't appear when Генератар стырлінгаs are turned off.",
+269738125235,Генератар стырлінга Fault,
 117255713428,Testing fringe technology in a fringe environment is always unpredictable.,
-919504866537,"After doing extended research on the subject, we not only removed said problems but we actually increased the power efficiency of our Stirling Generators.
+919504866537,"After doing extended research on the subject, we not only removed said problems but we actually increased the power efficiency of our Генератар стырлінгаs.
 
-<effect>Stirling Generators produce <power_boost>% more power.",
-956664316858,Ultimately the issues caused by the Stirling Generator turned out to be connectivity problems.,
+<effect>Генератар стырлінгаs produce <power_boost>% more power.",
+956664316858,Ultimately the issues caused by the Генератар стырлінга turned out to be connectivity problems.,
 137697402993,"The pod cannot be identified, as its hull is too burnt and its black box is missing. We discovered several blueprints of unknown purpose inside.
 
 Your team stares at the strange designs and is trying to make sense of them, you decide to join in. Hmm, clearly the part designated as 01-K64 goes into the power couplings here and – eureka! You know what this is!",
@@ -6386,7 +6386,7 @@ Alpenglow Robotix had dropped their usual smug attitude and are apologizing prof
 252027768740,Dig Deep,
 417309031546,One of our Scientists has just re-analyzed the scan data and found traces of resource deposits that you didn’t know existed.,
 540767662028,Correct the search patterns.,
-968824402245,gain discount on the Deep Scanning tech,
+968824402245,gain discount on the Глыбокае сканаваньне tech,
 494623791079,Improve the drilling technology.,
 818223058478,Выяўляе тэналогіі <em>Глыбакаводная здабыча</em> ды <em>Здабыча глыбокіх мэталаў</em>,
 262277117951,Immediately exploit the new deposits.,
@@ -6500,7 +6500,7 @@ All in all, the mysterious man wants you to shelter a number of Clone applicants
 916749725800,Payment in royalties.,
 993109934364,the Марсіянскія патэнты tech costs <boost>% less,
 121944684700,Logistics aid.,
-723404829087,gain <arcologies> Arcology Prefabs and <stirlings> Stirling Generator Prefabs,
+723404829087,gain <arcologies> Arcology Prefabs and <stirlings> Генератар стырлінга Prefabs,
 204528391449,"The endless stream of scientific data flowing in from the Red Planet is too much to be handled even by the largest scientific organization alone. The top brass of our sponsor have just made the decision to sell the scientific data to third parties by setting up remote transmission facilities on Mars.
 
 <effect>You have discovered the new Special Project: “Contract Exploration Access”. It can be completed multiple times to gain Funding.",
@@ -7585,7 +7585,7 @@ Sadly, the new fungi strain is not edible as it is highly toxic in its current s
 621284953568,Leave it pristine.,
 140249216333,+<tourist_gain> Tourist applicants,
 275906575784,This confirms an old hypothesis of mine!,
-150661701632,Water Reclamation Spires will cost <water_spire_discount>% less,
+150661701632,Шпіль меліярацыі вады каштуе на <water_spire_discount>% менш,
 438853430136,Find a way to conduct research without harming the site!,
 115694739807,"<research(research_small)>, +<morale_up> Morale for <sols(morale_up_duration)> Sols",
 837464417554,"A young renegade, <DisplayName>, has been killed by our security forces in a tragic sequence of events. 
@@ -8578,7 +8578,7 @@ What am I?",
 894459397508,"Broadcasting the deactivation signal brings the rogue nanites back to being what they were supposed to be – an instrument of creation, not destruction.",
 498104112595,The prefabs are in early state and we can command the Nanites to use the resources they have gathered to create whatever we need.,
 784091228074,Tamed Nanites crafted new prefabs!,
-181568953799,Create Stirling Generators.,
+181568953799,Create Генератар стырлінгаs.,
 807804120827,Create Drone Prefabs.,
 770528057910,Create Life Support Buildings.,
 124164018325,Create resource Extractors.,
@@ -8876,7 +8876,7 @@ The kid's parents held an impromptu wake for the fallen hero.",
 <grey>""Power! Unlimited Power!""
 <right>Sheev</grey><left>",
 7926,Overcharge Amplifications,
-7929,"Stirling Generator Upgrade (<em>Plutonium Core</em>) - Increased Power production while opened.
+7929,"Генератар стырлінга Upgrade (<em>Plutonium Core</em>) - Increased Power production while opened.
 
 <grey>""Nor are we the culmination of evolution, except in the sense that there has never been another species so bizarrely ingenious that it could create both iambic pentameter and plutonium.""
 <right>David Quammen</grey><left>",
@@ -8885,7 +8885,7 @@ The kid's parents held an impromptu wake for the fallen hero.",
 
 <grey>Taking student exchange programs to a whole other level.</grey>",
 7930,Interplanetary Learning,
-7933,"<em>Colonists</em> gain <param1> bonus work performance when all their stats are in the green.
+7933,"<em>Колёністы</em> gain <param1> bonus work performance when all their stats are in the green.
 
 <grey>""Frankly, though, I think most people can learn a lot more than they think they can.""
 <right>Elon Musk</grey><left>",
@@ -8897,7 +8897,7 @@ The kid's parents held an impromptu wake for the fallen hero.",
 8006,"<em>Drone Hubs</em> no longer require Power or maintenance.
 
 <grey>Self-sustainable Drone Hubs are of paramount importance in expanding our presence on Mars.</grey>",
-8005,Autonomous Hubs,
+8005,Аўтаномныя ЦК,
 8642,"Factory Upgrade (<em>Automation</em>) - Lowers the amount of Workers needed in factories.
 
 <grey>Robots are poised to take our jobs here on Mars as well.</grey>",
@@ -8924,8 +8924,8 @@ The kid's parents held an impromptu wake for the fallen hero.",
 11403,Rogue Nanite Deactivation,
 217591992579,Analyze the abnormal behavior of the Rogue Nanites and the reasons for the glitch.,
 11404,Rogue Nanites Analysis,
-904185155252,Discover what is causing the cable faults related to Stirling Generators and fix the issue.,
-12242,Stirling Generator Cable Faults,
+904185155252,Discover what is causing the cable faults related to Генератар стырлінгаs and fix the issue.,
+12242,Генератар стырлінга Cable Faults,
 200121853016,Complete this research to immediately discover several new metal and rare metal deposits.,
 11063,Geo-Crust Scanner,
 857507799905,Decipher the secret contents of a strange message discovered in a strange probe on the surface of Mars.,
@@ -8954,10 +8954,10 @@ The kid's parents held an impromptu wake for the fallen hero.",
 
 <grey>Magnetic filters block ferromagnetic metal contaminants as well as weakly magnetic particles from the Martian atmosphere when inhaled by our MOXIEs, greatly increasing their efficiencies.</grey>",
 5125,Magnetic Filtering,
-6328,"New Spire Building: <em>Water Reclamation System</em> (<buildinginfo('WaterReclamationSystem')>) - drastically reduces the Water consumption of the Dome.
+6328,"New Spire Building: <em>Меліярацыя вады System</em> (<buildinginfo('WaterReclamationSystem')>) - drastically reduces the Water consumption of the Dome.
 
 <grey>Water on Mars is abundant, yet it is mostly underground and in a frozen state – making it, while within reach, still difficult and expensive to mine. This makes recycling necessary to ensure a steady water supply.</grey>",
-6327,Water Reclamation,
+6327,Меліярацыя вады,
 6330,"Unlock <em>new crops</em> in Farms and Hydroponic Farms that provide Oxygen and improve soil quality.
 
 <grey>From the salad you eat to the air you breathe, plants have a fundamental role to play for humanity well beyond Earth.</grey>",
@@ -8999,10 +8999,10 @@ The kid's parents held an impromptu wake for the fallen hero.",
 
 <grey>Now that we have adapted crops to the Martian environment we can mechanize some procedures.</grey>",
 6333,Farm Automation,
-6345,"New Spire Building: <em>Hanging Gardens</em> (<buildinginfo('HangingGardens')>) - a beautiful park complex that greatly improves the Comfort of all Residences in the Dome.
+6345,"New Spire Building: <em>Вісячыя сады</em> (<buildinginfo('HangingGardens')>) - a beautiful park complex that greatly improves the Comfort of all Residences in the Dome.
 
 <grey>One of humanity’s most enduring and fanciful legends from the ancient past is made a reality on Mars.</grey>",
-3535,Hanging Gardens,
+3535,Вісячыя сады,
 6347,"<em>Medical Center</em> Upgrade (Holographic Scanner) - Increases birth rate in the Dome.
 
 <grey>Holographic technologies can significantly improve medical diagnostics and monitoring procedures.</grey>",
@@ -9019,7 +9019,7 @@ The kid's parents held an impromptu wake for the fallen hero.",
 
 <grey>""Live long and prosper""
 <right>Vulcan Salute</grey><left>",
-6353,Stem Reconstruction,
+6353,Рэканструкцыя ствала,
 6356,"New Wonder: <em>Geoscape Dome</em> (<buildinginfo('GeoscapeDome')>)  - A slice of Earth on Mars, this Dome has high Comfort and increases the Sanity of its inhabitants on every Сол.
 
 <grey>""It's a fixer-upper of a planet but we could make it work."" 
@@ -9034,7 +9034,7 @@ The kid's parents held an impromptu wake for the fallen hero.",
 <grey>We have reached the point where we must do away with old buildings on Mars to make way for new ones.</grey>",
 6361,Decommission Protocol,
 6364,"Новы будынак: <em>Polymer Factory</em> (<buildinginfo('PolymerPlant')>) - Вырабляе палімеры з вады й паліва.
-Новы будынак: <em>Fuel Refinery</em> (<buildinginfo('FuelFactory')>)  - Produces Fuel from Water.
+Новы будынак: <em>Завод паліва</em> (<buildinginfo('FuelFactory')>)  - Produces Fuel from Water.
 
 <grey>Resolving the obvious problems with water pressure in Low-G environments will allow for more complex hydro-synthetic procedures to be done on-site on Mars.</grey>",
 6363,Low-G Hydrosynthesis,
@@ -9181,10 +9181,10 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 <grey>""Сусвет не абавязаны надаваць вам сэнсу."" 
 <right>Ніл Деграсс Тайсон</grey><left>",
 6448,Адаптаваныя зонды,
-6450,"Новы будынак: <em>Stirling Generator</em> (<buildinginfo('StirlingGenerator')>) - Generates Power. While closed the Generator is protected from dust, but produces less Power.
+6450,"Новы будынак: <em>Генератар стырлінга</em> (<buildinginfo('StirlingGenerator')>) - Generates Power. While closed the Generator is protected from dust, but produces less Power.
 
 <grey>The Stirling Radioisotope Generator is a generator based on a Stirling engine powered by a large radioisotope heater unit.</grey>",
-3521,Stirling Generator,
+3521,Генератар стырлінга,
 6451,"Новы будынак: <em>Атамны акумулятар</em> (<buildinginfo('AtomicBattery')>) - Назапашвае энергію. Мае вялікую ёмістасьць, але зараджаецца павольна.
 
 <grey>""Гісторыя запомніць дваццатае стагоддзе двума тэхнолёгічнымі распрацоўкамі: атамнай энергетыкай і палётамі ў космас.""
@@ -9201,7 +9201,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 6457,"Sectors can now be scanned again for <em>deep deposits</em>. Exploiting these deposits requires additional technologies.
 
 <grey>We've barely scratched the surface of what we can learn about the Martian environment.</grey>",
-6456,Deep Scanning,
+6456,Глыбокае сканаваньне,
 8865,"Новы будынак: <em>VR Workshop</em> (<buildinginfo('VRWorkshop')>) - a vocation building that allows colonists to experiment with virtual reality (counts towards the workshop milestone). Consumes Electronics.
 
 <grey>""How do you know it's Sci-Fi? VR is commercially viable.""
@@ -9387,7 +9387,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 
 <grey>""There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.""
 <right>Ronald Reagan</grey><left>",
-6511,Behavioral Shaping,
+6511,Фарміраваньне паводзін,
 8867,"Новы будынак: <em>Art Workshop</em> (<buildinginfo('ArtWorkshop')>) - a vocation building that allows colonists to experiment with different forms of art (counts towards the workshop milestone). Consumes Polymers.
 
 <grey>""We don't make mistakes, just happy little accidents.""
@@ -10492,7 +10492,7 @@ An Expedition to reclaim resources and decrease Fuel costs has been unlocked.",
 398649094847,all Coward Colonists lose Morale,
 840845657469,Disregard all complaints. Everything is going according to the plan.,
 252960469196,all Whiner Colonists lose Morale,
-500295814394,"There is some puzzling news from the power supply supervisor. Apparently, a half-melted toolbox full of screwdrivers has smashed into a Stirling Generator and has, well, screwed it. Who may have dropped a toolbox in space, is now the smaller issue.
+500295814394,"There is some puzzling news from the power supply supervisor. Apparently, a half-melted toolbox full of screwdrivers has smashed into a Генератар стырлінга and has, well, screwed it. Who may have dropped a toolbox in space, is now the smaller issue.
 
 <effect>A building is destroyed.",
 610486046334,Junk in Space: It's Raining Junk!,
@@ -10840,13 +10840,13 @@ Damn scientists and their sense of humor. Under what name would you announce the
 
 It takes some time to grasp her idea: we can improve our fuel refineries in such an eco-unfriendly way, they would use up more Water and dump a tremendous amount of exhaust gases in the atmosphere. This, in turn, would help us terraform the Martian atmosphere over time. We can even expect some efficiency improvement - provided, of course, one is inclined to call ""efficiency"" when +50% amount of Water is used for a mere 10% Fuel production increase.
 
-<effect>Fuel Refineries can be ""improved"" to waste 50%-100% more Water, produce 10%-25% more Fuel and slightly increase planetary Atmosphere over time.",
+<effect>Заводы паліва can be ""improved"" to waste 50%-100% more Water, produce 10%-25% more Fuel and slightly increase planetary Atmosphere over time.",
 256542587932,Smoke on the Water,
 948755011239,A soot-covered engineer appears to your door with a wild smile on her face.,
 792831550026,Fire in the Sky!,
-145275000878,unlock a research for Overloaded Fuel Refineries,
+145275000878,unlock a research for Overloaded Заводы паліва,
 707178242871,Nice idea! Let's exploit it to the limit!,
-871965542650,unlock a research for Advanced Overloaded Fuel Refineries,
+871965542650,unlock a research for Advanced Overloaded Заводы паліва,
 12173,That's a bit too much.,
 741143754204,do nothing,
 531862171377,"This mineral contains calcium fluoride with traces of Uranium-238. It is beautifully violet, slightly radioactive and it makes your Commander's office smell like hell. 
@@ -11104,10 +11104,10 @@ With a closer look, you observe scores of creatures which crawl, swim and jump i
 11914,Resilient Vegetation,
 267024544181,"Genetically engineer a species of a shrimp which can benefit from Mars' low gravity and gain the ability to crawl and jump to the nearest water source on its own. Gain <resource(3000,'VegetationTP')>.",
 947528683676,Low-G Shrimp GMO,
-878909532079,"Fuel Refineries consume 50% more Water and produce 10% more Fuel, contributing to planetary Atmosphere by <resource(15,'AtmosphereTP')> per Сол for every working Fuel Refinery.",
-850242285234,Overloaded Fuel Refineries,
-674562544731,"Fuel Refineries consume 100% more Water and produce 25% more Fuel, contributing to planetary Atmosphere by <resource(30,'AtmosphereTP')> per Сол for every working Fuel Refinery.",
-441346450001,Advanced Overloaded Fuel Refineries,
+878909532079,"Заводы паліва consume 50% more Water and produce 10% more Fuel, contributing to planetary Atmosphere by <resource(15,'AtmosphereTP')> per Сол for every working Завод паліва.",
+850242285234,Overloaded Заводы паліва,
+674562544731,"Заводы паліва consume 100% more Water and produce 25% more Fuel, contributing to planetary Atmosphere by <resource(30,'AtmosphereTP')> per Сол for every working Завод паліва.",
+441346450001,Advanced Overloaded Заводы паліва,
 221257334288,"Shuttle Hubs consume 50% more Fuel and Shuttles move 10% faster, contributing to planetary Temperature by <resource(5,'TemperatureTP')> per Сол for every Shuttle in flight.",
 11984,Shuttle Afterburners,
 219844242465,"Shuttle Hubs consume 100% more Fuel and Shuttles move 25% faster, contributing to planetary Temperature by <resource(10,'TemperatureTP')> per Сол for every Shuttle in flight.",
@@ -11897,10 +11897,10 @@ This technological challenge to take advantage of what little wind there is on M
 699130605921,"""У гонар Заснавальнікаў Марса.""",
 5286,Plutonium Core,
 5287,+<upgrade1_mul_value_1>% additional power production when open.,
-10263,Advanced Stirling Generators,
-10264,"Generates Power. When closed the generator is protected from dust, but produces less Power. Heats the surrounding area when opened.",
-988998728791,Improved Photovoltaics,
-717139767441,+<upgrade1_mul_value_1>% Production.,
+10263,Перадаваы гэнератар стырлінга,
+10264,"Вырабляе энэргію. У закрытым стане абаронены ад пылу, але вырабляе менш энэргіі. Калі адкрыты - абагравае наваколу.",
+988998728791,Палепшаная фотаэлектрыка,
+717139767441,+<upgrade1_mul_value_1>% Вытворчасьць.,
 10259,Solar Arrays,
 5026,Fueled Extractor,
 5027,"+<upgrade1_mul_value_1>% Production as long as the building is supplied with Fuel. If not supplied with Fuel, the building will continue to operate but will lose the bonus.",
@@ -11941,7 +11941,7 @@ This technological challenge to take advantage of what little wind there is on M
 3679,Reveals deposits in the scanned area.,
 718364513536,Immediately scans a Sector and the four adjacent Sectors for deposits and anomalies.,
 562855111629,Generates Power. Heats the surrounding area when opened.,
-288495591252,Advanced Stirling Generator,
+288495591252,Advanced Генератар стырлінга,
 5261,"Размяшчае й запраўляе шатлы, якія транспартуюць рэсурсы на вялікія адлегласьці паміж складамі й перасяляюць колёністаў паміж купаламі.",
 10261,Jumper Shuttle Hub,
 10254,A place to meditate and seek meaning beyond the physical world. Visitors recover Sanity.,
@@ -12039,7 +12039,7 @@ This technological challenge to take advantage of what little wind there is on M
 801575663207,Збудована: Concrete Extractor,
 601660641143,Збудована: Мэталаэкстрактар,
 892685234280,Збудована: Экстрактар рэдкіх мэталаў,
-549753714095,Збудована: Fuel Refinery,
+549753714095,Збудована: Завод паліва,
 491436888630,Збудована: Polymer Factory,
 152436678499,Збудована: Machine Parts Factory,
 767760580988,Збудована: Electronics Factory,
@@ -12053,69 +12053,61 @@ This technological challenge to take advantage of what little wind there is on M
 379267694562,-- and prepare living quarters for them (for Concrete and Polymers),
 248892061619,Landed Colonists on Mars,
 146763180065,Exported Rare Metals,
-554170626514,Bought new Rocket,
+554170626514,Купіць новую ракету,
 915496776171,Constructed a small Dome,
 335724595827,Constructed a large Dome,
-708368647885,Chooses a random Rival Colony,
-647624657930,"Gets twice more Food from Passenger Rockets
-Landed Rockets synthesise Fuel
-Initial Адносіны: <em>Slightly Positive</em>
-Development speed: <em>Relaxed</em>
-Bias: <em>Colonists</em>",
-676634361258,"Receives periodic Funding
-Initial Адносіны: <em>Neutral</em>
-Development speed: <em>Expansive</em>
-Bias: <em>Colonists</em>",
-462771347545,"Always offers Funding for basic resources
-Employs Colonists to produce Funding
-Initial Адносіны: <em>Slightly Negative</em>
-Development speed: <em>Normal</em>
-Bias: <em>Production</em>",
-262548018189,Constructed Corporate Office,
-624983238957,"Always offers resources for Food
-Passenger Rockets carry more Colonists
-Has double birth rates
-Initial Адносіны: <em>Neutral</em>
-Development speed: <em>Expansive</em>
-Bias: <em>Mining</em>",
-395180792330,"Has increased birth rates
-Produces more Metals
-Initial Адносіны: <em>Neutral</em>
-Development speed: <em>Normal</em>
-Bias: <em>Colonists, Mining</em>",
-974165148834,"Always offers Research points for any tradable resource
-Gains Funding whenever a tech is researched
-Initial Адносіны: <em>Neutral</em>
-Development speed: <em>Normal</em>
-Bias: <em>Research</em>",
-258507598563,"Buys advanced resources at 50% cost
-Initial Адносіны: <em>Neutral</em>
-Development speed: <em>Normal</em>
-Bias: <em>Production</em>",
-971858618751,"Produces more Rare Metals
-Initial Адносіны: <em>Neutral</em>
-Development speed: <em>Normal</em>
-Bias: <em>Mining</em>",
+708368647885,Выбірае колёнію супраціўніка выпадкова,
+647624657930,"Атрымлівае ўдвая больш ежы з пасажырскіх ракет. Ракеты сінтэзуюць паліва
+Пачатковыя адносіны: <em>Зьлёгку пазітыўны</em>
+Хуткасьць разьвіцьця: <em>Павольная</em>
+Фокус: <em>Колёністы</em>",
+676634361258,"Часам атрымлівае фінансаваньне
+Пачатковыя адносіны: <em>Нэйтральныя</em>
+Хуткасьць разьвіцьця: <em>Экспансіўная</em>
+Фокус: <em>Колёністы</em>",
+462771347545,"Заўсёды прапануе фінансаваньне за асноўныя рэсурсы. Наймае колёністаў для атрыманьня фінансаваньня
+Пачатковыя адносіны: <em>Зьлёгку негатыўна</em>
+Хуткасьць разьвіцьця: <em>Нармальная</em>
+Фокус: <em>Вытворчасьць</em>",
+262548018189,Пабудаваны карпаратыўны офіс,
+624983238957,"Заўсёды прапануе рэсурсы за ежу. Пасажырскія ракеты перавозяць больш колёністаў. Павышаная ўдвая нараджальнасьць
+Пачатковыя адносіны: <em>Нэйтральныя</em>
+Хуткасьць разьвіцьця: <em>Экспансіўная</em>
+Фокус: <em>Здабыча</em>",
+395180792330,"Павялічыная нараджальнасьць. Большая вытворчасьць мэталаў
+Пачатковыя адносіны: <em>Нэйтральныя</em>
+Хуткасьць разьвіцьця: <em>Нармальная</em>
+Фокус: <em>Colonists, Mining</em>",
+974165148834,"Заўсёды прапануе дасьледаваньне за гандлю рэсурсамі, якія магчыма прадаць. Атрымоўвае фінансаваньне кожны раз, калі даследуецца тэхналогія
+Пачатковыя адносіны: <em>Нэйтральныя</em>
+Хуткасьць разьвіцьця: <em>Нармальная</em>
+Фокус: <em>Дасьледаваньне</em>",
+258507598563,"Купляе перадавыя рэсурсы зь зьніжкай 50%
+Пачатковыя адносіны: <em>Нэйтральныя</em>
+Хуткасьць разьвіцьця: <em>Нармальная</em>
+Фокус: <em>Вытворчасьць</em>",
+971858618751,"Большая вытворчасьць рэдкіх мэталаў
+Пачатковыя адносіны: <em>Нэйтральныя</em>
+Хуткасьць разьвіцьця: <em>Нармальная</em>
+Фокус: <em>Здабыча</em>",
 848135376130,Бразілія,
-758531549660,"Has double birth rates
-Initial Адносіны: <em>Slightly Negative</em>
-Development speed: <em>Normal</em>
-Bias: <em>Colonists</em>",
-934610215177,"Always offers basic resources for advanced resources
-Produces more Concrete
-Initial Адносіны: <em>Neutral</em>
-Development speed: <em>Expansive</em>
-Bias: <em>Mining</em>",
-323735020672,"Produces Funding by releasing games
-Initial Адносіны: <em>Unpredictable</em>
-Development speed: <em>Normal</em>
-Bias: <em>Research</em>",
-141041316027,Released a new game,
-842378421255,"Produces Metals without using Colonists
-Gains research points when exploring sectors
-Initial Адносіны: <em>Neutral</em>
-Development speed: <em>Normal</em>
-Bias: <em>Research</em>
+758531549660,"Павышаная ўдвая нараджальнасьць
+Пачатковыя адносіны: <em>Зьлёгку негатыўна</em>
+Хуткасьць разьвіцьця: <em>Нармальная</em>
+Фокус: <em>Колёністы</em>",
+934610215177,"Заўсёды прапануе асноўныя рэсурсы за перадавыя рэсурсаў. Большая вытворчасьць бэтону
+Пачатковыя адносіны: <em>Нэйтральныя</em>
+Хуткасьць разьвіцьця: <em>Экспансіўная</em>
+Фокус: <em>Здабыча</em>",
+323735020672,"Вырабляе фінансаваньне, выпускаючы гульні
+Пачатковыя адносіны: <em>Непрадказальныя</em>
+Хуткасьць разьвіцьця: <em>Нармальная</em>
+Фокус: <em>Дасьледаваньне</em>",
+141041316027,Выпуск новай гульні,
+842378421255,"Вырабляе мэталы без колёністаў. Атрымлівае дасьледаваньне пры выведке сэктараў
+Пачатковыя адносіны: <em>Нэйтральныя</em>
+Хуткасьць разьвіцьця: <em>Нармальная</em>
+Фокус: <em>Research</em>
 ",
 967008099458,Японія,
 308211343641,Constructed Automatic Metals Extractor,
@@ -12189,8 +12181,8 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 12249,"Дасьледаваньне ў Сол: <research(SponsorResearch)>
 Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
-- <em>Зеўс ракета</em> - падвышана карысная нагрузка ракеты (<cargo> кг)
-- <em>Перадавыя генератар Стырлінга</em> - выпрацоўвае энергію й захоўвае ад <em>Халодных хваль</em>
+- <em>Зеўс ракета</em> - павышана карысная нагрузка ракеты (<cargo> кг)
+- <em>Перадавы гэнератар стырлінга</em> - выпрацоўвае энергію й захоўвае ад <em>Халодных хваль</em>
 - Каланісты ніколі не <em>Тугуюць па Зямлі</em>
 - Колькасьць ежы павышана ў пасажырскіх ракетах (x10)
 - Ракеты сінтэзуюць паліва
@@ -12200,7 +12192,7 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 5483,"Дасьледаваньне ў Сол: <research(SponsorResearch)>
 Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
-- <em>Зеўс ракета</em> - падвышана карысная нагрузка ракеты (<cargo> кг)
+- <em>Зеўс ракета</em> - павышана карысная нагрузка ракеты (<cargo> кг)
 - <em>Перадавы арбітальны зонд</em> - скануе пяць сэктараў
 - <em>Мегагандлёвы цэнтр</em> - сэрвісны будынак, які задавальняе большасьць інтарэсаў
 - Перыядычнае дафінансаваньне",
@@ -12213,7 +12205,7 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 - Можа купіць кандыдатаў за <em>$</em>
 - Дадатковыя ракеты значна танней
 - Зонды могуць выявіць глыбокія радовішча рэдкіх мэталаў
-- Бонусная тэхналёгія: <em>Здабыча глыбокіх мэталаў</em> (можа здабываць глыбокія радовішчы мэталаў і рэдкіх мэталаў)",
+- Бонусная тэхналёгія: <em>Здабыча глыбокіх мэталаў</em> (можа здабываць глыбокія радовішча мэталаў і рэдкіх мэталаў)",
 882785319134,Лёгка,
 172009611331,"Дасьледаваньне ў Сол: <research(SponsorResearch)>
 Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
@@ -12271,7 +12263,7 @@ Jumper Shuttles were proven a great advancement for the newly sprouting colonies
 - <em>Concrete Plant</em> - an automated extractor that produces concrete without the need of a deposit but consumes fuel
 - Бонусная тэхналёгія: <em>Fueled Extractors</em> (extractor upgrade that boosts production but consumes Fuel)
 - Fueled Extractors upgrade is free
-- Fuel Refinery prefab costs <percent(50)> less
+- Завод паліва prefab costs <percent(50)> less
 - Rockets have extended travel time <em>(drawback)</em>",
 574527829385,Цяжка,
 5495,Paradox Interactive,
@@ -13758,8 +13750,8 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 211,Required Deposit Resource,
 212,Deposit Search Radius,
 297,<newline><center><em>Радовішча</em>,
-298,"Даступныя радовішчы<right><resource(amount,resource)>",
-299,Даступныя радовішчы <right><red>Знясілены</red>,
+298,"Даступныя радовішча<right><resource(amount,resource)>",
+299,Даступныя радовішча <right><red>Знясілены</red>,
 6727,Рэсурсаў прадукавана <n>,
 6728,Max Storage <n>,
 6729,Daily Production <n>,
@@ -14948,8 +14940,8 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 14321,<Amount> Applicants with <Specialization> specialization,
 1082,South Cap,
 1083,North Cap,
-1084,Arabia Terra,
-1085,Utopia Planitia,
+1084,Арабска зямля,
+1085,Роўнядзь Утопія,
 1086,Arcadia Planitia,
 1087,Elysium Mons,
 1088,Gale Crater,
@@ -14970,7 +14962,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 1104,Hecatus Tholus,
 1105,Albor Tholus,
 1106,Ascraeus Mons,
-1107,Arsai Mons,
+1107,Гара Арсія,
 10551,<choice><newline><extra_text>,<choice><newline><extra_text>
 11237,<funding(cost)>,<funding(cost)>
 11033,Default maintenance,
@@ -17424,17 +17416,17 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 10858,Goncalves,
 3023,Predefined Color,
 3024,Exported string,
-3525,Orbital Probe,
+3525,Арбітальны зонд,
 10086,Reveals underground deposits in the scanned area.,
-3680,Immediately scans a Sector for deposits and Anomalies.<DeepScanWarning><newline><newline>Available Orbital Probes<right><NumProbes>,
+3680,Immediately scans a Sector for deposits and Anomalies.<DeepScanWarning><newline><newline>Наяўныя арбітальныя зонды<right><NumProbes>,
 3681,<left_click> Select Sector,
 7882,<PinRolloverGamepadHint>,
 3683,<NumProbes>,
 3682,<ButtonA> Overview,
 8569,<ButtonA> Select Sector,
 3684,<newline><em>Deep scanning of the Sector is not possible with the current technology</em>,
-11413,Immediately scans a Sector and the four adjacent Sectors for deposits and anomalies.<DeepScanWarning><newline><newline>Available Orbital Probes<right><NumProbes>,
-10087,Advanced Orbital Probe,
+11413,Immediately scans a Sector and the four adjacent Sectors for deposits and anomalies.<DeepScanWarning><newline><newline>Наяўныя арбітальныя зонды<right><NumProbes>,
+10087,Правдінуты арбітальны зонд,
 8798,Passage piece,
 11676,Passage pieces,
 8799,Праход,
@@ -17489,7 +17481,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 3481,<ButtonA> Выберыце камандзіра,
 3482,Эмблема колёніі,
 3483,ЭМБЛЕМА КОЛЁНІІ,
-3484,Гэта эстэтычны выбар, які не ўплывае на гульню.,
+3484,"Гэта эстэтычны выбар, які не ўплывае на гульню.",
 3485,<ButtonA> Выберыце эмблему,
 3487,ТАЯМНІЦА,
 3488,Выберыце актыўную сюжэтную лінію ў гэтым прахаджэньні.,
@@ -18149,31 +18141,31 @@ Larger networks will malfunction more often.",
 4054,<tab 10><name>,
 4056,<ButtonY> Add/Remove sector from scan queue,
 10889,<RightTrigger><ButtonY> У першую чаргу,
-10536,<ButtonX> Deploy an Orbital Probe to scan this sector,
+10536,<ButtonX> Разгарніце арбітальны зонд для сканаваньня гэтага сэктара,
 4057,<right_click> Выдаліць з чаргі,
 4058,<left_click> Дадаць у чаргу,
 10537,Ctrl + <left_click> У першую чаргу,
-10985,<left_click> Deploy an Orbital Probe and deep scan this Sector,
-4060,<left_click> Deploy an Orbital Probe and scan this Sector,
-4062,<em><ShortcutName('actionDeployProbe')></em> Deploy an Orbital Probe and scan this Sector,
-10986,<left_click> Deploy an Orbital Probe and deep scan this Sector,
-7908,<ButtonA> Zoom in,
-4059,<left_click> to deploy an Orbital Probe and deep scan this Sector,
-4061,<em><ShortcutName('actionDeployProbe')></em> Deploy an Orbital Probe and deep scan this Sector,
+10985,<left_click> Разгарніце арбітальны зонд і глыбока праскануйце гэты сэктар,
+4060,<left_click> Разгарніце арбітальны зонд і праскануйце гэты сэктар,
+4062,<em><ShortcutName('actionDeployProbe')></em> Разгарніце арбітальны зонд і праскануйце гэты сэктар,
+10986,<left_click> Разгарніце арбітальны зонд і глыбока праскануйце гэты сэктар,
+7908,<ButtonA> Павялічыць,
+4059,<left_click> каб пазгарніцб арбітальны зонд і глыбока прасканаваць гэты сэктар,
+4061,<em><ShortcutName('actionDeployProbe')></em> Разгарніце арбітальны зонд і глыбока праскануйце гэты сэктар,
 4063,Сэктар <u(display_name)>,
 1103,Мейсца колёніі,
 4128,<stl><name></style><completed><newline>,<stl><name></style><completed><newline>
 11173,<style PlanetCoordinatesHint><control_img> Перамясьціць мейсца</style>,
 12296,<style PlanetCoordinatesHint><left_click> Перамясьціць мейсца <right_click> Круціць</style>,
-10921,<pos_name><style PlanetCoordinatesHint><control_img> Select</style>,
-10922,<pos_name><style PlanetCoordinatesHint><left_click> Select<newline><right_click> Rotate</style>,
+10921,<pos_name><style PlanetCoordinatesHint><control_img> Выбраць</style>,
+10922,<pos_name><style PlanetCoordinatesHint><left_click> Выбраць<newline><right_click> Круціць</style>,
 4129,<pos_name><lat>°<lat_dir> <long>°<long_dir><newline><style PlanetCoordinatesHint><control_img> Перамясьціць мейсца</style>,
 12297,<pos_name><lat>°<lat_dir> <long>°<long_dir><newline><style PlanetCoordinatesHint><left_click> Перамясьціць мейсца <right_click> Круціць</style>,
 4131,<pos_name><lat>°<lat_dir> <long>°<long_dir>,
-6890,Latitude,
-6891,-70 to 70,
-6892,Longitude,
-6893,-180 to 180,
+6890,Шырата,
+6891,-70 да 70,
+6892,Даўгата,
+6893,-180 да 180,
 1153,Display Name,
 6894,Quickstart,
 13659,Map,
@@ -18203,7 +18195,7 @@ Larger networks will malfunction more often.",
 4151,Mars Locales,
 11175,Выберыце кропка цікавасьці,
 10923,Select a Challenge,
-4152,Select a Colony Site,
+4152,Абярыце мейсца для колёніі,
 4153,<style LandingPosName><name></style>,<style LandingPosName><name></style>
 10414,Фінансаваньне: $<funding> Млн.<newline>,
 10062,Ракет у пачатку: <initial_rockets><newline>,
@@ -18580,7 +18572,7 @@ Larger networks will malfunction more often.",
 3964,<em>Працоўныя:</em> <colonist(workers)> (single work shift),
 3965,<em>Працоўныя:</em> <colonist(total)> (<colonist(workers)> у рабочую зьмену),
 12001,"<em>Эфэкт терафарміраваньня: +<resource(number, res)> у Сол.</em>",
-3957,за кожную секцыю 5 гескаў у даўжыню,
+3957,за кожную сэкцыю 5 гэскаў у даўжыню,
 8099,<colonist(workers)> ,
 8955,"
 Новая купала: <em><template_display_name></em> ",
@@ -18647,7 +18639,7 @@ Larger networks will malfunction more often.",
 4194,<red><value></red>,
 9722,<center><em>Traits</em>,
 9723,<center><em>Interests</em>,
-9649,<center><em>Production</em>,
+9649,<center><em>Вытворчасьць</em>,
 9769,<air(ProductionEstimate)>,<air(ProductionEstimate)>
 9724,"<resource(PredictedDailyProduction, GetResourceProduced)>","<resource(PredictedDailyProduction, GetResourceProduced)>"
 9725,<power(UIPowerProduction)>,<power(UIPowerProduction)>
@@ -19537,13 +19529,13 @@ Mission parameters and colony site are predetermined.",
 6884,Увага,
 1132,ВЫЙСЬЦІ,
 714247552511,<text>,<text>
-4132,<LS> Select landing spot,
-4133,<left_click> Select landing spot,
+4132,<LS> Абярыце месца пасадкі,
+4133,<left_click> Абярыце месца пасадкі,
 5462,CUSTOM,
 5461,RANDOM,
 5452,START,
 10894,COLONY SITE,
-563905386684,"Map topology, threats and available resources will be determined by the chosen site. You can replay a game on the same map by entering the same custom coordinates.",
+563905386684,"Тапалогія карты, пагрозы і даступныя рэсурсы будуць вызначацца абраным мейсцам. Вы можаце паўтарыць гульню на той жа карце, увёўшы тыя ж каардынаты.",
 11441,Average Altitude,
 240235194104,Mean Temperature,
 284813068603,Topography,
@@ -19552,10 +19544,10 @@ Mission parameters and colony site are predetermined.",
 187145140709,<MapDifficulty>,<MapDifficulty>
 4271,THREATS,
 4270,RESOURCES,
-668912375628,ROCKET PAYLOAD,
+668912375628,РАКЕТНЫ ГРУЗ,
 779595445764,<RocketName>,
 10136,ПЕРАЙЗВАЦЬ,
-13692,<UsedCapacity>/<TotalCapacity> kg,
+13692,<UsedCapacity>/<TotalCapacity> кг,
 13693,ВЫБРАЦЬ ГРУЗ,
 782457493363,У КОЛЁНІІ,
 11442,ВЫБРАЦЬ ГРУЗ,
@@ -19567,56 +19559,56 @@ Mission parameters and colony site are predetermined.",
 5453,ДАЛЕЙ,
 4265,ЭФЕКТЫ,
 350571528070,<Effects>,
-720368811140,Text,
+720368811140,Тэкст,
 135662133117,КІРАЎНІЦТВА,
 577305258682,Навучаньне,
 797581848776,Выканана (0/5),
 11443,Выканана (<completed>/<max>),
-777283990085,Link,
+777283990085,Спалучыць,
 10990,Адвязаць,
 870730357845,Выйсьці,
-480995957868,Forgot Password?,
+480995957868,Забыліся на пароль?,
 12310,Create Account,
-598975766059,Login,
+598975766059,Увайсьці,
 1011,Зачыніць,
-678897362235,Login with your,
+678897362235,Увайдзіце праз ваш,
 972281009488,Paradox Account,
-151898836203,FORGOT?,
+151898836203,ЗАБЫЛІСЯ?,
 684020821358,<LoggedInAs>,<LoggedInAs>
 674217821028,<LinkedTo>,<LinkedTo>
-269897111890,Read Terms of Use,
-233932331790,Read Privacy Policy,
-781049228700,LOGIN,
-832052210088,LINK,
-921730739055,UNLINK,
-392324073070,LOG OUT,
-105754088378,Dont't have a Paradox account?,
-12311,CREATE ACCOUNT,
-437347877065,Sign up to enjoy all of Paradox,
-454693490675,E-mail,
-10400,Email address,
-311056524649,Password,
-550188014991,Date of Birth,
-736319381475,Country,
-7716,Read Terms of Use,
-7717,Read Privacy Policy,
-838793210805,I have read and accept the Terms of Use ,
-479560164468,I have read and understood the Privacy Policy,
-482718759015,REQUIRED,
-644311688887,I want to receive news and offers from Surviving Mars and Paradox Interactive,
-816278241152,CREATE ACCOUNT,
-332525583029,Already have a Paradox account?,
-507473038910,LOGIN,
-801206194403,PHOTO MODE,
+269897111890,Прачытайце ўмовы выкарыстаньня,
+233932331790,Прачытайце палітыку прыватнасьці,
+781049228700,УВАЙСЬЦІ,
+832052210088,СПАЛУЧЫЦЬ,
+921730739055,РАЗЛУЧЫЦЬ,
+392324073070,ВЫЙСЬЦІ,
+105754088378,Не маеце уліковы запіс Paradox?,
+12311,СТВАРЫЦЬ УЛІКОВЫ ЗАПІС,
+437347877065,Зарэгіструйцеся, каб карыстацца ўсім ад Paradox,
+454693490675,Электронная пошта,
+10400,Адрас электроннай пошты,
+311056524649,Пароль,
+550188014991,Дата нараджэньня,
+736319381475,Краіна,
+7716,Прачытайце ўмовы выкарыстаньня,
+7717,Прачытайце палітыку прыватнасьці,
+838793210805,Я прачытаў і прымаю ўмовы выкарыстаннья,
+479560164468,Я прачытаў і зразумеў палітыку прыватнасьці,
+482718759015,АБАВЯЗКОВА,
+644311688887,Я хачу атрымліваць навіны й прапановы ад Surviving Mars і Paradox Interactive,
+816278241152,СТВАРЫЦЬ УЛІКОВЫ ЗАПІС,
+332525583029,Ужо ёсьць уліковы запіс Paradox?,
+507473038910,УВАЙСЬЦІ,
+801206194403,ФОТАРЭЖЫМ,
 730563403228,<text>,
 522319645304,"<em><ShortcutName('actionPanUp')>, <ShortcutName('actionPanDown')>, <ShortcutName('actionPanLeft')>, <ShortcutName('actionPanRight')></em> Move, hold <em>Ctrl</em> Move faster, hold <em>Alt</em> Release mouse cursor.",
-650277449050,"<LS> - move, <RS> - rotate.",
-11872,"<LS> - move, <RS> - rotate, hold <LT> - release mouse cursor.",
+650277449050,"<LS> - рухаць, <RS> - вярцець.",
+11872,"<LS> - рухаць, <RS> - вярцець, hold <LT> - адпусьціць курсор мышы.",
 5469,СКІНУЦЬ,
-954580699514,TAKE SCREENSHOT,
+954580699514,ЗРАБІЦЬ ЗДЫМ ЭКРАНА,
 357021532351,TOGGLE UI,
-494688646361,PAUSE,
-326024522451,RESUME,
+494688646361,ПАЎЗА,
+326024522451,ПРАЦЯГНУЦЬ,
 415232371915,<PinSummary>,<PinSummary>
 931381024216,АГЛЯД ПЛАНЕТЫ,
 960994412922,АДПРАВІЦЬ ЭКСПЕДЫЦЫЮ,
@@ -19752,7 +19744,7 @@ Research cost<right><ResearchPoints(cost)>",
 945506235214,Грузападымальнасьць ракеты,
 189122132072,Грузападымальнасьць капсулы,
 475005233850,Адпаведныя кандыдаты,
-914238670538,Даступныя рэзідэнцыі на Марсе,
+914238670538,Даступнае жыльлё на Марсе,
 386907088421,Спэцыялісты на борце,
 223702992751,Спэцыялісты,
 12312,<approved>/<all>,<approved>/<all>
@@ -20541,7 +20533,7 @@ Export Amount<right><resource(TradeAmount)>",
 780257254823,<SensorTowerWorking>,<SensorTowerWorking>
 100126309474,<WorkingSensorTowersCount>,<WorkingSensorTowersCount>
 713912271716,<CurrentPredictionTime>,<CurrentPredictionTime>
-462868881410,"Вызначае радыус, у якім <em>Дроны</em> здабываюць рэсурсы або будуюць, абслугоўваюць і чысьцяць будынкі.<newline><newline>Дыяпазон абслугоўваньня<right><SelectionRadiusScale> гексаў<newline><left>Будаўнічыя пляцоўкі<right><count(constructions)>",
+462868881410,"Вызначае радыус, у якім <em>Дроны</em> здабываюць рэсурсы або будуюць, абслугоўваюць і чысьцяць будынкі.<newline><newline>Дыяпазон абслугоўваньня<right><SelectionRadiusScale> гэксаў<newline><left>Будаўнічыя пляцоўкі<right><count(constructions)>",
 253409130526,<LB> / <RB>    змяніць радыус абслугоўваньня,
 994862568830,Зона абслугоўваньня,
 10461,<em>Дроны</em> й <em>Шатлы</em> паспрабуюць назапасіць мінімум <DesiredAmountUI> запасаў рэсурсаў тут.,
