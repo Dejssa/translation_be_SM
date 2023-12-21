@@ -23,14 +23,16 @@
 - Mission Control - Камандны Цэнтр
 - Drones Hub - ЦК дронаў
 - Standing - адносіны
-- Controller - Кантрольлер
-- РК Commander - РК Кардынатар
+- Controller - Кантроллер
+- RC Commander - РК Кардынатар
+- RC Seeker - РК Шукач
 
 ## Рэсурсы
 - Waste Rock - Пустая парода
 
 ## Будынкі
 
+- Residences - жыльлё
 - GHG Factory - ВПГ фабрыка
 - MOXIE - МЭРТ
 - Drone Hubs - ЦК Дронамі
@@ -40,6 +42,11 @@
 - Automatic Metals Extractor - Аўтаматычны мэталаэкстрактар
 
 ## Тэхналогіі
+- БІЁТЭНІКА
+- ІНЖЫНЭРЫЯ
+- РОБАТАТЭХНІКА
+- ФІЗЫКА
+- САЦЫЯЛЬНЫЯ
 - Mars Nouveau - Марс Нуво
 
 ## Каланісты
@@ -55,27 +62,64 @@
 
 ### Колёністы
 
-- Health - Здароўе
-- Sanity - Разважлівасьць
-- Morale - Маральны дух
+<!-- Стан -->
 - Earthsick - Тугаваньне па Зямлі
 - Sanity breakdown - Злом разважлівасьці
-- Social - Сацыяльныя
+- Sanity - Разважлівасьць
+- Morale - Маральны дух
+
+<!-- Пад рысы -->
+- Health - Здароўе
+- Social - Сацыяльнае
 - Relaxation - 
-- Exercise - 
-- Gaming - 
+- Exercise - Практыкаваньне
+- Gaming - Гульні
 - Shopping - Закупы
 - Luxury - 
-- Drinking - 
-- Gambling - 
+- Drinking - Выпіўка
+- Gambling - Азартныя гульні
 - Playing - 
 - Dining - Харчаваньне
 - Safari - 
 - Medical Checks - Мед. агляды
-- Performance - прадукцыйнасьць
+- Performance - Прадукцыйнасьць
+- Comfort - Камфорт
+- Medical - Медыцына
+
+<!-- Рысы -->
+- Alcoholic - Алкаголік
+- Chronic Condition - Хранічны стан
+- Coward - Баязліўца
+- Dust Sickness - Пясчаная хвароба
+- Glutton - Абжора
+- Gambler - Азартны
+- Hypochondriac - Іпахондрык
+- Idiot - Ідыёт
+- Infected - Інфіцыраваны
+- Loner - Самотнік
+- Lazy = Лянівы
+- Melancholic - Меланхолік
+- Composed - Трывалы,
+- Celebrity - Знакамітасьць
+- Empath - Эмпат
+- Enthusiast - Энтузіяст
+- Party Animal - Тусоўшчык
+- Fit - Ладны
+- Gamer - Гулец
+- Genius - Геній
+- Hippie - Хіпі
 
 ## Марс
+
 - Dust Devil - Пясчаны віхор
 - Dust Storm - Пясчаная бура
 - Holiday Rating - Рэйтынг адпачынку
 - Cold waves - Халодныя хвалі
+
+## Taямніцы
+- The Power of Three - Моц трох
+- The Dredgers - Драгеры
+- The Spheres - Сферы
+- The Inner Light - Унутранае сьвятло
+- The Artificial Intelligence - Штучны Інтэлект
+- The Marsgate - Брама Марса
