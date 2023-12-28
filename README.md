@@ -41,6 +41,14 @@
 - Moisture Vaporators - 
 - Automatic Metals Extractor - Аўтаматычны мэталаэкстрактар
 
+## Мапсаходы
+- RC Constructor - РК Канструктар
+- RC Driller - РК Сьвідроўшчык
+- RC Harvesters - РК Здабытчык
+- RC Seekers - РК Шукальнік
+- RC Generators - РК Гэнератары
+
+
 ## Тэхналогіі
 - БІЁТЭНІКА
 - ІНЖЫНЭРЫЯ
@@ -48,6 +56,8 @@
 - ФІЗЫКА
 - САЦЫЯЛЬНЫЯ
 - Mars Nouveau - Марс Нуво
+- Log-G - Нізкая гравітацыя
+- Amplify - Узмацніць
 
 ## Каланісты
 
@@ -67,11 +77,13 @@
 - Sanity breakdown - Злом разважлівасьці
 - Sanity - Разважлівасьць
 - Morale - Маральны дух
+- Flaw - Заган
+- Perks - Здольнасьці
 
 <!-- Пад рысы -->
 - Health - Здароўе
 - Social - Сацыяльнае
-- Relaxation - 
+- Relaxation - Разьнявольваньне
 - Exercise - Практыкаваньне
 - Gaming - Гульні
 - Shopping - Закупы
@@ -97,7 +109,7 @@
 - Idiot - Ідыёт
 - Infected - Інфіцыраваны
 - Loner - Самотнік
-- Lazy = Лянівы
+- Lazy - Лянівы
 - Melancholic - Меланхолік
 - Composed - Трывалы,
 - Celebrity - Знакамітасьць
@@ -108,6 +120,21 @@
 - Gamer - Гулец
 - Genius - Геній
 - Hippie - Хіпі
+- Nerd - Нерд
+- Religious - Рэлігійны
+- Rugged - Загартаваны
+- Saint - Сьвяты
+- Sexy - Сэксі
+- Survivor - Выжыўшы
+- Workaholic - Працаголік
+- Biorobot - Біёробат
+- Clone - Клон
+- Dreamer - Летуценьнік
+- Founder - Заснавальнік
+- Guru - Гуру
+- Martianborn - Марсіянароджаны
+- Refugee - Бежанец
+- Vegan - Вэган
 
 ## Марс
 
