@@ -34,12 +34,13 @@
 
 - Residences - жыльлё
 - GHG Factory - ВПГ фабрыка
-- MOXIE - МЭРТ
+- MOXIE - МЭРТ (Марсіянскі Эксперыментальны Вытваральнік Тлёну)
 - Drone Hubs - ЦК Дронамі
 - Prefab - Модуль
 - Wind Turbine - Ветраная турбіна
 - Moisture Vaporators - 
 - Automatic Metals Extractor - Аўтаматычны мэталаэкстрактар
+- MDS Laser - САМ Лазэр (Сістэма Аховы Марса)
 
 ## Мапсаходы
 - RC Constructor - РК Канструктар
