@@ -1300,7 +1300,7 @@ Before you get started, please take a moment to read our Privacy Policy.","Ві�
 9002,The most economical Dome design providing extremely limited habitable space and no capacity to host a Spire.,Самая эканамічная канструкцыя купалу забясьпечвае вельмі абмежаваную жылую плошчу й ня мае магчымасьці размясьціць шпіль.,
 5188,Oval Dome,Авальны купал,
 5189,Oval Domes,Авальныя купалы,
-5190,An elongated Dome design which has space for two Spires.,Падоўжаная купальная канструкцыя з мейсцам да двух шпіляў.,
+5190,An elongated Dome design which has space for two Spires.,Падоўжаная купальная канструкцыя зь мейсцам да двух шпіляў.,
 9003,Trigon Dome,Трыяганальны купал,
 9004,Trigon Domes,Трыяганальныя купалы,
 9005,"An alternative medium Dome configuration. Cheaper, but provides less habitable space.","Альтэрнатыўная сярэдняя канфігурацыя купалу. Танней, але забясьпечвае менш жылой плошчы.",
@@ -1413,7 +1413,7 @@ Before you get started, please take a moment to read our Privacy Policy.","Ві�
 
 Developed in the 20th century but first tested on a rover mission to Mars in the early 20s of the 21st century, that once experimental technology now forms the backbone of life support in our first Colony on an alien world.
 
-These instruments require nothing but power and regular maintenance and, of course, a connection to the lifeline of our Colony.","МЭРТ інструменты, якія выкарыстоўваюць МЭРТ (скарачэньне ад Марсіянскі Эксперыментальны Вытваральнік Тлёну) тэхнолёгію, вырабляць тлён з вялікай колькасьці CO2 ў атмасфэры Марсу.
+These instruments require nothing but power and regular maintenance and, of course, a connection to the lifeline of our Colony.","МЭРТ інструменты, якія выкарыстоўваюць МЭРТ (скарачэньне ад Марсіянскі Эксперыментальны Вытваральнік Тлёну) тэхнолёгію, вырабляць тлён зь вялікай колькасьці CO2 ў атмасфэры Марсу.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
@@ -1664,42 +1664,42 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 5283,Statue,Статуя,
 5292,"A tastefully arranged stone garden, following strict Zen rules.",З густам уладкаваны сад камянёў у адпаведнасьці з строгімі правіламі дзэн.,
 5290,Stone Garden,Сад камянёў,
-886987306987,Have 4 fully occupied Living Complexes,Have 4 fully occupied Living Complexes,
-461830129252,Housing Bubble,Housing Bubble,
-153735343793,Complete the Founder Stage,Complete the Founder Stage,
-463998263208,Founding Fathers,Founding Fathers,
-528782053501,Export 30 Rare Metals,Export 30 Rare Metals,
-455697218349,The Gold Must Flow,The Gold Must Flow,
-238728162719,Have 5 Martianborn colonists,Have 5 Martianborn colonists,
-327559036075,Baby Steps,Baby Steps,
-492192262201,Have a Dome with population 100 and no homeless citizens,Have a Dome with population 100 and no homeless citizens,
-384677172418,City Building,City Building,
-990026297222,Produce 1000 Concrete,Produce 1000 Concrete,
-418870631516,Russian Concrete,Russian Concrete,
-835293560099,"Produce 5 Polymers, 5 Machine Parts and 5 Electronics on Mars","Produce 5 Polymers, 5 Machine Parts and 5 Electronics on Mars",
-109451622778,The Means of Production,The Means of Production,
-670352505144,Research 25 technologies (repeatable technologies are counted once),Research 25 technologies (repeatable technologies are counted once),
-611257797429,Tech Boost,Tech Boost,
+886987306987,Have 4 fully occupied Living Complexes,Майце 4 поўнасьцю занятыя жылыя комплексы,
+461830129252,Housing Bubble,Жыльлёвая бурбалка,
+153735343793,Complete the Founder Stage,Завяршыце стадыю заснавальніку,
+463998263208,Founding Fathers,Бацькі-заснавальнікі,
+528782053501,Export 30 Rare Metals,Экспартуйце 30 рэдкіх мэталаў,
+455697218349,The Gold Must Flow,Золата павінна цячы,
+238728162719,Have 5 Martianborn colonists,Майце 5 марсіянароджаных колёністаў,
+327559036075,Baby Steps,Дзіцячыя крокі,
+492192262201,Have a Dome with population 100 and no homeless citizens,Майце купал з 100 колёністамі й ніводнага бяздомнага,
+384677172418,City Building,Забудова месту,
+990026297222,Produce 1000 Concrete,Вырабіце 1000 бэтону,
+418870631516,Russian Concrete,Расейскі бэтон,
+835293560099,"Produce 5 Polymers, 5 Machine Parts and 5 Electronics on Mars","Вырабіце 5 палімераў, 5 частак машын і 5 электронікі на Марсе",
+109451622778,The Means of Production,Сродкі вытворчасьці,
+670352505144,Research 25 technologies (repeatable technologies are counted once),"Дасьледуйце 25 тэнолёгій (паўтаральныя тэхнолёгіі, улічваюцца адзін раз)",
+611257797429,Tech Boost,Тэхнолёгічнае ўзмацненьне,
 10882,Average Comfort: <current>/<target>,Сярэдні камфорт: <current>/<target>,
-213053799455,Have a colony with at least 50 Colonists with average Comfort 80,Майце колёнію з мінімум 50 колёністаў зь сярэднім камфортам 80,
+213053799455,Have a colony with at least 50 Colonists with average Comfort 80,Майце колёнію зь мінімум 50 колёністаў зь сярэднім камфортам 80,
 645223119450,New Eden,Новы Эдэм,
-10876,Progress: <funding(current)>/<funding(target)>,Progress: <funding(current)>/<funding(target)>,
-140613558769,"Earn $2,000 M  from Tourists","Earn $2,000 M  from Tourists",
-668546976180,Tourist Trap,Tourist Trap,
-136641671099,Have a population of 200 colonists,Have a population of 200 colonists,
-351190390137,Serve the People,Serve the People,
-902770126715,Analyze all anomalies,Analyze all anomalies,
-291361258859,Under the Microscope,Under the Microscope,
-259694468737,Have 4 Fusion Reactors fully staffed and on 3 shifts,Have 4 Fusion Reactors fully staffed and on 3 shifts,
-170425616626,Cold Fusion,Cold Fusion,
-10877,Progress: <funding(current)>/<funding(target)>,Progress: <funding(current)>/<funding(target)>,
-802150886111,"Accumulate $35,000 M","Accumulate $35,000 M",
-191449868184,Fiscal Profits,Fiscal Profits,
-831840869483,"Have a VR Workshop, Art Workshop and Biorobotics Workshop","Майце майстэрні VR, Мастацтва, Біёробатаў",
+10876,Progress: <funding(current)>/<funding(target)>,Прагрэс: <funding(current)>/<funding(target)>,
+140613558769,"Earn $2,000 M  from Tourists","Зарабіць $2,000 млн. з турызму",
+668546976180,Tourist Trap,Пастка для турыстаў,
+136641671099,Have a population of 200 colonists,Майце 200 колёністаў,
+351190390137,Serve the People,Служыць народу,
+902770126715,Analyze all anomalies,Прааналізаваць усе анамаліі,
+291361258859,Under the Microscope,Пад мікраскопам,
+259694468737,Have 4 Fusion Reactors fully staffed and on 3 shifts,Майце 4 тэрмаядзерныя рэактары працуюшчыя ў 3 зьмены з поўным пэрсаналам,
+170425616626,Cold Fusion,Халодны сінтэз,
+10877,Progress: <funding(current)>/<funding(target)>,Прагрэс: <funding(current)>/<funding(target)>,
+802150886111,"Accumulate $35,000 M","Запасіць $35,000 млн.",
+191449868184,Fiscal Profits,Cкарбніца,
+831840869483,"Have a VR Workshop, Art Workshop and Biorobotics Workshop","Майце майстэрні ВР, Мастацтва, Біёробатаў",
 501393143773,Vocation Destination,Пакліканьне прызначэньня,
 496004694621,Construct a Wonder,Збудуйце цуд,
 551704435140,Wonderful Life,Выдатнае жыцьцё,
-864506930463,"Have 5 Domes, each with population of 200 Colonists or more","Майце 5 купалоў, кожны з насельніцтвам 200 колёністаў і больш",
+864506930463,"Have 5 Domes, each with population of 200 Colonists or more","Майце 5 купалоў, кожны з насельніцтвам 200 колёністаў ці больш",
 610101463949,A New Nation,Новая нацыя,
 547935715802,Have 200 Scientists,Майце 200 навукоўцаў,
 799852804431,Campus Life,Жыцьцё студэнтаў,
@@ -1711,7 +1711,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 910413199776,"Drill Baby, Drill","Капай, дзетка, капай",
 756340045094,Have 7 Wonders,Пабудуйце 7 цудаў,
 345588760269,Seven,Сем,
-660322242409,Research 100 Technologies (repeatable technologies are counted once),Дасьледуйце 100 тэхнолёгій (паўтаральныя тэхнолёгіі, улічваюцца адзін раз),
+660322242409,Research 100 Technologies (repeatable technologies are counted once),"Дасьледуйце 100 тэхнолёгій (паўтаральныя тэхнолёгіі, улічваюцца адзін раз)",
 150528747155,The Boundaries of Knowledge,Межы пазнаньня,
 342668768307,Reach population of 2000,Дасягнуць 2000 насельніцтва,
 726344005353,Civil Disorder,Грамадзянськія бязладзіцы,
@@ -1943,14 +1943,14 @@ Buildings can be set to operate in three <em>Work Shifts</em> - first, second an
 
 Некаторыя будынкі патрабуюць энэргію да працаваньня, другім – колёністы якія жывуць побач як працаўнікі.
 
-<em>Вытворчасьць</em> некаторых будынкаў адзначае як эфэктыўна яны працуюць. Гэта залежыць ад шмат фактараў такія як дасьледаваныя тэхналёніі, паляпшэньняў і колёністаў, якія працуюць у будынку.  Кваліфікаваныя спэцыялісты й працаўнікі з высокім маральным духам павялічваюць вытворчасьць будыку, Рэнэгаты й працаўнікі з нізькім маральным духам або другімі праблемамі могуць пашкодзіць.
+<em>Вытворчасьць</em> некаторых будынкаў адзначае як эфэктыўна яны працуюць. Гэта залежыць ад шмат фактараў такія як дасьледаваныя тэхналёніі, паляпшэньняў і колёністаў, якія працуюць у будынку.  Кваліфікаваныя спэцыялісты й працаўнікі з высокім маральным духам павялічваюць вытворчасьць будыку, Рэнэгаты й працаўнікі зь нізькім маральным духам або другімі праблемамі могуць пашкодзіць.
 
 Будынак працуе ў тры <em>Зьмены</em> - першая, другая й нацная. Адключэньне некаторых зьмен паменшыць спажэваньне энэргіі й вытворчасьць. ",
 5375,"Mars is a harsh environment and human life is only made possible due to incredibly durable structures - designed specifically to resist it.
 
 Every now and then, however, extremes will appear that will test the resilience of the colony on a much higher level. 
 
-","Марс мае жорсткае навакольле й жыцьцё чалавека магчыма толькі праз неверагодна трывалыя збудаваньні, спэцыяльна спраэктаваныя каб супрацяўляцца ім.
+","Марс мае жорсткае навакольле й жыцьцё чалавека магчыма толькі празь неверагодна трывалыя збудаваньні, спэцыяльна спраэктаваныя каб супрацяўляцца ім.
 
 Аднак час ад часу будуць з'яўляцца крайнасьці, якія выпрабуюць устойлівасць колёніі на значна большым узроўні.
 
@@ -2036,7 +2036,7 @@ Sulfur-based, waterless concrete is literally the foundation for every aspiring 
 
 Electrical power on Mars comes mostly from renewable and cheap sources such as wind power (<em>Wind Turbine</em>) and sunlight (<em>Solar Panel</em>), but also from fission (<em>Stirling Generator</em>) and fusion based sources (<em>Fusion Reactor</em>) as the technology available advances. It is then distributed via an extensive and durable cable network. 
 
-<em> Power Switches</em> can be used to dynamically manage the flow of power in case of damaged cables or low power situations.","Энэргія  <image UI/Icons/Sections/electricity_1.tga>  выпрацоўваецца з некалькі энэргетычных аб'ектаў і затым дастаўляюцца па ўсёй колёніі праз кабэлі й прылеглыя будынкі. Празмерная энэргія можа захоўвацца ў акумулятарах для надзвычайных сітуацый.
+<em> Power Switches</em> can be used to dynamically manage the flow of power in case of damaged cables or low power situations.","Энэргія  <image UI/Icons/Sections/electricity_1.tga>  выпрацоўваецца зь некалькі энэргетычных аб'ектаў і затым дастаўляюцца па ўсёй колёніі праз кабэлі й прылеглыя будынкі. Празмерная энэргія можа захоўвацца ў акумулятарах для надзвычайных сітуацый.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
@@ -2117,7 +2117,7 @@ Like water, it is supplied and distributed via pipes networks, in fact, sharing 
 
 Тлён - самы кароткатэрмовы рэсурс жыцьцезабесьпячэньня. Калі колёністы застануцца бяз тлёну, яны вельмі хутка загінуць. І хаця ў атмасфэры Марсу тлёну амаль няма, яна забясьпечвае вялікую колькасьць вуглякіслага газу, які наша бліскучая тэхнолёгія ""МЭРТ"" можа ператварыць у так неабходны тлён. 
 
-Падобна вадзе, ён падаецца й размяркоўваецца праз сеткі труб, па сутнасці, па тых жа трубах, якія выкарыстоўваюцца для размеркаваньня вады.",
+Падобна вадзе, ён падаецца й размяркоўваецца празь сеткі труб, па сутнасці, па тых жа трубах, якія выкарыстоўваюцца для размеркаваньня вады.",
 5390,"Polymers  <image UI/Icons/Sections/Polymers_1.tga>  can be naturally obtained from obsidian scattered on the Martian surface and, once colonists have settled, can also be synthesized in <em>Polymer Factories</em>. It is mainly used for the construction of power accumulators, <em>Domes</em> and Spires.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
@@ -2528,7 +2528,7 @@ The process is facilitated by Drones, which extract Waste Rock to lower the grou
 982004284583,Free Construction,Дармовае будаўніцтва,
 927563455049,The base production of all resources is doubled. Production from upgrades and other modifiers is unchanged.,Базавая вытворчасьць усіх рэсурсаў павялічваецца ўдвая. Вытворчасьць ад мадэрнізацыі й іншых мадыфікатараў ня змяняецца.,
 460108506014,Increased Production,Павелічэньне вытворчасьці,
-10547,Colonists can't lose Health or Sanity below 50 and cannot become Earthsick. There is no Founder stage. <NoAchievements()>,Колёністы ня могуць страціць <em>Здароўе</em> або <em>Разважлівасьць</em> меньш за 50 ды ня <em>Тугуюць па Зямлі</em>. Этап заснавальніка адсутнічае. <NoAchievements()>,
+10547,Colonists can't lose Health or Sanity below 50 and cannot become Earthsick. There is no Founder stage. <NoAchievements()>,Колёністы ня могуць страціць <em>Здароўе</em> або <em>Разважлівасьць</em> меньш за 50 ды ня <em>Тугуюць па Зямлі</em>. Этап заснавальніку адсутнічае. <NoAchievements()>,
 306398332726,Iron Colonists,Жалезныя колёністы,
 12820,"<grey>""Looking back, we were the luckiest people in the world. There was no choice but to be pioneers; no time to be beginners.""
 <right>Margaret Hamilton</grey><left>","<grey>""Азіраючыся назад, мы былі самымі шчаслівымі людзьмі ў свеце. Не было іншага выбару, як быць піянерамі; няма часу быць пачаткоўцам.""
@@ -3273,7 +3273,7 @@ With the Salvage tool active press <ButtonA> on the Cables close to the site of 
 
 Use <ButtonB> to cancel Salvage Tool mode.","Адкрыйце меню будоўлі й абярыце <em>Разабарць</em> з катэгорыі <em>Інфраструктура</em>.
 
-З актыўным інструментам <em>разаборкі</em> націсьніце <ButtonA> на Кабелі побач з мейсцам разобранага <em>Экстрактару Бэтона</em>, каб выдаліць іх.
+З актыўным інструментам <em>разаборкі</em> націсьніце <ButtonA> на Кабелі побач зь мейсцам разобранага <em>Экстрактару Бэтона</em>, каб выдаліць іх.
 
 Націсьніце <ButtonB> каб адмяніць рэжым <em>разаборкі</em>.",
 9151,"Open the Build Menu and select the <em>Salvage Tool</em> from the Infrastructure category.
@@ -3282,7 +3282,7 @@ With the Salvage tool active <left_click> on the Cables close to the site of the
 
 Use <right_click> to cancel Salvage Tool mode.","Адкрыйце меню будоўлі й абярыце <em>Разабарць</em> з катэгорыі <em>Інфраструктура</em>.
 
-З актыўным інструментам <em>разаборкі</em> <left_click> на Кабелі побач з мейсцам разобранага <em>Экстрактару Бэтона</em>, каб выдаліць іх.
+З актыўным інструментам <em>разаборкі</em> <left_click> на Кабелі побач зь мейсцам разобранага <em>Экстрактару Бэтона</em>, каб выдаліць іх.
 
 Націсьніце <right_click> каб адмяніць рэжым <em>разаборкі</em>.",
 9150,The Salvage Tool,The Salvage Tool,
@@ -3526,7 +3526,7 @@ Use <RT> to focus the Dome's Info Panel.",
 5677,No edible Food has been harvested,Ядомая ежа ня была сабрана,
 5676,Crop Failure,Неўраджай,
 7069,Crop failure reported,Паведамляецца пра неўраджай,
-5680,Founder Stage,Стадыя заснавальніка,
+5680,Founder Stage,Стадыя заснавальніку,
 8923,Drone Heavy Load,Дроны вельмі загружаны,
 8924,Shuttle Heavy Load,Шатлы вельмі загружаны,
 8925,No Fuel for Shuttles,Брак паліва для шатлаў,
@@ -9213,7 +9213,7 @@ Everyone is voicing their disdain with the Renegades and demands that we take ac
 759695017800,"Sanity Breakdown - Hello Darkness, My Old Friend","Sanity Breakdown - Hello Darkness, My Old Friend",
 220340351580,"A colonist has snapped, and after regaining consciousness, has plunged into the deepest depression.","A colonist has snapped, and after regaining consciousness, has plunged into the deepest depression.",
 828525431944,Who am I to judge?,"Хто я такі, каб судзіць?",
-352933879773,no change,бяз зьмен,
+352933879773,no change,бязь зьмен,
 712925396407,I would suggest seeking professional help.,Я б параіў зьвярнуцца па дапамогу да спэцыяліста.,
 781025256836,unknown outcome,невядомы вынік,
 557690492403,Together we could find the answer why the previous self was unwanted.,Together we could find the answer why the previous self was unwanted.,
@@ -12169,7 +12169,7 @@ Hospital Upgrade (<em>Remote Medic</em>) upgrade - decreases the total work slot
 6432,The Martian Network,The Martian Network,
 1076,"Wonder: <em>Mohole Mine</em> (<buildinginfo('MoholeMine')>) - Extracts Metals, Rare Metals and Waste Rock without the need of a deposit, while heating the surrounding area.
 
-<grey>Moholes are shafts that dig exceptionally deep in the Martian crust, releasing heat as part of a potential terraforming effort and, as a bonus, mining ore.</grey>","Цуд: <em>Шахта Мохол</em> (<buildinginfo('MoholeMine')>) - Здабывае мэталы, рэдкія мэталы й пустую пароду бяз неабходнасьці радовішча, адначасова награваючы навакольле.
+<grey>Moholes are shafts that dig exceptionally deep in the Martian crust, releasing heat as part of a potential terraforming effort and, as a bonus, mining ore.</grey>","Цуд: <em>Шахта Мохол</em> (<buildinginfo('MoholeMine')>) - Здабывае мэталы, рэдкія мэталы й пустую пароду бязь неабходнасьці радовішча, адначасова награваючы навакольле.
 
 <grey>Мохолы - гэта валы, якія прарываюцца надзвычай глыбока ў марсіянскай кары, вылучаючы цяпло ў рамках патэнцыйнага тэрафарміраваньня й, як бонус, здабычы руды.</grey>",
 6434,Project Mohole,Праэкт Мохол,
@@ -12177,7 +12177,7 @@ Hospital Upgrade (<em>Remote Medic</em>) upgrade - decreases the total work slot
 
 <grey>Martian concrete, made from equal parts regolith and sulfur, has some vast improvements over its Earth counterpart. Red concrete is stronger, more durable and can be recycled and reused simply by reheating it.</grey>","Цуд: <em>Экскаватар</em> (<buildinginfo('TheExcavator')>) - Вырабляе бэтон непасрэдна з марсіянскай глебы, ня патрабуючы радовішча.
 
-<grey>Марсіянскі бэтон, зроблены з роўных частак рэгаліту й сэры, мае некаторыя велізарныя паляпшэньні ў параўнаньні з зямным аналагам. Чырвоны бетон больш трывалы, даўгавечны й можа быць перапрацаваны й выкарыстаны паўторна, проста нагрэўшы яго.</grey>",
+<grey>Марсіянскі бэтон, зроблены з роўных частак рэгаліту й сэры, мае некаторыя велізарныя паляпшэньні ў параўнаньні зь зямным аналагам. Чырвоны бетон больш трывалы, даўгавечны й можа быць перапрацаваны й выкарыстаны паўторна, проста нагрэўшы яго.</grey>",
 6436,Large-scale Excavation,Маштабныя раскопкі,
 6483,"More <em>applicants</em> will start to appear on Earth.<if_all(has_dlc('kerwin'))>
 New Building: <em>TV Studio Workshop</em> (<buildinginfo('TVStudioWorkshopCCP1')>) - A workshop building which also generates funds for completing TV shows.</if>
@@ -12498,9 +12498,9 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 7598,<green>Dreamer's inspiration +<amount> (Dreamer)</color>,<green>Натхненьне летуценьніка +<amount> (Dreamer)</color>,
 7304,The Dreamers have emerged from the Mirages with renewed hope. +15 performance,Летуценьнікі выйшлі з Міражаў з новай надзеяй. Прадукцыйнасьць +15,
 6671,Dreamer,Летуценьнік,
-6629,One of the first Martian Colonists.,Адзін з першых колёністаў Марсу,
+6629,One of the first Martian Colonists.,Адзін зь першых колёністаў Марсу,
 6628,Founder,Заснавальнік,
-6648,Randomly spreads other traits of this colonist to persons in the same Dome with less than 3 traits.,Выпадковым чынам распаўсюджвае іншыя рысы гэтага колёніста на людзей у адным купале з менш чым 3мя рысамі.,
+6648,Randomly spreads other traits of this colonist to persons in the same Dome with less than 3 traits.,Выпадковым чынам распаўсюджвае іншыя рысы гэтага колёніста на людзей у адным купале зь менш чым 3мя рысамі.,
 6647,Guru,Гуру,
 7600,<green>Martian born Ingenuity <amount> (Martianborn)</color>,<green>Вынаходлівасць марсіяніна <amount> (Марсіянароджаны)</color>,
 6717,Martianborn Colonists never become Earthsick. The Martianborn group of techs can improve this trait significantly.,Народжаныя на Марсе колёністы ніколі ня тугуць па Зямлю. Група тэхнолёгій марсіянароджанах можа значна палепшыць гэтую рысу.,
@@ -14973,7 +14973,7 @@ Dubbed ""Experiment 03-K64"", the plan is that we construct a massive water tank
 9510,Construct a new Large Water Tank and fill it with water in order to attract wisps and observe their behavior closely. ,Construct a new Вялікі бак вады and fill it with water in order to attract wisps and observe their behavior closely. ,
 9822,Building is not working,Building is not working,
 9821,Construct new Large Water Tank,Construct new Вялікі бак вады,
-9823,Progress: <reg_param1>%,Progress: <reg_param1>%,
+9823,Progress: <reg_param1>%,Прагрэс: <reg_param1>%,
 9824,Waiting final results,Waiting final results,
 9511,St. Elmo’s Fire: Iridescent Spectacle,St. Elmo’s Fire: Iridescent Spectacle,
 9512,"In a vivid display of unearthly beauty, a surge in wisp activity far surpassing our most optimistic expectations played out before our eyes!","In a vivid display of unearthly beauty, a surge in wisp activity far surpassing our most optimistic expectations played out before our eyes!",
@@ -16211,7 +16211,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 939952339656,We would never share our secrets with treacherous scum like you!,We would never share our secrets with treacherous scum like you!,
 807554317011,"I don't believe we know each other enough for such a serious step in our relationship. Perhaps we will get there, some day.","Я ня лічу, што мы дастаткова ведаем адзін аднаго, каб зрабіць такі сур'ёзны крок у нашых адносінах. Магчыма, аднойчы, але ня зараз.",
 393233322659,We may not have put so much effort in research like you and we have no technologies to offer. There are more important things in life than science!,We may not have put so much effort in research like you and we have no technologies to offer. There are more important things in life than science!,
-837583412847,"I'm sorry, but your current research achievements are of no interest for us.","Выбачце, але вышыя дасягненьні ў дасьледаваньнях зараз ня інтэрасуюць нас.",
+837583412847,"I'm sorry, but your current research achievements are of no interest for us.","Выбачце, але вышыя дасягненьні ў дасьледаваньнях заразь ня інтэрасуюць нас.",
 11546,<NegotiationsContactTitle>,<NegotiationsContactTitle>,
 495316409698,"<rival_colony> is no longer offering <resource(number2, res2)> for <resource(number1, res1)>","<rival_colony> больш ня прапануе <resource(number2, res2)> за <resource(number1, res1)>",
 869467608381,Closed Trade Route,Закрыты гандлёвы шлях,
@@ -17207,7 +17207,7 @@ With the proper training, Trish Sanders can do both, however, we have to act fas
 
 With the proper training, Trish Sanders can do both, however, we have to act fast.",
 714351397790,Spy Games,Гульні шпіёнаў,
-150827210528,"An applicant slated to come to our colony has been listed as a desired applicant by a Rival Colony as well, obviously by mistake.","Кандыдат, які павінен быў прыехаць да нас, быў унесены ў спіс пажаданых суіскальнікаў калёніі-суперніка, відавочна памылкова.",
+150827210528,"An applicant slated to come to our colony has been listed as a desired applicant by a Rival Colony as well, obviously by mistake.","Кандыдат, які павінен быў прыехаць да нас, быў унесены ў сьпіс пажаданых суіскальнікаў калёніі-суперніка, відавочна памылкова.",
 200682516922,Send Sanders to training camp. We can't miss this opportunity.,Адправіць Сандэрса ў трэніровачны лагер. Мы ня можам прапусьціць гэтую магчымасьць.,
 425845952919,"After a hasty training and a trip to Mars, our agent has successfully infiltrated our rivals. Commence operation ""Spy Games"".","After a hasty training and a trip to Mars, our agent has successfully infiltrated our rivals. Commence operation ""Spy Games"".",
 272770950016,"Agent Sanders has established a communications channel with us. Initial plans are to steal any technology deemed of value.
@@ -18590,7 +18590,7 @@ Services: <em><list></em>","<description>
 263683247323,Receive <RefugeeCount> Refugees,Receive <RefugeeCount> Refugees,
 720933904817,Execute effect for the workplace of the colonist,Execute effect for the workplace of the colonist,
 1000736,", ",", ",
-207364138296,Progress: <current>/<target>,Progress: <current>/<target>,
+207364138296,Progress: <current>/<target>,Прагрэс: <current>/<target>,
 10919,<newline>Perfected in <sols> Sols,<newline>Perfected in <sols> Sols,
 10920,<newline>Completed in <sols> Sols,<newline>Completed in <sols> Sols,
 424227828326,Normal,Normal,
@@ -22271,7 +22271,7 @@ Larger networks will malfunction more often.",
 4062,<em><ShortcutName('actionDeployProbe')></em> Deploy an Orbital Probe and scan this Sector,<em><ShortcutName('actionDeployProbe')></em> Разгарніце арбітальны зонд і праскануйце гэты сэктар,
 10986,<left_click> Deploy an Orbital Probe and deep scan this Sector,<left_click> Разгарніце арбітальны зонд і глыбока праскануйце гэты сэктар,
 7908,<ButtonA> Zoom in,<ButtonA> Павялічыць,
-4059,<left_click> to deploy an Orbital Probe and deep scan this Sector,<left_click> каб пазгарніцб арбітальны зонд і глыбока прасканаваць гэты сэктар,
+4059,<left_click> to deploy an Orbital Probe and deep scan this Sector,<left_click> каб пазгарніць арбітальны зонд і глыбока прасканаваць гэты сэктар,
 4061,<em><ShortcutName('actionDeployProbe')></em> Deploy an Orbital Probe and deep scan this Sector,<em><ShortcutName('actionDeployProbe')></em> Разгарніце арбітальны зонд і глыбока праскануйце гэты сэктар,
 4063,Sector <u(display_name)>,Сэктар <u(display_name)>,
 1103,Colony Site,Мейсца колёніі,
@@ -22305,7 +22305,7 @@ Larger networks will malfunction more often.",
 13661,Exotic Minerals,Exotic Minerals,
 13662,"Exotic Minerals can only be obtained from Asteroids. They are a valuable construction material for expanding into the underground, and can be exported to earth to increase the Funding for the Colony.","Exotic Minerals can only be obtained from Asteroids. They are a valuable construction material for expanding into the underground, and can be exported to earth to increase the Funding for the Colony.",
 4142,Dust Devils,Пясчаныя віхры,
-4143,"Dust Devils contaminate buildings in their area with Martian Sand. Contaminated buildings require maintenance and may malfunction. Dust devils contaminate nearby buildings quickly, but disappear relatively fast.","Пясчаныя віхры забруджваюць будынкі ў сваёй мясцовасьці пяском. Забруджаныя будынкі патрабуюць абслугоўваньня й могуць працаваць няспраўна. Пясчаныя віхры хутка забруджваюць бліжэйшыя будынкі, але хутка зьнікаюць.",
+4143,"Dust Devils contaminate buildings in their area with Martian Sand. Contaminated buildings require maintenance and may malfunction. Dust devils contaminate nearby buildings quickly, but disappear relatively fast.","Пясчаныя віхры забруджваюць будынкі ў сваёй мясцовасьці пяском. Забруджаныя будынкі патрабуюць абслугоўваньня й могуць працаваць няспраўна. Пясчаныя віхры хутка забруджваюць будынкі побач, і хутка зьнікаюць.",
 4144,Dust Storms,Пясчаная бура,
 4145,Dust Storms contaminate all field buildings with dust and can last several Sols. Colonies in areas with intense Dust Storms will require shorter maintenance cycles. MOXIEs and Moisture Vaporators are not operational during Dust Storms.,Пясчаная буры забруджваюць усе будынкі звонку пылам і могуць працягвацца некалькі Солаў. Колёніі ў раёнах з інтэнсіўнымі пясчанымі бурамі маюць кароткія цыклы абслугоўваньня. <em>МЭРТы</em> й <em>Выпарнікі вільгаці</em> ня працуюць пад час бур.,
 4146,Meteors,Метэоры,
@@ -22988,7 +22988,7 @@ New Spire Building: <em><template_display_name></em> ","
 10388,"Your rating for <ModName> was submitted.
 Thank you for helping the Paradox family.","Ваша ацэнка <ModName> прынята.
 Дзякуй за дапамогу сям'і Paradox.",
-12428,"The mod <name> is not compatible with the current game version. Once installed, it might not be loaded or work correctly. Do you want to install it anyway?","Мод <name> ня сумяшчальны з бягучай версіяй гульні. Once installed, it might not be loaded or work correctly. Do you want to install it anyway?",
+12428,"The mod <name> is not compatible with the current game version. Once installed, it might not be loaded or work correctly. Do you want to install it anyway?","Мод <name> ня сумяшчальны зь бягучай версіяй гульні. Once installed, it might not be loaded or work correctly. Do you want to install it anyway?",
 10945,Do you want to uninstall the mod <ModName>?,Вы хочаце выдаліць мод <ModName>?,
 12448,"<if(hard)>The following mods require <u(name)> and will not be loaded if you disable it:
 
@@ -23009,7 +23009,7 @@ Thank you for helping the Paradox family.","Ваша ацэнка <ModName> пр
 </if>Вы ўсё роўна хочаце адключыць гэты мод?",
 12407,"The mod <u(name)> has been created with a newer version of the game and might not work correctly. Please, check for a game update. If a game update is currently not available, it might be forthcoming.
 
-Do you want to enable this mod anyway?","Мод <u(name)> быў створаны з новай версіяй гульні й можа ня працаваць належным чынам. Калі ласка, праверце наяўнасьць абнаўленьня гульні. Калі абнаўленьне гульні зараз недаступнае, магчыма, яно будзе неўзабаве.
+Do you want to enable this mod anyway?","Мод <u(name)> быў створаны з новай версіяй гульні й можа ня працаваць належным чынам. Калі ласка, праверце наяўнасьць абнаўленьня гульні. Калі абнаўленьне гульні заразь недаступнае, магчыма, яно будзе неўзабаве.
 
 Вы ўсё роўна хочаце ўключыць гэты мод?",
 12449,"The following dependencies have not been enabled:
@@ -23617,7 +23617,7 @@ Thank you for making Paradox better and safer.",
 662491165788,<InstalledSortTextUppercase>,<InstalledSortTextUppercase>,
 850495104319,No mods match the search criteria,Ніякія моды ня адпавядаюць крытэрыям пошуку,
 897422645672,No installed mods match the search criteria,Ніякія ўсталяваныя моды ня адпавядаюць крытэрыям пошуку,
-12452,Mod info could not be retrieved from the server. Check your network connection.,Не ўдалося атрымаць інфармацыю аб моды з сервера. Спраўдзіце падключэньне да сеткі.,
+12452,Mod info could not be retrieved from the server. Check your network connection.,Не ўдалося атрымаць інфармацыю аб моды зь серверу. Спраўдзіце падключэньне да сеткі.,
 250892778239,Clear all tags,Ачысьціць усе тэгі,
 10486,by <author>,ад <author>,
 650897364803,ENABLED,АКТЫЎНЫ,
@@ -23647,11 +23647,11 @@ Thank you for making Paradox better and safer.",
 5470,AUTO DETECT,AUTO DETECT,
 333279788004,<u(title)>,<u(title)>,
 12551,MOD OPTIONS,MOD OPTIONS,
-849084517790,RESET,СКІНУЦЬ,
+849084517790,RESET,СЬКІНУЦЬ,
 5447,APPLY,УЖЫЦЬ,
 13689,DLC INFO,DLC INFO,
 108518605856,BACK,НАЗАД,
-437247068170,LIST,СПІС,
+437247068170,LIST,СЬПІС,
 613161619069,NEXT,НАСТУПНЫ,
 10880,CHALLENGES,CHALLENGES,
 11440,"Challenge yourself to accomplish a specific objective within a time limit.
@@ -23683,7 +23683,7 @@ Mission parameters and colony site are predetermined.","Выклічце саб�
 Mission parameters and colony site are predetermined.","Паспрабуйце сябе каб дасягнуць пэўнай мэты за акрэсьлянны час.
 
 Параметры місіі й мейсца колёніі загадзя вызначаны.",
-10519,CHALLENGE MODE,РЭЖЫМ СПАБОРНІЦТВА,
+10519,CHALLENGE MODE,РЭЖЫМ СПАБОРНІЦТВУ,
 650579644429,Create the colony that you imagine and test how it works without worrying about survival threats.<newline><newline><NoAchievements()>,"Стварыце 
 колёнію, якую вы ўяўляеце ня турбуючыся аб выжываньні.<newline><newline><NoAchievements()>",
 144559490492,CREATIVE MODE,ТВОРЧЫ РЭЖЫМ,
@@ -23771,7 +23771,7 @@ Mission parameters and colony site are predetermined.","Паспрабуйце �
 522319645304,"<em><ShortcutName('actionPanUp')>, <ShortcutName('actionPanDown')>, <ShortcutName('actionPanLeft')>, <ShortcutName('actionPanRight')></em> Move, hold <em>Ctrl</em> Move faster, hold <em>Alt</em> Release mouse cursor.","<em><ShortcutName('actionPanUp')>, <ShortcutName('actionPanDown')>, <ShortcutName('actionPanLeft')>, <ShortcutName('actionPanRight')></em> Move, hold <em>Ctrl</em> Move faster, hold <em>Alt</em> Release mouse cursor.",
 650277449050,"<LS> - move, <RS> - rotate.","<LS> - рухаць, <RS> - вярцець.",
 11872,"<LS> - move, <RS> - rotate, hold <LT> - release mouse cursor.","<LS> - рухаць, <RS> - вярцець, hold <LT> - адпусьціць курсор мышы.",
-5469,RESET,СКІНУЦЬ,
+5469,RESET,СЬКІНУЦЬ,
 954580699514,TAKE SCREENSHOT,ЗРАБІЦЬ ЗДЫМ ЭКРАНА,
 357021532351,TOGGLE UI,TOGGLE UI,
 494688646361,PAUSE,ПАЎЗА,
@@ -24176,7 +24176,7 @@ Export Amount<right><resource(TradeAmount)>","Determines the amount of tradable 
 Export Amount<right><resource(TradeAmount)>",
 11553,<LB> / <RB>    change export amount,<LB> / <RB>    change export amount,
 504954621520,Export Amount,Export Amount,
-11253,"The following cargo is not necessary for the mission and it's waiting to be unloaded. If you force launch the Rocket, the cargo will be dumped in orbit to provide space for the mission.","Наступны груз ня патрэбны для місіі й чакае выгрузкі. Калі вы прымусова запусціце ракету, груз будзе скінуты на арбіту, каб забясьпечыць мейсца для місіі.",
+11253,"The following cargo is not necessary for the mission and it's waiting to be unloaded. If you force launch the Rocket, the cargo will be dumped in orbit to provide space for the mission.","Наступны грузь ня патрэбны для місіі й чакае выгрузкі. Калі вы прымусова запусціце ракету, груз будзе скінуты на арбіту, каб забясьпечыць мейсца для місіі.",
 761527590297,Unloading,Выгрузка,
 696833816815,<resource('Metals' )><right><metals(Stored_Metals)>,<resource('Metals' )><right><metals(Stored_Metals)>,
 729899810633,<resource('Concrete' )><right><concrete(Stored_Concrete)>,<resource('Concrete' )><right><concrete(Stored_Concrete)>,
@@ -24569,7 +24569,7 @@ Queue tasks by using <em>Shift + <right_click></em>","Гэта сьпіс зад
 452762661451,Capacity<right><resource(StoredAmount)>/<resource(max_shared_storage)>,Ёмістасьць<right><resource(StoredAmount)>/<resource(max_shared_storage)>,
 660271041264,<CarriedResourceStr>,<CarriedResourceStr>,
 7419,<Description>,<Description>,
-788,<center>The deposit is not exploitable with our current technology,<center>Зараз нашыя тэхнолёгіі ня дазваляюць нам дабывацб з гэтага радовішча,
+788,<center>The deposit is not exploitable with our current technology,<center>Зараз нашыя тэхнолёгіі ня дазваляюць нам дабываць з гэтага радовішча,
 7420,<Description>,<Description>,
 607170415280,A switch or a valve can be used to split the grid into two sections.,A switch or a valve can be used to split the grid into two sections.,
 7650,<left_click> Activate/Deactivate <newline><em>Ctrl + <left_click></em> Activate/Deactivate all,<left_click> Activate/Deactivate <newline><em>Ctrl + <left_click></em> Activate/Deactivate all,
@@ -24583,7 +24583,7 @@ Queue tasks by using <em>Shift + <right_click></em>","Гэта сьпіс зад
 489,Available resources,Даступныя рэсурсы,
 810,"<ResourceName><right><resource(Amount,max_amount,resource)>","<ResourceName><right><resource(Amount,max_amount,resource)>",
 787,Grade<right><grade_name>,Кляс<right><grade_name>,
-370449987367,Priority affects how often this building is serviced by Drones as well as its share of Power and life support. Notifications are not shown for buildings with low priority.<newline><newline>Current priority: <em><UIPriority></em>,"Прыярытэт уплывае на тое, як часта гэта стварэньне абслугоўваюць <em>Дроны</em>, а таксама яго долю энергіі й жыцьцезабеспячэньня. Стварэньні з нізкім прыярытэтам ня маюць апавяшчэньняў.<newline><newline>Бягучы прыарытэт: <em><UIPriority></em>",
+370449987367,Priority affects how often this building is serviced by Drones as well as its share of Power and life support. Notifications are not shown for buildings with low priority.<newline><newline>Current priority: <em><UIPriority></em>,"Прыярытэт уплывае на тое, як часта гэта стварэньне абслугоўваюць <em>Дроны</em>, а таксама яго долю энергіі й жыцьцезабеспячэньня. Стварэньні зь нізкім прыярытэтам ня маюць апавяшчэньняў.<newline><newline>Бягучы прыарытэт: <em><UIPriority></em>",
 369,Change Priority,Зьмена прыярытэту,
 7659,<ButtonA> Change priority<newline><ButtonX> Change priority of all <display_name_pl>,<ButtonA> Змяніць прыярытэт<newline><ButtonX> Змяніць прыярытэт ва ўсіх <display_name_pl>,
 10950,"<newline><center><em><ShortcutName('actionPriority', 'keyboard')></em> Increase Priority","<newline><center><em><ShortcutName('actionPriority', 'keyboard')></em> Павысіць прыярытэт",
@@ -24810,7 +24810,7 @@ Status: <on_off(IsResourceEnabled(res))>","Пераключыць захоўва
 ","<ButtonA> Пераключыць працоўную зьмену
 <ButtonX> Пераключыць працоўную зьмену для ўсіх <display_name_pl>
 ",
-7417,Working on a heavy workload will increase the building performance but inflicts Sanity and Health penalties on the Worker.<newline><newline>Current status: <em><UIOvertimeText></em>,"Праца з вялікай нагрузкай павышае прадукцыйнасьць будынка, але працоўнікі маюць зьніжэньне разважлівасьць і здароўя.<newline><newline>Бягучы стан: <em><UIOvertimeText></em>",
+7417,Working on a heavy workload will increase the building performance but inflicts Sanity and Health penalties on the Worker.<newline><newline>Current status: <em><UIOvertimeText></em>,"Праца зь вялікай нагрузкай павышае прадукцыйнасьць будынка, але працоўнікі маюць зьніжэньне разважлівасьць і здароўя.<newline><newline>Бягучы стан: <em><UIOvertimeText></em>",
 4211,Toggle Workload,Пераключыць працоўную нагрузку,
 736926488042,<left_click> Toggle Overtime  <newline><em>Ctrl + <left_click></em> Toggle Overtime for all <display_name_pl>,<left_click> Пераключыць звышурочныя <newline><em>Ctrl + <left_click></em> Пераключыць звышурочныя для ўсіх<display_name_pl>,
 762021223496,<ButtonA> Toggle Overtime <newline><newline><ButtonX> Toggle Overtime for all <display_name_pl>,<ButtonA> Пераключыць звышурочныя <newline><newline><ButtonX> Пераключыць звышурочныя для ўсіх<display_name_pl>,
