@@ -9,6 +9,7 @@
 
 ## Агульныя
 
+- IMM - ???
 - Mission sponsor - Фундатар місіі
 - Commander - Камандзір
 - Rival - супраціўнік
@@ -32,6 +33,7 @@
 
 ## Будынкі
 
+- Refinery - ПЗ (перапрацоўчы завод)
 - Residences - жыльлё
 - GHG Factory - ВПГ фабрыка
 - MOXIE - МЭРТ (Марсіянскі Эксперыментальны Вытваральнік Тлёну)
@@ -48,6 +50,7 @@
 - RC Harvesters - РК Здабытчык
 - RC Seekers - РК Шукальнік
 - RC Generators - РК Гэнератары
+- RC Dozers - РК Бульдозер
 
 
 ## Тэхналогіі
@@ -151,3 +154,7 @@
 - The Inner Light - Унутранае сьвятло
 - The Artificial Intelligence - Штучны Інтэлект
 - The Marsgate - Брама Марса
+- The Wildfire - Лясны пажар
+- The Beyond Earth - За Зямлёй
+- St. Elmo's Fire - Вогнішча сьвятога Эльму
+- Philosopher's Stone - Філёзофскі камень
