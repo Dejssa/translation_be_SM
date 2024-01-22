@@ -12016,9 +12016,9 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 6466,Nuclear Fusion,Nuclear Fusion,
 6463,"New Building: <em>MDS Laser</em> (<buildinginfo('MDSLaser')>) - Destroys falling meteors in its range.
 
-<grey>The low density of the Martian atmosphere makes meteors especially dangerous; this is why installing a reliable defense system against meteors is critical for our Colony’s long term survival.</grey>","Новы будынак: <em>MDS Laser</em> (<buildinginfo('MDSLaser')>) - Destroys falling meteors in its range.
+<grey>The low density of the Martian atmosphere makes meteors especially dangerous; this is why installing a reliable defense system against meteors is critical for our Colony’s long term survival.</grey>","Новы будынак: <em>САМ Лазэр</em> (<buildinginfo('MDSLaser')>) - Зьнішчае падаючыя мэтэоры ў сваім дыяпазоне.
 
-<grey>The low density of the Martian atmosphere makes meteors especially dangerous; this is why installing a reliable defense system against meteors is critical for our Colony’s long term survival.</grey>",
+<grey>Нізкая шчыльнасьць марсіянскай атмасфэры робіць мэтэоры асабліва небясьпечнымі; вось чаму ўстаноўка надзейнай сістэмы абароны ад метэораў мае вырашальнае значэньне для доўгатэрміновага выжываньня нашай колёніі.</grey>",
 6462,Meteor Defense System,Meteor Defense System,
 6469,"New Building: <em>Triboelectric Scrubber</em> (<buildinginfo('TriboelectricScrubber')>) - Emits pulses which reduce the Dust accumulated on buildings in its range.
 
@@ -12029,24 +12029,24 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 10514,"<if_all(has_dlc('gagarin'),is_sponsor('ESA'))>Low-G Lab, </if> Research Lab, Hawking Institute & Network Node Upgrade (<em>Amplify</em>) - Increases production by <param1>% but also increases Power consumption.
 
 <grey>""Your best and wisest refuge from all troubles is in your science.""
-<right>Ada Lovelace</grey><left>","<if_all(has_dlc('gagarin'),is_sponsor('ESA'))>Лабараторыя нізкай гравітацыі, </if> Дасьледчая лабараторыя, Інстытут Хокінга & Network Node Upgrade (<em>Amplify</em>) - Increases production by <param1>% but also increases Power consumption.
+<right>Ada Lovelace</grey><left>","<if_all(has_dlc('gagarin'),is_sponsor('ESA'))></em>Лабараторыя нізкай гравітацыі</em>, </if><em>Дасьледчая лабараторыя</em>, <em>Інстытут Хокінга</em> й <em>Аднаўленне сеткавага вузла</em> (<em>Узмацненьне</em>) - Павялічвае вытворчасьць на <param1>%, але й павялічвае спажываньне энэргіі.
 
-<grey>""Your best and wisest refuge from all troubles is in your science.""
-<right>Ada Lovelace</grey><left>",
+<grey>""Твой найлепшы і наймудрэйшы прытулак ад усіх бед у тваёй навуцы.""
+<right>Ада Лавлейс</grey><left>",
 6470,Research Amplification,Research Amplification,
 6473,"Fusion Reactor Upgrade (<em>Auto-regulator</em>) - reduces the amount of workers.
 
 <grey>""Our present nuclear fusion reactors are classified by the methods used to support the nuclear fusion reaction, which takes place at a temperature much hotter than the surface of the Sun.""
-<right>Wilson Greatbatch</grey><left>","Fusion Reactor Upgrade (<em>Auto-regulator</em>) - reduces the amount of workers.
+<right>Wilson Greatbatch</grey><left>","Аднаўленьне тэрмаядзернага рэактару (<em>Аўтарэгулятар</em>) - памяншае колькасьць працаўнікоў.
 
-<grey>""Our present nuclear fusion reactors are classified by the methods used to support the nuclear fusion reaction, which takes place at a temperature much hotter than the surface of the Sun.""
-<right>Wilson Greatbatch</grey><left>",
-6472,Fusion Autoregulation,Fusion Autoregulation,
+<grey>""Нашы сучасныя рэактары ядзернага сінтэзу класіфікуюцца па метадах, якія выкарыстоўваюцца для падтрыманьня рэакцыі ядзернага сінтэзу, якая адбываецца пры тэмпературы, значна вышэйшай за тэмпературу паверхні Сонца.""
+<right>Уілсан Грэйтбэтч</grey><left>",
+6472,Fusion Autoregulation,Аўтарэгуляцыя сінтэзу,
 6477,"Wonder: <em>Artificial Sun</em> (<buildinginfo('ArtificialSun')>) - Produces colossal amounts of Power. It provides light for nearby Solar Panels during the dark hours and heats the surrounding area. Consumes vast amounts of Water on startup.
 
-<grey>Unlocking the secrets of the stars is now within the grasp of humanity.</grey>","Wonder: <em>Штучнае Сонца</em> (<buildinginfo('ArtificialSun')>) - Produces colossal amounts of Power. It provides light for nearby Solar Panels during the dark hours and heats the surrounding area. Consumes vast amounts of Water on startup.
+<grey>Unlocking the secrets of the stars is now within the grasp of humanity.</grey>","Цуд: <em>Штучнае Сонца</em> (<buildinginfo('ArtificialSun')>) - Вырабляе вялізарную колькасьць энэргіі. Забясьпечвае сьвятлом сонечныя панэлі побач у цёмны час сутак і ацяпляе навакольле. Спажывае вялікую колькасьць вады пры запуску.
 
-<grey>Unlocking the secrets of the stars is now within the grasp of humanity.</grey>",
+<grey>Чалавецтву зараз магчыма адкрыцьцё таямніцы зорак.</grey>",
 6476,Micro Fusion,Мікра сынтэз,
 6479,"Wonder: <em>Omega Telescope</em> (<buildinginfo('OmegaTelescope')>) - Gives access to new Breakthrough Technologies and reduces overall research costs.
 
