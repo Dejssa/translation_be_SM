@@ -1059,9 +1059,9 @@ Before you get started, please take a moment to read our Privacy Policy.","Ві�
 4883,Built the Space Elevator,Збудуйце Касьмічны ліфт,
 4882,The Beanstalk,Бабовае сьцябло,
 4884,Build the Space Elevator,Пабудаваць Касьмічны ліфт,
-4886,Built the Geoscape Dome,Збудуйце Геопейзажны купал,
+4886,Built the Geoscape Dome,Збудуйце Купал Краеобразу,
 4885,Snow Globe,Сьнежны шар,
-4887,Build the Geoscape Dome,Пабудаваць Геопейзажны купал,
+4887,Build the Geoscape Dome,Пабудаваць Купал Краеобразу,
 4889,Built the Artificial Sun,Збудуйце Штучнае Сонца,
 4888,It's Always Sunny on Mars,На Марсе заўсёды сонечна,
 4890,Build the Artificial Sun,Пабудаваць Штучнае Сонца,
@@ -1533,7 +1533,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 5010,Artificial Sun,Штучнае Сонца,
 5011,Artificial Suns,Штучныя Сонцы,
 5012,This marvel of Martian engineering produces colossal amounts of Power. It provides light for nearby solar panels during the night in addition to heating the surrounding area. Consumes vast amounts of Water on startup.,This marvel of Martian engineering produces colossal amounts of Power. It provides light for nearby solar panels during the night in addition to heating the surrounding area. Consumes vast amounts of Water on startup.,
-5093,Geoscape Dome,Геопейзажны купал,
+5093,Geoscape Dome,Купал Краеобразу,
 5094,Geoscape Domes,Геопейзажныя купалы,
 5095,"A slice of Earth on Mars, this Dome increases the Comfort of all Residences within. It also increases the Sanity of its inhabitants every Sol.","A slice of Earth on Mars, this Dome increases the Comfort of all Residences within. It also increases the Sanity of its inhabitants every Сол.",
 8913,Expand Mohole I,Expand Mohole I,
@@ -9158,15 +9158,15 @@ The new organism is harmless but standard decontamination protocols suggest that
 
 The new organism is harmless but standard decontamination protocols suggest that it should be removed.",
 692959657151,Geo Life,Geo Life,
-418142763479,The unique mixture of habitat conditions within the Geoscape Dome has resulted in a new kind of bacterial life form evolving.,The unique mixture of habitat conditions within the Геопейзажны купал has resulted in a new kind of bacterial life form evolving.,
-774357050689,"Follow the protocol and sterilize the Geoscape Dome, perhaps there is an unseen danger there.","Follow the protocol and sterilize the Геопейзажны купал, perhaps there is an unseen danger there.",
-816903284390,Colonists in the Geoscape Dome lose <comfort_loss> Comfort,Colonists in the Геопейзажны купал lose <comfort_loss> Comfort,
-432642667402,Observe the life cycle of the organism in the Geoscape Dome ecosystem - this is a unique opportunity to learn!,Observe the life cycle of the organism in the Геопейзажны купал ecosystem - this is a unique opportunity to learn!,
+418142763479,The unique mixture of habitat conditions within the Geoscape Dome has resulted in a new kind of bacterial life form evolving.,The unique mixture of habitat conditions within the Купал Краеобразу has resulted in a new kind of bacterial life form evolving.,
+774357050689,"Follow the protocol and sterilize the Geoscape Dome, perhaps there is an unseen danger there.","Follow the protocol and sterilize the Купал Краеобразу, perhaps there is an unseen danger there.",
+816903284390,Colonists in the Geoscape Dome lose <comfort_loss> Comfort,Colonists in the Купал Краеобразу lose <comfort_loss> Comfort,
+432642667402,Observe the life cycle of the organism in the Geoscape Dome ecosystem - this is a unique opportunity to learn!,Observe the life cycle of the organism in the Купал Краеобразу ecosystem - this is a unique opportunity to learn!,
 623050970123,"We are forced to evacuate all Colonists until the Dome has been sterilized.
 
 <effect>Geoscape Dome will be closed off for <sols(disable_duration)> Sols.","We are forced to evacuate all Colonists until the Dome has been sterilized.
 
-<effect>Геопейзажны купал will be closed off for <sols(disable_duration)> Sols.",
+<effect>Купал Краеобразу will be closed off for <sols(disable_duration)> Sols.",
 834271547167,"Crucial life-support modules of the Dome are infected with the new bacteria discovered earlier, and their functionality hindered. ","Crucial life-support modules of the Dome are infected with the new bacteria discovered earlier, and their functionality hindered. ",
 987539322682,Organize the evacuation!,Organize the evacuation!,
 514355662437,"Our understanding of what is known as ""accelerated evolution"" has greatly increased and has shed light on many former mysteries within the field.
@@ -9174,7 +9174,7 @@ The new organism is harmless but standard decontamination protocols suggest that
 <effect>Gain <research(rp)>","Our understanding of what is known as ""accelerated evolution"" has greatly increased and has shed light on many former mysteries within the field.
 
 <effect>Gain <research(rp)>",
-942658394545,Observing the new life within the Geoscape Dome has proven to be of great scientific value to us.,Observing the new life within the Геопейзажны купал has proven to be of great scientific value to us.,
+942658394545,Observing the new life within the Geoscape Dome has proven to be of great scientific value to us.,Observing the new life within the Купал Краеобразу has proven to be of great scientific value to us.,
 435116994823,Good job!,Good job!,
 164344231102,"The formation hints of active lava flows during a time when they were considered to have been geologically dead for millions of years. 
 
@@ -11583,143 +11583,143 @@ The kid's parents held an impromptu wake for the fallen hero.",
 11099,Wind Turbine Redesign,Wind Turbine Redesign,
 6321,"Moisture Vaporator Upgrade (<em>Hygroscopic Coating</em>) - Water production increased by <param1>%.
 
-<grey>With its mechanical simplicity and applicability to any point on Mars's surface, the Water-Vapor Adsorption Reactor technology can extract water directly from the Martian atmosphere.</grey>","Moisture Vaporator Upgrade (<em>Hygroscopic Coating</em>) - Water production increased by <param1>%.
+<grey>With its mechanical simplicity and applicability to any point on Mars's surface, the Water-Vapor Adsorption Reactor technology can extract water directly from the Martian atmosphere.</grey>","Паляпшэньне Выпарнікаў вільгаці (<em>Гіграскапічнае пакрыцьцё</em>) - Вытворчасьць вады павялічана на <param1>%.
 
-<grey>With its mechanical simplicity and applicability to any point on Mars's surface, the Water-Vapor Adsorption Reactor technology can extract water directly from the Martian atmosphere.</grey>",
-6320,Hygroscopic Vaporators,Hygroscopic Vaporators,
+<grey>Дзякуючы механічнай прастаце й магчымасьці прымяненьня ў любой кропцы паверхні Марсу, тэхналогія рэактару адсорбцыі вадзянога пару можа здабываць ваду непасрэдна з марсіянскай атмасфэры.</grey>",
+6320,Hygroscopic Vaporators,Гіграскапічныя выпарнікі,
 6323,"New Building: <em>Farm</em> (<buildinginfo('Farm')>) - Produces Food. Large in-Dome building which is more work-efficient and requires no Power.
 
 <grey>""They say once you grow crops somewhere you’ve officially colonized it.""
-<right>Andy Weir – The Martian</grey><left>","Новы будынак: <em>Farm</em> (<buildinginfo('Farm')>) - Produces Food. Large in-Dome building which is more work-efficient and requires no Power.
+<right>Andy Weir – The Martian</grey><left>","Новы будынак: <em>Фэрма</em> (<buildinginfo('Farm')>) - Вырабляе ежу. Вялікі купальны будынак, які больш эфэктыўны й не патрабуе энэргіі.
 
-<grey>""They say once you grow crops somewhere you’ve officially colonized it.""
-<right>Andy Weir – The Martian</grey><left>",
-6322,Soil Adaptation,Soil Adaptation,
+<grey>""Кажуць, калі вы недзе вырошчваеце ўраджай, значыць, вы яго афіцыйна каланізавалі.""
+<right>Эндзі Уір – Марсіянін</grey><left>",
+6322,Soil Adaptation,Глебавая адаптацыя,
 6344,"New Building: <em>Fungal Farm</em> (<buildinginfo('FungalFarm')>) -  An out-Dome building that produces Food.
 
 <grey>""All fungi are edible. Some fungi are only edible once."" 
-<right>Terry Pratchett</grey><left>","Новы будынак: <em>Fungal Farm</em> (<buildinginfo('FungalFarm')>) -  An out-Dome building that produces Food.
+<right>Terry Pratchett</grey><left>","Новы будынак: <em>Грыбная фэрма</em> (<buildinginfo('FungalFarm')>) - Буднак звонку купалу, што вырабляе ежу.
 
-<grey>""All fungi are edible. Some fungi are only edible once."" 
-<right>Terry Pratchett</grey><left>",
-6343,Low-G Fungi,Low-G Fungi,
+<grey>""Усе грыбы ядомыя. Некаторыя грыбы ядомыя толькі адзін раз."" 
+<right>Тэры Пратчэт</grey><left>",
+6343,Low-G Fungi,Грыбы Нізкай-Г,
 6326,"MOXIE Upgrade (<em>Magnetic Filtering</em>) - Oxygen production increased by <param1>%.
 
-<grey>Magnetic filters block ferromagnetic metal contaminants as well as weakly magnetic particles from the Martian atmosphere when inhaled by our MOXIEs, greatly increasing their efficiencies.</grey>","МЭРТ Upgrade (<em>Magnetic Filtering</em>) - Oxygen production increased by <param1>%.
+<grey>Magnetic filters block ferromagnetic metal contaminants as well as weakly magnetic particles from the Martian atmosphere when inhaled by our MOXIEs, greatly increasing their efficiencies.</grey>","Паляпшэньне МЭРТ (<em>Магнітная фільтрацыя</em>) - Вытворчасьць тлёну павялічана на <param1>%.
 
-<grey>Magnetic filters block ferromagnetic metal contaminants as well as weakly magnetic particles from the Martian atmosphere when inhaled by our MOXIEs, greatly increasing their efficiencies.</grey>",
-5125,Magnetic Filtering,Magnetic Filtering,
+<grey>Магнітныя фільтры блакуюць фэрамагнітныя мэталічныя забруджваньні, а таксама слабамагнітныя часьціцы з атмасфэры Марсу пры ўдыханьні нашымі МЭРТ, што значна павялічвае іх эфэктыўнасьць.</grey>",
+5125,Magnetic Filtering,Магнітная фільтрацыя,
 6328,"New Spire Building: <em>Water Reclamation System</em> (<buildinginfo('WaterReclamationSystem')>) - drastically reduces the Water consumption of the Dome.
 
-<grey>Water on Mars is abundant, yet it is mostly underground and in a frozen state – making it, while within reach, still difficult and expensive to mine. This makes recycling necessary to ensure a steady water supply.</grey>","New Spire Building: <em>Меліярацыя вады System</em> (<buildinginfo('WaterReclamationSystem')>) - drastically reduces the Water consumption of the Dome.
+<grey>Water on Mars is abundant, yet it is mostly underground and in a frozen state – making it, while within reach, still difficult and expensive to mine. This makes recycling necessary to ensure a steady water supply.</grey>","Новы шпіль: <em>Меліярацыя вады System</em> (<buildinginfo('WaterReclamationSystem')>) - рэзка зьніжае спажываньне вады купалам.
 
-<grey>Water on Mars is abundant, yet it is mostly underground and in a frozen state – making it, while within reach, still difficult and expensive to mine. This makes recycling necessary to ensure a steady water supply.</grey>",
+<grey>Вады на Марсе шмат, але ў галоўным яна знаходзіцца пад паверхняй і знаходзіцца ў замарожаным стане, што робіць яе здабычу, хаця яна знаходзіцца ў межах дасяжнаьсці, па-ранейшаму складанай і дарагой. Гэта робіць перапрацоўку неабходнай для забесьпячэньня стабільнага водазабесьпячэньня.</grey>",
 6327,Water Reclamation,Меліярацыя вады,
 6330,"Unlock <em>new crops</em> in Farms and Hydroponic Farms that provide Oxygen and improve soil quality.
 
-<grey>From the salad you eat to the air you breathe, plants have a fundamental role to play for humanity well beyond Earth.</grey>","Unlock <em>new crops</em> in Farms and Hydroponic Farms that provide Oxygen and improve soil quality.
+<grey>From the salad you eat to the air you breathe, plants have a fundamental role to play for humanity well beyond Earth.</grey>","Адкрывае <em>новыя культуры</em> ў Фэрмах і Гідрапонных фэрмах, што забясьпечваюць тлёнам і паляпшаюць якасьць глебы.
 
-<grey>From the salad you eat to the air you breathe, plants have a fundamental role to play for humanity well beyond Earth.</grey>",
-6329,Utility Crops,Utility Crops,
+<grey>Ад салаты, якую вы ясьце, да паветра, якім дыхаеце, расьліны адыгрываюць фундаментальную ролю для чалавецтва далёка па-за межамі Зямлі.</grey>",
+6329,Utility Crops,Карысныя культуры,
 6332,"<em>Martianborn</em> Colonists graduate faster in Universities and Sanatoriums and have higher chance to gain Perks from Schools.<if_all(has_dlc('kerwin'))>
 New Building: <em>Large Nursery</em> (<buildinginfo('LargeNurseryCCP1')>) - A larger nursery for housing more children.</if>
 
-<grey>Certain restrictions that still persist on Earth derived from religion and general conservatism are absent here on Mars. As a result, we have the freedom to genetically enhance our newborns and hone their already-sharp minds to a sharp point.</grey>","<em>Martianborn</em> Colonists graduate faster in Universities and Sanatoriums and have higher chance to gain Perks from Schools.<if_all(has_dlc('kerwin'))>
-Новы будынак: <em>Large Nursery</em> (<buildinginfo('LargeNurseryCCP1')>) - A larger nursery for housing more children.</if>
+<grey>Certain restrictions that still persist on Earth derived from religion and general conservatism are absent here on Mars. As a result, we have the freedom to genetically enhance our newborns and hone their already-sharp minds to a sharp point.</grey>","<em>Марсіянароджаныя</em> калёністы хутчэй заканчваюць універсітэты і санаторыі й маюць большы шанец атрымаць якасьцей у школах.<if_all(has_dlc('kerwin'))>
+Новы будынак: <em>Вялікі дзіцячы садок</em> (<buildinginfo('LargeNurseryCCP1')>) - садок, які змяшчае больш дзяцей.</if>
 
-<grey>Certain restrictions that still persist on Earth derived from religion and general conservatism are absent here on Mars. As a result, we have the freedom to genetically enhance our newborns and hone their already-sharp minds to a sharp point.</grey>",
-6331,Martianborn Adaptability,Martianborn Adaptability,
+<grey>Некаторыя з абмежаваньняў, якія ўсё яшчэ існуюць на Зямлі з-за рэлігіі й агульнага кансерватызму, не існуюць тут, на Марсе. У выніку мы маем волю гэнэтычна ўдасканальваць нашых нованароджаных і навострываць іх і без таго востры розум да вастрыні.</grey>",
+6331,Martianborn Adaptability,Адаптыўнасць марсіянароджаных,
 6325,"<em>Farms</em> increase the Comfort of all residences in the Dome.
 
-<grey>Seeing something green against the endless reddish barrens of Mars can be quite therapeutic.</grey>","<em>Farms</em> increase the Comfort of all residences in the Dome.
+<grey>Seeing something green against the endless reddish barrens of Mars can be quite therapeutic.</grey>","<em>Фэрмы</em> павялічваюць камфорт усяго жыльля ў купале.
 
-<grey>Seeing something green against the endless reddish barrens of Mars can be quite therapeutic.</grey>",
-6324,Biome Engineering,Biome Engineering,
+<grey>Убачыць нешта зялёнае на фоне бясконцых чырванаватых пустыняў Марсу можа быць даволі лячэбным.</grey>",
+6324,Biome Engineering,Інжынэрыя біёмаў,
 6336,"Residences in <em>Basic Domes, Micro Domes and Barrel Domes</em> have improved Comfort.
 
 <grey>“One touch of nature makes the whole world kin.”
-<right>William Shakespeare</grey><left>","Residences in <em>Basic Domes, Micro Domes and Barrel Domes</em> have improved Comfort.
+<right>William Shakespeare</grey><left>","Жыльлё ў <em>Базавых купалах, Мікра купалах і Бачкавы Купал</em> павялічвае камфорт.
 
-<grey>“One touch of nature makes the whole world kin.”
-<right>William Shakespeare</grey><left>",
-6335,Dome Bioscaping,Dome Bioscaping,
+<grey>“Адзін дотык да прыроды збліжае ўвесь сьвет.”
+<right>Уільям Шэкспір</grey><left>",
+6335,Dome Bioscaping,Купальная біёінжынэрыя,
 6338,"New Spire Building: <em>Medical Center</em> (<buildinginfo('MedicalCenter')>) - has larger capacity and is more effective than the Infirmary.
 
 <grey>“The good physician treats the disease; the great physician treats the patient who has the disease.” 
-<right>William Osler</grey><left>","New Spire Building: <em>Medical Center</em> (<buildinginfo('MedicalCenter')>) - has larger capacity and is more effective than the Infirmary.
+<right>William Osler</grey><left>","Новы шпіль: <em>Мэдыцынскі цэнтр</em> (<buildinginfo('MedicalCenter')>) - мае большую ёмістасьць і больш эфэктыўны за бальніцу.
 
-<grey>“The good physician treats the disease; the great physician treats the patient who has the disease.” 
-<right>William Osler</grey><left>",
-6337,Microgravity Medicine,Microgravity Medicine,
+<grey>“Добры лекар лечыць хваробу; вялікі лекар лечыць хворага пацыента.” 
+<right>Уільям Ослер</grey><left>",
+6337,Microgravity Medicine,Мікрагравітацыйная медыцына,
 6340,"Unlock <em>new crops</em> in Farms and Hydroponic Farms that provide better Food yields.
 
-<grey>The overall reputation of GMO grown foods has increased dramatically when the only other alternative for food is red dirt.</grey>","Unlock <em>new crops</em> in Farms and Hydroponic Farms that provide better Food yields.
+<grey>The overall reputation of GMO grown foods has increased dramatically when the only other alternative for food is red dirt.</grey>","Адкрывая <em>новыя культуры</em> ў Фэрмах і Гідрапоных Фэрмах, якія забясьпечваюць лепшыя ўраджаі ежы.
 
-<grey>The overall reputation of GMO grown foods has increased dramatically when the only other alternative for food is red dirt.</grey>",
-6339,Gene Adaptation,Gene Adaptation,
+<grey>Агульная рэпутацыя прадуктаў, вырашчаных з дапамогай ГМА, рэзка ўзрасла, калі адзінай альтэрнатывай стаў чырвоны бруд.</grey>",
+6339,Gene Adaptation,Адаптацыя гэнаў,
 8859,"New Building: <em>Biorobotics Workshop</em> (<buildinginfo('BioroboticsWorkshop')>) - a vocation building that allows colonists to experiment with biorobots (counts towards the workshop milestone). Consumes Machine Parts.
 
 <grey>""We are fascinated with robots because they are reflections of ourselves.""
-<right>Ken Goldberg</grey><left>","Новы будынак: <em>Biorobotics Workshop</em> (<buildinginfo('BioroboticsWorkshop')>) - a vocation building that allows colonists to experiment with biorobots (counts towards the workshop milestone). Consumes Machine Parts.
+<right>Ken Goldberg</grey><left>","Новы будынак: <em>Майстэрня біяробататэхніцы</em> (<buildinginfo('BioroboticsWorkshop')>) - будынак, які дазваляе калёністам эксперыментаваць зь біяробатамі (залічваецца ў этап майстэрні). Спажывае часткі машын.
 
-<grey>""We are fascinated with robots because they are reflections of ourselves.""
-<right>Ken Goldberg</grey><left>",
-8858,Creative Biorobotics,Creative Biorobotics,
+<grey>""Мы захапляемся робатамі, таму што яны з'яўляюцца адлюстраваньнем нас саміх.""
+<right>Кен Голдберг</grey><left>",
+8858,Creative Biorobotics,Творчая біяробататэхніка,
 7294,"Water consumption of <em>Domes</em> reduced by <param1>%.
 
 <grey>""No water, no life. No blue, no green.""
 <right>Sylvia Earle</grey><left>","Спажываньне вады <em>Купаламі</em> паменшана на <param1>%.
 
-<grey>""No water, no life. No blue, no green.""
-<right>Sylvia Earle</grey><left>",
-7293,Water Conservation System,Water Conservation System,
+<grey>""Няма вады, няма жыцця. Ані сіняга, ані зялёнага.""
+<right>Сільвія Эрл</grey><left>",
+7293,Water Conservation System,Сістэма водазберажэньня,
 6334,"<em>Farm, Hydroponic Farm & Fungal Farm</em> Upgrade: <em>Automation</em> - Decreases number of workers.
 
-<grey>Now that we have adapted crops to the Martian environment we can mechanize some procedures.</grey>","<em>Farm, Hydroponic Farm & Fungal Farm</em> Upgrade: <em>Automation</em> - Decreases number of workers.
+<grey>Now that we have adapted crops to the Martian environment we can mechanize some procedures.</grey>","Паляпшэньне <em>Фэрмы, Гідрапоннай фэрмы & Грыбной фэрмы</em>: <em>Аўтаматызацыя</em> - Памяньшае колькасьць працаўнікоў.
 
-<grey>Now that we have adapted crops to the Martian environment we can mechanize some procedures.</grey>",
-6333,Farm Automation,Farm Automation,
+<grey>Цяпер, калі мы адаптавалі пасевы да марсіянскага асяроддзя, мы можам механізаваць некаторыя працэдуры.</grey>",
+6333,Farm Automation,Аўтаматызацыя фэрм,
 6345,"New Spire Building: <em>Hanging Gardens</em> (<buildinginfo('HangingGardens')>) - a beautiful park complex that greatly improves the Comfort of all Residences in the Dome.
 
-<grey>One of humanity’s most enduring and fanciful legends from the ancient past is made a reality on Mars.</grey>","New Spire Building: <em>Вісячыя сады</em> (<buildinginfo('HangingGardens')>) - a beautiful park complex that greatly improves the Comfort of all Residences in the Dome.
+<grey>One of humanity’s most enduring and fanciful legends from the ancient past is made a reality on Mars.</grey>","Новы шпіль: <em>Вісячыя сады</em> (<buildinginfo('HangingGardens')>) - пекны паркавы комплекс, які значна павышае камфорт усяго жыльля ў купале.
 
-<grey>One of humanity’s most enduring and fanciful legends from the ancient past is made a reality on Mars.</grey>",
+<grey>Адна з самых трывалых і мудрагелістых легенд старажытнага мінулага спраўджваецца на Марсе.</grey>",
 3535,Hanging Gardens,Вісячыя сады,
 6347,"<em>Medical Center</em> Upgrade (Holographic Scanner) - Increases birth rate in the Dome.
 
-<grey>Holographic technologies can significantly improve medical diagnostics and monitoring procedures.</grey>","<em>Medical Center</em> Upgrade (Holographic Scanner) - Increases birth rate in the Dome.
+<grey>Holographic technologies can significantly improve medical diagnostics and monitoring procedures.</grey>","Паляпшэньне <em>Мэдыцынскага цэтру</em> (Галаграфічнае сканаваньне) – Павялічвае нараджальнасьць у купале.
 
-<grey>Holographic technologies can significantly improve medical diagnostics and monitoring procedures.</grey>",
-6346,Holographic Scanning,Holographic Scanning,
+<grey>Галаграфічныя тэхнолёгіі могуць значна палепшыць мэдыцынскую дыягностыку й працэдуры маніторынгу.</grey>",
+6346,Holographic Scanning,Галаграфічнае сканаваньне,
 6349,"New Building: <em>Moisture Vaporator</em> (<buildinginfo('MoistureVaporator')>) - Produces Water from the atmosphere. Doesn't produce during Dust Storms.
 
 <grey>""What I really need is a drone that understands the binary language of moisture vaporators.""
-<right>Unknown Martian Colonist</grey><left>","Новы будынак: <em>Moisture Vaporator</em> (<buildinginfo('MoistureVaporator')>) - Produces Water from the atmosphere. Doesn't produce during Dust Storms.
+<right>Unknown Martian Colonist</grey><left>","Новы будынак: <em>Выпарнік вільгаці</em> (<buildinginfo('MoistureVaporator')>) - Вырабляе ваду з атмасфэоы. Не працуе пад час пясчаных бур.
 
-<grey>""What I really need is a drone that understands the binary language of moisture vaporators.""
-<right>Unknown Martian Colonist</grey><left>",
-6348,Moisture Farming,Moisture Farming,
+<grey>""Мне сапраўды патрэбны дрон, які разумее бінарную мову выпарнікаў вільгаці.""
+<right>Невядомы марсіянскі калёніст</grey><left>",
+6348,Moisture Farming,Вільготнае вырошчваньне,
 6350,"Infirmary & Medical Center Upgrade (<em>Rejuvenation Treatment</em>) - Improves Service Comfort and provides Relaxation, allowing Colonists to visit and gain Comfort.
 
-<grey>You haven’t truly colonized a planet until you build the first Spa center on it.</grey>","Infirmary & Medical Center Upgrade (<em>Rejuvenation Treatment</em>) - Improves Service Comfort and provides Relaxation, allowing Colonists to visit and gain Comfort.
+<grey>You haven’t truly colonized a planet until you build the first Spa center on it.</grey>","Паляпшэньне Лазарэту & Мэдыцынскага цэнтру (<em>Амаладжальнае лячэньне</em>) - Павялічвае камфорт сэрвісу й забясьпечвае отдых, даваляя калёніста наведваць для атрыманьня камфорту.
 
-<grey>You haven’t truly colonized a planet until you build the first Spa center on it.</grey>",
+<grey>Вы фактычна не калёнізавалі планету, пакуль не пабудуеце на ёй свой першы Спа.</grey>",
 6354,"<em>Retirement age</em> and <em>death</em> from old age happen later in the Colonists' lifespan.
 
 <grey>""Live long and prosper""
-<right>Vulcan Salute</grey><left>","<em>Retirement age</em> and <em>death</em> from old age happen later in the Colonists' lifespan.
+<right>Vulcan Salute</grey><left>","<em>Пенсійны ўзрост</em> і <em>сьмерць</em> са старасьці адбываюцца пазней у жыцьця калёністаў.
 
-<grey>""Live long and prosper""
-<right>Vulcan Salute</grey><left>",
+<grey>""Жывіце доўга й квітнейце""
+<right>Вулканскі салют</grey><left>",
 6353,Stem Reconstruction,Рэканструкцыя ствала,
 6356,"New Wonder: <em>Geoscape Dome</em> (<buildinginfo('GeoscapeDome')>)  - A slice of Earth on Mars, this Dome has high Comfort and increases the Sanity of its inhabitants on every Sol.
 
 <grey>""It's a fixer-upper of a planet but we could make it work."" 
-<right>Elon Musk</grey><left>","New Wonder: <em>Геопейзажны купал</em> (<buildinginfo('GeoscapeDome')>)  - A slice of Earth on Mars, this Dome has high Comfort and increases the Sanity of its inhabitants on every Сол.
+<right>Elon Musk</grey><left>","Цуд: <em>Купал Краеобразу</em> (<buildinginfo('GeoscapeDome')>)  - Частка Зямлі на Марсе, гэты Купал мае высокі ўзровень камфорту й павышае разважлівасьць сваіх жыхароў што Сол.
 
-<grey>""It's a fixer-upper of a planet but we could make it work."" 
-<right>Elon Musk</grey><left>",
-6355,Localized Terraforming,Localized Terraforming,
+<grey>""Гэта планетарны фіксатар, але мы можам прымусіць яго працаваць."" 
+<right>Ілон Маск</grey><left>",
+6355,Localized Terraforming,Лакальнае тэрафармаваньне,
 6360,"<em>Rocket</em> Cargo Space increased by <param1> kg.
 
 <grey>The fuel section is by far the largest and, when full, the heaviest part of any rocket. This makes developing more compressed fuels especially important when striving to bring more to Mars with fewer rockets.</grey>","<em>Грузавое аддзяленьне ракеты</em> павялічана на <param1> кг.
@@ -12627,7 +12627,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 436795011549,Open Dome Cost Reduction (%),Зьніжэньне кошту адкрытага купал (%),
 720547470017,Open Dome Electricity Reduction (%),Зьніжэньне спажываньня энэргіі адкрытым купалам (%),
 12321,Open Dome Inside Buildings Maintenance Increase (%),Павышеньне кольскасьці абслугоўваньня будынкаў адкрытага купала (%),
-551006219175,Had a RC Dozer complete a landscaping project,Выкарыстайце РК Бульдозер каб завяршыць ландшафтны праэкт,
+551006219175,Had a RC Dozer complete a landscaping project,Выкарыстайце РК Бульдозер каб завяршыць праэкт краявіду,
 515692706685,Move this Mountain!,Перамясьці гэтую гару!,
 635877296126,Have a RC Dozer complete a landscaping project,Have a RC Dozer complete a landscaping project,
 255661398860,Harvested Seeds on Mars,Harvested Seeds on Mars,
@@ -14450,7 +14450,7 @@ With a closer look, you observe scores of creatures which crawl, swim and jump i
 125733583201,Look at these beauties!,Look at these beauties!,
 148696591717,"Ugh, um, they look okay, I guess.","Ugh, um, they look okay, I guess.",
 484466724024,The things I do for terraforming Mars.,The things I do for terraforming Mars.,
-515252262133,"The <em>Terraforming</em> field deals with Mars' global <em>Atmosphere, Temperature, Water and Vegetation</em>, <em>Special Projects</em>, production of <em>Seeds</em>, planting of <em>different vegetation types</em> and <em>landscaping</em>.","<em>Тэрафарміраваньне</em> зьвязана з Марсіянскімі <em>Атмасфэрай, Тэмпэратурай, Вадой і Расьліннасьцьцю</em>, <em>Спэцыяльнымі Праектамі</em>, вытворчасьцьцю <em>Насеньня</em>, пасадкай <em>рознай расьліннасьці</em> й <em>ландшафтным дызайнам</em>.",
+515252262133,"The <em>Terraforming</em> field deals with Mars' global <em>Atmosphere, Temperature, Water and Vegetation</em>, <em>Special Projects</em>, production of <em>Seeds</em>, planting of <em>different vegetation types</em> and <em>landscaping</em>.","<em>Тэрафарміраваньне</em> зьвязана з Марсіянскімі <em>Атмасфэрай, Тэмпэратурай, Вадой і Расьліннасьцьцю</em>, <em>Спэцыяльнымі Праектамі</em>, вытворчасьцьцю <em>Насеньня</em>, пасадкай <em>рознай расьліннасьці</em> й <em>дызайну краявіду</em>.",
 507853904264,TERRAFORMING,ТЭРАФАРМІРАВАНЬНЕ,
 590729739949,"Instantly gain <param1>% in all terraforming parameters.
 
@@ -14537,7 +14537,7 @@ New Building: <em>Forestation Plant</em> (<buildinginfo('ForestationPlant')>) - 
 839740460082,"<em>Drones</em> work faster on landscaping projects.
 
 <grey>""If geometry is dressed in a suit coat, topology dons jeans and a T-shirt."" 
-<right>David S. Richeson</grey><left>","<em>Дроны</em> працуюць хутчэй над ландшафтнымі праэктамі.
+<right>David S. Richeson</grey><left>","<em>Дроны</em> працуюць хутчэй над праэктамі краявіду.
 
 <grey>""Калі геяметрыя апранута ў паліто, то тапалёгія апранае джынсы й цішотку."" 
 <right>Дэвід С. Рычэсан</grey><left>",
@@ -15383,9 +15383,9 @@ This technological challenge to take advantage of what little wind there is on M
 743485382043,Threshold for RIval AI neutral standing,Threshold for RIval AI neutral standing,
 932206406649,Rival's standing reduction when not sending aid,Rival's standing reduction when not sending aid,
 10145,Workers in Corporate Offices receive Comfort penalty,Workers in Corporate Offices receive Comfort penalty,
-10167,Played as USA and had a Geoscape Dome with a Megamall before Sol 100,Грайючы за ЗША майце Геопейзажны купал з мэгагандлёвы цэнтр па 100 Сол,
+10167,Played as USA and had a Geoscape Dome with a Megamall before Sol 100,Грайючы за ЗША майце Купал Краеобразу з мэгагандлёвы цэнтр па 100 Сол,
 10166,Space Shopping,Касьмічныя закупы,
-10168,Play as USA and have a Geoscape Dome with a Megamall before Sol 100,"Грайце за ЗША, майце Геопейзажны купал з мэгагандлёвы цэнтр па 100 Сол",
+10168,Play as USA and have a Geoscape Dome with a Megamall before Sol 100,"Грайце за ЗША, майце Купал Краеобразу з мэгагандлёвы цэнтр па 100 Сол",
 10170,Played as China and had Tai-chi Gardens in 10 Domes before Sol 100,Грайючы за Кітай майце Сады Тайцзы ў 10 купалоў па 100 Сол,
 10169,Tao,Тао,
 10171,Play as China and have Tai-chi Gardens in 10 Domes before Sol 100,"Грайце за Кітай, майце Сады Тайцзы ў 10 купалоў па 100 Сол",
@@ -17527,7 +17527,7 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 612587501938,Remote Medic,Remote Medic,
 411881791085,Provides medic from Earth to reduce worker slot.,Provides medic from Earth to reduce worker slot.,
 502988062697,Hospitals,Hospitals,
-5103,Rejuvenation Treatment,Rejuvenation Treatment,
+5103,Rejuvenation Treatment,Амаладжальнае лячэньне,
 8045,Improves Service Comfort. Colonists can visit for Relaxation.,Improves Service Comfort. Colonists can visit for Relaxation.,
 399164777988,Exotic Mineral Treatment,Exotic Mineral Treatment,
 558807225108,+<upgrade2_add_value_1> Sanity and Health recovered when colonists visit.,+<upgrade2_add_value_1> Sanity and Health recovered when colonists visit.,
@@ -17717,7 +17717,7 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 87,Decorations,Упрыгажэньні,
 11408,Outside Decorations,Вонкавыя ўпрыгажэньні,
 88,Wonders,Цуды,
-12424,Landscaping,Ландшафтны дызайн,
+12424,Landscaping,Дызайн краявіду,
 1000155,Hidden,Hidden,
 151,Display Name (pl),Display Name (pl),
 152,Build Menu Category,Build Menu Category,
@@ -18893,14 +18893,14 @@ Services: <em><list></em>","<description>
 12894,<red>No longer excited about their time on Mars <amount> (Morale)</red>,<red>Больш не ў захапленьні ад свайго часу на Марсе <amount> (Маральны дух)</red>,
 12739,<red>Severly disappointed in their trip <amount> (Morale)</red>,<red>Моцна расчараваны сваёй паездкай <amount> (Маральны дух)</red>,
 7369,One with the collective <amount>,Разам з калектывам <amount>,
-13701,<em>Landscaping project.</em> Drones will produce Waste Rock from objects.,<em>Ландшафтны праэкт.</em> Дроны зьбяруць пустую пароду з аб'ектаў.,
-12029,Overlaping landscaping projects.,Ландшафтныя праэкты перакрваюцца.,
+13701,<em>Landscaping project.</em> Drones will produce Waste Rock from objects.,<em>Праэкт краявіду.</em> Дроны зьбяруць пустую пароду з аб'ектаў.,
+12029,Overlaping landscaping projects.,Праэкты краявіду перакрваюцца.,
 12030,Overlaping projects,Праэкты перакрываюцца,
 12031,Select a flat surface to extend.,Выберыце роўную паверхню для пашырэньня.,
 12032,Not flat,Няроўны,
-12033,Landscaping excavation is too deep.,Ландшафтны раскоп заглыбокі.,
+12033,Landscaping excavation is too deep.,Раскоп краявіду заглыбокі.,
 12034,Excavation too deep,Раскоп заглыбокі,
-12163,No more landscape projects can be placed.,Больш аніякіх ландшафтных праэктаў разьмяшчаць нельга.,
+12163,No more landscape projects can be placed.,Больш аніякіх праэктаў краявіду разьмяшчаць нельга.,
 12164,Too many projects,Зашмат праектаў,
 12165,"Project area covers too many hexes, or has become too wide.",Тэрыторыя праекта ахоплівае зашмат гексаў або стала занадта шырокай.,
 12166,Too large,Завялікі,
