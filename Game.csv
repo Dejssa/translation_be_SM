@@ -11602,7 +11602,7 @@ The kid's parents held an impromptu wake for the fallen hero.",
 
 <grey>""Усе грыбы ядомыя. Некаторыя грыбы ядомыя толькі адзін раз."" 
 <right>Тэры Пратчэт</grey><left>",
-6343,Low-G Fungi,Грыбы Нізкай-Г,
+6343,Low-G Fungi,Грыбы нізкай гравітацыі,
 6326,"MOXIE Upgrade (<em>Magnetic Filtering</em>) - Oxygen production increased by <param1>%.
 
 <grey>Magnetic filters block ferromagnetic metal contaminants as well as weakly magnetic particles from the Martian atmosphere when inhaled by our MOXIEs, greatly increasing their efficiencies.</grey>","Паляпшэньне МЭРТ (<em>Магнітная фільтрацыя</em>) - Вытворчасьць тлёну павялічана на <param1>%.
@@ -11711,7 +11711,7 @@ New Building: <em>Large Nursery</em> (<buildinginfo('LargeNurseryCCP1')>) - A la
 
 <grey>""Жывіце доўга й квітнейце""
 <right>Вулканскі салют</grey><left>",
-6353,Stem Reconstruction,Рэканструкцыя ствала,
+6353,Stem Reconstruction,Рэканструкцыя ствалу,
 6356,"New Wonder: <em>Geoscape Dome</em> (<buildinginfo('GeoscapeDome')>)  - A slice of Earth on Mars, this Dome has high Comfort and increases the Sanity of its inhabitants on every Sol.
 
 <grey>""It's a fixer-upper of a planet but we could make it work."" 
@@ -11749,11 +11749,11 @@ New Building: <em>Fuel Refinery</em> (<buildinginfo('FuelFactory')>)  - Produces
 6368,"New Building: <em>Apartments</em> (<buildinginfo('Apartments')>) - A Residential Building that houses many Colonists.
 
 <grey>""I suggest that going to Mars means permanence on the planet - a mission by which we are building up a confidence level to become a two-planet species.""
-<right>Buzz Aldrin</grey><left>","Новы будынак: <em>Apartments</em> (<buildinginfo('Apartments')>) - A Residential Building that houses many Colonists.
+<right>Buzz Aldrin</grey><left>","Новы будынак: <em>Кватэры</em> (<buildinginfo('Apartments')>) - Жылы дом, у якім пражывае шмат калёністаў.
 
-<grey>""I suggest that going to Mars means permanence on the planet - a mission by which we are building up a confidence level to become a two-planet species.""
-<right>Buzz Aldrin</grey><left>",
-6367,Low-G High-rise,Low-G High-rise,
+<grey>""Я мяркую, што палёт на Марс азначае сталась на планеце - гэта місія, з дапамогай якой мы нарошчваем узровень упэўненасьці, каб стаць відам з дзвюма планетамі..""
+<right>Базз Олдрын</grey><left>",
+6367,Low-G High-rise,Высоткі нізкай гравітацыі,
 6372,"<em>Passenger Rockets</em> carry <param1> more Colonists.
 
 <grey>Better design patterns and lighter, tougher materials have all contributed to a more advanced and compact rocket passenger module.</grey>","<em>Пасажырскія ракеты</em> умяшчаюць на <param1> больш калёністаў.
@@ -12875,7 +12875,7 @@ All Special Projects concerning the Terraforming of Mars are colored in <green>G
 754470867259,<new_in('armstrong')>Complete a Special Project,<new_in('armstrong')>Выканайце спэцпраект,
 532751737426,Research Adapted Vegetation and have a Forestation Plant with Plant Type set to a tree. Trees require high Temperature<icon_TemperatureTP_alt> and Water<icon_WaterTP_alt> terraforming progress.,"Дасьледуйце прыстасаваную расьліннасьць і падрыхтуйце <em>Лесапасадку</em> з тыпам расьліны, усталяваным на дрэва. Дрэвы патрабуюць высокай <em>Тэмпэратуры</em><icon_TemperatureTP_alt> й <em>Вады</em><icon_WaterTP_alt> ў <em>Терафарміраваньні</em>  .",
 194143329868,<new_in('armstrong')>Plant a Tree on the surface of Mars,<new_in('armstrong')>Пасадзіце дрэва на паверхні Марсу,
-594640680312,Research Lake Crafting and construct a Lake.,Дасьледуйце <em>Стварэньне возёр</em> і пабудуйце <em>Возера</em>.,
+594640680312,Research Lake Crafting and construct a Lake.,Дасьледуйце <em>Стварэньне азёр</em> і пабудуйце <em>Возера</em>.,
 637326803967,<new_in('armstrong')>Dig a Lake,<new_in('armstrong')>Выкапайце возера,
 196951125366,Have <tp_threshold('LiquidWater')> terraforming progress.,Патрабуе <tp_threshold('LiquidWater')> ў прогрэсе <em>Терафарміраваньня</em>.,
 625564457793,<new_in('armstrong')>Liquid Water on the surface of Mars,<new_in('armstrong')>Вадкая вада на паверхні Марсу,
@@ -14511,20 +14511,20 @@ As a side effect, one may expect a 5% boost in the field of Biotech.",
 New Building: <em>Forestation Plant</em> (<buildinginfo('ForestationPlant')>) - plants vegetation around it-self at the cost of Seeds. Increases local Soil Quality and improves  global Vegetation <icon_VegetationTP_alt>,
 
 <grey>""Vegetation is the basic instrument the creator uses to set all of nature in motion."" 
-<right>Antoine Lavoisier</grey><left>","New Resource: <em>Seeds</em> - used to plant vegetation on Mars. Can be brought from Earth or grown in Farms and Hydroponic Farms.
+<right>Antoine Lavoisier</grey><left>","Новы рэсурс: <em>Насеньне</em> - выкарыстоўваецца для пасадкі расьліннасьці на Марсе. Яго можна прывезьці зь Зямлі або вырасьціць на фэрмах і гідрапонных фэрмах.
 
-Новы будынак: <em>Лесапасадка</em> (<buildinginfo('ForestationPlant')>) - plants vegetation around it-self at the cost of Seeds. Increases local Soil Quality and improves  global Vegetation <icon_VegetationTP_alt>,
+Новы будынак: <em>Лесапасадка</em> (<buildinginfo('ForestationPlant')>) - саджае расьліннасьць вакол сябе за кошт насеньня. Гэта павышае якасьць мясцовай глебы й паляпшае глабальную расьліннасьць <icon_VegetationTP_alt>,
 
-<grey>""Vegetation is the basic instrument the creator uses to set all of nature in motion."" 
-<right>Antoine Lavoisier</grey><left>",
-11921,Martian Vegetation,Martian Vegetation,
+<grey>""Расьліннасьць - гэта асноўны інструмент, з дапамогай якога творца прыводзіць у рух усю прыроду."" 
+<right>Антуан Лавуазье</grey><left>",
+11921,Martian Vegetation,Марсіянская расьліннасьць,
 385971961965,"Unlocks the construction of <em>RC Dozer</em> - a vehicle that can be used for landscaping projects. RC Dozers can also be ordered from Earth.
 
 <grey>""There's something about taking a plow and breaking new ground. It gives you energy."" 
-<right>Ken Kesey</grey><left>","Unlocks the construction of <em>RC Dozer</em> - a vehicle that can be used for landscaping projects. RC Dozers can also be ordered from Earth.
+<right>Ken Kesey</grey><left>","Адкрывае будаўніцтва <em>РК Бульдозера</em> - марсаход, што можа працаваць з праэктамі краявіду. РК Бульдозер таксама магчыма замовіць зь Зямлі.
 
-<grey>""There's something about taking a plow and breaking new ground. It gives you energy."" 
-<right>Ken Kesey</grey><left>",
+<grey>""Ёсць нешта ў тым, каб узяць плуг і паараць зямлю. Гэта дае вам энергію."" 
+<right>Кен Кізі</grey><left>",
 11919,Dozer Rover,РК Бульдозер,
 962223751357,"Discover <param1> new <em>Planetary Anomalies</em>.
 
@@ -14561,19 +14561,19 @@ New Building: <em>Forestation Plant</em> (<buildinginfo('ForestationPlant')>) - 
 381802665786,"Raising the ground via <em>landscaping</em> costs less Waste Rock. Lowering ground via <em>landscaping</em> produces more Waste Rock.
 
 <grey>""We can look out on an alien landscape that no one has seen before and find it beautiful."" 
-<right>David Grinspoon</grey><left>","Raising the ground via <em>landscaping</em> costs less Waste Rock. Lowering ground via <em>landscaping</em> produces more Waste Rock.
+<right>David Grinspoon</grey><left>","Падыманьне рэльефу ў <em>Дызайне краявіду</em> каштуе менш пустой пароды. Паніжэньне рэльефу ў <em>Дызайне краявіду</em> вырабляе больш пустой пароды.
 
-<grey>""We can look out on an alien landscape that no one has seen before and find it beautiful."" 
-<right>David Grinspoon</grey><left>",
-11924,Conservation Landscaping,Conservation Landscaping,
+<grey>""Мы можам глядзець на іншапланетны краявід, якога ніхто раней ня бачыў, і лічыць яго прыгожым."" 
+<right>Дэвід Грынспун</grey><left>",
+11924,Conservation Landscaping,Ахова краявіду,
 736232359403,"Unlocks the <em>Import Greenhouse Gases</em> (improves Atmosphere <icon_AtmosphereTP_alt>) and <em>Capture Ice Asteroids</em> (improves Water <icon_WaterTP_alt>) special projects, accessible via the Planetary View.
 
 <grey>""If you want to lift yourself up, lift up someone else."" 
-<right>Booker T. Washington</grey><left>","Unlocks the <em>Import Greenhouse Gases</em> (improves Atmosphere <icon_AtmosphereTP_alt>) and <em>Capture Ice Asteroids</em> (improves Water <icon_WaterTP_alt>) special projects, accessible via the Агляд планеты.
+<right>Booker T. Washington</grey><left>","Адкрывае спэцыяльныя праэкты: <em>Імпарт парніковых газаў</em> (паляпшае атмасфэру <icon_AtmosphereTP_alt>) і <em>Захоп ледзянога астэроіду</em> (паляпшае ваду <icon_WaterTP_alt>), якія даступны ў <em>Аглядзе планеты</em>.
 
-<grey>""If you want to lift yourself up, lift up someone else."" 
-<right>Booker T. Washington</grey><left>",
-11925,Interplanetary Projects,Interplanetary Projects,
+<grey>""Калі вы хочаце падняць сябе, падніміце кагосьці іншага."" 
+<right>Букер Т. Вашынгтон</grey><left>",
+11925,Interplanetary Projects,Міжпланетныя праекты,
 515003279423,"Vegetation grows <param1>% faster.
 
 <grey>""Like people, plants respond to extra attention."" 
@@ -14585,19 +14585,19 @@ New Building: <em>Forestation Plant</em> (<buildinginfo('ForestationPlant')>) - 
 204436298423,"Unlocks the creation of <em>artificial lakes</em> via landscaping. Evaporating water improves local Soil Quality and  Water <icon_WaterTP_alt> of Mars.
 
 <grey>""The little lake you love is the biggest ocean for you!"" 
-<right>Mehmet Murat ildan</grey><left>","Unlocks the creation of <em>artificial lakes</em> via landscaping. Evaporating water improves local Soil Quality and  Water <icon_WaterTP_alt> of Mars.
+<right>Mehmet Murat ildan</grey><left>","Адкрывае стварэньне <em>штучных азёр</em> у краявідзе. Выпарэнне вады паляпшае мясцовую глебу й ваду <icon_WaterTP_alt> Марсу.
 
-<grey>""The little lake you love is the biggest ocean for you!"" 
-<right>Mehmet Murat ildan</grey><left>",
-11927,Lake Crafting,Стварэньне возёр,
+<grey>""Маленькае возера, якое вы любіце, для вас самы вялікі акіян!"" 
+<right>Мехмет Мурат Ільдан</grey><left>",
+11927,Lake Crafting,Стварэньне азёр,
 638420009620,"Unlocks planting of <em>Bushes</em> and <em>Trees</em> in Forestation Plants. Fully-grown Bushes and Trees are harvested for Seeds by Drones.
 
 <grey>""Trees are the earth's endless effort to speak to the listening heaven."" 
-<right>Rabindranath Tagore</grey><left>","Unlocks planting of <em>Bushes</em> and <em>Trees</em> in Forestation Plants. Fully-grown Bushes and Trees are harvested for Seeds by Drones.
+<right>Rabindranath Tagore</grey><left>","Адкрывае пасадку <em>Кустоў</em> і <em>Дрэў</em> у лесапасадках. Поўнарослыя кусты й дрэвы зьбіраюць на насеньне дронамі.
 
-<grey>""Trees are the earth's endless effort to speak to the listening heaven."" 
-<right>Rabindranath Tagore</grey><left>",
-11928,Adapted Vegetation,Adapted Vegetation,
+<grey>""Дрэвы - гэта бясконцыя намаганьні Зямлі размаўляць са слухаючымі нябёсамі."" 
+<right>Рабіндранат Тагор</grey><left>",
+11928,Adapted Vegetation,Прыстасаваная расьліннасьць,
 684081535262,"Wonder: <em>Carbonate Processor</em> (<buildinginfo('CarbonateProcessor')>) - improves the Atmosphere <icon_AtmosphereTP_alt> of Mars by burning Waste Rock.
 
 <grey>""When fire is applied to a stone it cracks.""</grey>","Цуд: <em>Вытворца карбону</em> (<buildinginfo('CarbonateProcessor')>) - паляпшае атмасфэру <icon_AtmosphereTP_alt> Марсу праз літаваньне пустой пароды.
@@ -14619,7 +14619,7 @@ New Building: <em>Forestation Plant</em> (<buildinginfo('ForestationPlant')>) - 
 
 <grey>""Калі б колькасьць гадзін, праведзеных у FarmVille, была выдаткавана на сапраўдную фэрму, уявіце, чаго б мы маглі дасягнуць."" 
 <right>Адам Дэл</grey><left>",
-11931,Domeless Farming,Бяскупальная гаспадарка,
+11931,Domeless Farming,Вонкавая гаспадарка,
 331593493607,"Wonder: <em>Magnetic Field Generator</em> (<buildinginfo('MagneticFieldGenerator')>) - decreases the loss of Atmosphere <icon_AtmosphereTP_alt> due to lack of magnetic field.
 
 <grey>""Magnetism, as you recall from physics class, is a powerful force that causes certain items to be attracted to refrigerators."" 
