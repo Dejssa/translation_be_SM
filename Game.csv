@@ -11256,11 +11256,11 @@ The kid's parents held an impromptu wake for the fallen hero.",
 6537,"Residents in the <em>Arcology</em> get a bonus to work performance based on the number of unique perks and specializations of colonists living in the Arcology.
 
 <grey>""The tools that a society uses to create and maintain itself are as central to human life as a hive is to bee life. Though the hive is not part of any individual bee, it is part of the colony, both shaped by and shaping the lives of its inhabitants.""
-<right>Clay Shirky</grey><left>","Residents in the <em>Арколёгія</em> get a bonus to work performance based on the number of unique perks and specializations of colonists living in the Арколёгія.
+<right>Clay Shirky</grey><left>","Жыхары <em>Арколёгіі</em> атрымліваюць бонус прадукцыйнасьці на аснове колькасьці унікальных якасьцей і спэцыялізацый калёністаў, якія жывуць у Аркалёгіі.
 
-<grey>""The tools that a society uses to create and maintain itself are as central to human life as a hive is to bee life. Though the hive is not part of any individual bee, it is part of the colony, both shaped by and shaping the lives of its inhabitants.""
-<right>Clay Shirky</grey><left>",
-6536,Hive Mind ,Hive Mind ,
+<grey>""Інструменты, якія грамадства выкарыстоўвае для стварэньня й падтрыманьня сябе, займаюць такое ж цэнтральнае мейсца ў жыцьці чалавека, як вулей у жыцьці пчол. Нягледзячы на тое, што вулей не з'яўляецца часткай якой-небудзь асобнай пчалы, ён з'яўляецца часткай калёніі, фармуючы й фарміруючы жыццьё сваіх насельнікаў.""
+<right>Клэй Шыркі</grey><left>",
+6536,Hive Mind ,Калектыўны розум,
 6539,"Colonists have a <param1>% chance to lose a <em>flaw</em> on their journey to Mars.
 
 <grey>It is never too late to improve on oneself, and the months spent traversing the void between Mars and Earth gives ample opportunity to do so.</grey>","Калёніст мае <param1>% шанец страціць <em>заган</em> на пуці да Марсу.
@@ -11269,16 +11269,16 @@ The kid's parents held an impromptu wake for the fallen hero.",
 6538,Space Rehabilitation,Касьмічная рэабілітацыя,
 6541,"<em>Recharge Stations</em> service Drones in a <param1> hex-range instantly.
 
-<grey>Tesla once predicted that wireless power would be obtainable anywhere on Earth, illuminating and powering vehicles in the most remote of places. Ultimately his prediction came true – he only got the planet wrong.</grey>","<em>Recharge Stations</em> service Drones in a <param1> hex-range instantly.
+<grey>Tesla once predicted that wireless power would be obtainable anywhere on Earth, illuminating and powering vehicles in the most remote of places. Ultimately his prediction came true – he only got the planet wrong.</grey>","<em>Станцыі падзарадкі</em> абслугоўваюць дроны ў радыусе <param1> гэксаў імгненна.
 
-<grey>Tesla once predicted that wireless power would be obtainable anywhere on Earth, illuminating and powering vehicles in the most remote of places. Ultimately his prediction came true – he only got the planet wrong.</grey>",
-6540,Wireless Power,Wireless Power,
+<grey>Аднойчы Тэсла прадказаў, што бесправадная энэргія будзе даступная ў любым пункце Зямлі, асьвятляючы й сілкуючы транспартныя сродкі ў самых аддаленых мейсцах. У рэшце рэшт яго прагноз спраўдзіўся - ён толькі памыліўся з планетай.</grey>",
+6540,Wireless Power,Бесправоднае сілкаваньне,
 6545,"Allows <em>Drones Prefabs</em> to be constructed in the Drone Assembler using Metals instead of Electronics.
 
-<grey>Made entirely out of 2-dimensional nanomaterials, printed electronics combine effective electronic properties with low-cost production.</grey>","Allows <em>Drones Prefabs</em> to be constructed in the Drone Assembler using Metals instead of Electronics.
+<grey>Made entirely out of 2-dimensional nanomaterials, printed electronics combine effective electronic properties with low-cost production.</grey>","<em>Модулі дронаў</em> зараз вырабляюцца з мэталаў замест элэктронікі.
 
-<grey>Made entirely out of 2-dimensional nanomaterials, printed electronics combine effective electronic properties with low-cost production.</grey>",
-6544,Printed Electronics,Printed Electronics,
+<grey>Вырабленыя цалкам з двухмерных нанаматэрыялаў, друкаваныя элэктронныя кампаненты спалучаюць эфэктыўныя электронныя ўласьцівасьці зь нізкімі вытворчымі выдаткамі.</grey>",
+6544,Printed Electronics,Друкаваная элэктроніка,
 6547,"Uncovers extremely rich underground <em>Metal</em> deposits.
 
 <grey>Increased detail in reading traces of tectonic activities from eons ago has enabled us to accurately predict where to find high-grade metals deep in the crust, only relatively recently pushed up from the Martian mantle.</grey>","Адкрывае надзвычай багатыя радовішча <em>Мэталаў</em>.
@@ -11299,16 +11299,16 @@ The kid's parents held an impromptu wake for the fallen hero.",
 6550,Core Rare Metals,Нетравыя рэдкія мэталы,
 6553,"Instant and free <em>power cable</em> construction. Power cables do not suffer from power faults.
 
-<grey>A hydrogel of high conductivity and electrical self-healing properties, without any external stimuli and of great strength and flexibility, has been developed based on Nanostructured Conductive Polymers.</grey>","Instant and free <em>power cable</em> construction. Power cables do not suffer from power faults.
+<grey>A hydrogel of high conductivity and electrical self-healing properties, without any external stimuli and of great strength and flexibility, has been developed based on Nanostructured Conductive Polymers.</grey>","<em>Кабелі</em> будуюцца адразу й бяз кошту. Сілавыя кабелі не схільныя збоям.
 
-<grey>A hydrogel of high conductivity and electrical self-healing properties, without any external stimuli and of great strength and flexibility, has been developed based on Nanostructured Conductive Polymers.</grey>",
-6552,Superior Cables,Superior Cables,
+<grey>На аснове нанаструктураваных токаправодных палімераў быў распрацаваны гідрагель з высокай праводнасьцю й элэктрычнымі ўласьцівасьцямі самааднаўленьня, пазбаўлены якіх-небудзь зьнешніх ушкод. У той жа час характарызуецца высокай трываласьцю й гнуткасьцю.</grey>",
+6552,Superior Cables,Палепшаныя кабелі,
 6555,"Instant and free <em>pipe</em> construction. Pipes don't suffer from leaks.
 
-<grey>A pressure-induced, self-healing coating with remarkable insulation properties has been developed and field-tested to be used en masse on our pipe system.</grey>","Instant and free <em>pipe</em> construction. Pipes don't suffer from leaks.
+<grey>A pressure-induced, self-healing coating with remarkable insulation properties has been developed and field-tested to be used en masse on our pipe system.</grey>","<em>Трубы</em> будуюцца адразу й бяз кошту. Трубы не працякаюць.
 
-<grey>A pressure-induced, self-healing coating with remarkable insulation properties has been developed and field-tested to be used en masse on our pipe system.</grey>",
-6554,Superior Pipes,Superior Pipes,
+<grey>Выкліканае ціскам самааднаўляльнае пакрыцьцё з выдатнымі ізаляцыйнымі ўласьцівасьцямі было распрацавана й выпрабавана ў палявых умовах для масавага выкарыстанбня ў нашай трубаправоднай сістэме.</grey>",
+6554,Superior Pipes,Палепшаныя трубы,
 6557,"Uncovers new Anomalies – <em>Alien Artifacts</em> – which provide a tech cost reduction to all fields when scanned.
 
 <grey>Hard as it is to believe, our observations suggest that intelligent life has visited Mars long ago and that remnants of these visits could still be here. These artifacts could help us improve and expand our understanding of the universe.</grey>","Адкрывае новыя анамаліі– <em>Артэфакты іншапланецян</em> – якія зьніжаюць кошт дасьледваньняў па сканаваньню.
@@ -11341,16 +11341,16 @@ The kid's parents held an impromptu wake for the fallen hero.",
 5088,Eternal Fusion,Вечны сітэз,
 6570,"Converts <em>unused Power</em> into Research Points.
 
-<grey>The ultra-cold environment that is Mars, combined with several recent breakthroughs in super conductors, has made the concept of superconductor computing, while still quite costly in terms of power, now manageable, thus opening the doors to the extremely fast superconductor computers.</grey>","Converts <em>unused Power</em> into Research Points.
+<grey>The ultra-cold environment that is Mars, combined with several recent breakthroughs in super conductors, has made the concept of superconductor computing, while still quite costly in terms of power, now manageable, thus opening the doors to the extremely fast superconductor computers.</grey>","Пераўтварае <em>нявыкарыстаную энэргію</em> ў дасьледваньні.
 
-<grey>The ultra-cold environment that is Mars, combined with several recent breakthroughs in super conductors, has made the concept of superconductor computing, while still quite costly in terms of power, now manageable, thus opening the doors to the extremely fast superconductor computers.</grey>",
-6569,Superconducting Computing,Superconducting Computing,
+<grey>Ультрахалоднае асяроддзе, якім з'яўляецца Марс, у спалучэньні з некалькімі нядаўнімі прарывамі ў галіне звышправаднікоў зрабілі канцэпцыю звышправадніковых вылічэньняў, хоць і па-ранейшаму даволі дарагой з пункту гледжаньня магутнасьці, але цяпер кіраванай, адкрываючы такім чынам дзверы для надзвычай хуткіх звышправадніковых кампутараў.</grey>",
+6569,Superconducting Computing,Звышправодныя вылічэньні,
 6572,"All Extractors continue to extract small amounts when their <em>deposit is depleted</em>.
 
-<grey>Leaving scattered molecules of the precious resource a mining facility was tasked with extracting has always bothered scientists as being just too cynically wasteful. Luckily, with new Nano Refinement precision tools, this wasteful tendency has been remedied.</grey>","All Extractors continue to extract small amounts when their <em>deposit is depleted</em>.
+<grey>Leaving scattered molecules of the precious resource a mining facility was tasked with extracting has always bothered scientists as being just too cynically wasteful. Luckily, with new Nano Refinement precision tools, this wasteful tendency has been remedied.</grey>","Усе экстрактары працягваюць працаваць з невялікай здабычай калі <em>радовішча зьнясілена</em>.
 
-<grey>Leaving scattered molecules of the precious resource a mining facility was tasked with extracting has always bothered scientists as being just too cynically wasteful. Luckily, with new Nano Refinement precision tools, this wasteful tendency has been remedied.</grey>",
-6571,Nano Refinement,Nano Refinement,
+<grey>Пакіданьне раскіданых часьціц каштоўнага рэсурсу, на здабычу якога быў заключаны кантракт з горназдабыўной кампаніяй, заўсёды непакоіла навукоўцаў, таму што гэта было занадта цынічна марнатраўна. На шчасьце, з новымі дакладнымі інструментамі «Нана апрацоўка» гэтая марнатраўная тэндэнцыя была ліквідавана.</grey>",
+6571,Nano Refinement,Нана апрацоўка,
 6574,"Drones carry <em>two resources</em> at once.
 
 <grey>Nature has long provided inspiration for technological advances. Muscles made from carbon fiber are the latest example of cutting-edge biotech and, mixed with Mars’s low gravity, our Drones have basically doubled their carrying capacity.</grey>","Дроны могуць несьці  <em>два рэсурса</em> адразу.
@@ -11395,13 +11395,13 @@ The kid's parents held an impromptu wake for the fallen hero.",
 6585,Martian Steel,Марсіянская сталь,
 6587,"Moisture Vaporator Upgrade (<em>Vector Pump</em>) - Water production increased by 100%.
 
-<grey>A new atmosphere pump design that doubles the volume of air processed by our Vaporators in a single Sol.</grey>","Moisture Vaporator Upgrade (<em>Vector Pump</em>) - Water production increased by 100%.
+<grey>A new atmosphere pump design that doubles the volume of air processed by our Vaporators in a single Sol.</grey>","Паляпшэньне выпарніку вільгаці (<em>Вэктарная помпа</em>) - Вытворчасьць вады павялічана на 100%.
 
-<grey>A new atmosphere pump design that doubles the volume of air processed by our Vaporators in a single Сол.</grey>",
-5171,Vector Pump,Vector Pump,
+<grey>Новая канструкцыя атмасфэрнай помпы, якая падвойвае аб'ём паветра, які апрацоўваецца нашымі выпарнікамі ў Сол.</grey>",
+5171,Vector Pump,Вэктарная помпа,
 6588,"Fungal Farm Upgrade (<em>Superfungus</em>) - Increases production while increasing Oxygen consumption.
 
-<grey>Historically, lab mistakes involving fungi have rarely been a cause for celebration. A recent mishap in the lab seems to be an exception, as we have created a new breed of fungi which hold much promise.</grey>","Паляпшэньне грыбнай фэрмы (<em>Супэр грыб</em>) - Павялічвае выраб тым часам павялічваючы спажываньне тлёну.
+<grey>Historically, lab mistakes involving fungi have rarely been a cause for celebration. A recent mishap in the lab seems to be an exception, as we have created a new breed of fungi which hold much promise.</grey>","Паляпшэньне грыбнай фэрмы (<em>Супэр грыб</em>) - Павялічвае вытворчасьць тым часам павялічваючы спажываньне тлёну.
 
 <grey>Гістарычна склалася так, што лабараторныя памылкі з грыбамі рэдка былі прычынай для святкаваньня. Нядаўняя аварыя ў лабараторыі, здаецца, выключэньне, бо мы стварылі новую пароду грыбоў, якая шматабяцальная.</grey>",
 5081,Superfungus,Супэр грыб,
@@ -11486,10 +11486,10 @@ The kid's parents held an impromptu wake for the fallen hero.",
 7921,Prefab Compression,Сціск модуляў,
 7924,"<em>Metals Extractors</em> and <em>Rare Metals Extractors</em> can work without crews at <param1> performance.
 
-<grey>Extracting algorithms have been successfully implemented by our new Extractor AI, allowing for a certain degree of autonomy in mining operations.</grey>","<em>Metals Extractors</em> and <em>Rare Metals Extractors</em> can work without crews at <param1> performance.
+<grey>Extracting algorithms have been successfully implemented by our new Extractor AI, allowing for a certain degree of autonomy in mining operations.</grey>","<em>Экстрактары мэталаў</em> і <em>Экстрактары рэдкіх мэталаў</em> могуць працаваць без экіпажу з <param1> прадукцыйнасьцю.
 
-<grey>Extracting algorithms have been successfully implemented by our new Extractor AI, allowing for a certain degree of autonomy in mining operations.</grey>",
-7923,Extractor AI,Extractor AI,
+<grey>Алгарытмы экстрактараў былі пасьпяхова рэалізаваны ў нашым новым ШІ Экстраткару, што забясьпечвае пэўную аўтаномнасьць у здабычы.</grey>",
+7923,Extractor AI,ШІ Экстрактараў,
 7925,"<em>Non-medical Service Buildings</em> Upgrade (Service Bots) - service buildings no longer require workers and operate at <param1> performance.
 
 <grey>Freeing our colonists of dealing with the most mundane of chores.</grey>","Паляпшэньне <em>не мэдыцынскіх службовых будынкаў</em> (Службовыя робаты) – службовыя будынкі больше не патрабуюць працаўнікой і працуюць з прадукцыйнасьцю <param1>.
@@ -11533,9 +11533,9 @@ The kid's parents held an impromptu wake for the fallen hero.",
 8003,Plasma Rocket,Плазменная ракета,
 8006,"<em>Drone Hubs</em> no longer require Power or maintenance.
 
-<grey>Self-sustainable Drone Hubs are of paramount importance in expanding our presence on Mars.</grey>","<em>Drone Hubs</em> no longer require Power or maintenance.
+<grey>Self-sustainable Drone Hubs are of paramount importance in expanding our presence on Mars.</grey>","<em>ЦК Дронаў</em> больш не патрабуюць ані энэргію, ані абслугоўваньне.
 
-<grey>Self-sustainable Drone Hubs are of paramount importance in expanding our presence on Mars.</grey>",
+<grey>Самадастатковыя ЦК Дронаў надзвычайна важны да пашырэнтня нашага знаходжантня на Марсе.</grey>",
 8005,Autonomous Hubs,Аўтаномныя ЦК,
 8642,"Factory Upgrade (<em>Automation</em>) - Lowers the amount of Workers needed in factories.
 
