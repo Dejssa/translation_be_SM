@@ -222,7 +222,7 @@ id <u(id)>, version <VersionText></color>","<color 128 128 128><u(title)>
 1000125,VIDEO,ВІДЭА,
 1000126,Audio,Аўдыё,
 1000127,AUDIO,АЎДЫЁ,
-1000128,Controls,Кіраваньне,
+1000128,Controls,Уклад,
 1000129,CONTROLS,КІРАВАНЬНЕ,
 1000131,GAMEPLAY,ГЭЙМПЛЭЙ,
 1000132,Key Bindings,Прывязкі клавіш,
@@ -1309,9 +1309,9 @@ Before you get started, please take a moment to read our Privacy Policy.","Ві�
 8815,Allows traversal of vehicles and drones over Passages.,Дазваляе перамяшчацца транспартным сродкам і беспілотнікам па праходах.,
 717850411664,Self-Sufficient Dome,Самадастатковы купал,
 639840852696,Self-Sufficient Domes,Самадастатковыя клавішупалы,
-410207944438,"Contains a small Dome suitable for the early days of the colony, together with Water and Oxygen producing facilities and storages.<newline><newline><em>Construction layout</em>, places the following buildings: Small Dome, MOXIE, 2 Moisture Vaporators, Water Tower, Oxygen Tank, Food Depot, Power Cables and Pipes<if_all(not(has_researched('MoistureFarming')),not(has_prefabs('MoistureVaporator', 2)),not(has_prefabs('SelfSufficientDome')))><newline><newline><red>Research Moisture Farming to build Moisture Vaporators, or get prefabs from Earth.</red></if>","Contains a small Dome suitable for the early days of the colony, together with Water and Oxygen producing facilities and storages.<newline><newline><em>Construction layout</em>, places the following buildings: Small Dome, МЭРТ, 2 Выпарнікі вільгаці, Water Tower, Oxygen Tank, Food Depot, Power Cables and Pipes<if_all(not(has_researched('MoistureFarming')),not(has_prefabs('MoistureVaporator', 2)),not(has_prefabs('SelfSufficientDome')))><newline><newline><red>Research Moisture Farming to build Moisture Vaporators, or get prefabs from Earth.</red></if>",
+410207944438,"Contains a small Dome suitable for the early days of the colony, together with Water and Oxygen producing facilities and storages.<newline><newline><em>Construction layout</em>, places the following buildings: Small Dome, MOXIE, 2 Moisture Vaporators, Water Tower, Oxygen Tank, Food Depot, Power Cables and Pipes<if_all(not(has_researched('MoistureFarming')),not(has_prefabs('MoistureVaporator', 2)),not(has_prefabs('SelfSufficientDome')))><newline><newline><red>Research Moisture Farming to build Moisture Vaporators, or get prefabs from Earth.</red></if>","Зьмяшчае малы купал прыдатны для першых дзён калёніі, разам за вытворчасьцю й сховішчамі вады з тлёнам.<newline><newline><em>Будаўнічая пляцоўка</em>, усталёўвае наступныя будынкі: Малы купал, МЭРТ, 2 Выпарнікі вільгаці, Воданапорную вежу, Бак тлёну, Схоў ежы, Сідавыя кабелі й трубы <if_all(not(has_researched('MoistureFarming')),not(has_prefabs('MoistureVaporator', 2)),not(has_prefabs('SelfSufficientDome')))><newline><newline><red>Дасьледуйце Вільготнае вырошчваньне да будоўлі Выпарніка выльігац ці замоўце модулі зь Зямлі.</red></if>",
 12649,Home Collective,Хатні калектыў,
-12650,+<upgrade1_add_value_1> Service Comfort.,+<upgrade1_add_value_1> Service Comfort.,
+12650,+<upgrade1_add_value_1> Service Comfort.,+<upgrade1_add_value_1> Камфорт сэрвісу.,
 432237346511,Olympus Hotels,Olympus Hotels,
 11554,Living Complexes,Living Complexes,
 10472,Provides living space. Resting residents recover Comfort faster compared to other Residences.,Забясьпечвае памяшканьні. Адпачывальнікі аднаўляюць камфорт хутчэй у параўнаньні з іншым жыльлём.,
@@ -1353,9 +1353,9 @@ Before you get started, please take a moment to read our Privacy Policy.","Ві�
 8882,A dedicated landing site that protects nearby buildings and vehicles from dust during Rocket landings and takeoffs.,"Спецыяльная пасадачная пляцоўка, якая абараняе будынкі й транспартныя сродкі побач ад пылу падчас пасадак і ўзлётаў <em>Ракет</em>.",
 5123,MDS Lasers,САМ Лазеры,
 5124,Destroys any falling meteors in its range. Has a short cooldown between shots.,Зьнішчае спадальныя мэтэоры ў дыяпазоне. Мае кароткі час аднаўленьня паміж стрэламі.,
-5208,Power Decoy,Power Decoy,
-5209,Power Decoys,Power Decoys,
-5210,Traps a single Mirror Sphere.,Traps a single Mirror Sphere.,
+5208,Power Decoy,Сілавая прынада,
+5209,Power Decoys,Сілавыя прынады,
+5210,Traps a single Mirror Sphere.,Захоплівае адну люстраную сфэру.,
 5230,Recharge Stations,Станцыі падзарадкі,
 5258,Sensor Towers,Вежы-сканэры,
 5259,"Boosts scanning speed, especially for nearby sectors. Extends the advance warning for disasters.","Павялічвае хуткасьць сканаваньня, асабліва бліжэйшых сэктараў. Пашырае папярэдняе папярэджаньне аб катастрофах.",
@@ -1365,7 +1365,7 @@ Before you get started, please take a moment to read our Privacy Policy.","Ві�
 12369,Rockets,Ракеты,
 731448797928,A Rocket to transport resources and people between Earth and Mars.,Ракета транспартуе рэсурсы й людзей паміж Зямлёю й Марсам.,
 5299,Triboelectric Scrubbers,Трыбаэлектрычны ачышчальнік,
-5300,Emits pulses which reduce the Dust accumulated on buildings in its range.,Выпраменьвае імпульсы,
+5300,Emits pulses which reduce the Dust accumulated on buildings in its range.,"Выпраменьвае імпульсы, якія памяншаюць пыл, назапашаны на будынках у зоне дзеяньня.",
 889,Tunnel,Тунэль,
 5301,Tunnels,Тунэлі,
 5302,The tunnel entrance and exit can connect power and life support grids at different locations and different elevations. Rovers can travel along the tunnels to reach places they otherwise couldn't.,"Уваход і выхад з тунэля могуць злучаць электрасеткі й сеткі жыцьцезабесьпячэньня ў розных мейсцах і на розных вышынях. Марсаходы могуць выкарыстоўваць тунэлі, каб дасягнуць месцы, якія інакш не змаглі б.",
@@ -1398,14 +1398,14 @@ Before you get started, please take a moment to read our Privacy Policy.","Ві�
 12419,Marks a surface for Drones to change into the Red Sands type.<if(has_dlc('armstrong'))><newline><newline><em>Degrades local Soil Quality.</em></if>,Marks a surface for Drones to change into the Red Sands type.<if(has_dlc('armstrong'))><newline><newline><em>Degrades local Soil Quality.</em></if>,
 8044,Decreases Workplaces by <abs(upgrade1_add_value_1)>.,Паменьшыць працоўныя мейсцы на <abs(upgrade1_add_value_1)>.,
 5082,+<upgrade1_mul_value_1>% Production,+<upgrade1_mul_value_1>% Вытворчасьць,
-5083,Fungal Farm,Fungal Farm,
-5084,Fungal Farms,Fungal Farms,
+5083,Fungal Farm,Грыбная фэрма,
+5084,Fungal Farms,Грыбныя фэрмы,
 5085,Produces Food.,Вырабляе ежу.,
 5100,Decreases Workplaces by <abs(upgrade1_add_value_1)>.,Decreases Workplaces by <abs(upgrade1_add_value_1)>.,
-5102,Hydroponic Farms,Hydroponic Farms,
+5102,Hydroponic Farms,Гідрапонныя фэрмы,
 8823,Large Water Tanks,Вялікія бакі вады,
-5194,Pipe Valves,Pipe Valves,
-5195,Can be manually activated to cut off Water and Oxygen supply.,Can be manually activated to cut off Water and Oxygen supply.,
+5194,Pipe Valves,Трубныя клапаны,
+5195,Can be manually activated to cut off Water and Oxygen supply.,"Магчыма актываваць уручную, каб спыніць падачу вады й тлёну.",
 5128,MOXIEs,МЭРТаў,
 5130,"MOXIE instruments, which employ MOXIE (short for Mars Oxygen In situ resource utilization Experiment) technology, produce Oxygen from the rich amounts of carbon dioxide in the Martian atmosphere.
 
@@ -1522,7 +1522,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 238293722341,RC Safaris,РК Сафары,
 847551993712,Remote-controlled vehicle that takes Tourists on a Safari. Configure a route with waypoints near interesting sights to increase the Satisfaction awarded to Tourists.,"Марсаход з дыстанцыйным кіраваньнем, які возіць турыстаў на сафары. Усталюйце маршрут з маршрутнымі кропкамі побач зь цікавымі славутасьцямі, каб павялічыць задаволенасьць турыстаў.",
 5304,Universal Depots,Унівэрсальныя сховішча,
-5305,Stores <resource(max_storage_per_resource)> units of each transportable resource. Some resources will be transported to other depots within Drone range.,Захоўвае <resource(max_storage_per_resource)> units of each transportable resource. Некаторыя рэсурсы будуць перавезены ў іншыя склады ў межах радыусу дзеяньня <em>Дронаў</em>.,
+5305,Stores <resource(max_storage_per_resource)> units of each transportable resource. Some resources will be transported to other depots within Drone range.,Захоўвае <resource(max_storage_per_resource)> штук кожнага рэсурсу. Некаторыя рэсурсы будуць перавезены ў іншыя склады ў межах радыусу дзеяньня <em>Дронаў</em>.,
 5051,Dumping Site,Сьметнік,
 5052,Dumping Sites,Сьметнікі,
 5053,Stores <wasterock(max_amount_WasteRock)>. Waste Rock is produced as side product of different mining activities.,Захоўвае <wasterock(max_amount_WasteRock)>. Пустыя пароды ўтвараюцца ў якасьці пабочнага прадукту пры розных відах здабычы.,
@@ -1581,15 +1581,15 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 3531,Apartments,Кватэры,
 5122,Provides living space. Resting residents recover Comfort faster compared to other Residences.,Забясьпечвае памяшканьні. Адпачывальнікі аднаўляюць камфорт хутчэй у параўнаньні з іншым жыльлём.,
 7800,Smart Complex,Smart Complex,
-5009,"Provides living space for numerous Colonists, granting high Comfort.","Provides living space for numerous Colonists, granting high Comfort.",
-5099,A beautiful park complex. Increases the Comfort of all Residences in the Dome.,A beautiful park complex. Increases the Comfort of all Residences in the Dome.,
-5309,Recycles up to 70% of the Water used in the Dome.,Recycles up to 70% of the Water used in the Dome.,
+5009,"Provides living space for numerous Colonists, granting high Comfort.","Забяспечвае памяшканьні для шмат калёністаў, дае высокі камфорт.",
+5099,A beautiful park complex. Increases the Comfort of all Residences in the Dome.,Прыгожы паркавы комплекс. Павышае камфорт усяго жыльля ў купале.,
+5309,Recycles up to 70% of the Water used in the Dome.,"Перапрацоўвае да 70% вады, якая выкарыстоўваецца ў купале.",
 3536,Water Reclamation System,Сыстэма меліярацыя вады,
 5025,Creates Clones over time. Cloned Colonists grow and age twice as fast.,З часам стварае клонаў. Кланаваныя калёністы растуць і старэюць удвая хутчэй.,
 3537,Cloning Vats,Чопы кланаваньня,
 5178,Increases the overall Research output of the Dome.,Павялічвае агульны вынік дасьледаваньняў у купалы.,
 3538,Network Node,Вузел сеткі,
-5143,"Visitors will recover Health and Sanity as long as they are not starving, dehydrated, freezing or suffocating. Larger capacity and more effective than the Infirmary. A Dome with a Medical Building has lower minimum Comfort requirement for births.","Visitors will recover Health and Sanity as long as they are not starving, dehydrated, freezing or suffocating. Larger capacity and more effective than the Infirmary. A Dome with a Medical Building has lower minimum Comfort requirement for births.",
+5143,"Visitors will recover Health and Sanity as long as they are not starving, dehydrated, freezing or suffocating. Larger capacity and more effective than the Infirmary. A Dome with a Medical Building has lower minimum Comfort requirement for births.","Наведвальнікі аднаўляюць здароўе й разважлівасьці, пакуль яны не галадаюць, не абязводжваюцца, ня мёрзнуць і не задыхаюцца. Большая ёмістасьць і больш эфектыўная за лазарэт. Купал з медыцынскім корпусам мае больш нізкія мінімальныя патрабаваньні камфорту для нараджэньня.",
 3539,Medical Center,Медыцынскі цэнтр,
 5246,Treats Colonists for flaws through advanced and (mostly) humane medical practices.,Лечыць калёністаў ад заганаў з дапамогай перадавых і (у асноўным) гуманных медыцынскіх метадаў.,
 5231,Recharges Drone batteries.,Зараджае акумулятары <em>Дронаў</em>.,
@@ -1599,8 +1599,8 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 5092,Generates significant amounts of Power but requires Workers from a nearby Dome.,"Вырабляе вялікую колькасьць энэргіі, але патрабуе працаўнікоў з купалу побач.",
 5090,Fusion Reactor,Тэрмаядзерны рэактар,
 5015,"Stores Power. High capacity and max output, but charges slowly.","Назапашвае <em>Энэргію</em>. Высокая ёмістасьць і максімальная магутнасьць, але зараджаецца павольна.",
-5207,Stores Power. Amount of Power supplied is limited by the battery’s max output.,Назапашвае энергію. Колькасьць падаваемай энергіі абмежавана максімальнай магутнасьцю акумулятара.,
-5205,Power Accumulator,Акумулятар энергіі,
+5207,Stores Power. Amount of Power supplied is limited by the battery’s max output.,Назапашвае энэргію. Колькасьць падаваемай энергіі абмежавана максімальнай магутнасьцю акумулятара.,
+5205,Power Accumulator,Акумулятар энэргіі,
 5129,Produces Oxygen. No production during Dust Storms.,Выпрацоўвае тлён. Не працуе падчас пясчаных бур.,
 5127,MOXIE,МЭРТ,
 5312,Stores Water. Doesn't work during Cold Waves.,Захоўвае ваду. Не працуе пад час <em>Халодных хваль</em>.,
@@ -1608,10 +1608,10 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 8824,Can store a large amount of Water. Doesn't work during Cold Waves.,Захоўвае вялізную колькасьць вады. Не працуе пад час <em>Халодных хваль</em>.,
 8822,Large Water Tank,Вялікі бак вады,
 5191,Oxygen Tank,Бак тлёну,
-5047,Produces Drones Prefabs which can then be used to order new drones in Drone Hubs multiplying the obedient workforce of the Colony. Probably not a threat to humans.,"Dырабляе модулі дронаў, якія магчы пасьля выкарыстоўваць для зборцы новых дронаў у ЦК Дронаў, памнажаючы паслухмяную працоўную сілу калёніі. Верагодна, не паграджае чалавеку.",
+5047,Produces Drones Prefabs which can then be used to order new drones in Drone Hubs multiplying the obedient workforce of the Colony. Probably not a threat to humans.,"Вырабляе модулі дронаў, якія магчы пасьля выкарыстоўваць для зборцы новых дронаў у ЦК Дронаў, памнажаючы паслухмяную працоўную сілу калёніі. Верагодна, не паграджае чалавеку.",
 5045,Drone Assembler,Зборшчык дронаў,
 5069,Produces Food. Consumes Water depending on crop type.,Вырабляе ежу. Спажывае ваду ў залежнасці ад тыпу расьлін.,
-5101,Hydroponic Farm,Гідрапонная ферма,
+5101,Hydroponic Farm,Гідрапонная фэрма,
 10245,Slowly turns waste rock into building materials. Produces Concrete.,Павольна перапрацоўвае <em>Пустую пароду</em> ў будаўнічыя матэрыялы. Вырабляе <em>Бэтон</em>.,
 10243,Waste Rock Processor,Перапрацоўшчык пустой пароды,
 889392282896,Provides living space for Tourists and Colonists. Luxurious hotel rooms that provide the best holiday experience. Tourists gain <em>Satisfaction</em> while staying here.,Provides living space for Tourists and Colonists. Luxurious hotel rooms that provide the best holiday experience. Tourists gain <em>Satisfaction</em> while staying here.,
@@ -4715,7 +4715,7 @@ You can then use these Metals to setup additional Solar Panels and power up ever
 <goal>Construct a Power Accumulator and connect it to the Power grid.
 
 <hint>You may want to construct some additional Solar Panels and Wind Turbines in advance to sustain the base expansion.",
-5206,Power Accumulators,Power Accumulators,
+5206,Power Accumulators,Акумулятары энэргіі,
 9329,The supplies from Earth have arrived and we can use them to expand the base.,The supplies from Earth have arrived and we can use them to expand the base.,
 9333,"Let us build a Water Extractor near the deposit. All Extractors must be placed near a deposit of the corresponding type. Remember to then connect it with Power. You may also have to build more Power producers to generate the required Power.
 
@@ -5017,19 +5017,19 @@ The score of our colony is <score>.",
 4803,Power Storage,Power Storage,
 4804,Deposit Requirements,Deposit Requirements,
 4805,Resource Production,Resource Production,
-519,Storage,Storage,
+519,Storage,Сховішча,
 4808,Storage Space,Storage Space,
 4809,Residence,Residence,
 4810,Service,Service,
 4811,Satisfying,Satisfying,
-4812,Farm,Ферма,
-4813,MDS Laser,MDS Laser,
+4812,Farm,Фэрма,
+4813,MDS Laser,САМ Лазер,
 4814,Education Building,Education Building,
 4815,University,University,
 4816,Polymer Plant,Polymer Plant,
-3540,Sanatorium,Sanatorium,
+3540,Sanatorium,Санаторый,
 4817,Spaceport,Spaceport,
-4818,Triboelectric Scrubber,Triboelectric Scrubber,
+4818,Triboelectric Scrubber,Трыбаэлектрычны ачышчальнік,
 4820,UI,UI,
 4821,Alternative Entities,Alternative Entities,
 4822,Custom Labels,Custom Labels,
@@ -5658,14 +5658,14 @@ The object demonstrated no interest in the activities of the rover. The scientis
 <effect>The Dredger Wavelength Decoding technology cost is reduced by 50%.","More samples would allow our scientists to apply more aggressive experimentation and analytical methods, speeding up their work immensely.
 
 <effect>The Dredger Wavelength Decoding technology cost is reduced by 50%.",
-5975,The Dredgers: Convergence,The Dredgers: Convergence,
-7458,"Mission Control, we’re receiving a priority transmission from Earth.","Mission Control, we’re receiving a priority transmission from Earth.",
+5975,The Dredgers: Convergence,Драгеры: Зьбежнасьць,
+7458,"Mission Control, we’re receiving a priority transmission from Earth.","ЦЭМ, зь Зямлі паступая прыярытэтная перадача.",
 5976,"Several hours ago, the LINEAR and CSS programs detected an incoming cluster of meteorites from the asteroid belt. Their trajectories are likely to converge with the Martian orbit. Meteor impacts are likely to intensify during the course of the next few weeks.
 
-<effect>Expect several Meteor Storms to hit Mars in the next <text_param1> Sols.","Several hours ago, the LINEAR and CSS programs detected an incoming cluster of meteorites from the asteroid belt. Their trajectories are likely to converge with the Martian orbit. Meteor impacts are likely to intensify during the course of the next few weeks.
+<effect>Expect several Meteor Storms to hit Mars in the next <text_param1> Sols.","Некалькі гадзін таму, LINEAR і CSS праграмы выявілі ўваходнае навала метэарытаў з поясу астэроідаў. Іх траекторыі, верагодна, збліжаюцца з арбітай Марсу. Верагодна, на працягу наступных некалькіх тыдняў падзеньне метэораў узмоцніцца.
 
-<effect>Expect several Meteor Storms to hit Mars in the next <text_param1> Sols.",
-5978,All personnel – keep calm and watch for meteors.,All personnel – keep calm and watch for meteors.,
+<effect>Чакайце, што праз <text_param1> Солаў на Марс абрынуцца некалькі мэтэорных бур.",
+5978,All personnel – keep calm and watch for meteors.,Усяму персаналу - захоўваць спакой і сачыць за мэтэорамі.,
 5979,The Dredgers: The Heavenly Storm,The Dredgers: The Heavenly Storm,
 7459,"Mission Control, we’ve got an update on the status of the meteor storms. And it’s not looking good.","Mission Control, we’ve got an update on the status of the meteor storms. And it’s not looking good.",
 5980,"The initial evaluation of the situation with the meteor clusters had been miscalculated. The scientists from the near-Earth object detection programs predict that a significant amount of the meteorite stream would fill the space between Mars and Earth. While the thick atmosphere of our home world would protect it from eventual impacts, the threat level for any spacecraft will be past tolerable. To address the new situation, Earth Control has canceled all space flights until further notice.
@@ -7757,36 +7757,36 @@ In the end, history will remember him as an old eccentric billionaire who tried 
 The different gains in space exploration and asteroid mining will not simply disappear but are being bought off and pushed towards partial completion by various Earth-based corporations that will exploit them for personal profit and show no signs of desire to contribute to what was Rede Goddenberry’s vision of a united humanity.
 
 In the end, history will remember him as an old eccentric billionaire who tried to swim upstream for humanity’s sake but ended up solidifying the rule of massive corporations that are more interested in profits than in an idealistic future.",
-8436,We have failed everyone...,We have failed everyone...,
-8437,Rede Goddenberry's plan falls apart as previous partners leave the initiative after his passing.,Rede Goddenberry's plan falls apart as previous partners leave the initiative after his passing.,
-8442,Beyond Earth: Disaster Strikes,Beyond Earth: Disaster Strikes,
-8443,There was a terrible accident at the Port Vesta project site.,There was a terrible accident at the Port Vesta project site.,
+8436,We have failed everyone...,Мы падвялі ўсіх...,
+8437,Rede Goddenberry's plan falls apart as previous partners leave the initiative after his passing.,"План Рэдэ Годдэнберры развальваецца, бо папярэднія партнёры пакідаюць ініцыятыву пасьля яго сьмерці.",
+8442,Beyond Earth: Disaster Strikes,Па-за Зямлёй: Бедствы,
+8443,There was a terrible accident at the Port Vesta project site.,"На пляцоўцы праэкту ""Порт Вэста"" адбылася жудасная аварыя.",
 8444,"A strong solar flare erupted without a sufficient head warning. There are 23 confirmed casualties.
 
 The solar flare erupted during a short window of vulnerability, when Port Vesta had no operational means of shielding against such an event. If it had happened just a bit later, the defenses would've been operational.
 
-Sadly the damage is massive in scale. The project suffered a major setback.","A strong solar flare erupted without a sufficient head warning. There are 23 confirmed casualties.
+Sadly the damage is massive in scale. The project suffered a major setback.","Моцная сонечная ўспышка ўспыхнула без належнага папярэджаньня. Пацверджаныя 23 ахвяры.
 
-The solar flare erupted during a short window of vulnerability, when Port Vesta had no operational means of shielding against such an event. If it had happened just a bit later, the defenses would've been operational.
+Сонечная ўспышка адбылася падчас кароткага перыяду небясьпекі, калі Порт Вэста не меў аператыўных сродкаў абароны ад такой падзеі. Калі б гэта адбылося крыху пазней, сістэмы абароны былі б спраўныя.
 
-Sadly the damage is massive in scale. The project suffered a major setback.",
-8445,"A tragedy indeed, but we will overcome this setback.","A tragedy indeed, but we will overcome this setback.",
-8560,Beyond Earth: Sabotage,Beyond Earth: Sabotage,
-8561,"News of sabotage at the Aldrin Base mining facility on the Moon has just been made public. Luckily, there are no fatalities.","News of sabotage at the Aldrin Base mining facility on the Moon has just been made public. Luckily, there are no fatalities.",
+На жаль, маштабы шкоды велізарныя. Праэкт пацярпеў сур'ёзны правал.",
+8445,"A tragedy indeed, but we will overcome this setback.","Сапраўды трагедыя, але мы пераадолеем гэтую няўдачу.",
+8560,Beyond Earth: Sabotage,Па-за Зямлёй: Дыверсія,
+8561,"News of sabotage at the Aldrin Base mining facility on the Moon has just been made public. Luckily, there are no fatalities.","Навіна аб дыверсіі на горназдабыўной базе Олдрын на Месяцы толькі што была абнародавана. На шчасце, абышлося без загінулых.",
 8562,"The project has suffered a major setback. Below is Mr Goddenberry’s statement:
 
 “What the Beyond Earth initiative is striving to ultimately achieve is change - change that will make inter-human rivalry a thing of the past. 
 
 As with all change, there will be resistance. There are those who prosper from wars, from suffering. And they see a united humanity as a threat, for they will be left behind.
 
-To them I have to say: the world is moving on. Try as you might, you have only slowed down an irreversible process.”","The project has suffered a major setback. Below is Mr Goddenberry’s statement:
+To them I have to say: the world is moving on. Try as you might, you have only slowed down an irreversible process.”","Праэкт пацярпеў сур'ёзны правал. Ніжэй прыводзіцца заява г-на  Годдэнберры:
 
-“What the Beyond Earth initiative is striving to ultimately achieve is change - change that will make inter-human rivalry a thing of the past. 
+“Да чаго ў канчатковым рахунку імкнецца ініцыятыва «Па-за Зямлёй» - гэта зьмены. Зьмены, якія зробяць міжасабовую канкурэнцыю ў мінулым.
 
-As with all change, there will be resistance. There are those who prosper from wars, from suffering. And they see a united humanity as a threat, for they will be left behind.
+Як і пад час любых зьмен, будзе супраціўленьне. Ёсьць тыя, хто квітнее на вайне й пакутах. І яны бачаць у аб'яднаным чалавецтве пагрозу, таму што застануцца ззаду.
 
-To them I have to say: the world is moving on. Try as you might, you have only slowed down an irreversible process.”",
-8563,A setback. We will overcome it!,A setback. We will overcome it!,
+Я павінен сказаць ім: свет рухаецца наперад. Як ні старайся, вы толькі запаволіце незваротны працэс.“",
+8563,A setback. We will overcome it!,Няўдача. Мы гэта пераадолеем!,
 556832090808,Analyze <param1> map Anomalies,Analyze <param1> map Anomalies,
 304927814784,Analyze <param1> Planetary Anomalies,Analyze <param1> Planetary Anomalies,
 10328,Have a total of <param1> buildings,Have a total of <param1> buildings,
@@ -8507,7 +8507,7 @@ Writing the right opening sentence is said to be an art by itself. How will our 
 There is not a person on any world that is neutral to the cause.","Although there is little reason to believe there will be any dramatic benefit for the colony, the cure for cancer is a holy grail for the human civilization as a whole.
 
 There is not a person on any world that is neutral to the cause.",
-768222698049,Cure For Cancer,Cure For Cancer,
+768222698049,Cure For Cancer,Лячэньне рака,
 258870220497,"In pursuit of the technologies that allow us to exist on Mars, our advanced science practices have earned us an invitation to take part in a currently ongoing prestigious and noble science project dedicated to finding the cure for cancer.","In pursuit of the technologies that allow us to exist on Mars, our advanced science practices have earned us an invitation to take part in a currently ongoing prestigious and noble science project dedicated to finding the cure for cancer.",
 232751411319,"If we have a shot at bringing this dragon down, then, by all means!","If we have a shot at bringing this dragon down, then, by all means!",
 689014446530,enables a new research tech,enables a new research tech,
@@ -9851,14 +9851,14 @@ You remember that the Genius <DisplayName> had your special dispensation to stay
 784882052902,"Small groups of people talk and laugh, while others dance to the groovy music. Someone sees you and the music stops abruptly. Everyone is looking slightly guilty.","Невялікія групы людзей размаўляюць і сьмяюцца, а іншыя танчаць пад завадную музыку. Хтосьці бачыць вас, і музыка рэзка спыняецца. Усе выглядаюць крыху вінаватымі.",
 683841873799,Party!,Вечарынка!,
 949723673521,The door of the command room opens and you’re hit by the loud noise. A party!,"Дзьверы каманднага пакоя адчыняюцца, і вас ударае моцны шум. Вечарынка!",
-446442320434,I expect the maintenance and efficiency reports on my desk by 11:00 local time.,Я чакаю справаздач аб абслугоўваньні й эфектыўнасьці на маім стале да 11:00 па мясцовым часе.,
+446442320434,I expect the maintenance and efficiency reports on my desk by 11:00 local time.,Я чакаю справаздачы аб абслугоўваньні й эфектыўнасьці на маім стале а 11:00 па мясцовым часе.,
 139200594944,Party!,Вечарынка!,
-827831603659,"Recreation is important, but duties, especially the duties of Mission Control, must never be forgotten.","Recreation is important, but duties, especially the duties of Mission Control, must never be forgotten.",
+827831603659,"Recreation is important, but duties, especially the duties of Mission Control, must never be forgotten.","Адпачынак важны, але ніколі нельга забываць пра абавязкі, асабліва ў ЦЭМ .",
 315003773008,"Under your harsh gaze, the team cleans up the control room and attend their action stations. You take your seat – there’s work to do.
 
-<effect>+<morale_bonus> Morale for <sols(morale_duration)> Sols for all Colonists","Under your harsh gaze, the team cleans up the control room and attend their action stations. You take your seat – there’s work to do.
+<effect>+<morale_bonus> Morale for <sols(morale_duration)> Sols for all Colonists","Пад вашым суровым позіркам каманда прыбірае дыспетчарскую й ідзе на свае працоўныя мейсцы. Сядайце, у нас ё справы.
 
-<effect>+<morale_bonus> Morale for <sols(morale_duration)> Sols for all Colonists",
+<effect>+<morale_bonus> Маральнага духу на <sols(morale_duration)> Солаў для ўсіх калёністаў",
 880306212271,"What is this, a party? Who gave you permission?","Што гэта, вечарынка? Хто дазволіў?",
 224796459286,Your harsh words hit them like a scourge. But they were necessary.,Your harsh words hit them like a scourge. But they were necessary.,
 123273551090,"Mars is like a death-trap, ready to snap shut when you least expect it. Your people need to learn that you will never compromise the safety and success of the colony.
@@ -11347,7 +11347,7 @@ The kid's parents held an impromptu wake for the fallen hero.",
 6569,Superconducting Computing,Звышправодныя вылічэньні,
 6572,"All Extractors continue to extract small amounts when their <em>deposit is depleted</em>.
 
-<grey>Leaving scattered molecules of the precious resource a mining facility was tasked with extracting has always bothered scientists as being just too cynically wasteful. Luckily, with new Nano Refinement precision tools, this wasteful tendency has been remedied.</grey>","Усе экстрактары працягваюць працаваць з невялікай здабычай калі <em>радовішча зьнясілена</em>.
+<grey>Leaving scattered molecules of the precious resource a mining facility was tasked with extracting has always bothered scientists as being just too cynically wasteful. Luckily, with new Nano Refinement precision tools, this wasteful tendency has been remedied.</grey>","Усе экстрактары працягваюць працу зь невялічкай здабычай калі <em>радовішча зьнясілена</em>.
 
 <grey>Пакіданьне раскіданых часьціц каштоўнага рэсурсу, на здабычу якога быў заключаны кантракт з горназдабыўной кампаніяй, заўсёды непакоіла навукоўцаў, таму што гэта было занадта цынічна марнатраўна. На шчасьце, з новымі дакладнымі інструментамі «Нана апрацоўка» гэтая марнатраўная тэндэнцыя была ліквідавана.</grey>",
 6571,Nano Refinement,Нана апрацоўка,
@@ -11547,12 +11547,11 @@ The kid's parents held an impromptu wake for the fallen hero.",
 
 <grey>""Diamonds are nothing more than chunks of coal that stuck to their jobs.""
 <right>Malcolm Forbes</grey><left>
-","Новы купал: <em>Diamond Dome</em> (<buildinginfo('DomeDiamond')>) - A diamond shaped Dome which has space for two Spires.
+","Новы купал: <em>Дыяментавы купал</em> (<buildinginfo('DomeDiamond')>) - Купал у форме дыямента, што мае мейсца на два шпілі.
 
-<grey>""Diamonds are nothing more than chunks of coal that stuck to their jobs.""
-<right>Malcolm Forbes</grey><left>
-",
-9602,Gem Architecture,Gem Architecture,
+<grey>""Алмазы - гэта нічога, як кавалкі вугалю, якія прыліплі да сваіх мейсцаў.""
+<right>Малкольм Форбс</grey><left>",
+9602,Gem Architecture,Крыштальная архітэктура,
 207831279529,Discover the reason behind the unexpected overnight gene re-writing of your colonists.,Discover the reason behind the unexpected overnight gene re-writing of your colonists.,
 11400,Anomalous Genome Resequencing,Anomalous Genome Resequencing,
 243039926162,Dedicate your research towards the initiative for discovering a Cure for cancer.,Dedicate your research towards the initiative for discovering a Cure for cancer.,
@@ -11725,7 +11724,7 @@ New Building: <em>Large Nursery</em> (<buildinginfo('LargeNurseryCCP1')>) - A la
 <grey>The fuel section is by far the largest and, when full, the heaviest part of any rocket. This makes developing more compressed fuels especially important when striving to bring more to Mars with fewer rockets.</grey>","<em>Грузавое аддзяленьне ракеты</em> павялічана на <param1> кг.
 
 <grey>Cэкцыя паліву - гэта, безумоўна, найвялікая і, калі поўная, самая цяжкая частка любой ракеты. Гэта робіць распрацоўку больш сьціснутага паліву асабліва важнай, калі мы хочам даставіць больш паліву на Марс з меншай колькасьцю ракет.</grey>",
-6359,Fuel Compression,Кампрэсія паліва   ,
+6359,Fuel Compression,Кампрэсія паліву,
 6362,"Allows the clearing of <em>salvaged</em> and <em>destroyed buildings.</em>
 
 <grey>We have reached the point where we must do away with old buildings on Mars to make way for new ones.</grey>","Дазваляе зруўнаваньне <em>разобраных</em> і <em>разбураных будынкаў.</em>
@@ -11736,7 +11735,7 @@ New Building: <em>Large Nursery</em> (<buildinginfo('LargeNurseryCCP1')>) - A la
 New Building: <em>Fuel Refinery</em> (<buildinginfo('FuelFactory')>)  - Produces Fuel from Water.
 
 <grey>Resolving the obvious problems with water pressure in Low-G environments will allow for more complex hydro-synthetic procedures to be done on-site on Mars.</grey>","Новы будынак: <em>Завод палімераў</em> (<buildinginfo('PolymerPlant')>) - Вырабляе палімеры з вады й паліва.
-Новы будынак: <em>Завод паліва</em> (<buildinginfo('FuelFactory')>)  - Вырабляе паліва з вады.
+Новы будынак: <em>Завод паліву</em> (<buildinginfo('FuelFactory')>)  - Вырабляе паліва з вады.
 
 <grey>Рашэньне відавочных праблем зь ціскам вады ў асяроддзі зь нізкай гравітацыяй дазволіць правесьці больш складаныя працэдуры гідрасінтэзу на Марсе.</grey>",
 6363,Low-G Hydrosynthesis,Гідрасынтэз нізкай гравітацыі,
@@ -12657,8 +12656,8 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 611292578639,Constructed a Capital City,Constructed a Capital City,
 169758122223,Capital Achievement,Capital Achievement,
 594741892637,Construct a Capital City,Construct a Capital City,
-652636923630,Various Lake sizes,Various Lake sizes,
-967810859074,Lake,Lake,
+652636923630,Various Lake sizes,Возера розных памераў,
+967810859074,Lake,Возера,
 710259377624,Seeds Depot,Схоў насеньня,
 686258836140,Seeds Depots,Сховішча насеньня,
 333579055417,Stores <seeds(max_storage_per_resource)>. Some resources will be transported to other depots within Drone range.,Захоўвае <seeds(max_storage_per_resource)>. Некаторыя рэсурсы будуць перавезены ў іншыя сховішча ў межах радыусу дзеяньня <em>Дронаў</em>.,
@@ -12688,7 +12687,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 970508703169,Core Heat Convectors,Core Heat Convectors,
 502029972735,"Delivers Water to an underground pipe network and effectively transports heat from the planetary core, improving the global Temperature<icon_TemperatureTP_alt>. Increases the local temperature in cold areas and protects nearby buildings from Cold Waves.","Delivers Water to an underground pipe network and effectively transports heat from the planetary core, improving the global Temperature<icon_TemperatureTP_alt>. Increases the local temperature in cold areas and protects nearby buildings from Cold Waves.",
 357216170041,Forestation Plant,Лесапасадка,
-596878342034,Forestation Plants,Forestation Plants,
+596878342034,Forestation Plants,Лесапасадкі,
 869677365113,"Consumes Seeds to plant wild vegetation, increasing local Soil Quality. Plants will wither or grow according to local Soil Quality and global Temperature<icon_TemperatureTP_alt> and Water <icon_WaterTP_alt>. Improves global Vegetation <icon_VegetationTP_alt> if it's less than <resource(40000,'VegetationTP')>. Doesn’t work during Dust Storms and Toxic Rains.","Consumes Seeds to plant wild vegetation, increasing local Soil Quality. Plants will wither or grow according to local Soil Quality and global Temperature<icon_TemperatureTP_alt> and Water <icon_WaterTP_alt>. Improves global Vegetation <icon_VegetationTP_alt> if it's less than <resource(40000,'VegetationTP')>. Doesn’t work during Dust Storms and Toxic Rains.",
 11910,+<upgrade1_mul_value_1>% faster terraforming,+<upgrade1_mul_value_1>% faster terraforming,
 838328780426,GHG Factory,ПГ Завод,
@@ -12706,7 +12705,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 592865382937,Open Farm,Open Farm,
 812860871963,Open Farms,Open Farms,
 469831561805,"Consumes Seeds to plant crops, which can be harvested for Food by Drones. Crops will wither or grow according to local Soil Quality and global Temperature<icon_TemperatureTP_alt> and Water <icon_WaterTP_alt>. Doesn’t work during Dust Storms and Toxic Rains.","Consumes Seeds to plant crops, which can be harvested for Food by Drones. Crops will wither or grow according to local Soil Quality and global Temperature<icon_TemperatureTP_alt> and Water <icon_WaterTP_alt>. Doesn’t work during Dust Storms and Toxic Rains.",
-499666352066,Works on landscaping projects significantly faster than Drones. Can transport Waste Rock that is used for landscaping tasks.,Works on landscaping projects significantly faster than Drones. Can transport Waste Rock that is used for landscaping tasks.,
+499666352066,Works on landscaping projects significantly faster than Drones. Can transport Waste Rock that is used for landscaping tasks.,Працуе з праэктамі краявіду значна хутчэй за дронаў. Можа перавозіць пустую пароду для праэктаў краявіду.,
 12578,RC Dozer,РК Бульдозер,
 331774288555,Seeds are used for planting of vegetation on Mars,Насеньне выкарыстоўваюцца да пасадкі расьліннасьці на Марсе,
 672405902997,Have breathable atmosphere on Mars (<tp_threshold('AtmosphereBreathable')>),Майце прыдатную да дыханьня атмасферу на Марсе  (<tp_threshold('AtmosphereBreathable')>),
@@ -12982,10 +12981,10 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 554507410322,"Launch an artificial shield to improve the magnetic field of the planet, counteracting solar wind and decreasing the loss of Atmosphere. Consumes the used rocket.","Запусьціце штучны шчыт, каб палепшыць магнітнае поле планеты, процідзейнічаць сонечнаму ветру й памяньшыць страты атмасфэры. Ракета будзе страчана.",
 872760332022,Launch Magnetic Shield,Запуск магнітнага шчыту,
 11912,"<resource(amount_water,'WaterTP')>, <resource(amount_atm,'AtmosphereTP')>","<resource(amount_water,'WaterTP')>, <resource(amount_atm,'AtmosphereTP')>",
-479539621568,"Nuke the Polar Caps, raising the Water levels and the Atmosphere of the planet. Stops all on-going Cold Waves but may cause a prolonged Dust Storm. Each successive nuking has less effect on the ocean levels and the atmosphere.","Nuke the Polar Caps, raising the Water levels and the Atmosphere of the planet. Stops all on-going Cold Waves but may cause a prolonged Dust Storm. Each successive nuking has less effect on the ocean levels and the atmosphere.",
+479539621568,"Nuke the Polar Caps, raising the Water levels and the Atmosphere of the planet. Stops all on-going Cold Waves but may cause a prolonged Dust Storm. Each successive nuking has less effect on the ocean levels and the atmosphere.","Расплаўце палярныя шапкі, што падыме ўзровень вады й палепшыць атмасфэру планеты. Спыняе ўсе халодныя хвалі, але можа выклікаць працяглую пясчаную буру. Кожны наступны ядзерны выбух менш уплывае на ўзровень акіяну й атмасфэры.",
 293583875204,Melt the Polar Caps,Расплавіць палярныя шапкі,
-281448160686,"Transport a large payload of Seeds to spread cyanophytes, green algae, lichens and more complex vegetation on the surface of the planet.","Transport a large payload of Seeds to spread cyanophytes, green algae, lichens and more complex vegetation on the surface of the planet.",
-101847336012,Seed Vegetation,Seed Vegetation,
+281448160686,"Transport a large payload of Seeds to spread cyanophytes, green algae, lichens and more complex vegetation on the surface of the planet.","Перавязіце шмат насеньня, каб распаўсюдзіць цыянафіты, зялёныя водарасьці, лішайнікі й больш складаную расьліннасьць на паверхні планеты.",
+101847336012,Seed Vegetation,Насенная расьліннасьць,
 476905210095,"As the terraforming initiative progresses, some of the blights that were more or less a fact of life are bound to disappear - hopefully forever.
 
 Unless we turn around our good progress, Cold Waves will no longer happen near our Colony.
@@ -13075,8 +13074,8 @@ Our restless efforts to purify the Martian atmosphere and make it suitable for h
 
 Our restless efforts to purify the Martian atmosphere and make it suitable for humans have never achieved a more significant milestone. We are halfway there! But there is a lot of work remaining to be done.",
 403941280652,Blue Skies,Блакітнае неба,
-830450953217,"As the atmospheric conditions have worsened the skies above are no longer blue, giving way to the all too familiar red haze once more.","As the atmospheric conditions have worsened the skies above are no longer blue, giving way to the all too familiar red haze once more.",
-996393820487,No More Blue Skies,No More Blue Skies,
+830450953217,"As the atmospheric conditions have worsened the skies above are no longer blue, giving way to the all too familiar red haze once more.","Па пагаршжньню атмасфэры, блакітнае неба зьмяняецца занадта знаёмай чырвонай дымкай.",
+996393820487,No More Blue Skies,Няма больш блакітнага неба,
 269336522838,"Congratulations, you have successfully made the first step towards turning Mars into a lush green heaven! You have unlocked the Seeds resource that can be imported from Earth. 
 
 Seeds are stored into specialized Storages and used by Forestation Plants and Open Farms for planting vegetation outside the Domes. Most plants require some terraforming progress to be made. Check out the Atmosphere, Temperature, surface Water and the Vegetation coverage in the Planetary View. Improving these terraforming parameters will improve the productivity of some buildings, decrease the severity of disasters and ultimately may render Mars lush, breathable and covered with liquid water.","Congratulations, you have successfully made the first step towards turning Mars into a lush green heaven! You have unlocked the Seeds resource that can be imported from Earth. 
@@ -14455,11 +14454,11 @@ With a closer look, you observe scores of creatures which crawl, swim and jump i
 590729739949,"Instantly gain <param1>% in all terraforming parameters.
 
 <grey>""Is such a thing even possible? Yes, it is!"" 
-<right>Giorgio A. Tsoukalos</grey><left>","Instantly gain <param1>% in all terraforming parameters.
+<right>Giorgio A. Tsoukalos</grey><left>","Усе параметры тэрафарміраваньня ігненна атрымліваюць <param1>%.
 
-<grey>""Is such a thing even possible? Yes, it is!"" 
-<right>Giorgio A. Tsoukalos</grey><left>",
-11913,Ancient Terraforming Device,Ancient Terraforming Device,
+<grey>""Гэта ўвогуле магчыма? Так!"" 
+<right>Джорджыа А. Цукалас</grey><left>",
+11913,Ancient Terraforming Device,Старажытная прылада тэрафармаваньня,
 146473224720,"Newly grown forests have a chance to spawn Vistas and Research Sites.
 
 <grey>""For in the true nature of things, if we rightly consider, every green tree is far more glorious than if it were made of gold and silver."" 
@@ -14479,29 +14478,28 @@ With a closer look, you observe scores of creatures which crawl, swim and jump i
 571431341549,"Landscaping projects progress without the need of Drones and are generally faster.
 
 <grey>""Nothing is built on stone; all is built on sand, but we must build as if the sand were stone."" 
-<right>Jorge Luis Borges</grey><left>","Landscaping projects progress without the need of Drones and are generally faster.
+<right>Jorge Luis Borges</grey><left>","Праэкты краявіду могуць выконвацца без удзелу дронаў і даволі хутка.
 
-<grey>""Nothing is built on stone; all is built on sand, but we must build as if the sand were stone."" 
-<right>Jorge Luis Borges</grey><left>",
-11917,Landscaping Nanites,Landscaping Nanites,
+<grey>""Жадны будынак з каменю: усё збудована з пяску, але мусімы будаваць нібы пясок ёсьць камень."" 
+<right>Хорхе Луіс Борхес</grey><left>",
+11917,Landscaping Nanites,Наніты краявіду,
 220645097652,"Halves the Water<icon_WaterTP_alt> and the Temperature<icon_TemperatureTP_alt> requirements of grass, bushes, trees and Open Farm crops.
 
 <grey>""The leaves and the light are one."" 
-<right>Albert Einstein</grey><left>","Halves the Water<icon_WaterTP_alt> and the Temperature<icon_TemperatureTP_alt> requirements of grass, bushes, trees and Open Farm crops.
-
-<grey>""The leaves and the light are one."" 
-<right>Albert Einstein</grey><left>",
-11914,Resilient Vegetation,Resilient Vegetation,
+<right>Albert Einstein</grey><left>","Удвая зьніжае патрабаваньне вады <icon_WaterTP_alt> і тэмпературы<icon_TemperatureTP_alt> для травы, кустоў, дрэў і вонкавых фэрм.
+<grey>""Лісьце й сьвятло - адно цэлае."" 
+<right>Альберт Эйнштэйн</grey><left>",
+11914,Resilient Vegetation,Устойлівая расьліннасьць,
 267024544181,"Genetically engineer a species of a shrimp which can benefit from Mars' low gravity and gain the ability to crawl and jump to the nearest water source on its own. Gain <resource(3000,'VegetationTP')>.","Genetically engineer a species of a shrimp which can benefit from Mars' low gravity and gain the ability to crawl and jump to the nearest water source on its own. Gain <resource(3000,'VegetationTP')>.",
 947528683676,Low-G Shrimp GMO,Low-G Shrimp GMO,
-878909532079,"Fuel Refineries consume 50% more Water and produce 10% more Fuel, contributing to planetary Atmosphere by <resource(15,'AtmosphereTP')> per Sol for every working Fuel Refinery.","Заводы паліва consume 50% more Water and produce 10% more Fuel, contributing to planetary Atmosphere by <resource(15,'AtmosphereTP')> per Сол for every working Завод паліва.",
-850242285234,Overloaded Fuel Refineries,Overloaded Заводы паліва,
-674562544731,"Fuel Refineries consume 100% more Water and produce 25% more Fuel, contributing to planetary Atmosphere by <resource(30,'AtmosphereTP')> per Sol for every working Fuel Refinery.","Заводы паліва consume 100% more Water and produce 25% more Fuel, contributing to planetary Atmosphere by <resource(30,'AtmosphereTP')> per Сол for every working Завод паліва.",
-441346450001,Advanced Overloaded Fuel Refineries,Advanced Overloaded Заводы паліва,
-221257334288,"Shuttle Hubs consume 50% more Fuel and Shuttles move 10% faster, contributing to planetary Temperature by <resource(5,'TemperatureTP')> per Sol for every Shuttle in flight.","Shuttle Hubs consume 50% more Fuel and Shuttles move 10% faster, contributing to planetary Temperature by <resource(5,'TemperatureTP')> per Сол for every Shuttle in flight.",
-11984,Shuttle Afterburners,Shuttle Afterburners,
-219844242465,"Shuttle Hubs consume 100% more Fuel and Shuttles move 25% faster, contributing to planetary Temperature by <resource(10,'TemperatureTP')> per Sol for every Shuttle in flight.","Shuttle Hubs consume 100% more Fuel and Shuttles move 25% faster, contributing to planetary Temperature by <resource(10,'TemperatureTP')> per Сол for every Shuttle in flight.",
-934533477240,Advanced Shuttle Afterburners,Advanced Shuttle Afterburners,
+878909532079,"Fuel Refineries consume 50% more Water and produce 10% more Fuel, contributing to planetary Atmosphere by <resource(15,'AtmosphereTP')> per Sol for every working Fuel Refinery.","Заводы паліва спажываюць на 50% больш вады й выпрацоўваюць на 10% больш паліву, паляпшае атмасфэоу планеты на <resource(15,'AtmosphereTP')> у Сол за кожны працуюшчы завод паліву.",
+850242285234,Overloaded Fuel Refineries,Перагруджаныя заводы паліву,
+674562544731,"Fuel Refineries consume 100% more Water and produce 25% more Fuel, contributing to planetary Atmosphere by <resource(30,'AtmosphereTP')> per Sol for every working Fuel Refinery.","Заводы паліва спажывае на 100% больш вады й выпрацоўваюць на 25% больш паліву, паляпшае атмасфэру палнеты на <resource(30,'AtmosphereTP')> у Сол за кожны працуюшчы завод паліву.",
+441346450001,Advanced Overloaded Fuel Refineries,Палешпаныя перагруджаныя заводы паліву,
+221257334288,"Shuttle Hubs consume 50% more Fuel and Shuttles move 10% faster, contributing to planetary Temperature by <resource(5,'TemperatureTP')> per Sol for every Shuttle in flight.","ЦК Шатлаў спажывае на 50% больш паліву й шатлы рухаюцца на 10% шыбчэй, паляпшае тэмпературу планеты на <resource(5,'TemperatureTP')> у Сол за кожны шатл у палёце.",
+11984,Shuttle Afterburners,Шатлавы фарсаж,
+219844242465,"Shuttle Hubs consume 100% more Fuel and Shuttles move 25% faster, contributing to planetary Temperature by <resource(10,'TemperatureTP')> per Sol for every Shuttle in flight.","ЦК Шатлаў спажывае на 100% больш паліву й шатлы рухаюцца на 25% шыбчэй, паляпшае тэмпературу планеты на <resource(10,'TemperatureTP')> у Сол за кожны шатл у палёце.",
+934533477240,Advanced Shuttle Afterburners,Палепшаны шатлавы фарсаж,
 720433055573,"Research the life improving formula discovered by one of our colonists and verify its presumed qualities. 
 As a side effect, one may expect a 5% boost in the field of Biotech.","Research the life improving formula discovered by one of our colonists and verify its presumed qualities. 
 As a side effect, one may expect a 5% boost in the field of Biotech.",
@@ -15216,9 +15214,9 @@ But we bear the mark of our failure. We know that we were tried and found wantin
 34582765515864,Three new mysteries introducing extraterrestrial entities and strange phenomena.,Three new mysteries introducing extraterrestrial entities and strange phenomena.,
 34582765515863,Mysteries Resupply Pack,Mysteries Resupply Pack,
 419013284805,Large Gardens,Large Gardens,
-409966630608,Small Grocers,Small Grocers,
+409966630608,Small Grocers,Малыя харчовыя крамы,
 719079681669,Small Art Stores,Малыя мастацкія крамы,
-763932893983,Small Spacebars,Small Spacebars,
+763932893983,Small Spacebars,Малы касьмічныя бары,
 457100888010,Living Quarters,Living Quarters,
 107213176619,Large Oxygen Tanks,Вялікія бакі тлёну,
 5313,Polymer Blades,Палімерныя клінкі,
@@ -15258,8 +15256,8 @@ This technological challenge to take advantage of what little wind there is on M
 308084301831,Small Grocer,Малая харчовая крама,
 5110,A place to purchase authentic Martian works of art. Consumes Polymers on each visit.,"Мейсца, дзе магчыма набыць сапраўдныя творы марсіянскага мастацтва. Спажывае палімеры пры наведваньні.",
 333447521201,Small Art Store,Small Art Store,
-5282,Provides space for R&R and fancy cocktails.,Provides space for R&R and fancy cocktails.,
-972690852427,Small Spacebar,Small Spacebar,
+5282,Provides space for R&R and fancy cocktails.,Забясьпечвае мейсца адпачынку з шыкоўнымі кактэйлямі.,
+972690852427,Small Spacebar,Малы касьмічны бар,
 5151,A recreational area with cultivated vegetation.,Зона забавак з культурнай расьліннасьцю.,
 352838353259,Large Garden,Вялікі сад,
 11467,A collection of 26 buildings and skins - 9 buildings with new sizes and 17 skins of existing buildings.,A collection of 26 buildings and skins - 9 buildings with new sizes and 17 skins of existing buildings.,
@@ -16455,11 +16453,11 @@ Commander Profile: <em><commander_profile></em>
 Total Score: <em><score></em>",
 10291,Mission Evaluation,Mission Evaluation,
 10314,"Thank you for completing your mission goals, Commander. Once again your submission documentation is up to par and we enjoyed reading through it. The team at Paradox Interactive HQ is grateful for your patience and determination.","Thank you for completing your mission goals, Commander. Once again your submission documentation is up to par and we enjoyed reading through it. The team at Paradox Interactive HQ is grateful for your patience and determination.",
-424533548703,"<DisplayName> is deeply in love with another Colonist they fear is out of their league. They wish to propose during a very romantic moment, one that involves a serious display of fireworks.","<DisplayName> is deeply in love with another Colonist they fear is out of their league. They wish to propose during a very romantic moment, one that involves a serious display of fireworks.",
-890185078656,Anything For Love.,Anything For Love.,
-332917337241,A gloomy looking Colonist approaches you and shares something personal.,A gloomy looking Colonist approaches you and shares something personal.,
-723625051072,I can't say no to a hopeless romantic. Let's have us some fireworks!,I can't say no to a hopeless romantic. Let's have us some fireworks!,
-333925108200,I will do anything for love but I won't do that.,I will do anything for love but I won't do that.,
+424533548703,"<DisplayName> is deeply in love with another Colonist they fear is out of their league. They wish to propose during a very romantic moment, one that involves a serious display of fireworks.","<DisplayName> моцна закаханы, але баіцца, што не падыходзіць. Ёсьць жаданьне зрабіць прапанову падчас вельмі рамантычнага моманту, які прадугледжвае сур'ёзны феерверк.",
+890185078656,Anything For Love.,Усё дзеля каханьня.,
+332917337241,A gloomy looking Colonist approaches you and shares something personal.,Да вас падыходзіць сумны чалавек і дзеліцца нечым асабістым.,
+723625051072,I can't say no to a hopeless romantic. Let's have us some fireworks!,Я не магу адмовіць такому рамантыку. Давайце зробім феерверк!,
+333925108200,I will do anything for love but I won't do that.,"Я зраблю ўсё дзеля каханьня, але я не буду гэтага рабіць.",
 667271698980,"A race to cross the great Arcadian plains! With quite a motivating reward fund of <funding(reward)> - courtesy of said organizations. The plan is that every Mars mission commits one Explorer to the race.
 
 All colonies must commit to the race for it to transpire at all. First one across gets all the funding.","A race to cross the great Arcadian plains! With quite a motivating reward fund of <funding(reward)> - courtesy of said organizations. The plan is that every Mars mission commits one Explorer to the race.
@@ -16518,23 +16516,23 @@ Possibly just wishful thinking, but a nice thought nonetheless.",
 
 We, on the other hand, are in a position to collide one of our Rockets with the meteor to deviate its course just enough so it misses the rival colony. 
 
-This will, however, trigger a deadly meteor storm right above our colony from the debris of the blast.","The meteor was detected quite late and <DisplayName>'s colony is helpless to do anything about it. 
+This will, however, trigger a deadly meteor storm right above our colony from the debris of the blast.","Мэтэор быў выяшлены запозна й калёнія <DisplayName> ня можа нічога зрабіць. 
 
-We, on the other hand, are in a position to collide one of our Rockets with the meteor to deviate its course just enough so it misses the rival colony. 
+Мы, з другога боку, маем магчымасьць штурхнуць адну з нашых ракет з мэтэорам каб адхіліць яго з кірунку да калёніі супраціўніку. 
 
-This will, however, trigger a deadly meteor storm right above our colony from the debris of the blast.",
-953637646402,Armageddon,Armageddon,
-175545913239,A large meteor is on an impact course towards a rival colony.,A large meteor is on an impact course towards a rival colony.,
-863515127314,We can't stay idle and leave our fellow Martians to die. Fire the rocket!,We can't stay idle and leave our fellow Martians to die. Fire the rocket!,
-172170966290,lose a Rocket and trigger a Meteor Storm. Save the Colony of <DisplayName>,lose a Rocket and trigger a Meteor Storm. Save the Colony of <DisplayName>,
-449892688747,A rocket was quickly prepared and launched directly at the meteor.,A rocket was quickly prepared and launched directly at the meteor.,
+Аднак, гэта выкліча сьмяротную мэтэорную буру на нашу калёнію з-за аскепкаў штурху.",
+953637646402,Armageddon,Армагэдон,
+175545913239,A large meteor is on an impact course towards a rival colony.,Вялізны мэтэор ляціць на калёнію супраціўніка.,
+863515127314,We can't stay idle and leave our fellow Martians to die. Fire the rocket!,Мы не можам быць убаку й пакінуць нашых марсіян паміраць. Запусціць ракету!,
+172170966290,lose a Rocket and trigger a Meteor Storm. Save the Colony of <DisplayName>,Страціць ракету й выклікаць мэтэорную буру. Выратаваць калёнію <DisplayName>,
+449892688747,A rocket was quickly prepared and launched directly at the meteor.,Ракета шыбка падрыхтавана й запушчана ў напрамку мэтэора.,
 791623466704,"The collision altered the course of the deadly meteor just enough so it collided in safe distance of the other colony.
 
-Celebrations are due, but first we must brace for the meteor storm about to hit us.","The collision altered the course of the deadly meteor just enough so it collided in safe distance of the other colony.
+Celebrations are due, but first we must brace for the meteor storm about to hit us.","Штурх зьмяніў кірунак сьмяротнага мэтэору дастаткова, каб ён упаў у бясьпечнай адлегласьці ад другой калёніі.
 
-Celebrations are due, but first we must brace for the meteor storm about to hit us.",
-954385521672,I am responsible for the lives of our colonists and can't put them in danger. I am sorry.,I am responsible for the lives of our colonists and can't put them in danger. I am sorry.,
-220002921069,the Colony of <DisplayName> will be destroyed,the Colony of <DisplayName> will be destroyed,
+Ясчэ пасьвяткуем, але першпачаткова мы мусімы падрыхтавацца да мэтэорнай буры, што вось-вось абрынецца на нас.",
+954385521672,I am responsible for the lives of our colonists and can't put them in danger. I am sorry.,Я адказны за усіх з нашай калёніі й не магу ставіць пад пагрозу іх. Мне шкада.,
+220002921069,the Colony of <DisplayName> will be destroyed,калёнія <DisplayName> была зьнішчана,
 615842352690,The window in which we could have acted to save the rival colony quickly passed. ,The window in which we could have acted to save the rival colony quickly passed. ,
 352213256364,"Soon after a marsquake is detected. News of the complete destruction of <DisplayName>'s colony followed shortly.
 
@@ -16594,7 +16592,7 @@ Sharing the information will also make it quite hard to deny running spies on Ma
 
 Абмен інфармацыяй таксама ўскладніць адмову ад шпіёнаў на Марсе з нашага боку.",
 441765424474,Cyber War,Кыбэр вайна,
-787024356319,Our cyber security team has taken advantage of a gaping hole within one of our rivals’ network defenses.,Наша каманда па кыбэрбясьпецы скарысталася дзіркай у сеткавай ахове аднаго з нашых супернікаў.,Наша каманда па кібербяспецы скарысталася дзіркай у сетцы абароны аднаго з нашых супернікаў.
+787024356319,Our cyber security team has taken advantage of a gaping hole within one of our rivals’ network defenses.,Наша каманда па кыбэрбясьпецы скарысталася дзіркай у сеткавай ахове аднаго з нашых супернікаў.,
 566586895851,"No need, just hinder their production. ","Ня трэба, проста сапсуем іх вытворчасьць.",
 648522331515,rival loses resources,Супраціўнік страчвае рэсурсы,
 878953405646,Share the story with Earth.,Падзяліцца гісторыяй зь Зямлёй.,
@@ -17542,7 +17540,7 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 5005,Home Collective,Хатні калектыў,
 5006,+<upgrade1_add_value_1> Service Comfort.,+<upgrade1_add_value_1> Service Comfort.,
 790515351038,Smart Apartments,Вумныя кватэры,
-5249,Cultivates desired Perks in children using modern remote learning techniques.,Cultivates desired Perks in children using modern remote learning techniques.,
+5249,Cultivates desired Perks in children using modern remote learning techniques.,Гадуе патрэбныя здольнасьці ў дзяцей з дапамогай сучасных метадаў дыстанцыйнага навучаньня.,
 384348682454,School Spire,Шпіль-Школа,
 103221689424,Provide a very comfortable living space exclusively for Seniors. Residents will recover additional Sanity when resting.,Provide a very comfortable living space exclusively for Seniors. Residents will recover additional Sanity when resting.,
 835908377588,Retirement Home,Retirement Home,
@@ -18133,7 +18131,7 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 12154,Research progress <icon_Research>,Прагрэс дасьледаваньня <icon_Research>,
 432,<trait_name><right><value>,<trait_name><right><value>,
 433,Information about the traits developed by Colonists under the effect of Project Morpheus,Information about the traits developed by Colonists under the effect of Праэкт Марфей,
-684,Charging<right><percent(charging_progress)>,Charging<right><percent(charging_progress)>,
+684,Charging<right><percent(charging_progress)>,Зарадка<right><percent(charging_progress),
 685,Waiting for Drones,У чаканьні дронаў,
 686,RP/Day,Дасьлед./Дзень,
 687,Number of Residents,Number of Residents,
@@ -18262,11 +18260,11 @@ Services: <em><list></em>","<description>
 749,"Payload<right><resource(StoredAmount,max_amount,resource)>","Карысная нагрузка<right><resource(StoredAmount,max_amount,resource)>",
 750,Water Consumption,Водаспажываньне,
 657,Oxygen Consumption,Спажываньне тлёну,
-751,Starting Shuttles,Starting Shuttles,
-752,Max Shuttles,Max Shuttles,
-11507,Transport everything,Transport everything,
-11508,Transport Colonists,Transport Colonists,
-11509,Transport resources,Transport resources,
+751,Starting Shuttles,Стар шатлаў,
+752,Max Shuttles,Макс. шатлаў,
+11507,Transport everything,Перавозіць усё,
+11508,Transport Colonists,Перавозіць калёністаў,
+11509,Transport resources,Перавозіць рэсурсы,
 236268272624,Shuttles facilitate long range transportation of resources between Storages and people between Domes.,Shuttles facilitate long range transportation of resources between Storages and people between Domes.,
 8699,<newline><center><em>Global Statistics<left></em>,<newline><center><em>Global Statistics<left></em>,
 754,"<left>Required <resource_display_name><right><resource(received_amount, total_amount, icon)>","<left>Required <resource_display_name><right><resource(received_amount, total_amount, icon)>",
@@ -18695,7 +18693,7 @@ Services: <em><list></em>","<description>
 884,Pipes transport Oxygen and Water and have to be connected to buildings on the spots indicated with a pipe connection icon.,Pipes transport Oxygen and Water and have to be connected to buildings on the spots indicated with a pipe connection icon.,
 8777,Connect two domes by placing both ends of the Passage on empty hexes inside two nearby domes.,Connect two domes by placing both ends of the Passage on empty hexes inside two nearby domes.,
 885,Power Switch,Перамыкач энэргіі,
-886,Pipe Valve,Pipe Valve,
+886,Pipe Valve,Трубны клапан,
 8813,Passage Ramp,Праязны пандус,
 887,Place a power switch,Place a power switch,
 888,Place a pipe valve,Place a pipe valve,
@@ -19249,11 +19247,11 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 8068,"""The worst pandemic in modern history was the Spanish flu of 1918, which killed tens of millions of people. Today, with how interconnected the world is, it would spread faster.""<newline><right>- Bill Gates","""Найжахлівай пандэміяй у сучаснай гісторыі была гіспанка 1918 году, якая забрала жыцьці дзясяткаў мільёнаў людзей. Сёньня, калі сьвет узаемазьвязаны, яна будзе распаўсюджвацца хутчэй.""<newline><right>- Біл Гейтс",
 8458,Wildfire Cure,Wildfire Cure,
 8459,Medicine preventing the Wildfire infection from destroying its host and from spreading to other humans.,Medicine preventing the Wildfire infection from destroying its host and from spreading to other humans.,
-8531,Wildfire Cure Depot,Wildfire Cure Depot,
-8532,Wildfire Cure Depots,Wildfire Cure Depots,
-8796,Wildfire Cure Storage,Wildfire Cure Storage,
-8797,Wildfire Cure Storages,Wildfire Cure Storages,
-8533,Stores the cure for the Wildfire infection.,Stores the cure for the Wildfire infection.,
+8531,Wildfire Cure Depot,Cхоў лек Ляснога пажару,
+8532,Wildfire Cure Depots,Сховы лек Ляснога пажару,
+8796,Wildfire Cure Storage,Склад лек Ляснога пажару,
+8797,Wildfire Cure Storages,Склады лек Ляснога пажару,
+8533,Stores the cure for the Wildfire infection.,Захоўвае лекі ад хворы Ляснога пажару.,
 8070,Beyond Earth (Easy),За Зямлёй (Лёгка),
 8071,"""It isn't all over; everything has not been invented; the human adventure is just beginning.""<newline><right>- Gene Roddenberry","""Яшчэ ня ўсё скончылася; яшчэ ня ўсё прыдумана; чалавечыя прыгоды толькі пачынаюцца.""<newline><right>- Джын Родэнбэры",
 8072,The Last War (Hard),Апошняя вайна (Цяжка),
@@ -22683,12 +22681,12 @@ Larger networks will malfunction more often.",
 10540,Cost: Nothing (Free Construction rule),Кошт: Бракуе (Правіла дармоваў пабудовы),
 263,Cost: ,Кошт: ,
 3959,Consumption: ,Спажываньне: ,
-12094,Refill: <water(irrigation)>,Refill: <water(irrigation)>,
+12094,Refill: <water(irrigation)>,Запаўненьне: <water(irrigation)>,
 3960,"Maintenance: <resource(maintenance_resource_amount,maintenance_resource_type)>","Абслугоўваньне: <resource(maintenance_resource_amount,maintenance_resource_type)>",
-3961,Residential space: <home(capacity)>,Residential space: <home(capacity)>,
-3962,Comfort (all Residences): +<Stat(dome_comfort)>,Comfort (all Residences): +<Stat(dome_comfort)>,
-3963,Service Comfort: <Stat(comfort)>,Service Comfort: <Stat(comfort)>,
-3964,<em>Workers:</em> <colonist(workers)> (single work shift),<em>Працоўныя:</em> <colonist(workers)> (single work shift),
+3961,Residential space: <home(capacity)>,Памяшканьняў: <home(capacity)>,
+3962,Comfort (all Residences): +<Stat(dome_comfort)>,Камфорт (усё жыльлё): +<Stat(dome_comfort)>,
+3963,Service Comfort: <Stat(comfort)>,Камфорт сэрвісу: <Stat(comfort)>,
+3964,<em>Workers:</em> <colonist(workers)> (single work shift),<em>Працоўныя:</em> <colonist(workers)> (адна працоўная зьмена),
 3965,<em>Workers:</em> <colonist(total)> (<colonist(workers)> per work shift),<em>Працоўныя:</em> <colonist(total)> (<colonist(workers)> у рабочую зьмену),
 12001,"<em>Terraforming effect: +<resource(number, res)> per Sol.</em>","<em>Эфэкт терафарміраваньня: +<resource(number, res)> у Сол.</em>",
 3957,for each 5 hexes-long section,за кожную сэкцыю 5 гэскаў у даўжыню,
@@ -23111,7 +23109,7 @@ Do you want to enable this mod anyway?","Наступныя неабавязко
 435618535856,Decorations,Decorations,
 82,Storages,Сховішча,
 12105,Toggle filtering of Storages.,Toggle filtering of Storages.,
-704779059549,Storages,Storages,
+704779059549,Storages,Сховішча,
 430474379281,Toggle filtering of Power producers.,Toggle filtering of Power producers.,
 416682488997,Power Producers,Power Producers,
 250629220868,Toggle filtering of Production buildings.,Toggle filtering of Production buildings.,
@@ -24014,22 +24012,22 @@ Research cost<right><ResearchPoints(cost)>","<description>
 764097870353,<ButtonA> Select,<ButtonA> Select,
 7305,<DisplayName>,<DisplayName>,
 982829389071,<resource(StoredAmount)>/<resource(max_shared_storage)>,<resource(StoredAmount)>/<resource(max_shared_storage)>,
-860716957818,<left_click> Construct a new Shuttle<newline><right_click> Cancel a Shuttle construction,<left_click> Construct a new Shuttle<newline><right_click> Адмяніць a Shuttle construction,
+860716957818,<left_click> Construct a new Shuttle<newline><right_click> Cancel a Shuttle construction,<left_click> Зрабіць новы шатл <newline><right_click> Адмяніць зборку шатла,
 9745,"<ButtonA> Construct a new Shuttle
-<ButtonX> Cancel a Shuttle construction","<ButtonA> Construct a new Shuttle
-<ButtonX> Адмяніць a Shuttle construction",
+<ButtonX> Cancel a Shuttle construction","<ButtonA> Зрабіць новы шатл
+<ButtonX> Адмяніць зборку шатла",
 9746,"<left_click> Construct Drone Prefab
-<right_click> Cancel Drone Prefab","<left_click> Construct Drone Prefab
-<right_click> Адмяніць Drone Prefab",
+<right_click> Cancel Drone Prefab","<left_click> Зрабіць модуль дрона
+<right_click> Адмяніць зборку модуля дрона",
 9747,"<ButtonA> Construct Drone Prefab
-<ButtonX> Cancel Drone Prefab","<ButtonA> Construct Drone Prefab
-<ButtonX> Адмяніць Drone Prefab",
+<ButtonX> Cancel Drone Prefab","<ButtonA> Зрабіць модуль дрона
+<ButtonX> Адмяніць зборку модуля дрона",
 9748,"<left_click> Construct Biorobot
-<right_click> Cancel Biorobot","<left_click> Construct Biorobot
-<right_click> Адмяніць Biorobot",
+<right_click> Cancel Biorobot","<left_click> Зрабіць біёробата
+<right_click> Адмяніць зборку біёробата",
 9749,"<ButtonA> Construct Biorobot
-<ButtonX> Cancel Biorobot","<ButtonA> Construct Biorobot
-<ButtonX> Адмяніць Biorobot",
+<ButtonX> Cancel Biorobot","<ButtonA> Зрабіць біёробата
+<ButtonX> Адмяніць зборку біёробата",
 14370,"Trains constructed here can be assigned to connected Tracks.
 
 <left>Available Trains<right><available_trains> <icon_Train>
@@ -24043,13 +24041,13 @@ Research cost<right><ResearchPoints(cost)>","<description>
 
 <left>Construction cost:<right><resource(ConstructTrainCostMetal, ConstructResourceMetal)>
 <right><resource(ConstructTrainCostMP, ConstructResourceMP)>",
-14371,Construct Train,Construct Train,
+14371,Construct Train,Зрабіць цягнік,
 14372,"<left_click> Construct Train
-<right_click> Decommission Train or Cancel Train Construction","<left_click> Construct Train
-<right_click> Decommission Train or Cancel Train Construction",
+<right_click> Decommission Train or Cancel Train Construction","<left_click> Зрабіць цягнік
+<right_click> Разабраць ці адмяніць зборку цягніка",
 14373,"<ButtonA> Construct Train
-<ButtonX> Decommission Train or Cancel Train Construction","<ButtonA> Construct Train
-<ButtonX> Decommission Train or Cancel Train Construction",
+<ButtonX> Decommission Train or Cancel Train Construction","<ButtonA>Зрабіць цягнік
+<ButtonX> Разабраць ці адмяніць зборку цягніка",
 14374,"Set Trains on this route to transport only colonists, resources or both.<newline><newline>Current status: <UITransportModeCurrentStatus><em>","Set Trains on this route to transport only colonists, resources or both.<newline><newline>Current status: <UITransportModeCurrentStatus><em>",
 892860717791,Gone Rogue,Gone Rogue,
 463510675096,<description>,<description>,
@@ -24187,23 +24185,23 @@ Export Amount<right><resource(TradeAmount)>",
 821612835210,Construct a Shuttle,Пабудаваць шатл,
 9803,<left_click> Construct a new Shuttle<newline><right_click> Cancel a Shuttle construction<newline>Ctrl + <left_click> Construct five new Shuttles,<left_click> Construct a new Shuttle<newline><right_click> Адмяніць a Shuttle construction<newline>Ctrl + <left_click> Construct five new Shuttles,
 655064239120,<ButtonA> Construct a new Shuttle<newline><ButtonX> Cancel a Shuttle construction<newline><ButtonY> Construct five new Shuttles,<ButtonA> Construct a new Shuttle<newline><ButtonX> Адмяніць a Shuttle construction<newline><ButtonY> Construct five new Shuttles,
-324514950847,The construction of a new Shuttle costs:<newline><SingleShuttleCostStr>,The construction of a new Shuttle costs:<newline><SingleShuttleCostStr>,
+324514950847,The construction of a new Shuttle costs:<newline><SingleShuttleCostStr>,Зборка новага шатла каштуе:<newline><SingleShuttleCostStr>,
 174054841334,No more shuttles can be constructed.,Больш шатлы пабудаваць нельга.,
-11499,"Set Shuttles from this Hub to transport resources, Colonists or both.<newline><newline>Current status: <UITransportModeCurrentStatus><em>","Set Shuttles from this Hub to transport resources, Colonists or both.<newline><newline>Current status: <UITransportModeCurrentStatus><em>",
-11423,Toggle Transport Mode,Toggle Transport Mode,
-11501,<left_click> Toggle Transport Mode,<left_click> Toggle Transport Mode,
-11502,<ButtonA> Toggle Transport Mode,<ButtonA> Toggle Transport Mode,
-726161435938,Shuttle construction<right><queued_shuttles_for_construction>,Shuttle construction<right><queued_shuttles_for_construction>,
+11499,"Set Shuttles from this Hub to transport resources, Colonists or both.<newline><newline>Current status: <UITransportModeCurrentStatus><em>","Усталёўка ражыму перавозак шатлаў у абраным ЦК: рэсурсы, калёністы ці ўсё.<newline><newline>Бягучы стан: <UITransportModeCurrentStatus><em>",
+11423,Toggle Transport Mode,Пераключыць ражым перавозкі,
+11501,<left_click> Toggle Transport Mode,<left_click> Пераключыць ражым перавозкі,
+11502,<ButtonA> Toggle Transport Mode,<ButtonA> Пераключыць ражым перавозкі,
+726161435938,Shuttle construction<right><queued_shuttles_for_construction>,Зборка шатлаў<right><queued_shuttles_for_construction>,
 106779987443,<ShuttleConstructionCostsStr>,<ShuttleConstructionCostsStr>,
 8723,<UIRolloverText>,<UIRolloverText>,
-933065747298,Shuttles,Shuttles,
-766548374853,Shuttles<right><count(shuttle_infos)>/<max_shuttles>,Shuttles<right><count(shuttle_infos)>/<max_shuttles>,
+933065747298,Shuttles,Шатлы,
+766548374853,Shuttles<right><count(shuttle_infos)>/<max_shuttles>,Шатлы<right><count(shuttle_infos)>/<max_shuttles>,
 398,In flight<right><FlyingShuttles>,Ляціць<right><FlyingShuttles>,
 8700,Refueling<right><RefuelingShuttles>,Запраўка<right><RefuelingShuttles>,
 717110331584,Idle<right><IdleShuttles>,Бяздзейныя <right><IdleShuttles>,
-8701,Global load <right><GlobalLoadText>,Global load <right><GlobalLoadText>,
-11424,People transported last sol<right><count(people_flights)>,People transported last sol<right><count(people_flights)>,
-11425,Cargo flights last sol<right><count(cargo_flights)>,Cargo flights last sol<right><count(cargo_flights)>,
+8701,Global load <right><GlobalLoadText>,Агульная нагрузка <right><GlobalLoadText>,
+11424,People transported last sol<right><count(people_flights)>,Перавоз людзей ў мінулы Сол <right><count(people_flights)>,
+11425,Cargo flights last sol<right><count(cargo_flights)>,Перавоз грузу ў мінулы Сол <right><count(cargo_flights)>,
 7818,Forbid Exports,Забараніць экспарт,
 7819,Forbid the export of Rare Metals.,Забараніць экспарт рэдкіх мэталаў.,
 7820,Allow Exports,Дазволіць экспарт,
@@ -24569,10 +24567,10 @@ Queue tasks by using <em>Shift + <right_click></em>","Гэта сьпіс зад
 7419,<Description>,<Description>,
 788,<center>The deposit is not exploitable with our current technology,<center>Зараз нашыя тэхнолёгіі не дазваляюць нам дабываць з гэтага радовішча,
 7420,<Description>,<Description>,
-607170415280,A switch or a valve can be used to split the grid into two sections.,A switch or a valve can be used to split the grid into two sections.,
-7650,<left_click> Activate/Deactivate <newline><em>Ctrl + <left_click></em> Activate/Deactivate all,<left_click> Activate/Deactivate <newline><em>Ctrl + <left_click></em> Activate/Deactivate all,
-598,Connect,Connect,
-599,Split grid,Split grid,
+607170415280,A switch or a valve can be used to split the grid into two sections.,З дапамогаў пераключацеля ці клапана магчыма раз'яднаць сетку на дзьве сэкцыі.,
+7650,<left_click> Activate/Deactivate <newline><em>Ctrl + <left_click></em> Activate/Deactivate all,<left_click> Актываваць/Дэактываваць<newline><em>Ctrl + <left_click></em> Актываваць/Дэактываваць усе,
+598,Connect,Падлучыць,
+599,Split grid,Раз'яднаць сетку,
 640016954592,Remove this switch or valve.,Remove this switch or valve.,
 3973,Salvage,Разабраць,
 7657,<ButtonY> Activate,<ButtonY> Актываваць,
