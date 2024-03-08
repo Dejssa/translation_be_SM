@@ -5666,26 +5666,26 @@ The object demonstrated no interest in the activities of the rover. The scientis
 
 <effect>Чакайце, што праз <text_param1> Солаў на Марс абрынуцца некалькі мэтэорных бур.",
 5978,All personnel – keep calm and watch for meteors.,Усяму персаналу - захоўваць спакой і сачыць за мэтэорамі.,
-5979,The Dredgers: The Heavenly Storm,The Dredgers: The Heavenly Storm,
-7459,"Mission Control, we’ve got an update on the status of the meteor storms. And it’s not looking good.","Mission Control, we’ve got an update on the status of the meteor storms. And it’s not looking good.",
+5979,The Dredgers: The Heavenly Storm,Драгеры: Нябесны шторм,
+7459,"Mission Control, we’ve got an update on the status of the meteor storms. And it’s not looking good.","ЦЭМ, мы атрымалі новую інфармацыю аб стане мэтэорных штормаў. Яно выглядае ня добра.",
 5980,"The initial evaluation of the situation with the meteor clusters had been miscalculated. The scientists from the near-Earth object detection programs predict that a significant amount of the meteorite stream would fill the space between Mars and Earth. While the thick atmosphere of our home world would protect it from eventual impacts, the threat level for any spacecraft will be past tolerable. To address the new situation, Earth Control has canceled all space flights until further notice.
 
-<effect>Rockets will not arrive until the situation with the meteor impacts is resolved. Inbound rockets will still land on Mars.","The initial evaluation of the situation with the meteor clusters had been miscalculated. The scientists from the near-Earth object detection programs predict that a significant amount of the meteorite stream would fill the space between Mars and Earth. While the thick atmosphere of our home world would protect it from eventual impacts, the threat level for any spacecraft will be past tolerable. To address the new situation, Earth Control has canceled all space flights until further notice.
+<effect>Rockets will not arrive until the situation with the meteor impacts is resolved. Inbound rockets will still land on Mars.","Першпачатковая ацэнка сітуацыі з наваламі адбылася памылковай. Навокоўцы праграм выяўленьня калязямных аб'ектаў прагназуюць, што значная кольскасьць мэтэарытнага патоку запоўніць прастору паміж Марсам і Зямлёй. У той час як густая атмасфэра роднага сьвету абароніць яго ад мачымых удараў, але ўзровень пагрозы для ксьмічных ракет будзе недапушчальным. Да вырашэньня адбыўшыйся выпадак, Кіраваньне Зямлі адмяніла ўсе касьмічныя палёты да наступных паведамленьняў.
 
-<effect>Rockets will not arrive until the situation with the meteor impacts is resolved. Inbound rockets will still land on Mars.",
-5981,We must maintain strict regulations over our supplies until then.,We must maintain strict regulations over our supplies until then.,
+<effect>Ракеты не прыбудуць пакуль акізія з мэтэорамі не будзе вырашына. Ракеты ў палёце даляцяць да Марсу.",
+5981,We must maintain strict regulations over our supplies until then.,Датуль мы павінны выконваць строгія правілы для нашых паставак.,
 5982,Severe meteor activity is preventing interplanetary travel. Rockets cannot be requested from Earth.,Моцная метэорная актыўнасьць перашкаджае міжпланетнай сувязі. Ракеты нельга запытваць зь Зямлі.,
-5983,The Dredgers: Brace for Impact,The Dredgers: Brace for Impact,
-7460,All stations on red alert! Unidentified object on course for direct impact!,All stations on red alert! Unidentified object on course for direct impact!,
+5983,The Dredgers: Brace for Impact,Драгеры: Падрыхтоўка да ўдару,
+7460,All stations on red alert! Unidentified object on course for direct impact!,Чырвоная трывога ва ўсіх станцыях! Непазнаны аб'ект на кірунку прамога ўдару!,
 5984,"Mission Control, our sensors are detecting a large object incoming at high velocity. Judging by the data from our telemetry, its mass and speed are great enough to cause major damage on the surface. It would be wise to evacuate the area around the projected point of impact.
 
 We could be wrong, but our initial visual readings on the object show that it has an unconventional form for a meteorite. Strange protrusions can be observed from the back of the object. Could this be something different than a meteor?
 
-<effect>A major impact is expected to happen somewhere on Mars.","Mission Control, our sensors are detecting a large object incoming at high velocity. Judging by the data from our telemetry, its mass and speed are great enough to cause major damage on the surface. It would be wise to evacuate the area around the projected point of impact.
+<effect>A major impact is expected to happen somewhere on Mars.","ЦЭМ, нашы датчыкі выявілі вялікі аб'ект набліжаюшчыйся з вялікай хуткасьцю. Гледзячы на дадзеныя нашай тэлеметрыі, ягоная маса й хуткасьць дастаткова вяліка, каб сур'ёзна пашкодзіць паверхню. Было бы разумна эвакуіраваць тэрыторыю вакол меркаванага пункта удару.
 
-We could be wrong, but our initial visual readings on the object show that it has an unconventional form for a meteorite. Strange protrusions can be observed from the back of the object. Could this be something different than a meteor?
+Мы можам памыляцца, але нашы першыя паказаньні выгляду сведчаць, што ён мае нетрадыцыйную форму для мэтэора. З тыльнага боку аб'екта магчыма назіраць дзіўныя выступы. Ці можа гэта іншае за мэтэор?
 
-<effect>A major impact is expected to happen somewhere on Mars.",
+<effect>Чакаецца сур'ёзны удар дзесьці па Марсу.",
 5985,Stay focused and don’t jump to conclusions.,Stay focused and don’t jump to conclusions.,
 7461,Planetfall. We finally get a visual on the target as the dust settles. No one at Mission Control can believe their eyes.,Planetfall. We finally get a visual on the target as the dust settles. No one at Mission Control can believe their eyes.,
 5987,"We haven't seen anything like it – and it doesn't look like something man made. I don't want to overstate things, but this could be a First Contact situation.","We haven't seen anything like it – and it doesn't look like something man made. I don't want to overstate things, but this could be a First Contact situation.",
@@ -7493,39 +7493,39 @@ These are ordinary people who survived the Wildfire crisis somehow and managed t
 8357,We’ll make sure these poor souls get the best reception.,We’ll make sure these poor souls get the best reception.,
 8486,Now that Mars has become a safe haven from the Wildfire infection the authorities on Earth have sent a rocket with non-infected refugees to be sheltered in your colony.,Now that Mars has become a safe haven from the Wildfire infection the authorities on Earth have sent a rocket with non-infected refugees to be sheltered in your colony.,
 8358,Refugees on board are fleeing the infected Earth.,Refugees on board are fleeing the infected Earth.,
-8359,Beyond Earth: Vision of the Future,Beyond Earth: Vision of the Future,
-8360,"“No, aliens did not build the pyramids – human beings built the pyramids with ingenuity and hard work.","“No, aliens did not build the pyramids – human beings built the pyramids with ingenuity and hard work.",
+8359,Beyond Earth: Vision of the Future,Па-за Зямлёй: Бачаньне прышласьці,
+8360,"“No, aliens did not build the pyramids – human beings built the pyramids with ingenuity and hard work.","“Не, іншапланецяне не будавалі піраміды, а людзі з дапамогай вынаходлівасьці й цяжкай працы.",
 8361,"And in this day and age, when we value the strength of a civilization not by its ability to wage war - but by its ability to prevent it, our hard work and cleverness have only one place left to take us – up.
 
 Up towards the stars - above our superficial segregations and competing with ourselves. Up towards a united humanity spread out on many worlds… possibly even stars.  
 
 I am more than certain that the last several thousand years of our history are but the bumpy road towards a version of humanity where there is no hunger, no war, no needless suffering and where the future holds nothing but opportunity and wonder.  And I also believe we are quite close to the end of this turbulent road. I make it my mission to help take us through this last stretch and today I announce my plan in investing the vast majority of my considerable fortune to this endeavor. “
 
-Rede Goddenberry, one of the wealthiest and most powerful people on Earth, addresses the UN General Assembly ","And in this day and age, when we value the strength of a civilization not by its ability to wage war - but by its ability to prevent it, our hard work and cleverness have only one place left to take us – up.
+Rede Goddenberry, one of the wealthiest and most powerful people on Earth, addresses the UN General Assembly ","І ў наш час, калі мы цэнім моц цывілізацыі не за яе здольнасць весьці вайну, а за яе здольнасьць прадухіляць яе, нашай працавітасьці й кемлівасьці застаецца толькі адно - падняць нас уверх.
 
-Up towards the stars - above our superficial segregations and competing with ourselves. Up towards a united humanity spread out on many worlds… possibly even stars.  
+Уверх, да зорак, вышэй за нашы павярхоўныя сегрэгацыі й спаборніцтва з самімі сабой. Насустрач аб'яднанаму чалавецтву, раскіданаму па многіх сьветах... магчыма, нават зорках.
 
-I am more than certain that the last several thousand years of our history are but the bumpy road towards a version of humanity where there is no hunger, no war, no needless suffering and where the future holds nothing but opportunity and wonder.  And I also believe we are quite close to the end of this turbulent road. I make it my mission to help take us through this last stretch and today I announce my plan in investing the vast majority of my considerable fortune to this endeavor. “
+Я больш чым упэўнены, што апошнія некалькі тысяч гад нашай гісторыі - гэта толькі няроўная дарога да версіі чалавецтва, дзе няма голаду, вайны, непатрэбных пакут і дзе будучыня нясе толькі магчымасьці й цуды. І я таксама лічу, што мы даволі блізкія да канца гэтага турбулентнага шляху. Я лічу сваёй місіяй дапамагчы правесьці нас праз гэты апошні адцінак, і сёньня я аб'яўляю аб сваім плане ўкласьці большую частку майго значнага дастатку ў гэтую справу. “
 
-Rede Goddenberry, one of the wealthiest and most powerful people on Earth, addresses the UN General Assembly ",
-8362,Inspiring!,Inspiring!,
-8363,Rede Goddenberry gives out a speech at the UN.,Rede Goddenberry gives out a speech at the UN.,
-8364,Beyond Earth: A Deluded Old Billionaire,Beyond Earth: A Deluded Old Billionaire,
-8365,Greetings from Earth! I’ve wanted an audience with the founders of the first human settlement away from our dear blue planet for ages now.,Greetings from Earth! I’ve wanted an audience with the founders of the first human settlement away from our dear blue planet for ages now.,
+Рэдэ Годдэнбэры, адзін з самых багатых і ўплывовых людзей на Зямлі, выступае перад Генеральнай Асамблеяй ААН",
+8362,Inspiring!,Натхняе!,
+8363,Rede Goddenberry gives out a speech at the UN.,Рэдэ Годдэнбэры выступае з прамовай у ААН.,
+8364,Beyond Earth: A Deluded Old Billionaire,Па-за Зямлёй: Ашуканы стары мільярдэр,
+8365,Greetings from Earth! I’ve wanted an audience with the founders of the first human settlement away from our dear blue planet for ages now.,Прывітаньне зь Зямлі! Я даўно прагнаў сустрэцца з заснавальнікамі першага чалавечага паселішча далёка ад нашай мілай блакітнай планеты.,
 8366,"You see, in you I find kindred souls, souls who do not view my speech at the UN as the ramblings of a deluded old billionaire. I’m certain my vision resonates with all of you up there; after all - you are a part of it.
 
 My Beyond Earth initiative is pushing several separate projects simultaneously - all aimed at bringing prosperity and peace to a human race spread across the Solar System.
 
 One of the projects in question is currently in a ditch - the planning of a Moon base to mine Hydrogen 3, called Aldrin Base. I’m certain I don’t need to tell you what an abundance of the material would mean energy-wise. I’d kindly implore you, if your situation permits it of course, to contribute some research capacity and quite frankly know-how to the Beyond Earth initiative.
 
-<effect>Beyond Earth Initiative tech unlocked. Research the tech to help the Aldrin Base project.","You see, in you I find kindred souls, souls who do not view my speech at the UN as the ramblings of a deluded old billionaire. I’m certain my vision resonates with all of you up there; after all - you are a part of it.
+<effect>Beyond Earth Initiative tech unlocked. Research the tech to help the Aldrin Base project.","Разумееце, у вас я знаходжу роднасныя душы, душы, якія не разглядаюць маю прамову ў ААН як блуканьне аблуднага старога мільярдэра. Я ўпэўнены, што маё бачаньне рэзаніруе з усімі вамі там. У рэшце рэшт - вы яго частка.
 
-My Beyond Earth initiative is pushing several separate projects simultaneously - all aimed at bringing prosperity and peace to a human race spread across the Solar System.
+Мая ініцыятыва «Па-за Зямлёй» адначасова прасоўвае некалькі асобных праектаў - усе яны накіраваны на забесьпячэньне росквіту й міру чалавечай расы па ўсёй Сонечнай сістэме.
 
-One of the projects in question is currently in a ditch - the planning of a Moon base to mine Hydrogen 3, called Aldrin Base. I’m certain I don’t need to tell you what an abundance of the material would mean energy-wise. I’d kindly implore you, if your situation permits it of course, to contribute some research capacity and quite frankly know-how to the Beyond Earth initiative.
+Адзін з праектаў, пра які ідзе гутарка, зараз знаходзіцца ў канаве - планаваньне базы на Месяцы для здабычы Вадароду-3 пад назвай ""База Олдрын"". Я ўпэўнены, што мне ня трэба распавядаць вам, што багацце матэрыялу будзе азначаць з пункту гледжаньня энэргіі. На ласку прашу вас, калі гэта дазваляе ваша сітуацыя, вядома, унесьці пэўны ўклад у дасьледаваньні й, шчыра кажучы, ноў-хаў ў Ініцыятыва «Па-за Заямлёй».
 
-<effect>Beyond Earth Initiative tech unlocked. Research the tech to help the Aldrin Base project.",
-8367,Let's plan this.,Let's plan this.,
+<effect>Тэхнолёгія <em>Ініцыятыва «Па-за Заямлёй»</em> адкрыта. Дасьледуйце яе для дапамогі праэкту «базы Олдрын».",
+8367,Let's plan this.,Заплануем гэта.,
 8368,Rede Goddenberry contacts the Mars colony with direct request for research contribution towards his Beyond Earth initiative.,Rede Goddenberry contacts the Mars colony with direct request for research contribution towards his Beyond Earth initiative.,
 8369,Beyond Earth: Trade Rockets,Beyond Earth: Trade Rockets,
 8370,The Beyond Earth initiative needs your help! And not with know-how this time around.,The Beyond Earth initiative needs your help! And not with know-how this time around.,
@@ -7787,99 +7787,99 @@ To them I have to say: the world is moving on. Try as you might, you have only s
 
 Я павінен сказаць ім: свет рухаецца наперад. Як ні старайся, вы толькі запаволіце незваротны працэс.“",
 8563,A setback. We will overcome it!,Няўдача. Мы гэта пераадолеем!,
-556832090808,Analyze <param1> map Anomalies,Analyze <param1> map Anomalies,
-304927814784,Analyze <param1> Planetary Anomalies,Analyze <param1> Planetary Anomalies,
-10328,Have a total of <param1> buildings,Have a total of <param1> buildings,
-794512515050,Have a Martianborn Colonist,Have a Martianborn Colonist,
-172647140078,Have <param1> Colonists on Mars,Have <param1> Colonists on Mars,
-375497544349,Have <param1> specialists,Have <param1> specialists,
-953122483010,Have <param1> Colonists with all needs above <param2>,Have <param1> Colonists with all needs above <param2>,
-980509416293,Have <param1> <param2>,Have <param1> <param2>,
-802936482385,Have <param1> Colonists with the <param2> Trait,Have <param1> Colonists with the <param2> Trait,
-960724987608,Research <param1> Breakthrough technologies,Research <param1> Breakthrough technologies,
-655611441668,Research <param1> <param2> technologies,Research <param1> <param2> technologies,
-555751287934,Research <param1> technologies,Research <param1> technologies,
-187481407346,Construct a Dome by the end of Sol <param1>,Construct a Dome by the end of Сол <param1>,
-164286480196,Convert <param1> Waste Rock to useful materials,Convert <param1> Waste Rock to useful materials,
-141555589306,Deep scan <param1> Sectors,Deep scan <param1> Sectors,
-842272011718,Deplete <param1> underground Deposits by Sol <param2>,Deplete <param1> underground Deposits by Сол <param2>,
-541471610030,Discover <param1> underground Deposits,Discover <param1> underground Deposits,
-733600960133,Have a Dome with more than <param1> Colonists,Have a Dome with more than <param1> Colonists,
-691160612158,Have <param1> Domes with Spires,Have <param1> Domes with Spires,
-625462310436,Export <funding(param1)> worth of Rare Metals,Export <funding(param1)> worth of Rare Metals,
-818037974162,Export <param1> Rare Metals by the end of Sol <param2>,Export <param1> Rare Metals by the end of Сол <param2>,
-618829033661,Have <param1> Extractors working at <param2> Performance,Have <param1> Extractors working at <param2> Performance,
-782556327763,Have <param1> Founders at <param2> Comfort,Have <param1> Founders at <param2> Comfort,
-616145140930,Generate <research(param1)> per Sol,Generate <research(param1)> per Сол,
-852428145709,Generate <funding(param1)>,Generate <funding(param1)>,
-486938222863,Generate <funding(param1)> within <param2> Sols,Generate <funding(param1)> within <param2> Sols,
-651961761276,Generate <power(param1)>,Generate <power(param1)>,
-627638836229,Have a Dome connected to <param1> other Domes,Have a Dome connected to <param1> other Domes,
+556832090808,Analyze <param1> map Anomalies,Прааналізаваць <param1> анамалій на мапе,
+304927814784,Analyze <param1> Planetary Anomalies,Прааналізаваць <param1> планетарных анамалій,
+10328,Have a total of <param1> buildings,Мець <param1> будынкаў,
+794512515050,Have a Martianborn Colonist,Мець калёніста марсіяніна,
+172647140078,Have <param1> Colonists on Mars,Мець <param1> калёністаў на Марсе,
+375497544349,Have <param1> specialists,Мець <param1> спэцыялістаў,
+953122483010,Have <param1> Colonists with all needs above <param2>,Мець <param1> калёністаў з усімі патрэбнасьцямі вышэй за <param2>,
+980509416293,Have <param1> <param2>,Мець <param1> <param2>,
+802936482385,Have <param1> Colonists with the <param2> Trait,Мець <param1> калёністаў з рысай <param2>,
+960724987608,Research <param1> Breakthrough technologies,Дасьледаваць <param1> прарываў,
+655611441668,Research <param1> <param2> technologies,Дасьледаваць <param1> <param2> тэхнолёгій,
+555751287934,Research <param1> technologies,Дасьледаваць <param1> тэхнолёгій,
+187481407346,Construct a Dome by the end of Sol <param1>,Збудаваць купал па <param1> Сол,
+164286480196,Convert <param1> Waste Rock to useful materials,Пераўтварыць <param1> пустой пароды ў карысныя матэрыялы,
+141555589306,Deep scan <param1> Sectors,Глыбока прасканаваць <param1> сэктараў,
+842272011718,Deplete <param1> underground Deposits by Sol <param2>,Зьнясіліць <param1> падземных радовішч па <param2> Сол,
+541471610030,Discover <param1> underground Deposits,Знайсьці <param1> падземных радовішч,
+733600960133,Have a Dome with more than <param1> Colonists,Мець купал з колькасьцю калёністаў больш за <param1>,
+691160612158,Have <param1> Domes with Spires,Мець <param1> купалоў з шпілямі,
+625462310436,Export <funding(param1)> worth of Rare Metals,Экспартаваць рэдкіх мэталаў на <funding(param1)>,
+818037974162,Export <param1> Rare Metals by the end of Sol <param2>,Экспартаваць рэдкіх мэталаў на <param1> па <param2> Сол,
+618829033661,Have <param1> Extractors working at <param2> Performance,Мець <param1> экстрактар з прадукцыйнасьцю <param2>,
+782556327763,Have <param1> Founders at <param2> Comfort,Мець <param1> заснавальнікаў з <param2> камфортаму,
+616145140930,Generate <research(param1)> per Sol,Рабіць <research(param1)> дасьледваньняў у Сол,
+852428145709,Generate <funding(param1)>,Зарабіць <funding(param1)>,
+486938222863,Generate <funding(param1)> within <param2> Sols,Зарабіць <funding(param1)> у <param2> Солаў,
+651961761276,Generate <power(param1)>,Вырабіць <power(param1)>,
+627638836229,Have a Dome connected to <param1> other Domes,Мець купал падлучаны да <param1> другіх купалаў,
 347382462924,Land a Colonist on Mars by Sol <param1>,Land a Colonist on Mars by Сол <param1>,
-222780100659,Have <param1> Martianborn Colonists,Have <param1> Martianborn Colonists,
-155985857436,Have <param1> Martianborn specialists,Have <param1> Martianborn specialists,
-166463872760,Have <param1> Martianborn <param2>,Have <param1> Martianborn <param2>,
-796650385521,Have <param1> Martianborn Colonists by the end of Sol <param2>,Have <param1> Martianborn Colonists by the end of Сол <param2>,
-133445615586,Have <param1> <param2>,Have <param1> <param2>,
-412460165603,"Build a Machine Parts Factory, a Polymer Factory and an Electronics Factory","Build a Machine Parts Factory, a Polymer Factory and an Завод электронікі",
-150467907921,Produce <param1> advanced resources,Produce <param1> advanced resources,
-695856253366,Produce <param1> <param2>,Produce <param1> <param2>,
-687648534870,Produce <param1> <param2> in a single Sol,Produce <param1> <param2> in a single Сол,
-205028046460,Extract <param1> <param2> from an underground deposit,Extract <param1> <param2> from an underground deposit,
+222780100659,Have <param1> Martianborn Colonists,Мець <param1> марсіянароджаных калёністаў,
+155985857436,Have <param1> Martianborn specialists,Мець <param1> марсіянароджаных срэцыялістаў,
+166463872760,Have <param1> Martianborn <param2>,Мець <param1> марсіянароджаных <param2>,
+796650385521,Have <param1> Martianborn Colonists by the end of Sol <param2>,Мець <param1> марсіянароджаных калёністаў па <param2> Сол,
+133445615586,Have <param1> <param2>,Мець <param1> <param2>,
+412460165603,"Build a Machine Parts Factory, a Polymer Factory and an Electronics Factory","Збудаваць Завод частак машын, Завод палімераў і Завод элэктронікі",
+150467907921,Produce <param1> advanced resources,Вырабіць <param1> перадавых рэсурсаў,
+695856253366,Produce <param1> <param2>,Вырабіць <param1> <param2>,
+687648534870,Produce <param1> <param2> in a single Sol,Вырабіць <param1> <param2> у адзін Сол,
+205028046460,Extract <param1> <param2> from an underground deposit,Здабыць <param1> <param2> з падземнага радовішча,
 867818526841,Refuel a rocket the same Sol it lands,Запраўляйце ракету тым жа Солам,
-196634243926,Construct a <param1>,Construct a <param1>,
-572604186609,"Have a <param1>, <param2> <param3>","Have a <param1>, <param2> <param3>",
+196634243926,Construct a <param1>,Збудаваць <param1>,
+572604186609,"Have a <param1>, <param2> <param3>","Мець <param1>, <param2> <param3>",
 925006846011,Spend <funding(param1)> Funding,Патраціць <funding(param1)> <em>$</em>,
-869557804837,Have <param1> operational Domes,Have <param1> operational Domes,
-236847981261,This in a golden opportunity for us to attract more applicants to join our cause.,This in a golden opportunity for us to attract more applicants to join our cause.,
-501606335985,Applicants Profiling,Applicants Profiling,
-582542899282,Our efforts and triumphs on Mars have not gone unnoticed back on Earth. A hit movie based on real events from the early days of the Martian colony just broke the all time box office record.,Our efforts and triumphs on Mars have not gone unnoticed back on Earth. A hit movie based on real events from the early days of the Martian colony just broke the all time box office record.,
-349057879254,Attract as many new applicants as possible.,Attract as many new applicants as possible.,
-169781298392,adds <random_applicants> random applicants,adds <random_applicants> random applicants,
-310613834993,Attract specialists.,Attract specialists.,
-140066723894,adds <specialists_applicants> applicants with various specializations,adds <specialists_applicants> applicants with various specializations,
-663474664512,Attract some truly exceptional people.,Attract some truly exceptional people.,
-784809964510,"adds a Genius, a Celebrity and a Guru applicant","adds a Genius, a Celebrity and a Guru applicant",
-999237412498,"We don't need more applicants, we will rely on our own Martianborn!","We don't need more applicants, we will rely on our own Martianborn!",
-313021678820,Morale boost for all Martianborn,Morale boost for all Martianborn,
+869557804837,Have <param1> operational Domes,Мець <param1> працуюшчых купалаў,
+236847981261,This in a golden opportunity for us to attract more applicants to join our cause.,Гэта выдатная магчымасьць для нас прыцягнуць больш кандыдатаў далучыцца да нашай справы.,
+501606335985,Applicants Profiling,Прафіляваньне кандыдатаў,
+582542899282,Our efforts and triumphs on Mars have not gone unnoticed back on Earth. A hit movie based on real events from the early days of the Martian colony just broke the all time box office record.,"Нашы намаганьні й перамогі на Марсе не засталіся незаўважанымі на Зямлі. Хіт, заснаваны на рэальных падзеях зь першых дзён марсіянскай калёніі, толькі што пабіў рэкорд па касавых зборах.",
+349057879254,Attract as many new applicants as possible.,Прывабіць як мага больш новых кандыдатаў.,
+169781298392,adds <random_applicants> random applicants,дадае <random_applicants> выпадковых кандыдатаў,
+310613834993,Attract specialists.,Прывабіць спэцыялістаў.,
+140066723894,adds <specialists_applicants> applicants with various specializations,дадае <specialists_applicants> кандыдатаў розных спэцыяльнасьцяў,
+663474664512,Attract some truly exceptional people.,Прывабіць кагосьць сапраўды выключных людзей.,
+784809964510,"adds a Genius, a Celebrity and a Guru applicant","дадае кандыдатаў: гэнія, знакамітасьць і гуру",
+999237412498,"We don't need more applicants, we will rely on our own Martianborn!","Нам не патрэбны больш кандыдаты, мы будзем разлічваць на нашых марсіянароджаных!",
+313021678820,Morale boost for all Martianborn,Падымае маральных дух усіх марсіянароджаных,
 612958777774,"All Drone Hubs have ceased functioning! All Shuttle Hubs have malfunctioned! <funding(amount_1)> vanish from the colony's accounts in a blink of an eye and a Rocket is about to lift off without permission.
 
 Amidst the chaos, a video message from a Genius Renegade force plays itself around the colony:
 
-""So long, suckers! I suggest you get busy and bring your systems back online instead of devising ways to stop me. Trust me, you won't think of anything I haven't before you. Damn, I hate this place!""","All Drone Hubs have ceased functioning! All Shuttle Hubs have malfunctioned! <funding(amount_1)> vanish from the colony's accounts in a blink of an eye and a Rocket is about to lift off without permission.
+""So long, suckers! I suggest you get busy and bring your systems back online instead of devising ways to stop me. Trust me, you won't think of anything I haven't before you. Damn, I hate this place!""","Усе ЦК Дроназ спынілі працу! Усе ЦК Шатлаў пашкоджаны! <funding(amount_1)> зьніклі з рахунку калёніі ў імгненьні вока й ракета зьбіраецца ўзляцець без дазволу.
 
-Amidst the chaos, a video message from a Genius Renegade force plays itself around the colony:
+Сярод хаосу па калоніі гучыць відэазварот ад геніяльнага рэнэгата:
 
-""So long, suckers! I suggest you get busy and bring your systems back online instead of devising ways to stop me. Trust me, you won't think of anything I haven't before you. Damn, I hate this place!""",
-584272978675,Renegades: Evil Genius,Renegades: Evil Genius,
-164923329056,Alerts light up across the entire board. Systems fail across the colony.,Alerts light up across the entire board. Systems fail across the colony.,
-665026360718,Force lock the controls of the Rocket remotely.,Force lock the controls of the Rocket remotely.,
-745120596496,Try to reason with them and promise change.,Try to reason with them and promise change.,
-664150622088,Threaten to write an op-ed that shapes <DisplayName> as a lowly villain.,Threaten to write an op-ed that shapes <DisplayName> as a lowly villain.,
-275216911814,Invent a competent lie about a Meteor Storm that will hamper the Rocket take-off.,Invent a competent lie about a Meteor Storm that will hamper the Rocket take-off.,
-830256982571,Contact Earth authorities and delegate the issue to them.,Contact Earth authorities and delegate the issue to them.,
-832539318821,Try to cause a Rocket malfunction remotely.,Try to cause a Rocket malfunction remotely.,
-778607744764,Warn about possible dire consequences to Earth Ecology if the Rocket gets there.,Warn about possible dire consequences to Earth Ecology if the Rocket gets there.,
-790562983160,Tell <DisplayName> you have seen their medical records and they are unfit for a space trip at this time.,Tell <DisplayName> you have seen their medical records and they are unfit for a space trip at this time.,
-807811914151,Threaten some friends of <DisplayName> on Mars and Earth.,Threaten some friends of <DisplayName> on Mars and Earth.,
-845160092671,Try to induce guilt in <DisplayName>.,Try to induce guilt in <DisplayName>.,
-426568431369,Let them go and don't risk further damage.,Let them go and don't risk further damage.,
+""Бывайце, ёлупні! Я раю вам заняцца працай і аднавіць свае сістэмы замест таго, каб шукаць спосабы спыніць мяне. Паверце мне, вы не прыдумаеце нічога, я ўсё прадумаў. Халера, я ненавіджу гэтае мейсца!""",
+584272978675,Renegades: Evil Genius,Рэнэгат: Злы геній,
+164923329056,Alerts light up across the entire board. Systems fail across the colony.,Абвесткі загараюцца па ўсёй дошцы. Сістэмы выходзяць з ладу па ўсёй калоніі.,
+665026360718,Force lock the controls of the Rocket remotely.,Прымусова заблакаваць элэменты кіраваньня ракетай дыстанцыйна.,
+745120596496,Try to reason with them and promise change.,Паспрабуйце разважыць іх і паабяцайце перамены.,
+664150622088,Threaten to write an op-ed that shapes <DisplayName> as a lowly villain.,"Пагражае напісаць артыкул, які фарміруе <DisplayName> як нізкага злыдня.",
+275216911814,Invent a competent lie about a Meteor Storm that will hamper the Rocket take-off.,"Прыдумайце пісьменную хлусню пра мэтэорны шторм, які перашкодзіць узлёту ракеты.",
+830256982571,Contact Earth authorities and delegate the issue to them.,Звяжыцеся з уладамі Зямлі й даручыце ім справу.,
+832539318821,Try to cause a Rocket malfunction remotely.,Паспрабуйце дыстанцыйна выклікаць няспраўнасьць ракеты.,
+778607744764,Warn about possible dire consequences to Earth Ecology if the Rocket gets there.,"Папярэдзьце аб магчымых цяжкіх наступствах для экалёгіі Зямлі, калі ракета трапіць туды.",
+790562983160,Tell <DisplayName> you have seen their medical records and they are unfit for a space trip at this time.,"Скажыце <DisplayName>, што вы бачылі іх медыцынскія запісы, і што яны зараз не гатовы да палётаў.",
+807811914151,Threaten some friends of <DisplayName> on Mars and Earth.,Пагражаць сябрам <DisplayName> на Марсе й Зямлі.,
+845160092671,Try to induce guilt in <DisplayName>.,Паспрабуйце выклікаць пачуцьцё віны <DisplayName>.,
+426568431369,Let them go and don't risk further damage.,Адпусціце іх і не рызыкуйце большымі пашкодамі.,
 181142051359,"""You think I haven't taken all the necessary precautions? You think I've left things to chance? Boy, this hurts!
 
 I intended to leave you some cash to spare but I think this insult deserves a response.""
 
-<effect>Further <funding(further_penalty)> was taken out of our accounts.","""You think I haven't taken all the necessary precautions? You think I've left things to chance? Boy, this hurts!
+<effect>Further <funding(further_penalty)> was taken out of our accounts.","«Вы лічаце, што я не прыняў усіх неабходных мер засьцярогі? Вы думаеце, што я пакінуў усё на волю выпадку? Гэта балюча!
 
-I intended to leave you some cash to spare but I think this insult deserves a response.""
+Я меў намер пакінуць вам грошы ў запас, але лічу, што гэтая абраза заслугоўвае адказу».
 
-<effect>Further <funding(further_penalty)> was taken out of our accounts.",
-621684411501,The Genius Renegade just laughs and adds:,The Genius Renegade just laughs and adds:,
+<effect>Дадатковае <funding(further_penalty)> было зьнята з нашых рахункаў.",
+621684411501,The Genius Renegade just laughs and adds:,Геніяльны рэнэгат толькі смяецца й дадае:,
 935811765411,"Damn... I... I did not think of this. Actually, I did, I just thought that... I give up. I'll behave.""
 
-<effect>Stolen funding was refunded.","Damn... I... I did not think of this. Actually, I did, I just thought that... I give up. I'll behave.""
+<effect>Stolen funding was refunded.","Трасца... я... я не думаў аб гэтым. Насампрэч, я так, я проста думаў, што... Я здаюся. Я буду сябе паводзіць».
 
-<effect>Stolen funding was refunded.",
-453668807094,"""Er... say what now?","""Er... say what now?",
+<effect>Скрадзенае фінансаваньне было вернута.",
+453668807094,"""Er... say what now?","""Э... што цяпер сказаць?",
 995546790730,"MOXIEs shut down during Dust Storms to prevent their dust filter from jamming up and damaging the unit. However, the filter on this one is completely clogged.
 
 Oxygen production is vital for the colony but the filter repair will take <duration> hours. What should we do?","MOXIEs shut down during Dust Storms to prevent their dust filter from jamming up and damaging the unit. However, the filter on this one is completely clogged.
@@ -11908,13 +11908,13 @@ New Dome: <em>Mega Trigon</em> (<buildinginfo('DomeMegaTrigon')>) - A bigger tri
 This tech is <em>repeatable</em> and can be researched multiple times.
 
 <grey>""The human race is a remarkable creature, one with great potential which I hope the Beyond Earth initiative will display for all to believe in.""
-<right>Rede Goddenberry<left></grey>","Focus your research to help the development of the Beyond Earth Initiative projects. Each time the research is completed you can refocus your research towards a new project.
+<right>Rede Goddenberry<left></grey>","Засяродзьце свае даследаванні, каб дапамагчы развіццю праектаў Ініцыятыва «Па-за Зямлёй». Кожны раз, калі даследаванне завершана, вы можаце перанакіраваць сваё даследаванне на новы праект.
 
-This tech is <em>repeatable</em> and can be researched multiple times.
+Гэта тэхнолёгія <em>паўторна</em> й можа быць дасьледавана некалькі разоў.
 
-<grey>""The human race is a remarkable creature, one with great potential which I hope the Beyond Earth initiative will display for all to believe in.""
-<right>Rede Goddenberry<left></grey>",
-8450,Beyond Earth Initiative,Beyond Earth Initiative,
+<grey>""Чалавечая раса - гэта цудоўная істота, зь вялікім патэнцыялам, які, я спадзяюся, прадэманструе Ініцыятыва «Па-за Зямлёй», каб усе паверылі.""
+<right>Рэдэ Годдэнберры<left></grey>",
+8450,Beyond Earth Initiative,Ініцыятыва «Па-за Зямлёй»,
 8487,Series of dangerous experiments which could lead to the discovery of a cure for the Wildfire infection.,Series of dangerous experiments which could lead to the discovery of a cure for the Wildfire infection.,
 8452,Wildfire Cure,Wildfire Cure,
 10512,"<if_all(has_dlc('gagarin'),is_sponsor('Roscosmos'))>Concrete Plant & </if>Extractors Upgrade (<em>Amplify</em>) - Increases production by <param1>% but also increases Power consumption by <power(param2)>.
@@ -23640,16 +23640,16 @@ Thank you for making Paradox better and safer.",
 526116656618,<display_name>,<display_name>,
 1142,Controller Layout,Controller Layout,
 7874,Wireless Controller Layout,Wireless Controller Layout,
-5470,AUTO DETECT,AUTO DETECT,
+5470,AUTO DETECT,АЎТА ВЫЯЎЛЕНЬНЕ,
 333279788004,<u(title)>,<u(title)>,
-12551,MOD OPTIONS,MOD OPTIONS,
+12551,MOD OPTIONS,НАЛАДКІ МОДАЎ,
 849084517790,RESET,СЬКІНУЦЬ,
 5447,APPLY,УЖЫЦЬ,
-13689,DLC INFO,DLC INFO,
+13689,DLC INFO,ІНФА АБ DLC,
 108518605856,BACK,НАЗАД,
 437247068170,LIST,СЬПІС,
 613161619069,NEXT,НАСТУПНЫ,
-10880,CHALLENGES,CHALLENGES,
+10880,CHALLENGES,ВЫКЛІКІ,
 11440,"Challenge yourself to accomplish a specific objective within a time limit.
 
 
@@ -23668,15 +23668,15 @@ Mission parameters and colony site are predetermined.",Выклічце сабе
 761033847359,CHALLENGES,ВЫКЛІКІ,
 545701017966,Completed <CompletedChallenges>/<TotalChallenges>,Выканана <CompletedChallenges>/<TotalChallenges>,
 10120,RENAME,ПЕРАЙЗВАЦЬ,
-537700422104,START,START,
+537700422104,START,ПАЧАЦЬ,
 13691,<UsedCapacity>/<TotalCapacity> kg,<UsedCapacity>/<TotalCapacity> kg,
-1129,MOD MANAGER,MOD MANAGER,
+1129,MOD MANAGER,НАЛАДЧЫК МОДАЎ,
 756622437336,TUTORIAL,КІРАЎНІЦТВА,
 427174640796,"Start a survival game, which allows you to choose Mission Sponsor, Commander Profile, Rocket payload and landing location.","Пачніце гульню на выжываньне, якая дазваляе вам выбраць фундатара місіі, профіль камандыру, карысную нагрузку ракеты й мейсца пасадкі.",
 10455,NEW GAME,НОВАЯ ГУЛЬНЯ,
 554914047909,"Challenge yourself to accomplish a specific objective within a time limit.
 
-Mission parameters and colony site are predetermined.","Паспрабуйце сябе ў дасягненьні пэўнай мэты за акрэсьлянны час.
+Mission parameters and colony site are predetermined.","Паспрабуйце сябе ў дасягненьні пэўнай мэты за акрэсьлены час.
 
 Параметры місіі й мейсца калёніі загадзя вызначаны.",
 10519,CHALLENGE MODE,РЭЖЫМ СПАБОРНІЦТВУ,
@@ -23686,9 +23686,9 @@ Mission parameters and colony site are predetermined.","Паспрабуйце �
 12309,<image UI/Mods/platypus-white.tga 500>   PARADOX MOD MANAGER,<image UI/Mods/platypus-white.tga 500>   PARADOX МЕНЕДЖЭР МОДАЎ,
 1130,MOD EDITOR,РЭДАКТАР МОДАЎ,
 1131,OPTIONS,НАЛАДКІ,
-856797454991,ACHIEVEMENTS,ACHIEVEMENTS,
+856797454991,ACHIEVEMENTS,ДАСЯГНЕНЬНІ,
 4525,PARADOX ACCOUNT,УЛІКОВЫ ЗАПІС PARADOX,
-1000932,Mods are disabled because no Xbox Live user with privilege to see and upload community creations is logged in.,Mods are disabled because no Xbox Live user with privilege to see and upload community creations is logged in.,
+1000932,Mods are disabled because no Xbox Live user with privilege to see and upload community creations is logged in.,Моды заблакаваны з-за жадных карыстальнікаў Xbox Live увашэдшых у сістэму з правам прагляду й загрузкі твораў супольсасьці.,
 6884,Warning,Увага,
 1132,QUIT,ВЫЙСЬЦІ,
 714247552511,<text>,<text>,
@@ -23731,11 +23731,11 @@ Mission parameters and colony site are predetermined.","Паспрабуйце �
 10990,Unlink,Адвязаць,
 870730357845,Log Out,Выйсьці,
 480995957868,Forgot Password?,Забыліся на пароль?,
-12310,Create Account,Create Account,
+12310,Create Account,Стварыць уліковы запіс,
 598975766059,Login,Увайсьці,
 1011,Close,Зачыніць,
 678897362235,Login with your,Увайдзіце праз ваш,
-972281009488,Paradox Account,Paradox Account,
+972281009488,Paradox Account,УЛІКОВЫ ЗАПІС PARADOX,
 151898836203,FORGOT?,ЗАБЫЛІСЯ?,
 684020821358,<LoggedInAs>,<LoggedInAs>,
 674217821028,<LinkedTo>,<LinkedTo>,
