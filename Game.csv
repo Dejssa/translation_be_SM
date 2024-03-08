@@ -418,7 +418,7 @@ id <u(id)>, version <VersionText></color>","<color 128 128 128><u(title)>
 1000102,Language,Мова,
 3562,Fullscreen Mode,Поўнаэкранны рэжым,
 3563,Refresh Rate,Хуткасьць абнаўленьня,
-3564,Vsync,VSync,
+3564,Vsync,Верт. Сінхраніз.,
 9714,Frame Rate Limit,Ліміт FPS,
 3565,UI Scale,Маштаб інтэрфэйсу,
 3566,Brightness,Яскравасьць,
@@ -5071,14 +5071,14 @@ Our plans at Mission Control included the introduction of a long-term nuclear en
 
 <effect>Памяншае кошт тэналёгій Фізітцы на 10%.",
 5791,Awesome!,Awesome!,
-7161,The rover manipulators held the silver-white mineral up to the camera just as the chemical analysis came through. We’ve found Tellurium.,The rover manipulators held the silver-white mineral up to the camera just as the chemical analysis came through. We’ve found Tellurium.,
+7161,The rover manipulators held the silver-white mineral up to the camera just as the chemical analysis came through. We’ve found Tellurium.,"Маніпулятары марсахода паднеслі серабрыста-белы мінерал да камеры ў той момант, калі прайшоў хімічны аналіз. Мы знайшлі Тэлур.",
 5792,"In a moment, the Chief Engineer at Mission Control was at the communications station, urging instructions to the RC Explorer on how to handle and analyze the discovery. It was amusing to watch the almost childlike excitement in the eyes of the expert.
 
 This is a significant discovery because it allows us to overcome an old problem in metallurgy. Easily-machinable metals allow for economical manufacturing of components, but the factors that allow it usually lower their performance, and vice versa. Thus, engineers had always been challenged to find ways to balance the two factors. The addition of Tellurium to iron alloys allows them to perform better in both areas.
 
-<effect>Reduces the cost of Robotics techs by 10%.","In a moment, the Chief Engineer at Mission Control was at the communications station, urging instructions to the RC Explorer on how to handle and analyze the discovery. It was amusing to watch the almost childlike excitement in the eyes of the expert.
+<effect>Reduces the cost of Robotics techs by 10%.","Праз імгненне галоўны інжынер аддзела кіраваньня палётамі быў на станцыі сувязі й настойліва даваў інструкцыі РК Выведчыку як справіцца з адкрыцьцём і прааналізаваць яго. Забаўна было назіраць за амаль дзіцячым хваляваньнем у вачах эксперта.
 
-This is a significant discovery because it allows us to overcome an old problem in metallurgy. Easily-machinable metals allow for economical manufacturing of components, but the factors that allow it usually lower their performance, and vice versa. Thus, engineers had always been challenged to find ways to balance the two factors. The addition of Tellurium to iron alloys allows them to perform better in both areas.
+Гэта значнае адкрыцьцё, таму што яно дазваляе пераадолець старую праблему ў металургіі. Лёгкія да механічнай апрацоўцы металы дазваляюць эканомна вырабляць кампаненты, але фактары, якія дазваляюць гэта, звычайна зьніжаюць іх прадукцыйнасць, і наадварот. Такім чынам, перад інжынерамі заўсёды стаяла задача знайсьці спосабы збалансаваць два фактары. Даданьне тэлуру ў сплавы жалеза дазваляе ім лепш працаваць у абедзвюх галінах.
 
 <effect>Памяншае кошт тэналёгій Робататэхнітцы на 10%.",
 5793,Great news!,Выдатныя навіны!,
@@ -7882,48 +7882,48 @@ I intended to leave you some cash to spare but I think this insult deserves a re
 453668807094,"""Er... say what now?","""Э... што цяпер сказаць?",
 995546790730,"MOXIEs shut down during Dust Storms to prevent their dust filter from jamming up and damaging the unit. However, the filter on this one is completely clogged.
 
-Oxygen production is vital for the colony but the filter repair will take <duration> hours. What should we do?","MOXIEs shut down during Dust Storms to prevent their dust filter from jamming up and damaging the unit. However, the filter on this one is completely clogged.
+Oxygen production is vital for the colony but the filter repair will take <duration> hours. What should we do?","МЭРТы адключаюцца падчас пясчаных бур, каб прадухіліць засарэньне пылавога фільтра й пашкоджаньне прылады. Аднак фільтр на гэтым цалкам забіты.
 
-Выпрацоўка тлёну is vital for the colony but the filter repair will take <duration> hours. What should we do?",
+Выпрацоўка тлёну жыцьцёва неабходна для калёніі, але рамонт зойме <duration> гадзін. Што нам рабіць?",
 506079231667,Problematic MOXIE,Праблематычны МЭРТ,
-231334389170,You tap the red light on the terminal with your finger. It should have turned green when the Dust Storm dissipated. Looks like a MOXIE unit is out of order.,You tap the red light on the terminal with your finger. It should have turned green when the Dust Storm dissipated. Looks like a МЭРТ unit is out of order.,
+231334389170,You tap the red light on the terminal with your finger. It should have turned green when the Dust Storm dissipated. Looks like a MOXIE unit is out of order.,"Вы націскаеце пальцам на чырвонае сьвятло на тэрмінале. Ён павінен быў стаць зялёным, калі пясчаная бура разьвеялася. Выглядае, што ўстаноўка МЭРТ не працуе.",
 651105259439,Let’s bypass the filter.,Абыдзем фільтр.,
-901749272193,the MOXIE will start working immediately but will request maintenance more often,the МЭРТ will start working immediately but will request maintenance more often,
+901749272193,the MOXIE will start working immediately but will request maintenance more often,"МЭРТ пачне працаваць неадкладна, але будзе патрабаваць тэхнічнае абслугоўваньне часцей ",
 239117513617,We can wait for the repairs.,Можам дачакацца рамонту.,
 318573624664,MOXIE will not work for <duration> hours,МЭРТ ня будзе працаваць <duration> гадзін,
 331842067220,We can make a new filter.,Мы можам зрабіць новы фільтр.,
-760882373564,MOXIE will request <polymers(maintenance)> emergency maintenance,МЭРТ патрабуе <polymers(maintenance)> да экстранага абслугоўваньня,
+760882373564,MOXIE will request <polymers(maintenance)> emergency maintenance,МЭРТ патрабуе <polymers(maintenance)> экстранага абслугоўваньня,
 940021000465,"MOXIEs use a form of electrolysis to produce Oxygen from carbon dioxide. However, the process requires relatively high (for Mars) temperatures.
 
-It looks like a failure in one of our MOXIE units has highlighted a design flaw in the technology. We have to find a solution that works for all MOXIEs.","MOXIEs use a form of electrolysis to produce Oxygen from carbon dioxide. However, the process requires relatively high (for Mars) temperatures.
+It looks like a failure in one of our MOXIE units has highlighted a design flaw in the technology. We have to find a solution that works for all MOXIEs.","МЭРТ выкарыстоўвае форму элэктролізу для вылучэньня тлёну з вуглякіслага газу. Аднак працэс патрабуе адносна высокіх (для Марсу) тэмператур.
 
-It looks like a failure in one of our МЭРТ units has highlighted a design flaw in the technology. We have to find a solution that works for all MOXIEs.",
-728411744190,"As the frost outside settles, an urgent maintenance report flashes on your terminal. There’s a problem with a MOXIE unit.","As the frost outside settles, an urgent maintenance report flashes on your terminal. There’s a problem with a МЭРТ unit.",
+Падобна на тое, што збой у адным з нашых блокаў МЭРТ выявіў канструктыўную праблему ў тэхнолёгіі. Мы павінны знайсьці рашэньне, якое працуе для ўсіх МЭРТаў.",
+728411744190,"As the frost outside settles, an urgent maintenance report flashes on your terminal. There’s a problem with a MOXIE unit.","Калі на вуліцы марозна, на вашым тэрмінале узьнікае справаздача аб тэрміновым тэхнічным абслугоўваньні. Ёсьць праблема з блокам МЭРТ.",
 899944302275,Install additional heaters.,Ўсталяваць дадатковыя абагравальнікі.,
 637039960544,MOXIEs power consumption increased by <power(increased_consumption)>,Энэргаспажываньне МЭРТаў павялічана на <power(increased_consumption)>,
 879385110893,Improve the insulation of the MOXIEs.,Палепшыць ізаляцыю МЭРТаў.,
-929769322749,<polymers(insulation)> extra construction cost for MOXIEs,<polymers(insulation)> extra construction cost for MOXIEs,
+929769322749,<polymers(insulation)> extra construction cost for MOXIEs,<polymers(insulation)> дадатковы кошт будоўлі МЭРТа,
 570399353506,Leave the MOXIEs as they are.,Пакінуць МЭРТі як яны ёсьць.,
 982145860164,MOXIEs will require maintenance more often,МЭРТам спатрэбіцца часцей абслугоўваньне,
-164476060825,"Once again, a MOXIE unit has shut down and stopped producing Oxygen. Drones report that many of the internal parts of the MOXIE have suffered structural damage much earlier than expected.","Once again, a МЭРТ unit has shut down and stopped producing Oxygen. Drones report that many of the internal parts of the МЭРТ have suffered structural damage much earlier than expected.",
-536896361272,A yellow light starts flashing on your terminal. Sure enough it is one of those damned MOXIE units again.,A yellow light starts flashing on your terminal. Sure enough it is one of those damned МЭРТ units again.,
+164476060825,"Once again, a MOXIE unit has shut down and stopped producing Oxygen. Drones report that many of the internal parts of the MOXIE have suffered structural damage much earlier than expected.","У чарговы раз адключылася ўстаноўка МЭРТ і перастала выпрацоўваць тлён. Дроны паведамляюць, што многія ўнутраныя часткі МЭРТ атрымалі структурныя пашкоджаньні значна раней, чым чакалася.",
+536896361272,A yellow light starts flashing on your terminal. Sure enough it is one of those damned MOXIE units again.,"На вашым тэрмінале пачынае міргаць жоўты індыкатар. Вядома, гэта зноў адзін з тых праклятых блокаў МЭРТ.",
 335704931889,Reinforce the failing parts.,Умацуйце няспраўныя часткі.,
-411896115173,"MOXIE cost increased by <metals(cost_increase)>, existing MOXIEs will need emergency maintenance","МЭРТ cost increased by <metals(cost_increase)>, existing MOXIEs will need emergency maintenance",
-573967371988,Reduce the pressure in the system.,Знізіць ціск у сістэме.,
+411896115173,"MOXIE cost increased by <metals(cost_increase)>, existing MOXIEs will need emergency maintenance","Кошт МЭРТ павялічаны на <metals(cost_increase)>, існуючы МЭРТы патрабуюць тэрміновае абслугоўваньне",
+573967371988,Reduce the pressure in the system.,Зьнізіць ціск у сістэме.,
 616017426323,<o2_production_reduction>% MOXIE Oxygen production,<o2_production_reduction>% МЭРТ Выпрацоўка тлёну,
-595570821891,Keep repairing the MOXIEs as problems occur.,Па меры ўзьнікненьня праблем працягвайце рамантаваць МЭРТі.,
+595570821891,Keep repairing the MOXIEs as problems occur.,Па меры ўзьнікненьня праблем працягвайце рамантаваць МЭРТы.,
 899898739102,MOXIE maintenance increased by <metals(increased_maintenance)> permanently,МЭРТ абслугоўваньне павялічана на <metals(increased_maintenance)> назаўсёды,
 818790438441,"The new MOXIE 2.0 design is finally ready and we have updated all current MOXIEs to the new specs. MOXIE 2.0 also has increased air production.
 
-<effect>All negative effects on MOXIEs have been removed.","Новы МЭРТ 2.0 дызайн нарэшце гатовы, і мы абнавілі ўсе сучасныя МЭРТі да новых спэцыфікацый. МЭРТ 2.0 таксама павялічваецца выпрацоўка паветра.
+<effect>All negative effects on MOXIEs have been removed.","Новы МЭРТ 2.0 дызайн нарэшце гатовы, і мы абнавілі ўсе сучасныя МЭРТы да новых спэцыфікацый. МЭРТ 2.0 таксама павялічваецца выпрацоўка паветра.
 
 <effect>Усе негатыўныя наступствы ў МЭРТаў былі выдалены.",
 761191266566,"The core principle of extracting Oxygen from Martian CO2 is sound. The current implementation of the technology leaves a lot to be desired. Our Scientists believe that with all the information we have learned so far we can design a better MOXIE.
 
-<effect>”MOXIE 2.0” technology is now available for research.","The core principle of extracting Oxygen from Martian CO2 is sound. The current implementation of the technology leaves a lot to be desired. Our Scientists believe that with all the information we have learned so far we can design a better МЭРТ.
+<effect>”MOXIE 2.0” technology is now available for research.","Асноўны прынцып здабываньня тлёну з марсіянскага СО2 вядомы. Цяперашняя рэалізацыя тэхнолёгіі мае шмат чаго да паляпшэньня. Нашы навукоўцы лічаць, што з дапамогай усёй інфармацыі, якую мы даведаліся да гэтага часу, мы можам распрацаваць лепшы МЭРТ.
 
-<effect>МЭРТ 2.0” тэхнолёгія цяпер даступны да дасьледаваньня.",
-663664815047,"The expert report on the failing MOXIEs is almost 300 pages long, finding multiple issues with their design.","The expert report on the failing MOXIEs is almost 300 pages long, finding multiple issues with their design.",
+<effect>«МЭРТ 2.0» тэхнолёгія цяпер даступны да дасьледаваньня.",
+663664815047,"The expert report on the failing MOXIEs is almost 300 pages long, finding multiple issues with their design.","Экспэртная справаздача аб няспраўных МЭРТ налічвае амаль 300 старонак, знаходзячы мноства праблем з іх дызайнам.",
 434294412464,We seem to be missing some parts for our <DisplayName> prefab. Also there seem to be parts that don’t fit anywhere and the instructions are no help at all.,We seem to be missing some parts for our <DisplayName> prefab. Also there seem to be parts that don’t fit anywhere and the instructions are no help at all.,
 725085981948,Bad Prefab,Bad Prefab,
 800200228748,"The drone attempts to put the square part into the round hole for the third consecutive time, determined to find a solution.","The drone attempts to put the square part into the round hole for the third consecutive time, determined to find a solution.",
@@ -8210,15 +8210,15 @@ Research the Генератар стырлінга Cable Faults tech to fix the 
 956664316858,Ultimately the issues caused by the Stirling Generator turned out to be connectivity problems.,Ultimately the issues caused by the Генератар стырлінга turned out to be connectivity problems.,
 137697402993,"The pod cannot be identified, as its hull is too burnt and its black box is missing. We discovered several blueprints of unknown purpose inside.
 
-Your team stares at the strange designs and is trying to make sense of them, you decide to join in. Hmm, clearly the part designated as 01-K64 goes into the power couplings here and – eureka! You know what this is!","The pod cannot be identified, as its hull is too burnt and its black box is missing. We discovered several blueprints of unknown purpose inside.
+Your team stares at the strange designs and is trying to make sense of them, you decide to join in. Hmm, clearly the part designated as 01-K64 goes into the power couplings here and – eureka! You know what this is!","Капуслу немагчыма распазнаць, бо яе корпус занадта абгарэлы, а чорная скрыня адсутнічае. Мы выявілі ўнутры некалькі чарцяжоў невядомага прызначэньня.
 
-Your team stares at the strange designs and is trying to make sense of them, you decide to join in. Hmm, clearly the part designated as 01-K64 goes into the power couplings here and – eureka! You know what this is!",
-572583625022,The Extract,The Extract,
-126468848280,"While digging in the dirt, a Drone has stumbled upon a crashed supply pod, almost entirely buried below the red sand.","While digging in the dirt, a Drone has stumbled upon a crashed supply pod, almost entirely buried below the red sand.",
-544658980797,Gain 1 Triboelectric Scrubber.,Gain 1 Triboelectric Scrubber.,
-524204579648,Gain 1 Subsurface Heater.,Gain 1 Subsurface Heater.,
-836738501163,Gain 2 MDS Lasers.,Gain 2 MDS Lasers.,
-766538143511,Gain 1 Shuttle Hub.,Gain 1 Shuttle Hub.,
+Ваша каманда глядзіць на дзіўныя канструкцыі й спрабуе зразумець іх, вы вырашылі далучыцца. Хм, ясна, што дэталь, пазначаная як 01-K64, уключана тут у раз'ёмы харчаваньня й - эўрыка! Вы ведаеце, што гэта такое!",
+572583625022,The Extract,Здабыча,
+126468848280,"While digging in the dirt, a Drone has stumbled upon a crashed supply pod, almost entirely buried below the red sand.","Капаючыся ў зямлі, дрон натыкнуўся на разбітую капсулу запасаў, амаль цалкам пахаваную пад чырвоным пяском.",
+544658980797,Gain 1 Triboelectric Scrubber.,Атрымаць 1 Трыбаэлектрычны ачышчальнік.,
+524204579648,Gain 1 Subsurface Heater.,Атрымаць 1 Падземны абагравальнік.,
+836738501163,Gain 2 MDS Lasers.,Атрымаць 2 САМ Лазеры.,
+766538143511,Gain 1 Shuttle Hub.,Атрымаць 1 ЦК Шатлаў.,
 686431170323,"As a means to propel their ambitions into the new field, they have made a Drone prototype, similar to the ones we use here on Mars. 
 
 And what better location to showcase the feasibility of their Drones than the surface of another planet? If we accept their offer they will provide us with a free batch of <number_of_drones> drones delivered via a Supply Pod.","As a means to propel their ambitions into the new field, they have made a Drone prototype, similar to the ones we use here on Mars. 
@@ -13106,12 +13106,12 @@ Each <em>building tooltip</em> provides further information.",
 
 Start by researching a <em>Terraforming technology</em> when ready.
 
-Further terraforming info is available in the <em>Encyclopedia</em>.","To terraform Mars and create Earth-like environment for colonists, you have to gradually increase the 4 global terraforming parameters: <em>Atmosphere</em>, <em>Temperature</em>, <em>Water</em> and <em>Vegetation</em>. Terraforming is a long process. Once complete, humans can start breathing outside domes.
+Further terraforming info is available in the <em>Encyclopedia</em>.","Да тэрафармаваньня Марсу й стварэньня  для каланістаў асяроддзя, падобнага на Зямлю, вы павінны паступова павялічваць 4 глабальныя параметры тэрафарміраваньня: <em>Атмасфэру</em>, <em>Тэмпературу</em>, <em>Ваду</em> й <em>Расьліннасьць</em>. Тэрафарміраваньне - працэс доўгі. Пасьля завяршэньня людзі могуць пачаць дыхаць па-за купаламі.
 
-Start by researching a <em>Terraforming technology</em> when ready.
+Пачніце з вывучэньня <em>Тэхналогій тэрафармаваньня</em>, калі гатовы.
 
-Further terraforming info is available in the <em>Encyclopedia</em>.",
-579688298741,Terraforming Introduction,Terraforming Introduction,
+Больш інфармацыі аб тэрафармаваньні даступная ў <em>Энцыкляпедыі</em>.",
+579688298741,Terraforming Introduction,Уводзіны ў тэрафармаваньне,
 320203725995,"Seeds are now available. Seeds are a new resource, which can improve local Soil Quality and the global Vegetation parameter. 
 
 Import <em>Seeds</em> from Earth or grow them in <em>Farms</em>. 
@@ -19252,7 +19252,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 8796,Wildfire Cure Storage,Склад лек Ляснога пажару,
 8797,Wildfire Cure Storages,Склады лек Ляснога пажару,
 8533,Stores the cure for the Wildfire infection.,Захоўвае лекі ад хворы Ляснога пажару.,
-8070,Beyond Earth (Easy),За Зямлёй (Лёгка),
+8070,Beyond Earth (Easy),Па-за Зямлёй (Лёгка),
 8071,"""It isn't all over; everything has not been invented; the human adventure is just beginning.""<newline><right>- Gene Roddenberry","""Яшчэ ня ўсё скончылася; яшчэ ня ўсё прыдумана; чалавечыя прыгоды толькі пачынаюцца.""<newline><right>- Джын Родэнбэры",
 8072,The Last War (Hard),Апошняя вайна (Цяжка),
 8073,"""Mankind must put an end to war before war puts an end to mankind.""<newline><right>- John F. Kennedy","""Чалавецтва павінна пакласьці канец вайне хутчэй чым вайна пакладзе канец чалавецтву.""<newline><right>- Джон Кенэдзі",
@@ -21587,7 +21587,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 3481,<ButtonA> Choose Commander,<ButtonA> Выберыце камандыра,
 3482,Colony Logo,Эмблема калёніі,
 3483,COLONY LOGO,ЭМБЛЕМА КАЛЁНІІ,
-3484,This is an aesthetic choice that has no effect on gameplay.,"Гэта эстэтычны выбар, які ня ўплывае на гульню.",
+3484,This is an aesthetic choice that has no effect on gameplay.,"Гэта эстэтычны выбар, які ніяк не ўплывае на гульню.",
 3485,<ButtonA> Choose Logo,<ButtonA> Выберыце эмблему,
 3487,MYSTERY,ТАЯМНІЦА,
 3488,Select an active storyline for this playthrough.,Выберыце актыўную сюжэтную лінію ў гэтым прахаджэньні.,
