@@ -1313,7 +1313,7 @@ Before you get started, please take a moment to read our Privacy Policy.","Ві�
 12649,Home Collective,Хатні калектыў,
 12650,+<upgrade1_add_value_1> Service Comfort.,+<upgrade1_add_value_1> Камфорт сэрвісу.,
 432237346511,Olympus Hotels,Olympus Hotels,
-11554,Living Complexes,Living Complexes,
+11554,Living Complexes,Жылыя комплексы,
 10472,Provides living space. Resting residents recover Comfort faster compared to other Residences.,Забясьпечвае памяшканьні. Адпачывальнікі аднаўляюць камфорт хутчэй у параўнаньні з іншым жыльлём.,
 5138,Martian Universities,Марсіянскія універсітэты,
 5180,Nurseries,Nurseries,
@@ -3398,7 +3398,7 @@ With the Дасьледчая лабараторыя selected, hold <RT> and pre
 3530,Rare Metals Extractor,Экстрактар рэдкіх мэталаў,
 9195,"From the Build Menu <ButtonY>, construct a Living Complex inside the mining Dome.","From the Build Menu <ButtonY>, construct a Living Complex inside the mining Dome.",
 9194,Construct a <em>Living Complex</em> inside the mining Dome.,Construct a <em>Living Complex</em> inside the mining Dome.,
-3532,Living Complex,Living Complex,
+3532,Living Complex,Жылы комплекс,
 9199,"From the Build Menu <ButtonY>, construct a <em>Spacebar</em> and a <em>Grocer</em> inside the mining Dome.","From the Build Menu <ButtonY>, construct a <em>Spacebar</em> and a <em>Grocer</em> inside the mining Dome.",
 9198,Construct a <em>Spacebar</em> and a <em>Grocer</em> inside the mining Dome.,Construct a <em>Spacebar</em> and a <em>Grocer</em> inside the mining Dome.,
 9196,Services,Services,
@@ -3764,10 +3764,10 @@ The following buildings do not function during Dust Storms:
 4250,Dust Storm,Dust Storm,
 10478,"The region is about to experience a Meteor Storm. Buildings directly hit by meteors will be in need of repairs in order to function again while Pipes and Cables will get destroyed. Rovers hit by meteors will also need repairs while Drones may become irreversibly damaged. 
 
-Meteor Storms cannot be avoided but some good practices may minimize their damage potential, such as not clustering vital buildings next to each other, Pipe and Cable redundancy and researching the tech for MDS Lasers from the Physics field.","The region is about to experience a Meteor Storm. Buildings directly hit by meteors will be in need of repairs in order to function again while Pipes and Cables will get destroyed. Rovers hit by meteors will also need repairs while Drones may become irreversibly damaged. 
+Meteor Storms cannot be avoided but some good practices may minimize their damage potential, such as not clustering vital buildings next to each other, Pipe and Cable redundancy and researching the tech for MDS Lasers from the Physics field.","Рэгіён вось-вось накрые мэтэарытны шторм. Будынкі, якія непасрэдна патрапілі пад метэоры, будуць патрабаваць рамонт, каб зноў працаваць, а трубы й кабелі будуць разбураны. Марсаходы, патрапіўшыя пад метэор, таксама будуць патрабаваць рамонт, а дроны могуць быць незваротна пашкоджаны.
 
-Meteor Storms cannot be avoided but some good practices may minimize their damage potential, such as not clustering vital buildings next to each other, Pipe and Cable redundancy and researching the tech for MDS Lasers from the Physics field.",
-5620,Meteor Storm,Meteor Storm,
+Немагчыма пазьбегнуць мэтэарытных штормаў, але некалькі добрых практык могуць мінімізаваць пашкоджаньні, напрыклад, адмова ад групоўкі жыцьцёва важных будынкаў гуртам, дадатковыя трубы й кабелі, а таксама дасьледаваньне тэхнолёгіі для САМ лазераў у галіне фізітцы.",
+5620,Meteor Storm,Мэтэарытны шторм,
 10479,"A Cold Wave is imminent. While most of our machinery is designed and able to function in such low temperatures, if a building outside stops working for more than a Sol, it will freeze and may not be repaired until after the Cold Wave has lifted.
 
 Cold Waves put an extra strain on the electrical grid and buildings will consume more electricity. One way to negate the effects of a Cold Wave is to place Subsurface Heaters (researched from the Physics field) near vulnerable buildings.
@@ -4220,13 +4220,13 @@ The unparalleled everyday stress levels slowly drain the people of their resolve
 <hint> Colonists with the Suffocating status effect have no access to Oxygen and will die within a short time. Connect their Dome to operational MOXIEs and Oxygen Tanks or plant Oxygen-Producing Crops in Farms to supply them with Oxygen.",
 5716,Suffocation!,Suffocation!,
 7084,Our Colonists are suffocating! We only have a few hours to get them more Oxygen before they run out!,Our Colonists are suffocating! We only have a few hours to get them more Oxygen before they run out!,
-5720,Oh my!,Oh my!,
+5720,Oh my!,Езус!,
 5719,"Water is the vital fluid which sustains all life. The human body requires a constant access to fresh, drinkable water and quickly deteriorates when none is present. Thus the extraction of Water is one of our utmost priorities.
 
-<hint> Colonists with the Dehydrated status effect have no access to Water and will die within a short time. Connect their Dome to operational Water Producers or filled Water Towers to supply them with Water.","Water is the vital fluid which sustains all life. The human body requires a constant access to fresh, drinkable water and quickly deteriorates when none is present. Thus the extraction of Water is one of our utmost priorities.
+<hint> Colonists with the Dehydrated status effect have no access to Water and will die within a short time. Connect their Dome to operational Water Producers or filled Water Towers to supply them with Water.","Вада - жыцьцёва важная рэч для падтрыманьня жыцьця. Арганізм чалавека патрабуе пастаяннага доступу да сьвежай пітной вады й хутка псуецца, калі яе бракуе. Такім чынам, здабыча вады з'яўляецца адным з нашых галоўных прыярытэтаў.
 
-<hint> Colonists with the Dehydrated status effect have no access to Water and will die within a short time. Connect their Dome to operational Water Producers or filled Water Towers to supply them with Water.",
-5718,Dehydration!,Dehydration!,
+<hint> Каланісты з эфэктам абязводжанага стану не маюць доступу да вады й тэрмінова памруць. Падлучыце іх купал да дзеючых вытворцаў вады ці напоўненых воданапорных вежаў, каб забясьпечыць іх вадой.",
+5718,Dehydration!,Абязводжваньне!,
 7085,The Colonists are on the brink of dehydration! We need to figure out something quick before they die.,The Colonists are on the brink of dehydration! We need to figure out something quick before they die.,
 5722,"Domes feature heaters which maintain a pleasant temperature of 23 degrees Celsius around the clock, protecting against the fluctuating temperature of the fickle Martian atmosphere outside. The temperature inside the Dome quickly decreases when the power supply is cut and the Colonists sure do feel the effects. If the situation remains unchanged, I'm afraid that it could be fatal.
 
@@ -4276,14 +4276,14 @@ We are all here today not only because <ColonistName(colonist)> laid down the fo
 <hint>The Founder <ColonistName(colonist)> has the <em>Alcoholic</em> Trait.",
 7090,Nobody Knows The Trouble I've Seen...,Nobody Knows The Trouble I've Seen...,
 7092,It's a rough life here on Mars. You can't prepare for addiction.,It's a rough life here on Mars. You can't prepare for addiction.,
-7445,Oh boy...,Oh boy...,
+7445,Oh boy...,О не...,
 7443,"For they are meant to tread and live where no man has ever lived before – in an environment not meant for man to live in to begin with. This is why it came as a shock to us all when <ColonistName(colonist)> turned out to be such a whiner!
 
-<hint>The Founder <ColonistName(colonist)> has the <em>Whiner</em> Trait. ","For they are meant to tread and live where no man has ever lived before – in an environment not meant for man to live in to begin with. This is why it came as a shock to us all when <ColonistName(colonist)> turned out to be such a whiner!
+<hint>The Founder <ColonistName(colonist)> has the <em>Whiner</em> Trait. ","Таму што яны прызначаны ступаць і жыць там, дзе ніхто ніколі не жыў раней - у асяроддзі, не прызначаным для жыцьця чалавека. Вось чаму для нас усіх стала шокам, калі выявілася, што <ColonistName(colonist)> такая нэндза!
 
-<hint>The Founder <ColonistName(colonist)> has the <em>Whiner</em> Trait. ",
-7442,"In Space, No One Can Hear you Whine","In Space, No One Can Hear you Whine",
-7444,The Founders are supposed to be the pillars of the future Colony – destined to be remembered for generations.,The Founders are supposed to be the pillars of the future Colony – destined to be remembered for generations.,
+<hint>Заснавальнік<ColonistName(colonist)> мае рысу <em>Нэндза</em>. ",
+7442,"In Space, No One Can Hear you Whine",У космасе ніхто не пачуе ваша ныцьцё,
+7444,The Founders are supposed to be the pillars of the future Colony – destined to be remembered for generations.,"Заснавальнікі павінны быць слупамі будучай калоніі, якія будуць памятацаца пакаленьнямі.",
 7097,Courage is finite.,Courage is finite.,
 7095,"They face uncertainty which no humans have faced before. <ColonistName(colonist)> on the other hand, albeit a pioneer, doesn’t seem especially brave and makes jumping in fright after seeing one’s own shadow look like a normal thing. 
 
@@ -4292,14 +4292,14 @@ We are all here today not only because <ColonistName(colonist)> laid down the fo
 <hint>The Founder <ColonistName(colonist)> has the <em>Coward</em> Trait.",
 7094,Courage Has Layers,Courage Has Layers,
 7096,It takes more than bravery to be a pioneer of the Martian frontier. Or at least it should.,It takes more than bravery to be a pioneer of the Martian frontier. Or at least it should.,
-7101,That's the spirit!,That's the spirit!,
+7101,That's the spirit!,Вось гэта дух!,
 7099,"After all, purpose is the strongest long-term driver. Since arriving on Mars, <ColonistName(colonist)>'s enthusiasm has proven to be above average, even by Founder norms, and the prodigious productivity displayed can be boiled down to one simple explanation – <ColonistName(colonist)> really loves doing what <ColonistName(colonist)>‘s doing.
 
-<hint>The Founder <ColonistName(colonist)> has the <em>Enthusiast</em> trait.","After all, purpose is the strongest long-term driver. Since arriving on Mars, <ColonistName(colonist)>'s enthusiasm has proven to be above average, even by Founder norms, and the prodigious productivity displayed can be boiled down to one simple explanation – <ColonistName(colonist)> really loves doing what <ColonistName(colonist)>‘s doing.
+<hint>The Founder <ColonistName(colonist)> has the <em>Enthusiast</em> trait.","У рэшце рэшт, мэта - гэта наймацнейшы доўгатэрміновы рухавік. Па прыбыцьцю на Марс, энтузіязм <ColonistName(colonist)> зарэкамендаваў сябе вышэй за сярэдні, нават па нормах заснавальніку, і паказаная надзвычайная прадукцыйнасьць можа быць зьведзена да аднаго простага тлумачэньня– <ColonistName(colonist)> сапраўды любыць тое, чым займаецца.
 
-<hint>The Founder <ColonistName(colonist)> has the <em>Enthusiast</em> trait.",
-7098,When Life Gives You Lemons...,When Life Gives You Lemons...,
-7100,"Building a new home on an alien world? That takes guts, to say the least.","Building a new home on an alien world? That takes guts, to say the least.",
+<hint>Заснавальнік <ColonistName(colonist)> мае рысу <em>Энтузіяст</em>.",
+7098,When Life Gives You Lemons...,Калі жыцьцё дае табе лімоны...,
+7100,"Building a new home on an alien world? That takes guts, to say the least.","Будуеце новы дом у чужым сьвеце? Шчыра кажучы, гэта патрабуе сьмеласьці.",
 7446,OK,Згода,
 7103,"They travel through 50 million miles to a rocky, inhospitable world and try to bend it to humanity's will. <ColonistName(colonist)> , on the other hand, seems to also be a gambler in the more traditional sense. 
 
@@ -4324,7 +4324,7 @@ We, as a small community, have come to accept the obvious:
 <hint>The Founder <ColonistName(colonist)> has the <em>Idiot</em> trait.",
 7105,Call It What You Will,Call It What You Will,
 7107,"Living in cramped quarters, tinkering with intricate machinery day-in, day-out. There's plenty of opportunities for slip-ups.","Living in cramped quarters, tinkering with intricate machinery day-in, day-out. There's plenty of opportunities for slip-ups.",
-7987,View.,View.,
+7987,View.,Праглядзець.,
 5731,"Farewell, friend.","Farewell, friend.",
 5730,"The Founders had always been more than explorers and pioneers. They shared a vision of the future of the civilization on the Red Planet and worked ceaselessly towards their common goal.
 
@@ -4357,42 +4357,42 @@ As I watch the rocket fly towards Earth I cannot force myself to think that <Col
 
 Let this blooming of life serve as a symbol for all humans. Mars is no longer a dead world.
 
-<effect> The Colony has been evaluated positively. Additional Colonists can be called from Earth.","The Colonists have always felt like a family. But what makes the family stronger and more united is the promise of new life and better future. We have truly been blessed with a rewarding responsibility – to carry the torch of hope.
+<effect> The Colony has been evaluated positively. Additional Colonists can be called from Earth.","Калёністы заўсёды адчувалі сябе адной сям'ёй. І тое, што робіць сям'ю больш моцнай і з'яднанай, дык гэта надзея на новае жыцьцё й лепшая будучыня. На нас сапраўды ўскладзена вялікая адказнасьць – несьці факел надзеі.
 
-Let this blooming of life serve as a symbol for all humans. Mars is no longer a dead world.
+Няхай гэты росквіт жыцьця будзе сімвалам для ўсіх людзей. Марс больш ня мёртвы сьвет.
 
-<effect> The Colony has been evaluated positively. Additional Colonists can be called from Earth.",
+<effect> Калонія была ацэненая станоўча. Дадатковых калёністаў можна выклікаць зь Зямлі.",
 8856,"The Colonists have always felt like a family. But what makes the family stronger and more united is the promise of new life and better future. We have truly been blessed with a rewarding responsibility – to carry the torch of hope.
 
 Let this blooming of life serve as a symbol for all humans. Mars is no longer a dead world.
 
-<effect> The Colony has been evaluated positively. You can't call anymore colonists from Earth due to the Last Ark game rule.","The Colonists have always felt like a family. But what makes the family stronger and more united is the promise of new life and better future. We have truly been blessed with a rewarding responsibility – to carry the torch of hope.
+<effect> The Colony has been evaluated positively. You can't call anymore colonists from Earth due to the Last Ark game rule.","Калёністы заўсёды адчувалі сябе адной сям'ёй. І тое, што робіць сям'ю больш моцнай і з'яднанай, дык гэта надзея на новае жыцьцё й лепшая будучыня. На нас сапраўды ўскладзена вялікая адказнасьць – несьці факел надзеі.
 
-Let this blooming of life serve as a symbol for all humans. Mars is no longer a dead world.
+Няхай гэты росквіт жыцьця будзе сімвалам для ўсіх людзей. Марс больш ня мёртвы сьвет.
 
-<effect> The Colony has been evaluated positively. You can't call anymore colonists from Earth due to the Last Ark game rule.",
-7126,"For the first time, a human has been born on Mars. It's truly a unique miracle.","For the first time, a human has been born on Mars. It's truly a unique miracle.",
+<effect> Калонія была ацэненая станоўча. Вы ня можаце выклікаць больш калёністаў зь Зямлі з-за правіл гульні «Апошні каўчэг».",
+7126,"For the first time, a human has been born on Mars. It's truly a unique miracle.",Упершыню на Марсе нарадзіўся чалавек. Гэта сапраўды выключны цуд.,
 5758,"The long-time dream of the human civilization as a whole – to settle another world – has come true. To be among the people who made this happen makes me feel enthusiastic and proud.
 
 We are already swarmed with applications for relocation on Mars and the wanderlust and enthusiasm of these people makes me proud to be a human being. The Red Planet continues to be inhospitable and even dangerous but we as a species had always displayed the ability to adapt and improve – the adverse conditions will only make us try harder. So I say bring it on!
 
-<effect> The Colony has been evaluated positively. Additional Colonists can be called from Earth.","The long-time dream of the human civilization as a whole – to settle another world – has come true. To be among the people who made this happen makes me feel enthusiastic and proud.
+<effect> The Colony has been evaluated positively. Additional Colonists can be called from Earth.","Даўняя мара чалавечай цывілізацыі засяліць іншы сьвет спраўдзілася. Быць сярод людзей, дзякуючы якім гэта адбылося, выклікае ў мяне энтузіязм і гонар.
 
-We are already swarmed with applications for relocation on Mars and the wanderlust and enthusiasm of these people makes me proud to be a human being. The Red Planet continues to be inhospitable and even dangerous but we as a species had always displayed the ability to adapt and improve – the adverse conditions will only make us try harder. So I say bring it on!
+У нас ужо шмат заяў аб перасяленьні на Марс, і цяга да падарожжаў і энтузіязм гэтых людзей прымушае мяне ганарыцца тым, што я чалавек. Чырвоная планета па-ранейшаму застаецца непрыветна й небясьпечна, але мы як від заўсёды дэманстравалі здольнасьць да адаптацыі й паляпшэньня - неспрыяльныя ўмовы толькі прымушаюць нас старацца больш. Так што я кажу - распачнем!
 
-<effect> The Colony has been evaluated positively. Additional Colonists can be called from Earth.",
-5759,Looks like we’ve got a serious adventure ahead of us!,Looks like we’ve got a serious adventure ahead of us!,
+<effect> Калонія была ацэненая станоўча. Дадатковых калёністаў можна выклікаць зь Зямлі.",
+5759,Looks like we’ve got a serious adventure ahead of us!,"Здаецца, нас чакаюць сур'ёзныя прыгоды!",
 8857,"The long-time dream of the human civilization as a whole – to settle another world – has come true. To be among the people who made this happen makes me feel enthusiastic and proud.
 
 We are already swarmed with applications for relocation on Mars and the wanderlust and enthusiasm of these people makes me proud to be a human being. The Red Planet continues to be inhospitable and even dangerous but we as a species had always displayed the ability to adapt and improve – the adverse conditions will only make us try harder. So I say bring it on!
 
-<effect> The Colony has been evaluated positively. You can't call anymore colonists from Earth due to the Last Ark game rule.","The long-time dream of the human civilization as a whole – to settle another world – has come true. To be among the people who made this happen makes me feel enthusiastic and proud.
+<effect> The Colony has been evaluated positively. You can't call anymore colonists from Earth due to the Last Ark game rule.","Даўняя мара чалавечай цывілізацыі засяліць іншы сьвет спраўдзілася. Быць сярод людзей, дзякуючы якім гэта адбылося, выклікае ў мяне энтузіязм і гонар.
 
-We are already swarmed with applications for relocation on Mars and the wanderlust and enthusiasm of these people makes me proud to be a human being. The Red Planet continues to be inhospitable and even dangerous but we as a species had always displayed the ability to adapt and improve – the adverse conditions will only make us try harder. So I say bring it on!
+У нас ужо шмат заяў аб перасяленьні на Марс, і цяга да падарожжаў і энтузіязм гэтых людзей прымушае мяне ганарыцца тым, што я чалавек. Чырвоная планета па-ранейшаму застаецца непрыветна й небясьпечна, але мы як від заўсёды дэманстравалі здольнасьць да адаптацыі й паляпшэньня - неспрыяльныя ўмовы толькі прымушаюць нас старацца больш. Так што я кажу - распачнем!
 
-<effect> The Colony has been evaluated positively. You can't call anymore colonists from Earth due to the Last Ark game rule.",
-5756,The Door towards the Stars,The Door towards the Stars,
-7128,This will go down in history.,This will go down in history.,
+<effect> Калонія была ацэненая станоўча. Вы ня можаце выклікаць больш калёністаў зь Зямлі з-за правіл гульні «Апошні каўчэг».",
+5756,The Door towards the Stars,Дзьверы да зорак,
+7128,This will go down in history.,Гэта ўвойдзе ў гісторыю.,
 9229,"In this training exercise you will learn how to gather basic resources from the Martian surface, how to construct a small base and how to refuel the Rocket in order to send it back to Earth.
 
 Let’s get started!
@@ -17031,7 +17031,7 @@ Now this person decided to come to our colony and “convert it to the true fait
 850059201779,Cardinal Fang,Cardinal Fang,
 326321956389,"Communications with the rocket are purely on the machine level as attempts to establish contact with any potential crew have so far gone unanswered. As no one is making claim of ownership over the rocket and there are no visible insignia to identify its origin, we are in position to do as we wish.
 
-Just a word of caution, in these competitive times, trickery and acts of sabotage are not above anyone - even here on Mars.","Сувязь з ракетай ажыццяўляецца выключна на машынным узроўні, паколькі спробы ўсталяваць кантакт з любым патэнцыйным экіпажам пакуль застаюцца бяз адказу. І паколькі ніхто не прэтэндуе на ўласнасьць ракеты, і няма бачных знакаў адрозьненьня, якія б ідэнтыфікавалі яе паходжаньне, мы мажом рабіць тое, што пажадаем.
+Just a word of caution, in these competitive times, trickery and acts of sabotage are not above anyone - even here on Mars.","Сувязь з ракетай ажыццяўляецца выключна на машынным узроўні, паколькі спробы ўсталяваць кантакт з любым патэнцыйным экіпажам пакуль застаюцца без адказу. І паколькі ніхто не прэтэндуе на ўласнасьць ракеты, і няма бачных знакаў адрозьненьня, якія б ідэнтыфікавалі яе паходжаньне, мы мажом рабіць тое, што пажадаем.
 
 Толькі малая увага, у гэты час конкурэнцыйны, хітрасьць ды сабатаж звычайнае з'ява, нават тут, на Марсе.",
 768331944087,The Mysterious Rocket,Таямнічая ракета,
@@ -17065,9 +17065,9 @@ Nothing to identify the perpetrators of what was obviously a sabotage attempt ca
 
 Later you learn that they were meant to reach a rival colony but had suffered technical difficulties during the trip. 
 
-Out of gratitude the rescued passengers have decided to stay with us.","Уваходзячы ў ракету, яны знаходзяць дзесяць пасажыраў у бездапаможным стане, але ўсё яшчэ жывых. Вы хутка арганізуеце выратавальную опэрацыю й даставіце калёністаў у сваю калёнію да догляду.
+Out of gratitude the rescued passengers have decided to stay with us.","Уваходзячы ў ракету, яны знаходзяць дзесяць пасажыраў у бездапаможным стане, але ўсё яшчэ жывых. Вы хутка арганізуеце выратавальную апэрацыю й даставіце калёністаў у сваю калёнію да агляду.
 
-Пазьней вы высвятляяце, што яны павінны былі дабрацца да калёніі супраціўніка, але падчас палёту сутыкнуліся з тэхнічнымі складанасьцямі.
+Пазьней вы высьвятляяце, што яны павінны былі дабрацца да калёніі супраціўніку, але падчас палёту сутыкнуліся з тэхнічнымі складанасьцямі.
 
 З падзякі выратаваныя пасажыры вырашылі застацца з намі.",
 213670900003,Immediately after landing the mystery Rocket you send a team to investigate.,Адразу пасля пасадкі таямнічай ракеты вы адпраўляеце каманду да расьсьледваньня.,
@@ -17973,11 +17973,11 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 8883,Allowed,Дазволена,
 8884,Forbidden,Забаронена,
 8893,Use Passages for services,Выкарыстоўваць праходы для сэрвісаў,
-12392,Visit other Domes,Visit other Domes,
+12392,Visit other Domes,Наведаць іншыя купалы,
 570,This Dome is not operational due to lack of Colonists,Гэты купал не працуе з-за адсутнасці калёністаў,
-4371,Spire in Dome: <spire_name>,Spire in Dome: <spire_name>,
-8571,<red>Too many homeless Colonists. No more children will be born</red>,<red>Too many homeless Colonists. No more children will be born</red>,
-7769,Homeless penalty<right><HomelessBirthRatePenalty>%,Homeless penalty<right><HomelessBirthRatePenalty>%,
+4371,Spire in Dome: <spire_name>,Шпіляў у купале: <spire_name>,
+8571,<red>Too many homeless Colonists. No more children will be born</red>,<red>Зашмат калёністаў. Дзеці больш не нараджаюцца</red>,
+7769,Homeless penalty<right><HomelessBirthRatePenalty>%,Штраф за бяздомных penalty<right><HomelessBirthRatePenalty>%,
 11710,<center><em>Jobs</em>,<center><em>Праца</em>,
 276,This Dome is fractured and is losing oxygen.<newline><left>Number of fractures<right><fractures><newline><left>Cost of repairs<right><polymers(number)>,Гэты купал зламаны й губляе тлён.<newline><left>Колькасьць шчылін<right><fractures><newline><left>Кошт рамонту<right><polymers(number)>,
 10549,"Domes that are turned off do not accept Colonists and do not consume Power, Oxygen or Water. When a Dome is turned off, all buildings inside are turned off as well.<newline><newline>Current status: <em><UIWorkingStatus></em>","Domes that are turned off do not accept Colonists and do not consume Power, Oxygen or Water. When a Dome is turned off, all buildings inside are turned off as well.<newline><newline>Current status: <em><UIWorkingStatus></em>",
@@ -18038,7 +18038,7 @@ Base game progress per Сол<right><EstimatedDailyTotal>
 7603,<name>  <percent(p)>,<name>  <percent(p)>,
 253,Growth time<right><HarvestTotal> Sols,Расьце<right><HarvestTotal> Солаў,
 7349,"Crops have different harvest cycles, Water consumption, and Food yield.","Crops have different harvest cycles, Water consumption, and Food yield.",
-254,Time until next harvest<right><number> Sols,Time until next harvest<right><number> Sols,
+254,Time until next harvest<right><number> Sols,Час да наступнага ўраджаю<right><number> Солаў,
 255,<em>The farm is not working. The crops are decaying</em>,<em>The farm is not working. The crops are decaying</em>,
 256,<em>The farm is not working. New crops won't be planted</em>,<em>The farm is not working. New crops won't be planted</em>,
 3967,Base production: ,Базавая вытворчасьць: ,
@@ -21798,11 +21798,11 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 13681,<left_click> Browse Colonists,<left_click> Browse Colonists,
 13682,<ButtonA> Browse Colonists,<ButtonA> Browse Colonists,
 972855831022,The Last Ark,Апошні каўчэг,
-10446,Colonization Temporarily Suspended,Colonization Temporarily Suspended,
-1116,Passenger Rocket,Passenger Rocket,
-10447,Can call a Passenger Rocket only once.,Can call a Passenger Rocket only once.,
-8537,"<SponsorDisplayName> has to make sure the Colony is sustainable before allowing more Colonists to come to Mars. Make sure the Founders are supplied with Water, Oxygen, and Food for 10 Sols after they arrive on Mars.","<SponsorDisplayName> has to make sure the Colony is sustainable before allowing more Colonists to come to Mars. Make sure the Founders are supplied with Water, Oxygen, and Food for 10 Sols after they arrive on Mars.",
-8538,Rockets unavailable.,Rockets unavailable.,
+10446,Colonization Temporarily Suspended,Калёнізацыя часова прыпынена,
+1116,Passenger Rocket,Пасажырская ракета,
+10447,Can call a Passenger Rocket only once.,Выклікаць пасажырскую ракету толькі адзін раз.,
+8537,"<SponsorDisplayName> has to make sure the Colony is sustainable before allowing more Colonists to come to Mars. Make sure the Founders are supplied with Water, Oxygen, and Food for 10 Sols after they arrive on Mars.","<SponsorDisplayName> павінна давесьці, што калёнія ўстойліва, перш чым дазволіць большай колькасьці калёністаў прыбыць на Марс. Пераканайцеся, што заснавальнікі забясьпечаны вадой, тлёнам ды ежай на 10 Солаў па прыбудуцьцю на Марс.",
+8538,Rockets unavailable.,Ракеты недаступны.,
 4075,<funding(money)>,<funding(money)>,
 1114,Weight: <value> kg<newline>Cost: <funding(cost)>,Вага: <value> кг<newline>Кошт: <funding(cost)>,
 824938247285,Supply Pod,Капсула пастаўкі,
@@ -22121,10 +22121,10 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.",
 10981,<power(power)> <air(air)> <water(water)>,<power(power)> <air(air)> <water(water)>,
 10982,<power(power)>,<power(power)>,
 10983,<air(air)> <water(water)>,<air(air)> <water(water)>,
-10984,Cable faults: <cables><newline>Pipe leaks: <pipes>,Cable faults: <cables><newline>Pipe leaks: <pipes>,
-522588249261,Leak Detected,Leak Detected,
-3890,Cable Fault,Cable Fault,
-3891,Pipe Leak,Pipe Leak,
+10984,Cable faults: <cables><newline>Pipe leaks: <pipes>,Кабелёў ушкоджана: <cables><newline>Уцечка труб: <pipes>,
+522588249261,Leak Detected,Выяўлена ўцечка,
+3890,Cable Fault,Кабелёў ушкоджана,
+3891,Pipe Leak,Уцечка труб,
 3892,"This section of the grid has malfunctioned and it's now leaking. It can be repaired by Drones for <metals(number)>.
 
 Larger networks will malfunction more often.","This section of the grid has malfunctioned and it's now leaking. It can be repaired by Drones for <metals(number)>.
@@ -24294,7 +24294,7 @@ Status: <em><UILaunchStatus></em>","Адпраўце гэтую ракету ў 
 1175,Destroy,Destroy,
 1177,Destroy this Dredger by sending a Drone to overload the fuel ignition systems.,Destroy this Dredger by sending a Drone to overload the fuel ignition systems.,
 7418,<Description>,<Description>,
-427664763631,Scan Progress,Scan Progress,
+427664763631,Scan Progress,Прагрэс сканаваньня,
 666653736105,Expiration,Expiration,
 944541850261,The structural integrity of this vehicle will decrease on each missile hit. The vehicle will be disabled at 0 integrity.,The structural integrity of this vehicle will decrease on each missile hit. The vehicle will be disabled at 0 integrity.,
 678706263894,"Structural Integrity <percent(current_health, max_health)>","Structural Integrity <percent(current_health, max_health)>",
@@ -24626,31 +24626,31 @@ Queue tasks by using <em>Shift + <right_click></em>","Гэта сьпіс зад
 13754,Births are forbidden when full,Нараджэньне забаронена калі поўна,
 8728,Birth Control Policy,Палітыка кантрольлю над нараджальнасьцю,
 8729,Set the birth policy for this Dome. Colonists at high comfort will have children if births are allowed.<newline><newline>Current status: <em>Births are allowed</em>,"Усталюйце палітыку нараджэньня ў гэтым Купале. Калёністы з высокім камфортам будуць мець дзяцей, калі нараджэньне дазволена.<newline><newline>Бягучы стан: <em>Нараджэньне дазволена</em>",
-8730,<left_click> Forbid births in this Dome when it is full<newline><em>Ctrl + <left_click></em> Forbid births in all Domes when they are full,<left_click> Forbid births in this Dome when it is full<newline><em>Ctrl + <left_click></em> Forbid births in all Domes when they are full,
-8731,<ButtonA> Forbid births in this Dome when it is full<newline><ButtonX> Forbid births in all Domes when they are full,<ButtonA> Forbid births in this Dome when it is full<newline><ButtonX> Forbid births in all Domes when they are full,
+8730,<left_click> Forbid births in this Dome when it is full<newline><em>Ctrl + <left_click></em> Forbid births in all Domes when they are full,<left_click> Забараніць роды у гэтым купале калі поўны<newline><em>Ctrl + <left_click></em> Забараніць роды ва ўсіх поўных купалах,
+8731,<ButtonA> Forbid births in this Dome when it is full<newline><ButtonX> Forbid births in all Domes when they are full,<ButtonA> Забараніць роды у гэтым купале калі поўны<newline><ButtonX> Забараніць роды ва ўсіх поўных купалах,
 8732,Set the birth policy for this Dome. Colonists at high comfort will have children if births are allowed.<newline><newline>Current status: <em>Births are forbidden</em>,"Усталюйце палітыку нараджэньня ў гэтым Купале. Калёністы з высокім камфортам будуць мець дзяцей, калі нараджэньне дазволена.<newline><newline>Бягучы стан: <em>Нараджэньне забаронена</em>",
-8733,<left_click> Allow births in this Dome<newline><em>Ctrl + <left_click></em> Allow births in all Domes,<left_click> Allow births in this Dome<newline><em>Ctrl + <left_click></em> Allow births in all Domes,
-8734,<ButtonA> Allow births in this Dome <newline><ButtonX> Allow births in all Domes,<ButtonA> Allow births in this Dome <newline><ButtonX> Allow births in all Domes,
+8733,<left_click> Allow births in this Dome<newline><em>Ctrl + <left_click></em> Allow births in all Domes,<left_click> Дазволіць роды для гэтага купала<newline><em>Ctrl + <left_click></em> Дазволіць роды ва ўсіх купалах,
+8734,<ButtonA> Allow births in this Dome <newline><ButtonX> Allow births in all Domes,<ButtonA> Дазволіць роды для гэтага купала <newline><ButtonX> Дазволіць роды ва ўсіх купалах,
 13763,Set the birth policy for this Dome. Colonists at high comfort will have children if births are allowed.<newline><newline><BirthDomeStatusText>,"Усталюйце палітыку нараджэньня ў гэтым Купале. Калёністы з высокім камфортам будуць мець дзяцей, калі нараджэньне дазволена.<newline><newline><BirthDomeStatusText>",
-13764,<left_click> Forbid births in this Dome<newline><em>Ctrl + <left_click></em> Forbid births in all Domes,<left_click> Forbid births in this Dome<newline><em>Ctrl + <left_click></em> Forbid births in all Domes,
-13767,<ButtonA> Forbid births in this Dome <newline><ButtonX> Forbid births in all Domes,<ButtonA> Forbid births in this Dome <newline><ButtonX> Forbid births in all Domes,
-8888,Allow or forbid working in connected Domes.<newline><newline>Current status: <em><UIWorkInConnected></em>,Allow or forbid working in connected Domes.<newline><newline>Current status: <em><UIWorkInConnected></em>,
-8896,Allow or forbid using service buildings in connected Domes.<newline><newline>Current status: <em><UIServiceInConnected></em>,Allow or forbid using service buildings in connected Domes.<newline><newline>Current status: <em><UIServiceInConnected></em>,
-8889,<left_click> Forbid for this Dome<newline><em>Ctrl + <left_click></em> Forbid for all Domes,<left_click> Forbid for this Dome<newline><em>Ctrl + <left_click></em> Forbid for all Domes,
-8890,<ButtonA> Forbid for this Dome<newline><ButtonX> Forbid for all Domes,<ButtonA> Forbid for this Dome<newline><ButtonX> Forbid for all Domes,
-8891,<left_click> Allow for this Dome<newline><em>Ctrl + <left_click></em> Allow for all Domes,<left_click> Allow for this Dome<newline><em>Ctrl + <left_click></em> Allow for all Domes,
-8892,<ButtonA> Allow for this Dome<newline><ButtonX> Allow for all Domes,<ButtonA> Allow for this Dome<newline><ButtonX> Allow for all Domes,
+13764,<left_click> Forbid births in this Dome<newline><em>Ctrl + <left_click></em> Forbid births in all Domes,<left_click> Забараніць роды для гэтага купала<newline><em>Ctrl + <left_click></em> Забараніць роды ва ўсіх купалах,
+13767,<ButtonA> Forbid births in this Dome <newline><ButtonX> Forbid births in all Domes,<ButtonA> Забараніць роды для гэтага купала<newline><ButtonX>Забараніць роды ва ўсіх купалах,
+8888,Allow or forbid working in connected Domes.<newline><newline>Current status: <em><UIWorkInConnected></em>,Дазволіць або забараніць працу ў падлучаных купалах.<newline><newline>Бягучы стан: <em><UIWorkInConnected></em>,
+8896,Allow or forbid using service buildings in connected Domes.<newline><newline>Current status: <em><UIServiceInConnected></em>,Дазволіць або забараніць працу ў падлучаных купалах.<newline><newline>Бягучы стан: <em><UIServiceInConnected></em>,
+8889,<left_click> Forbid for this Dome<newline><em>Ctrl + <left_click></em> Forbid for all Domes,<left_click> Забараніць для гэтага купала<newline><em>Ctrl + <left_click></em> Забараніць ва ўсіх купалах,
+8890,<ButtonA> Forbid for this Dome<newline><ButtonX> Forbid for all Domes,<ButtonA> Забараніць для гэтага купала<newline><ButtonX> Забараніць ва ўсіх купалах,
+8891,<left_click> Allow for this Dome<newline><em>Ctrl + <left_click></em> Allow for all Domes,<left_click> Дазволіць для гэтага купала<newline><em>Ctrl + <left_click></em> Дазволіць ва ўсіх купалах,
+8892,<ButtonA> Allow for this Dome<newline><ButtonX> Allow for all Domes,<ButtonA> Дазволіць для гэтага купала<newline><ButtonX> Дазволіць для ва ўсіх купалах,
 8735,Accepts Colonists,Прыймаць калёністаў,
-10460,Overpopulated Dome,Overpopulated Dome,
+10460,Overpopulated Dome,Перанаселены купал,
 8736,Quarantined,Каранцін,
 364,Immigration Policy,Палітыка іміграцыі,
 7660,Set the Immigration policy for this Dome. Colonists are not allowed to enter or leave quarantined Domes.<newline><newline>Current status: <em>Accepts new Colonists</em>,Усталюйце іміграцыйную палітыку для гэтага купала. Калёністам забаронена ўваходзіць і пакідаць каранцінныя купалы.<newline><newline>Бягучы стан: <em>прыймае новых калёністаў</em>,
-7661,<left_click> Quarantine this Dome<newline><em>Ctrl + <left_click></em> Quarantine all Domes,<left_click> Quarantine this Dome<newline><em>Ctrl + <left_click></em> Quarantine all Domes,
-7662,<ButtonA> Quarantine this Dome<newline><ButtonX> Quarantine all Domes,<ButtonA> Quarantine this Dome<newline><ButtonX> Quarantine all Domes,
+7661,<left_click> Quarantine this Dome<newline><em>Ctrl + <left_click></em> Quarantine all Domes,<left_click> Купал на каранцін<newline><em>Ctrl + <left_click></em> Усе купалы на каранцін,
+7662,<ButtonA> Quarantine this Dome<newline><ButtonX> Quarantine all Domes,<ButtonA> Купал на каранцін<newline><ButtonX> Усе купалы на каранцін,
 365,Set the Immigration policy for this Dome. Colonists are not allowed to enter or leave quarantined Domes.<newline><newline>Current status: <em>Quarantined</em>,Усталюйце іміграцыйную палітыку для гэтага купала. Калёністам забаронена ўваходзіць і пакідаць каранцінныя купалы.<newline><newline>Бягучы стан: <em>каранцін</em>,
 10452,Set the Immigration policy for this Dome. Colonists are not allowed to enter or leave quarantined Domes.<newline><newline>Current status: <em>Overpopulated dome</em>,Усталюйце іміграцыйную палітыку для гэтага купала. Калёністам забаронена ўваходзіць і пакідаць каранцінныя купалы.<newline><newline>Бягучы стан: <em>Перанаселены купал</em>,
-7663,<left_click> Accept Colonists in this Dome<newline><em>Ctrl + <left_click></em> Accept Colonists in all Domes,<left_click> Accept Colonists in this Dome<newline><em>Ctrl + <left_click></em> Accept Colonists in all Domes,
-7664,<ButtonA> Accept Colonists in this Dome<newline><ButtonX> Accept Colonists in all Domes,<ButtonA> Accept Colonists in this Dome<newline><ButtonX> Accept Colonists in all Domes,
+7663,<left_click> Accept Colonists in this Dome<newline><em>Ctrl + <left_click></em> Accept Colonists in all Domes,<left_click> Прыймаць калёністаў у гэтым купале<newline><em>Ctrl + <left_click></em> Прыймаць калёністаў ва ўсіх купалах,
+7664,<ButtonA> Accept Colonists in this Dome<newline><ButtonX> Accept Colonists in all Domes,<ButtonA> Прыймаць калёністаў у гэтым купале<newline><ButtonX> Прыймаць калёністаў ва ўсіх купалах,
 121681643085,<UISectionCitizensRollover>,<UISectionCitizensRollover>,
 371953345486,Colonists<right><ColonistCount> / <colonist(LivingSpace)>,Калёністы<right><ColonistCount> / <colonist(LivingSpace)>,
 201464169022,<EmploymentMessage>,<EmploymentMessage>,
