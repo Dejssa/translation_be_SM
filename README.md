@@ -189,6 +189,4 @@
 
 ### Нанаткі
 
-- Goddenberry - 
-
-Скончыў на Narayan
+Скончыў на Narayan 1581
