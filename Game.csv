@@ -2453,21 +2453,21 @@ The University, Sanatorium and School buildings are treated as workplaces - colo
 
 Upon returning to earth, each Tourist gives their holiday a rating based on their <em>Satisfaction</em> stat. They generate funds and new applicants based on their rating. Tourists with the <em>Saint</em>, <em>Celebrity</em> and <em>Genius</em> Traits give extra rewards.
 
-Every Tourist has the <em>Satisfaction</em> stat, which tracks how much they've enjoyed their holiday. Satisfaction is increased by raising stats and through certain buildings or vehicles (<em>Hotels</em>, <em>Low-G Amusement Parks</em>, and <em>RC Safaris</em> ).","Tourists are <em>каляністы</em> who visit Mars for recreation, and are brought in from Earth through the resupply screen. They stay on Mars for 5 sols, looking to go home afterwards.
+Every Tourist has the <em>Satisfaction</em> stat, which tracks how much they've enjoyed their holiday. Satisfaction is increased by raising stats and through certain buildings or vehicles (<em>Hotels</em>, <em>Low-G Amusement Parks</em>, and <em>RC Safaris</em> ).","Турысты - гэта <em>каляністы</em>, якія наведваюць Марс дзеля адпачынку. Прывезьці іх магчыма зь Зямлі праз экран забесьпячэньня. Яны застаюцца на Марсе 5 Солаў, пасля чаго хочуць вярнуцца дадому. 
 
-Upon returning to earth, each Tourist gives their holiday a rating based on their <em>Satisfaction</em> stat. They generate funds and new applicants based on their rating. Tourists with the <em>Saint</em>, <em>Celebrity</em> and <em>Genius</em> Traits give extra rewards.
+Па вяртаньні на Зямлю кожны турыст дае сваёй вакацыі ацэнку паводле сваёй <em>Задаволенасьці</em>. Яны даюць сродкі й новых кандыдатаў паводле свайго рэйтынгу. Турысты з рысамі <em>Сьвяты</em>, <em>Знакамітасьць</em> і <em>Геній</em> даюць дадатковыя ўзнагароды. 
 
-Every Tourist has the <em>Satisfaction</em> stat, which tracks how much they've enjoyed their holiday. Satisfaction is increased by raising stats and through certain buildings or vehicles (<em>Hotels</em>, <em>Low-G Amusement Parks</em>, and <em>РК Сафары</em> ).",
+Кожны турыст мае ўзровень <em>Задаволенасьці</em>, які адлюстроўвае іх адпачынак. Задаволенасьць павялічваецца пад час павышэньня рэшты статыстык, і праз пэўныя будынкі ці транспартныя сродкі (<em>Гатэлі</em>, <em>Паркі забаў нізкай гравітацыі</em> й <em>РК Сафар</em>). ",
 914217898717,Tourists,Турысты,
 5421,"All Rovers are manually controlled via the commands available in their <em>Infopanels</em>. They can either be given orders to go to a map location or to interact with a contextually specific map object – such as <em>Anomalies</em> or <em>Surface Deposits</em>.
 
 <em>Drones</em> are semi-autonomous and will queue up tasks that are flagged only if these tasks are within the <em>Service Area</em> set for each drone. However, the player can take direct control of a Drone if needed.
 <cut_if_not_platform('desktop')>
-Change your preferred controls and mappings using the Options menu.","All Rovers are manually controlled via the commands available in their <em>Infopanels</em>. They can either be given orders to go to a map location or to interact with a contextually specific map object – such as <em>Anomalies</em> or <em>Surface Deposits</em>.
+Change your preferred controls and mappings using the Options menu.","Усе марсаходы кіруюцца ўручную з дапамогай каманд, даступных на іх <em>інфармацыйных панэлях</em>. Ім можна даваць загад перайсьці да мейсца на мапе, ці ўзаемадзейнічаць з кантэкстуальна-спецыфічным аб'ектам мапы, такім як <em>Анамаліі</em> або <em>Адклады</em>. 
 
-<em>Drones</em> are semi-autonomous and will queue up tasks that are flagged only if these tasks are within the <em>Service Area</em> set for each drone. However, the player can take direct control of a Drone if needed.
+<em>Дроны</em> з'яўляюцца паўаўтаномнымі й ставяць у чаргу задачы, якія пазначаны сьцяжком, калі ян знаходзяцца ў межах <em>Зоны абслугоўваньня</em> ўсталяваная кожнаму дрону. Тым ня менш, па патрэбе гулец можа ўзяць непасрэднае кіраваньне дронам. 
 <cut_if_not_platform('desktop')>
-Change your preferred controls and mappings using the Options menu.",
+Зьмяніце пераважныя элэменты кіраваньня й адлюстраваньня з дапамогай меню ""Налады"".",
 5420,Rover and Drone Control,Кіраваньне дронамі й марсаходамі,
 5423,"The map is divided in <em>Sectors</em> which need to be scanned to reveal what resources and Anomalies they hold – if any. 
 
@@ -2587,15 +2587,15 @@ The process is facilitated by Drones, which extract Waste Rock to lower the grou
 327956641780,Cold Wave rating set to a new Max level for all locations on Mars. Cold waves increase power consumption even more.,Рэйтынг <em>Халодных хваль</em> усталяваны на новы максімальны ўзровень ва ўсіх мейсцах на Марсе. <em>Халодных хвалі</em> яшчэ больш павялічваюць спажываньне энергіі.,
 150174985196,Winter is Coming,Зіма набліжаецца,
 291223909451,"<grey>""Nothing burns like the cold.""<newline><right>George R.R. Martin</grey><left>","<grey>""Нішто так не пячэ, як холад.""<newline><right>Джордж Р. Р. Марцін</grey><left>",
-5425,Black Cube Stockpiles,Black Cube Stockpiles,
-5427,Cold-sensitive Buildings,Cold-sensitive Buildings,
-5428,Cold-sensitive Buildings,Cold-sensitive Buildings,
-5429,Buildings (except Domes),Buildings (except Domes),
-5430,Cold Marker,Cold Marker,
+5425,Black Cube Stockpiles,Сховы Чорных кубоў,
+5427,Cold-sensitive Buildings,Холадаўразлівы будынак,
+5428,Cold-sensitive Buildings,Холадаўразлівы будынак,
+5429,Buildings (except Domes),Будынкі (выключая купалы),
+5430,Cold Marker,Маркер холаду,
 5431,Female Colonists,Каляністы жанчыны,
 5432,Male Colonists,Каляністы мужчыны,
 5433,Drone Control,Кіраваньне дронам,
-5434,Frozen Buildings,Frozen Buildings,
+5434,Frozen Buildings,Замёрзлы будынак,
 5435,Homeless Colonists,Бяздомныя калёністы,
 5436,Residences,Жыльлё,
 5437,Resource Exploiter,Resource Exploiter,
@@ -2657,53 +2657,53 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - Colonists never get Earthsick
 - Food supply from Passenger Rockets increased (x10)
 - Rockets synthesize Fuel
-- Start with a Self-Sufficient Dome prefab","Дасьледаваньня ў Сол: <research(SponsorResearch)>
-Rare Metals price: $<ExportPricePreciousMetals> M
+- Start with a Self-Sufficient Dome prefab","Дасьледаваньне ў Сол: <research(SponsorResearch)>
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
-- Large Rocket payload (<cargo> kg)
-- Colonists never get Earthsick
-- Food supply from Passenger Rockets increased (x10)
-- Rockets synthesize Fuel
-- Start with a Self-Sufficient Dome prefab",
+- Вялікая грузаздольнасьць ракеты (<cargo> кг)
+- Каляністы ніколі не <em>Тугуюць па Зямлі</em>
+- Колькасьць ежы павышана ў пасажырскіх ракетах (x10)
+- Ракеты сінтэзуюць паліва
+- Модульны самадастатковы купал на старце",
 897535536615,Easy,Лёгка,
 10281,"Research per Sol: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - Large Rocket payload (<cargo> kg)
-- Periodic additional funding","Research per Сол: <research(SponsorResearch)>
-Rare Metals price: $<ExportPricePreciousMetals> M
+- Periodic additional funding","Дасьледаваньне ў Сол: <research(SponsorResearch)>
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
-- Large Rocket payload (<cargo> kg)
-- Periodic additional funding",
+- Вялікая грузаздольнасьць ракеты (<cargo> кг)
+- Перыядычнае дафінансаваньне",
 5485,"Research per Sol: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - Can buy Applicants with funding
 - Additional Rockets are significantly cheaper
 - Probes can discover deep Rare Metal deposits
-- Bonus Tech: <em>Deep Metal Extraction</em> (can extract deep metals and deep rare metals deposits)","Research per Сол: <research(SponsorResearch)>
-Rare Metals price: $<ExportPricePreciousMetals> M
+- Bonus Tech: <em>Deep Metal Extraction</em> (can extract deep metals and deep rare metals deposits)","Дасьледаваньне ў Сол: <research(SponsorResearch)>
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
-- Can buy Applicants with funding
-- Additional Rockets are significantly cheaper
-- Probes can discover deep Rare Metal deposits
+- Можа купіць кандыдатаў за <em>$</em>
+- Дадатковыя ракеты значна таньней
+- Зонды могуць выявіць глыбокія радовішча рэдкіх мэталаў
 - Бонусная тэхнолёгія: <em>Здабыча глыбокіх мэталаў</em> (можа здабываць глыбокія радовішча мэталаў і рэдкіх мэталаў)",
 145918815635,Easy,Лёгка,
 5486,"Research per Sol: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - Passenger Rockets carry 10 additional Colonists
-- Applicants are generated twice as fast","Research per Сол: <research(SponsorResearch)>
-Rare Metals price: $<ExportPricePreciousMetals> M
+- Applicants are generated twice as fast","Дасьледаваньне ў Сол: <research(SponsorResearch)>
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
-- Passenger Rockets carry 10 additional Colonists
-- Applicants are generated twice as fast",
+- Пасажырскія ракеты умяшчаюць 10 дадатковых каляністаў
+- Новая кандыдаты з'яўляюцца ўдвая хутчэй",
 5487,"Research per Sol: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - All building costs reduced by 20%
-- Bonus Tech: <em>Low-G Engineering</em> (unlocks Medium Dome)","Research per Сол: <research(SponsorResearch)>
-Rare Metals price: $<ExportPricePreciousMetals> M
+- Bonus Tech: <em>Low-G Engineering</em> (unlocks Medium Dome)","Дасьледаваньне ў Сол: <research(SponsorResearch)>
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
 - Кошт будынкаў зьніжаны на 20%
 - Бонусная тэхнолёгія: <em>Інжынэрыя нізкай гравітацыі</em> (разблакуе сярэдні купал)",
@@ -2711,31 +2711,31 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - 5 extra starting technologies
-- Gain Funding every time a tech is researched. Gain double if it's a Breakthrough tech","Research per Сол: <research(SponsorResearch)>
-Rare Metals price: $<ExportPricePreciousMetals> M
+- Gain Funding every time a tech is researched. Gain double if it's a Breakthrough tech","Дасьледаваньне ў Сол: <research(SponsorResearch)>
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
-- 5 extra starting technologies
-- Gain Funding every time a tech is researched. Gain double if it's a Breakthrough tech",
+- 5 дадатковых тэхнолёгій у пачатку
+- Атрымлівае фінансаваньне за кожную дасьледаваную тэхнолёгію. Двайны памер за прарыў",
 5491,"Research per Sol: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - Drone Hubs start with additional Drones
-- 50% cheaper advanced resources","Research per Сол: <research(SponsorResearch)>
-Rare Metals price: $<ExportPricePreciousMetals> M
+- 50% cheaper advanced resources","Дасьледаваньне ў Сол: <research(SponsorResearch)>
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
-- Drone Hubs start with additional Drones
-- 50% cheaper advanced resources",
+- ЦК Дронаў маюць дадатковыя Дроны
+- Перадавыя рэсурсы таньней на 50%",
 5494,"Research per Sol: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - All Colonists have the Religious trait
 - Birthrate is doubled
-- Hydroponic Farms performance reduced by 50 <em>(drawback)</em>","Research per Сол: <research(SponsorResearch)>
-Rare Metals price: $<ExportPricePreciousMetals> M
+- Hydroponic Farms performance reduced by 50 <em>(drawback)</em>","Дасьледаваньне ў Сол: <research(SponsorResearch)>
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
-- All Colonists have the Religious trait
-- Birthrate is doubled
-- Hydroponic Farms performance reduced by 50 <em>(заган)</em>",
+- Усе каляністы маюць рэлігійную рысу
+- Нараджальнасьць падвояна
+- Вытворчасьць гідрапонных фэрм зьніжана на 50 <em>(заган)</em>",
 255679011844,Hard,Цяжка,
 5492,"Research per Sol: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
@@ -2743,25 +2743,25 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - Bonus Tech: <em>Fueled Extractors</em> (extractor upgrade that boosts production but consumes Fuel)
 - Fueled Extractors upgrade is free
 - Fuel Refinery prefab costs <percent(50)> less
-- Rockets have extended travel time <em>(drawback)</em>","Research per Сол: <research(SponsorResearch)>
-Rare Metals price: $<ExportPricePreciousMetals> M
+- Rockets have extended travel time <em>(drawback)</em>","Дасьледаваньне ў Сол: <research(SponsorResearch)>
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
-- Бонусная тэхнолёгія: <em>Запраўлены экстрактар</em> (extractor upgrade that boosts production but consumes Fuel)
-- Запраўлены экстрактар upgrade is free
-- Завод паліва каштуе менш на <percent(50)>
-- Rockets have extended travel time <em>(заган)</em>",
+- Бонусная тэхнолёгія: <em>Запраўлены экстрактар</em> (паляпшэньне экстрактару, якое павялічвае вытворчасьць, але спажывае паліва)
+- Дармовае паляпшэньне <em>Запраўлены экстрактар</em>
+- Зборнік заводу паліва каштуе менш на <percent(50)>
+- Ракеты маюць павялічаны час палёту <em>(заган)</em>",
 363312214750,Hard,Цяжка,
 5496,"Research per Sol: <research(SponsorResearch)>
 Rare Metals price: $<ExportPricePreciousMetals> M
 
 - Discover more Breakthrough Anomalies
 - Researching a Breakthrough Tech grants Applicants
-- Rockets require more fuel to launch <em>(drawback)</em>","Research per Сол: <research(SponsorResearch)>
-Rare Metals price: $<ExportPricePreciousMetals> M
+- Rockets require more fuel to launch <em>(drawback)</em>","Дасьледаваньне ў Сол: <research(SponsorResearch)>
+Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
-- Discover more Breakthrough Anomalies
-- Researching a Breakthrough Tech grants Applicants
-- Rockets require more fuel to launch <em>(заган)</em>",
+- Знаходзіць больш прарыўных анамалій
+- Дасьледваньне прарыву дае новых кандыдатаў
+- Ракеты патрабуюць больш паліву для ўзлёту <em>(заган)</em>",
 5502,"Let's <em>designate a landing site</em> for the rocket! A promising area has already been scanned for resources.
 The Rocket can be selected by opening the quick bar with <RB> and pressing <ButtonA>.","Давайце <em>вызначым мейсца пасадцы</em> для ракеты! Перспектыўны ўчастак ужо правераны на рэсурсы.
 Ракета можа быць выдзеляна праз панэль хуткага доступу праз <RB> і націснуўшы <ButtonA>.",
@@ -15867,7 +15867,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - Start with a Self-Sufficient Dome prefab","Дасьледаваньне ў Сол: <research(SponsorResearch)>
 Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
-- <em>Зеўс ракета</em> - павышана карысная нагрузка ракеты (<cargo> кг)
+- <em>Зеўс ракета</em> - павялічаная грузаздольнасьць ракеты (<cargo> кг)
 - <em>Перадавы гэнератар стырлінга</em> - выпрацоўвае энергію й захоўвае ад <em>Халодных хваль</em>
 - Каляністы ніколі не <em>Тугуюць па Зямлі</em>
 - Колькасьць ежы павышана ў пасажырскіх ракетах (x10)
@@ -15884,7 +15884,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - Periodic additional funding","Дасьледаваньне ў Сол: <research(SponsorResearch)>
 Кошт рэдкіх мэталаў: $<ExportPricePreciousMetals> Млн.
 
-- <em>Зеўс ракета</em> - павышана карысная нагрузка ракеты (<cargo> кг)
+- <em>Зеўс ракета</em> - павялічаная грузаздольнасьць ракеты (<cargo> кг)
 - <em>Перадавы арбітальны зонд</em> - скануе пяць сэктараў
 - <em>Мэгагандлёвы цэнтр</em> - сэрвісны будынак, які задавальняе большасьць інтарэсаў
 - Перыядычнае дафінансаваньне",
@@ -16028,7 +16028,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 - <em>Распрацоўшчык гульняў</em> - вырабляе гульні якія даюць фінансаваньне залежачы ад іх посьпеху
 - Знаходзіць больш прарыўных анамалій
 - Дасьледваньне прарыву дае новых кандыдатаў
-- Ракеты патрабуюць больш паліва для ўзлёту <em>(заган)</em>",
+- Ракеты патрабуюць больш паліву для ўзлёту <em>(заган)</em>",
 756371553955,Hard,Цяжка,
 794934094417,Japan,Японія,
 420248056524,"Research per Sol: <research(SponsorResearch)>
