@@ -223,7 +223,7 @@ id <u(id)>, version <VersionText></color>","<color 128 128 128><u(title)>
 1000126,Audio,Аўдыё,
 1000127,AUDIO,АЎДЫЁ,
 1000128,Controls,Уклад,
-1000129,CONTROLS,КІРАВАНЬНЕ,
+1000129,CONTROLS,УКЛАД,
 1000131,GAMEPLAY,ГЭЙМПЛЭЙ,
 1000132,Key Bindings,Прывязкі клавіш,
 1000133,KEY BINDINGS,ПРЫВЯЗКІ КЛАВІШ,
@@ -2434,7 +2434,7 @@ Each <em>Dome</em> can be set up to filter Colonists by age, specialization and 
  Бяздомныя каляністы адправяцца ў іншы даступны купал з даступнымі памяшканьнямі.
 
 Кожны <em>Купал</em> можна наладзіць для фільтрацыі каляністаў па ўзросце, спэцыялізацыі й іншых прыкметах. Каляністы з ЛЮБОЙ з абавязковых рыс, або ЛЮБЫМІ жаданымі рысамі і АНІЯКАЙ з непажаданых застануцца ў купале. Іншыя будуць шукаць на іншы купал з даступнымі памяшканьнямі й фільтрам, які адпавядае іх рысам. ",
-5418,Colonists - Moving Between Domes,Каляністы – Пярэбары,
+5418,Colonists - Moving Between Domes,Каляністы – пярэбары,
 8118,"Colonists with no specialization may be educated to receive a specialization in the Martian University. The University can provide needed specializations automatically or focus on a single desired specialization.
 
 Some, but not all, undesirable Flaws may be cured in the Sanatorium spire. Up to three different flaws can be treated in a single Sanatorium.
@@ -2448,7 +2448,7 @@ The University, Sanatorium and School buildings are treated as workplaces - colo
 Школа гадуе жаданыя здольнасьці ў дзяцей, якія жывуць у калёніі. У іх ёсьць шанец атрымаць любую з трох выбраных здольнасьцяў, калі вырастуць. Ня ўсе здольнасьці магчыма выгадаваць у школе. Будынак <em>Гульнявая пляцоўка</em> гадуе выпадковыя здольнасьці ў дзяцей, якія яго наведалі. 
 
 Будынкі універсітэту, санаторыя й школы лічацца як працоўныя мейсцы - каляністы, якія там навучаюцца або лечацца, ня могуць адначасова працаваць. Індывідуальная прадукцыйнасьць каляністаў вызначае, як хутка яны атрымаюць спэцыялізацыю, вылечаць заган ці іх шанец атрымаць здольнасьць са школы. Службовы будынак <em>Гульнявая пляцоўка</em> уплывае на ўсіх дзецей, якія наведалі яго хоць раз у дзяцінстве. ",
-8117,Colonists - Managing Specializations and Traits,Каляністы - кіраваньне спэцыялізацыямі й рысамі,
+8117,Colonists - Managing Specializations and Traits,Каляністы - спэцыялізацыі й рысы,
 548840736550,"Tourists are <em>Colonists</em> who visit Mars for recreation, and are brought in from Earth through the resupply screen. They stay on Mars for 5 sols, looking to go home afterwards.
 
 Upon returning to earth, each Tourist gives their holiday a rating based on their <em>Satisfaction</em> stat. They generate funds and new applicants based on their rating. Tourists with the <em>Saint</em>, <em>Celebrity</em> and <em>Genius</em> Traits give extra rewards.
@@ -3078,199 +3078,199 @@ Alternatively, you can hold down <RT> and then press <ButtonX> as a Launch short
 
 With the RC Transport selected, use <RT> to focus the Rover's Info Panel and then <DPadLeft><DPadRight> to select the ""Move"" action.
 
-Alternatively you can move the RC Transport by  holding <RT> and then pressing <ButtonA>.","Move the vehicle to the area indicated by the arrow.
+Alternatively you can move the RC Transport by  holding <RT> and then pressing <ButtonA>.","Перамясьціце марсаход у зону, пазначаную стрэлкай.
 
-With the RC Transport selected, use <RT> to focus the Rover's Info Panel and then <DPadLeft><DPadRight> to select the ""Move"" action.
+Калі РК Пагрузчык абраны, сфакусуйцесь на інфапанэлі марсаходу праз <RT> і пасьля <DPadLeft><DPadRight> каб абраць дзеяньне ""Руху"".
 
-Alternatively you can move the RC Transport by  holding <RT> and then pressing <ButtonA>.",
+На выбар, вы можаце перамясьціць РК Пагрузчык праз утрыманьне <RT> і націснуўшы <ButtonA>.",
 9079,"Move the vehicle to the area indicated by the arrow.
 
-With the RC Transport selected, move it with the <em>Move/Interact</em> button in its Info Panel or by using <UnitMoveControl()>.","Move the vehicle to the area indicated by the arrow.
+With the RC Transport selected, move it with the <em>Move/Interact</em> button in its Info Panel or by using <UnitMoveControl()>.","Перамясьціце марсаход у зону, пазначаную стрэлкай.
 
-With the RC Transport selected, move it with the <em>Move/Interact</em> button in its Info Panel or by using <UnitMoveControl()>.",
-9075,Rover Basics,Rover Basics,
-9078,Now let's try moving around.,Now let's try moving around.,
+Калі РК Пагрузчык абраны, перамясьціце яго кнопкай <em>Руху/Узаемадзеяньня</em> на інфапанэлі або праз <UnitMoveControl()>.",
+9075,Rover Basics,База марсаходаў,
+9078,Now let's try moving around.,Зараз давайце паспрабуем рухацца.,
 9088,"Select the RC Transport with <ButtonA> and then move the cursor over the <em>Fuel Depot</em> and press <RT> + <ButtonA>. When the Fuel icon pops up use <ButtonA> to fill all of the available space in the RC Transport with Fuel.
 
-Load 30 Fuel on the RC Transport to continue.","Select the RC Transport with <ButtonA> and then move the cursor over the <em>Fuel Depot</em> and press <RT> + <ButtonA>. When the Fuel icon pops up use <ButtonA> to fill all of the available space in the RC Transport with Fuel.
+Load 30 Fuel on the RC Transport to continue.","Абярыце РК Пагрузчык праз <ButtonA> і пасьля перамясьціце курсор на <em>Схоў паліву</em> й націсьніце <RT> + <ButtonA>. Калі з’явіцца значок паліву, націсьніце <ButtonA> каб пагрузіць паліва ў РК Пагрузчык.
 
-Load 30 Fuel on the RC Transport to continue.",
+Пагрузіце 30 паліва ў РК Пагрузчык каб працягнуць.",
 9087,"Select the RC Transport and <UnitMoveControl()> on the <em>Fuel Depot</em>. When the Fuel icon pops up <left_click> on it to fill all of the available space in the RC Transport with Fuel.
 
-Load 30 Fuel on the RC Transport to continue.","Select the RC Transport and <UnitMoveControl()> on the <em>Fuel Depot</em>. When the Fuel icon pops up <left_click> on it to fill all of the available space in the RC Transport with Fuel.
+Load 30 Fuel on the RC Transport to continue.","Абярыце РК Пагрузчык і <UnitMoveControl()> на <em>Схоў паліву</em>. Калі з’явіцца значок паліву, <left_click> каб пагрузіць паліва ў РК Пагрузчык.
 
-Load 30 Fuel on the RC Transport to continue.",
-9086,RC Transport - Loading Resources,RC Transport - Loading Resources,
-9092,"Use the ""<em>Unload Resources</em>"" action and then press <ButtonA> on a spot near the Rocket to unload the Fuel.","Use the ""<em>Unload Resources</em>"" action and then press <ButtonA> on a spot near the Rocket to unload the Fuel.",
-9091,"Use the ""<em>Unload Resources</em>"" action and <left_click> a spot near the Rocket to unload the Fuel.","Use the ""<em>Unload Resources</em>"" action and <left_click> a spot near the Rocket to unload the Fuel.",
-9089,RC Transport - Unloading Resources,RC Transport - Unloading Resources,
-9090,Now order the RC Transport to unload the Fuel next to the Rocket.,Now order the RC Transport to unload the Fuel next to the Rocket.,
-9093,"Wait for the Drones to bring the Fuel inside the Rocket, then select the Rocket and <em>launch</em> it.","Wait for the Drones to bring the Fuel inside the Rocket, then select the Rocket and <em>launch</em> it.",
+Пагрузіце 30 паліва ў РК Пагрузчык каб працягнуць.",
+9086,RC Transport - Loading Resources,РК Пагрузчык – загрузка рэсурсаў,
+9092,"Use the ""<em>Unload Resources</em>"" action and then press <ButtonA> on a spot near the Rocket to unload the Fuel.","Выкарыстайце дзеяньне ""<em>Выгрузка рэсурсаў</em>"" і націсьніце <ButtonA> на крапінцы каля ракеты для выгрузкі паліву.",
+9091,"Use the ""<em>Unload Resources</em>"" action and <left_click> a spot near the Rocket to unload the Fuel.","Выкарыстайце дзеяньне ""<em>Выгрузка рэсурсаў</em>"" і <left_click> на крапінцы каля ракеты для выгрузкі паліву.",
+9089,RC Transport - Unloading Resources,РК Пагрузчык – выгрузка рэсурсаў,
+9090,Now order the RC Transport to unload the Fuel next to the Rocket.,Зараз загадайце РК Пагрузчыку выгрузіць паліва побач з ракетай.,
+9093,"Wait for the Drones to bring the Fuel inside the Rocket, then select the Rocket and <em>launch</em> it.","Пачакайце пакуль дроны перанясуць паліва ў ракету, пасьля абярыце ракету й <em>запусьціце</em> яе.",
 12181,"Press and hold <ButtonX> over a Drone to select all four orphaned Drones. Then use the ""<em>Reassign</em>"" action to assign them to the Drone Hub back in the base.
 
 The longer you hold <ButtonX>, the larger the screen selection area becomes.
 
-Remember to focus the Drone's Info Panel with <RT> once selected.","Press and hold <ButtonX> over a Drone to select all four orphaned Drones. Then use the ""<em>Reassign</em>"" action to assign them to the Drone Hub back in the base.
+Remember to focus the Drone's Info Panel with <RT> once selected.","Націсьніце й трымайце <ButtonX> над дронам каб абраць усех чатыры пакінутыя дроны. Пасьля выкарыстуйце дзеяньне ""<em>Перапрызначыць</em>"" каб прызначыць іх да ЦК дронаў на базе.
 
-The longer you hold <ButtonX>, the larger the screen selection area becomes.
+Чым даўжэй трымаеце <ButtonX>, тым больш становіцца зона абіраньня.
 
-Remember to focus the Drone's Info Panel with <RT> once selected.",
-12182,"Press and hold <left_click> then drag to select all four orphaned Drones. Once selected, use the ""<em>Reassign</em>"" action to assign them to the Drone Hub back in the base.","Press and hold <left_click> then drag to select all four orphaned Drones. Once selected, use the ""<em>Reassign</em>"" action to assign them to the Drone Hub back in the base.",
+Не забудзьце сфакусаваць інфармацыйную панэль дрона праз <RT> пасьля выбару.",
+12182,"Press and hold <left_click> then drag to select all four orphaned Drones. Once selected, use the ""<em>Reassign</em>"" action to assign them to the Drone Hub back in the base.","Націсьніце й трымайце <left_click> пасьля цягніце каб абраць усех чатыры пакінутыя дроны. Пасьля абраньня, выкарыстуйце дзеяньне ""<em>Reassign</em>"" каб прызначыць іх да ЦК дронаў на базе.",
 9098,"Select the RC Transport and use the ""Move/Interact"" command or simply hold <RT> and then press <ButtonA> on the deposit.
 
-Gather 5 Metals to continue.","Select the RC Transport and use the ""Move/Interact"" command or simply hold <RT> and then press <ButtonA> on the deposit.
+Gather 5 Metals to continue.","Абярыце РК Пагрузчык і загадайце ""Рух/Узаемадзеяньне"" ці папросту трымайце <RT> і націсьніце <ButtonA> на адкладзе.
 
-Gather 5 Metals to continue.",
+Зьбярыце 5 мэталаў каб працягнуць.",
 9097,"Select the RC Transport and use the ""Move/Interact"" command or simply <UnitMoveControl()> on the deposit.
 
-Gather 5 Metals to continue.","Select the RC Transport and use the ""Move/Interact"" command or simply <UnitMoveControl()> on the deposit.
+Gather 5 Metals to continue.","Абярыце РК Пагрузчык і загадайце ""Рух/Узаемадзеяньне"" ці папросту <UnitMoveControl()> на адкладзе.
 
-Gather 5 Metals to continue.",
+Зьбярыце 5 мэталаў каб працягнуць.",
 9101,"1. Select the Rover with <ButtonA> and use the ""<em>Create Transport Route</em>"" command.
 2. With the command activated, press <ButtonA> on the Universal Depot as the starting point of the route.
 3. From the popup menu choose to load <em>all resources</em>.
-4. Press <ButtonA> near the marked area above the main base as an end point of the route.","1. Select the Rover with <ButtonA> and use the ""<em>Create Transport Route</em>"" command.
-2. With the command activated, press <ButtonA> on the Universal Depot as the starting point of the route.
-3. From the popup menu choose to load <em>all resources</em>.
-4. Press <ButtonA> near the marked area above the main base as an end point of the route.",
+4. Press <ButtonA> near the marked area above the main base as an end point of the route.","1. Абярыце марсаход праз <ButtonA> і загадайце ""<em>Стварыць транспартны маршрут</em>"".
+2. З актыўным загадам націсьніце <ButtonA> на унівэрсальным сховішчы ў якасьці пачатковага пункту.
+3. У зьявіўшымся меню абярыце загрузку <em>ўсіх  рэсурсаў</em>.
+4. Націсьніце <ButtonA> побач адзначанай тэрыторыі над галоўнай базай як канчатковы пункт маршруту.",
 9100,"1. Select the Rover and use the ""<em>Create Transport Route</em>"" command.
 2. With the command activated, <left_click> the Universal Depot as the starting point of the route.
 3. From the popup menu choose to load <em>all resources</em>.
-4. <left_click> near the marked area above the main base as an end point of the route.","1. Select the Rover and use the ""<em>Create Transport Route</em>"" command.
-2. With the command activated, <left_click> the Universal Depot as the starting point of the route.
-3. From the popup menu choose to load <em>all resources</em>.
-4. <left_click> near the marked area above the main base as an end point of the route.",
+4. <left_click> near the marked area above the main base as an end point of the route.","1. Абярыце марсаход і загадайце ""<em>Стварыць транспартны маршрут</em>"".
+2. З актыўным загадам , <left_click> на унівэрсальным сховішчы ў якасьці пачатковага пункту.
+3. У зьявіўшымся меню абярыце загрузку <em>ўсіх  рэсурсаў</em>.
+4. <left_click> побач адзначанай тэрыторыі над галоўнай базай як канчатковы пункт маршруту.",
 9751,"Now observe how the RC Transport makes its first course along the transport route.
 
-If things take too long, remember to speed up time.","Now observe how the RC Transport makes its first course along the transport route.
+If things take too long, remember to speed up time.","А зараз назірайце як РК Пагрузчык едзе на першы круг транспартнага маршруту.
 
-If things take too long, remember to speed up time.",
+Калі здаецца, што задоўга, павялічце хуткасьць гульні.",
 9104,"Select the <em>RC Commander</em> with <ButtonA> and move it close to the designated area for the expand.
 
-Make sure that the RC Commander Drones can reach the resources you already transported there beforehand.","Select the <em>RC Commander</em> with <ButtonA> and move it close to the designated area for the expand.
+Make sure that the RC Commander Drones can reach the resources you already transported there beforehand.","Абярыце <em>РК Кардынатар</em> праз <ButtonA> і накіруйце яго да пазначанай вобласьці да пашырэньня.
 
-Make sure that the RC Commander Drones can reach the resources you already transported there beforehand.",
+Упэўніцеся, што дроны РК Кардынатару могуць дасягнуць рэсурсы, якія загадзя ўжо туды перавезены.",
 9103,"Select the <em>RC Commander</em> and move it close to the designated area for the expand.
 
-Make sure that the RC Commander Drones can reach the resources you already transported there beforehand.","Select the <em>RC Commander</em> and move it close to the designated area for the expand.
+Make sure that the RC Commander Drones can reach the resources you already transported there beforehand.","Абярыце <em>РК Кардынатар</em> і накіруйце яго да пазначанай вобласьці да пашырэньня.
 
-Make sure that the RC Commander Drones can reach the resources you already transported there beforehand.",
-9106,From the Build Menu <ButtonY> construct a <em>Sensor Tower</em> and a <em>Stirling Generator</em> and make sure that they are connected.,"Праз меню будоўлі <ButtonY>, пабудуйце <em>Вежа-сканэр</em> and a <em>Генератар стырлінгу</em> and make sure that they are connected.",
-9105,Construct a <em>Sensor Tower</em> and a <em>Stirling Generator</em> and make sure that they are connected.,Construct a <em>Вежа-сканэр</em> and a <em>Генератар стырлінгу</em> and make sure that they are connected.,
-9753,The construction may take some time until the RC Transport delivers all the needed resources for the Sensor Tower and Stirling Generator.,The construction may take some time until the RC Transport delivers all the needed resources for the Вежа-сканэр and Генератар стырлінгу.,
+Упэўніцеся, што дроны РК Кардынатару могуць дасягнуць рэсурсы, якія загадзя ўжо туды перавезены.",
+9106,From the Build Menu <ButtonY> construct a <em>Sensor Tower</em> and a <em>Stirling Generator</em> and make sure that they are connected.,"Праз меню будоўлі <ButtonY>, пабудуйце <em>Вежа-сканэр</em> and a <em>Генератар стырлінгу</em>, падлучыце іх.",
+9105,Construct a <em>Sensor Tower</em> and a <em>Stirling Generator</em> and make sure that they are connected.,"Пабудуйце <em>Вежа-сканэр</em> and a <em>Генератар стырлінгу</em>, падлучыце іх.",
+9753,The construction may take some time until the RC Transport delivers all the needed resources for the Sensor Tower and Stirling Generator.,"Будаўніцтва можа патрабаваць час, пакуль РК Пагрузчык даставіць патрабаваныя рэсурсы для Вежы-сканэру й Генератару стырлінгу.",
 5257,Sensor Tower,Вежа-сканэр,
-9108,Zoom out by opening the Command Menu by using <LT> and then selecting <em>Map Overview</em> with <ButtonA>.,Zoom out by opening the Command Menu by using <LT> and then selecting <em>Map Overview</em> with <ButtonA>.,
-9107,Zoom out or use the HUD button to go to the <em>Map Overview</em>.,Zoom out or use the HUD button to go to the <em>Map Overview</em>.,
-9111,Use a <em>Probe</em> to scan a sector. Select a sector by using <LS> and press <ButtonX> on it to scan.,Use a <em>Probe</em> to scan a sector. Select a sector by using <LS> and press <ButtonX> on it to scan.,
-9110,Use a <em>Probe</em> to scan a sector. Mouse over a sector and <left_click> on the probe pin and then <left_click> on a sector to scan it.,Use a <em>Probe</em> to scan a sector. Mouse over a sector and <left_click> on the probe pin and then <left_click> on a sector to scan it.,
-9109,Exploration - Probes,Exploration - Probes,
+9108,Zoom out by opening the Command Menu by using <LT> and then selecting <em>Map Overview</em> with <ButtonA>.,Паменшце масштаб адкрыўшы меню каманд праз <LT> і абраўшы <em>Агляд мапы</em> праз <ButtonA>.,
+9107,Zoom out or use the HUD button to go to the <em>Map Overview</em>.,Паменшце масштаб ці праз інтэрфэйс перайдзіце ў <em>Агляд мапы</em>.,
+9111,Use a <em>Probe</em> to scan a sector. Select a sector by using <LS> and press <ButtonX> on it to scan.,Заскануйце сэктар <em>Зондам</em>. Абярыце сэктар праз <LS> і націсьніце <ButtonX> на ім каб сканаваць.,
+9110,Use a <em>Probe</em> to scan a sector. Mouse over a sector and <left_click> on the probe pin and then <left_click> on a sector to scan it.,"Заскануйце сэктар <em>Зондам</em>. Навядзіце курсор мышы на сэктар і <left_click> на замацаванам зодзе, пасьля <left_click> на сэктар каб сканаваць яго.",
+9109,Exploration - Probes,Выведка – зонды,
 9115,"Press <ButtonY> on a sector to add it to the <em>scanning queue</em>. You can queue up to ten sectors for scanning. <ButtonY> on a queued sector to remove it from the scanning queue.
 
-Scan sector <SectorName> to continue. Remember you can always speed up time.","Press <ButtonY> on a sector to add it to the <em>scanning queue</em>. You can queue up to ten sectors for scanning. <ButtonY> on a queued sector to remove it from the scanning queue.
+Scan sector <SectorName> to continue. Remember you can always speed up time.","Націсьніце <ButtonY> на сэктары каб дадаць у <em>чаргу сканаваньня</em>. Вы можаце дадаць у чаргу дзесяць сэктараў. <ButtonY> па сэктары ў чарзе каб выдаліць яго з яе.
 
-Scan sector <SectorName> to continue. Remember you can always speed up time.",
+Каб працягнуць праскануйце <SectorName>. Памятайце, што заўсёды магчыма паскорыць час.",
 9114,"<left_click> on a sector to add it to the <em>scanning queue</em>. You can queue up to ten sectors for scanning. <right_click> on a queued sector to remove it from the scanning queue.
 
-Scan sector <SectorName> to continue. Remember you can always speed up time.","<left_click> on a sector to add it to the <em>scanning queue</em>. You can queue up to ten sectors for scanning. <right_click> on a queued sector to remove it from the scanning queue.
+Scan sector <SectorName> to continue. Remember you can always speed up time.","<left_click> на сэктары каб дадаць у <em>чаргу сканаваньня</em>.  Вы можаце дадаць у чаргу дзесяць сэктараў. <right_click> па сэктары ў чарзе каб выдаліць яго з яе.
 
-Scan sector <SectorName> to continue. Remember you can always speed up time.",
-9112,Exploration - Scanning Queue,Exploration - Scanning Queue,
-9113,You can also queue sectors for scanning.,You can also queue sectors for scanning.,
+Каб працягнуць праскануйце <SectorName>. Памятайце, што заўсёды магчыма паскорыць час.",
+9112,Exploration - Scanning Queue,Выведка – чарга сканаваньня,
+9113,You can also queue sectors for scanning.,Вы таксама можаце дадаць сэктары ў чаргу сканаваньня.,
 9120,"Select the RC Explorer with <ButtonA>, then hold <RT> and press <ButtonA> on the <em>Anomaly</em> to scan it.
 
-Remember you can move the view to the Anomaly, then can select the RC Explorer from its pin, using <RB> and <ButtonA>.","Select the RC Explorer with <ButtonA>, then hold <RT> and press <ButtonA> on the <em>Anomaly</em> to scan it.
+Remember you can move the view to the Anomaly, then can select the RC Explorer from its pin, using <RB> and <ButtonA>.","Абярыце РК Выведчык праз <ButtonA>, пасьля ўтрымвлівая <RT> націсьніце <ButtonA> на <em>Анамаліі</em> каб сканаваць.
 
-Remember you can move the view to the Anomaly, then can select the RC Explorer from its pin, using <RB> and <ButtonA>.",
+Памятайце, вы можаце перайсьці да анамаліі й выбраць РК Выведчык з замацаваных праз <RB> і <ButtonA>.",
 9119,"Select the RC Explorer, then simply <UnitMoveControl()> on the <em>Anomaly</em> to scan it.
 
-Remember you can move the view to the Anomaly, then can select the RC Explorer from its pin.","Select the RC Explorer, then simply <UnitMoveControl()> on the <em>Anomaly</em> to scan it.
+Remember you can move the view to the Anomaly, then can select the RC Explorer from its pin.","Абярыце РК Выведчык, і <UnitMoveControl()> па <em>Анамаліі</em> каб сканаваць.
 
-Remember you can move the view to the Anomaly, then can select the RC Explorer from its pin.",
-9754,The <em>RC Explorer</em> is on its way to the anomaly. Wait for it to analyze the anomaly to continue.,The <em>RC Explorer</em> is on its way to the anomaly. Wait for it to analyze the anomaly to continue.,
-9752,Good Job!,Good Job!,
-9122,Open the <em>Research screen</em> pressing <LT> and then selecting Research.,Open the <em>Research screen</em> pressing <LT> and then selecting Research.,
-9121,Open the <em>Research screen</em> using the HUD button.,Open the <em>Research screen</em> using the HUD button.,
+Памятайце, вы можаце перайсьці да анамаліі й выбраць РК Выведчык з замацаваных.",
+9754,The <em>RC Explorer</em> is on its way to the anomaly. Wait for it to analyze the anomaly to continue.,<em>РК Выведчык</em> на шляху да анамаліі. Пачакайце на яе аналіз каб працягнуць.,
+9752,Good Job!,Добра праца!,
+9122,Open the <em>Research screen</em> pressing <LT> and then selecting Research.,Адкрыйце <em>Экран дасьледваньняў</em> націснуўшы <LT> і абраўшы дасьледваньні.,
+9121,Open the <em>Research screen</em> using the HUD button.,Адкрыйце <em>Экран дасьледваньняў</em> праз кнопку інтэрфэйсу.,
 9124,"Queue a tech  for research by using <ButtonA> to continue.
 
-Using <RT> and <ButtonA> on a tech will always queue it on top of the research list.","Queue a tech  for research by using <ButtonA> to continue.
+Using <RT> and <ButtonA> on a tech will always queue it on top of the research list.","Дадаць тэнолёгію ў чаргу праз <ButtonA> каб працягнуць.
 
-Using <RT> and <ButtonA> on a tech will always queue it on top of the research list.",
-9123,Queue any tech for research to continue.,Queue any tech for research to continue.,
+Праз <RT> і <ButtonA> па тэхнолёгіі дадаст яе ў пачатак чаргі дасьледваньняў.",
+9123,Queue any tech for research to continue.,Дадайце любую тэнолёгію ў чаргу каб працягнуць.,
 9127,"Select the Concrete Extractor, then select and press the <em>Salvage</em> button in its Info Panel with <ButtonY>.
 
 Use <RT> to focus the Info Panel.
 
-This will return some building materials we can use later.","Select the Concrete Extractor, then select and press the <em>Salvage</em> button in its Info Panel with <ButtonY>.
+This will return some building materials we can use later.","Абярыце экстрактар бэтону, пасьля  абярыце й націсьніце кнопку <em>Разабраць</em> на інфапанэлі праз <ButtonY>.
 
-Use <RT> to focus the Info Panel.
+Праз <RT> засяродзьцесь на інфапанэлі.
 
-This will return some building materials we can use later.",
+Гэта верне некалькі рэсурсаў якія мы можам выкарыстаць пазьней.",
 9126,"Select the Concrete Extractor and press the <em>Salvage</em> button in its Info Panel.
 
-This will return some building materials we can use later.","Select the Concrete Extractor and press the <em>Salvage</em> button in its Info Panel.
+This will return some building materials we can use later.","Абярыце экстрактар бэтону й націсьніце кнопку <em>Разабраць</em> на інфапанэлі.
 
-This will return some building materials we can use later.",
-9125,Salvaging The Concrete Extractor,Salvaging The Concrete Extractor,
+Гэта верне некалькі рэсурсаў якія мы можам выкарыстаць пазьней.",
+9125,Salvaging The Concrete Extractor,Разборка экстрактара бэтону,
 9130,"Construct a <em>Solar Panel</em> to power the Drone Hub.
 
-From the Build Menu <ButtonY> construct the Solar Panel next to existing Cables to connect it to the same Power network as the Drone Hub.","Construct a <em>Solar Panel</em> to power the Drone Hub.
+From the Build Menu <ButtonY> construct the Solar Panel next to existing Cables to connect it to the same Power network as the Drone Hub.","Збудуйце <em>Сонечную панэль</em> каб засілкаваць ЦК Дронаў.
 
-From the Build Menu <ButtonY> construct the Solar Panel next to existing Cables to connect it to the same Power network as the Drone Hub.",
+Праз меню будоўлі <ButtonY> збудуйце сонечную панэль каля існуючых кабэляў да падлучэньня энэргасеткі з ЦК Дронаў.",
 9129,"Construct a <em>Solar Panel</em> to power the Drone Hub.
 
-Place the Solar Panel next to existing Cables to connect it to the same Power network as the Drone Hub.","Construct a <em>Solar Panel</em> to power the Drone Hub.
+Place the Solar Panel next to existing Cables to connect it to the same Power network as the Drone Hub.","Збудуйце <em>Сонечную панэль</em> каб засілкаваць ЦК Дронаў.
 
-Place the Solar Panel next to existing Cables to connect it to the same Power network as the Drone Hub.",
-9128,Power the Drone Hub,Power the Drone Hub,
+Усталюйце сонечную панэль каля існуючых кабэляў да падлучэньня энэргасеткі з ЦК Дронаў.",
+9128,Power the Drone Hub,Сілкаваньне ЦК Дронаў,
 9133,"Select the Drone Hub and set it to <em>High Priority</em>.
 
-To un-select a building use <ButtonB>.","Select the Drone Hub and set it to <em>High Priority</em>.
+To un-select a building use <ButtonB>.","Абярыце ЦК Дронаў і ўсталюйце <em>Высокі прыярытэт</em>.
 
-To un-select a building use <ButtonB>.",
-9132,Select the Drone Hub and set it to <em>High Priority</em>.,Select the Drone Hub and set it to <em>High Priority</em>.,
-9136,From the Build Menu <ButtonY> build a <em>Wind Turbine</em> and connect it to the existing Power network.,From the Build Menu <ButtonY> build a <em>Wind Turbine</em> and connect it to the existing Power network.,
-9135,Build a <em>Wind Turbine</em> and connect it to the existing Power network.,Build a <em>Wind Turbine</em> and connect it to the existing Power network.,
-9134,Build a Wind Turbine,Build a Wind Turbine,
+Праз <ButtonB> закрыйце будынак.",
+9132,Select the Drone Hub and set it to <em>High Priority</em>.,Абярыце ЦК Дронаў і ўсталюйце <em>Высокі прыярытэт</em>..,
+9136,From the Build Menu <ButtonY> build a <em>Wind Turbine</em> and connect it to the existing Power network.,Праз меню будоўлі <ButtonY> збудуйце <em>Ветравую турбіну</em> і падлучыце яе да існуючай энэргасеткі.,
+9135,Build a <em>Wind Turbine</em> and connect it to the existing Power network.,Збудуйце <em>Ветравую турбіну</em> і падлучыце яе да існуючай энэргасеткі.,
+9134,Build a Wind Turbine,Зубуйце ветравую турбіну,
 9139,"Select the Moisture Vaporator and Fuel Refinery and disable their <em>Night Shifts</em>, so that they won't consume Power during the night.
 
-To un-select a building use <ButtonB>.","Select the Moisture Vaporator and Завод паліва and disable their <em>Night Shifts</em>, so that they won't consume Power during the night.
+To un-select a building use <ButtonB>.","Абярыце выпарнік вільгаці й завод паліву й выключыце ў іх <em>Начную зьмену</em>, так яны ня будуць спажываць энэргію ноччу.
 
-To un-select a building use <ButtonB>.",
-9138,"Select the Moisture Vaporator and Fuel Refinery and disable their <em>Night Shifts</em>, so that they won't consume Power during the night.","Select the Moisture Vaporator and Завод паліва and disable their <em>Night Shifts</em>, so that they won't consume Power during the night.",
-9140,Select the Large Solar Panel to view information about its <em>maintenance</em> and <em>breakdown</em>.,Select the Вялікая сонечная панэль to view information about its <em>maintenance</em> and <em>breakdown</em>.,
+Праз <ButtonB> закрыйце будынкі.",
+9138,"Select the Moisture Vaporator and Fuel Refinery and disable their <em>Night Shifts</em>, so that they won't consume Power during the night.","Абярыце выпарнік вільгаці й завод паліву й выключыце ў іх <em>Начную зьмену</em>, так яны ня будуць спажываць энэргію ноччу.",
+9140,Select the Large Solar Panel to view information about its <em>maintenance</em> and <em>breakdown</em>.,Абярыце вялікая сонечная панэль да прагляну інфармацыі наконт <em>абслугоўваньня</em> і <em>паломак</em>.,
 9142,"Select the RC Transport and then hold <RT> and press <ButtonA> on any surface metals deposit to order the vehicle to mine it.
 
 Gather at least 20 Metals with the RC Transport and deliver them to the Metals Depot in the base.
 
-This will take a while, so you may want to speed up time.","Select the RC Transport and then hold <RT> and press <ButtonA> on any surface metals deposit to order the vehicle to mine it.
+This will take a while, so you may want to speed up time.","Абярыце РК Пагрузчык і ўтрымлівая <RT> націсьніце <ButtonA> на любым адкладзе мэталаў каб загадаць яго збор.
 
-Gather at least 20 Metals with the RC Transport and deliver them to the Metals Depot in the base.
+Зьбярыце прынамсі 20 мэталаў РК Пагрузчыкам і адвязіце іх да схова мэталаў на базе.
 
-This will take a while, so you may want to speed up time.",
+Гэта займе час, вы можаце паскорыць хуткасьць гульні.",
 9141,"Select the RC Transport and then <right_click> on any surface metals deposit to order the vehicle to mine it.
 
 Gather at least 20 Metals with the RC Transport and deliver them to the Metals Depot in the base.
 
-This will take a while, so you may want to speed up time.","Select the RC Transport and then <right_click> on any surface metals deposit to order the vehicle to mine it.
+This will take a while, so you may want to speed up time.","Абярыце РК Пагрузчык і <right_click> на любым адкладзе мэталаў каб загадаць яго збор.
 
-Gather at least 20 Metals with the RC Transport and deliver them to the Metals Depot in the base.
+Зьбярыце прынамсі 20 мэталаў РК Пагрузчыкам і адвязіце іх да схова мэталаў на базе.
 
-This will take a while, so you may want to speed up time.",
-9144,Open the <em>Resupply screen</em> from the command menu by pressing <LT> and then order a Cargo Rocket.,Open the <em>Resupply screen</em> from the command menu by pressing <LT> and then order a Cargo Rocket.,
-9143,"Open the <em>Resupply screen</em> by clicking on the icon in the HUD, then order a Cargo Rocket.","Open the <em>Resupply screen</em> by clicking on the icon in the HUD, then order a Cargo Rocket.",
-9146,"Order <em>20 Polymers, Machine Parts and Electronics</em>, then launch the Rocket with the Launch button.","Order <em>20 Polymers, Machine Parts and Electronics</em>, then launch the Rocket with the Launch button.",
+Гэта займе час, вы можаце паскорыць хуткасьць гульні.",
+9144,Open the <em>Resupply screen</em> from the command menu by pressing <LT> and then order a Cargo Rocket.,Адкрыйце <em>Акно забесьпячэньня</em> з меню каманд праз <LT> і замоўце грузавую ракету.,
+9143,"Open the <em>Resupply screen</em> by clicking on the icon in the HUD, then order a Cargo Rocket.","Адкрыйце <em>Акно забесьпячэньня</em> праз ціск іконкі інтэрфэсу, пасьля  замоўце грузавую ракету.",
+9146,"Order <em>20 Polymers, Machine Parts and Electronics</em>, then launch the Rocket with the Launch button.","Замоўце <em>20 палімераў, частак машын і элэктронікі</em>, пасьля запусьціце ракету праз кнопку запуску.",
 9145,Order Advanced Resources,Замова перадавых рэсурсаў,
 9149,"Select the ruins of the Concrete Extractor and use the ""<em>Clear</em>"" action to send a Drone to remove the ruins.
 
-Use <RT> to focus the Info Panel.","Select the ruins of the Concrete Extractor and use the ""<em>Clear</em>"" action to send a Drone to remove the ruins.
+Use <RT> to focus the Info Panel.","Абярыце руіны экстрактара бэтону і праз ""<em>Зруйнаваць</em>"" адпраўце дронаў каб убраць руіны.
 
-Use <RT> to focus the Info Panel.",
-9148,"Select the ruins of the Concrete Extractor and use the ""<em>Clear</em>"" action to send a Drone to remove the ruins.","Select the ruins of the Concrete Extractor and use the ""<em>Clear</em>"" action to send a Drone to remove the ruins.",
+Праз <RT> засяродзьцесь на інфапанэлі.",
+9148,"Select the ruins of the Concrete Extractor and use the ""<em>Clear</em>"" action to send a Drone to remove the ruins.","Абярыце руіны экстрактара бэтону і праз ""<em>Зруйнаваць</em>"" адпраўце дронаў каб убраць руіны.",
 9152,"Open the Build Menu and select the <em>Salvage Tool</em> from the Infrastructure category.
 
 With the Salvage tool active press <ButtonA> on the Cables close to the site of the salvaged Concrete Extractor to delete them.
 
-Use <ButtonB> to cancel Salvage Tool mode.","Адкрыйце меню будоўлі й абярыце <em>Разабарць</em> з катэгорыі <em>Інфраструктура</em>.
+Use <ButtonB> to cancel Salvage Tool mode.","Праз меню будоўлі абярыце <em>Разабарць</em> з катэгорыі <em>Інфраструктура</em>.
 
 З актыўным інструментам <em>разаборкі</em> націсьніце <ButtonA> на Кабелі побач зь мейсцам разобранага <em>Экстрактару Бэтона</em>, каб выдаліць іх.
 
@@ -3279,63 +3279,63 @@ Use <ButtonB> to cancel Salvage Tool mode.","Адкрыйце меню будо�
 
 With the Salvage tool active <left_click> on the Cables close to the site of the salvaged Concrete Extractor to delete them.
 
-Use <right_click> to cancel Salvage Tool mode.","Адкрыйце меню будоўлі й абярыце <em>Разабарць</em> з катэгорыі <em>Інфраструктура</em>.
+Use <right_click> to cancel Salvage Tool mode.","Праз меню будоўлі абярыце <em>Разабарць</em> з катэгорыі <em>Інфраструктура</em>.
 
 З актыўным інструментам <em>разаборкі</em> <left_click> на Кабелі побач зь мейсцам разобранага <em>Экстрактару Бэтона</em>, каб выдаліць іх.
 
 Націсьніце <right_click> каб адмяніць рэжым <em>разаборкі</em>.",
-9150,The Salvage Tool,The Salvage Tool,
+9150,The Salvage Tool,Інструмент разборкі,
 9155,"Wait for the arrival of the Rocket, then land it near the base.
 
-Remember you can speed up time via <ShortcutName('actionSpeedUp')>.","Wait for the arrival of the Rocket, then land it near the base.
+Remember you can speed up time via <ShortcutName('actionSpeedUp')>.","Пачакайце на прыбыцьцё ракеты, пасьля пасадзіце яе побач з базай.
 
-Remember you can speed up time via <ShortcutName('actionSpeedUp')>.",
+Памятайце, што можаце паскорыць час праз <ShortcutName('actionSpeedUp')>.",
 9154,"Wait for the arrival of the Rocket, then land it near the base.
 
-Remember you can speed up time via the HUD buttons at the bottom left of the screen.","Wait for the arrival of the Rocket, then land it near the base.
+Remember you can speed up time via the HUD buttons at the bottom left of the screen.","Пачакайце на прыбыцьцё ракеты, пасьля пасадзіце яе побач з базай.
 
-Remember you can speed up time via the HUD buttons at the bottom left of the screen.",
-9153,Awaiting Rocket,Awaiting Rocket,
-9157,Use the Build Menu <ButtonY> to place a <em>Power Accumulator</em> and connect it to the existing Power grid.,Use the Build Menu <ButtonY> to place a <em>Power Accumulator</em> and connect it to the existing Power grid.,
-9156,Use the Build Menu to place a <em>Power Accumulator</em> and connect it to the existing Power grid.,Use the Build Menu to place a <em>Power Accumulator</em> and connect it to the existing Power grid.,
+Памятайце, што можаце паскорыць час праз кнопкі інтэрфэйсу ў левым ніжнім баку экрану.",
+9153,Awaiting Rocket,Чаканьне ракеты,
+9157,Use the Build Menu <ButtonY> to place a <em>Power Accumulator</em> and connect it to the existing Power grid.,Праз меню будоўлі <ButtonY> усталюйце <em>Акумулятар энэргіі</em> і падлучыце яго да існуючай энэргасеткі.,
+9156,Use the Build Menu to place a <em>Power Accumulator</em> and connect it to the existing Power grid.,Праз меню будоўлі ўсталюйце <em>Акумулятар энэргіі</em> і падлучыце яго да існуючай энэргасеткі.,
 3529,Water Extractor,Экстрактар вады,
-9158,"Use the Build menu to construct a Water Extractor near the Water deposit, then Power it up.","Use the Build menu to construct a Water Extractor near the Water deposit, then Power it up.",
+9158,"Use the Build menu to construct a Water Extractor near the Water deposit, then Power it up.","Праз меню будоўлі збудуйце экстрактар вады каля радовішча вады, пасьля засілкуйце яго.",
 9160,"From the Build Menu <ButtonY> construct a <em>Water Tower</em> and connect it with Pipes to the Water Extractor.
 
-Remember, Pipes have to be connected to specific spots next to the buildings you want to connect.","Праз меню будоўлі <ButtonY>, пабудуйце <em>Water Tower</em> and connect it with Pipes to the Water Extractor.
+Remember, Pipes have to be connected to specific spots next to the buildings you want to connect.","Праз меню будоўлі <ButtonY>, пабудуйце <em>Воданапорнаю вежу</em> і падлучыце яе да экстрактару вады трубамі.
 
-Remember, Pipes have to be connected to specific spots next to the buildings you want to connect.",
+Памятайце, трубы падлучаюцца праз пэўныя крапінкі побач з будынкам.",
 9159,"Construct a <em>Water Tower</em> and connect it with Pipes to the Water Extractor.
 
-Remember, Pipes have to be connected to specific spots next to the buildings you want to connect.","Construct a <em>Water Tower</em> and connect it with Pipes to the Water Extractor.
+Remember, Pipes have to be connected to specific spots next to the buildings you want to connect.","Пабудуйце <em>Воданапорнаю вежу</em> і падлучыце яе да экстрактару вады трубамі.
 
-Remember, Pipes have to be connected to specific spots next to the buildings you want to connect.",
+Памятайце, трубы падлучаюцца праз пэўныя крапінкі побач з будынкам.",
 9161,"Use the Build Menu to construct a <em>Basic Dome</em>.
 
-If you need additional Resources use RC Transport to gather Metals or order a supply Rocket from the <em>Resupply screen</em> to bring in Advanced resources from Earth.","Use the Build Menu to construct a <em>Basic Dome</em>.
+If you need additional Resources use RC Transport to gather Metals or order a supply Rocket from the <em>Resupply screen</em> to bring in Advanced resources from Earth.","Праз меню будоўлі збудуйце <em>Малы купал</em>.
 
-If you need additional Resources use RC Transport to gather Metals or order a supply Rocket from the <em>Resupply screen</em> to bring in Advanced resources from Earth.",
+Калі ёсьць патрэба ў дадтковых рэсурсаў, загадайце РК Пагрузчыку сабраць мэталы або замоўце ракету праз <em>Акно забесьпячэньня</em> каб прывезьці перадавыя рэсурсы зь Зямлі.",
 9164,"Connect the newly constructed Dome to the existing Water and Power grids.
 
 From the Build Menu <ButtonY> construct a <em>MOXIE</em>, power it and connect it to the Dome to provide air supply.
 
-Remember, Water and Oxygen are transfered via pipes which have to be connected to specific spots next to buildings.","Connect the newly constructed Dome to the existing Water and Power grids.
+Remember, Water and Oxygen are transfered via pipes which have to be connected to specific spots next to buildings.","Падлучыце пабудаваны купал з сеткамі энэргіі й вады.
 
-Праз меню будоўлі <ButtonY>, пабудуйце <em>МЭРТ</em>, power it and connect it to the Dome to provide air supply.
+Праз меню будоўлі <ButtonY>, пабудуйце <em>МЭРТ</em>, засілкуйце яго і падлучыце трубамі да купала каб забясьпечыць тлён.
 
-Remember, Water and Oxygen are transfered via pipes which have to be connected to specific spots next to buildings.",
+Памятайце, вада й тлён забясьпечваюцца праз трубы які далучаюцца да пэўных крапінак побач з будынкам.",
 9163,"Connect the newly constructed Dome to the existing Water and Power grids.
 
 Construct a <em>MOXIE</em>, power it and connect it to the Dome to provide air supply.
 
-Remember, Water and Oxygen are transfered via pipes which have to be connected to specific spots next to buildings.","Connect the newly constructed Dome to the existing Water and Power grids.
+Remember, Water and Oxygen are transfered via pipes which have to be connected to specific spots next to buildings.","Падлучыце пабудаваны купал з сеткамі энэргіі й вады.
 
-Construct a <em>МЭРТ</em>, power it and connect it to the Dome to provide air supply.
+Пабудуйце <em>МЭРТ</em>, засілкуйце яго і падлучыце трубамі да купала каб забясьпечыць тлён.
 
-Remember, Water and Oxygen are transfered via pipes which have to be connected to specific spots next to buildings.",
-9162,"Domes - Water, Power & Air","Domes - Water, Power & Air",
-9166,From the Build Menu <ButtonY> construct a <em>Living Complex</em> at the indicated location. ,"Праз меню будоўлі <ButtonY>, пабудуйце <em>Living Complex</em> at the indicated location. ",
-9165,Construct a <em>Living Complex</em> at the indicated location. ,Construct a <em>Living Complex</em> at the indicated location. ,
+Памятайце, вада й тлён забясьпечваюцца праз трубы які далучаюцца да пэўных крапінак побач з будынкам.",
+9162,"Domes - Water, Power & Air","Купал – вада, энэргія, тлён",
+9166,From the Build Menu <ButtonY> construct a <em>Living Complex</em> at the indicated location. ,"Праз меню будоўлі <ButtonY>, пабудуйце <em>Жылы комплэкс</em> ў пазначаным мейсцы. ",
+9165,Construct a <em>Living Complex</em> at the indicated location. ,Пабудуйце <em>Жылы комплэкс</em> ў пазначаным мейсцы. ,
 9168,Open the <em>Resupply screen</em> by calling the Command Menu <LT> and order a Passenger Rocket.,Open the <em>Resupply screen</em> by calling the Command Menu <LT> and order a Passenger Rocket.,
 9167,Open the <em>Resupply screen</em> and order a Passenger Rocket.,Open the <em>Resupply screen</em> and order a Passenger Rocket.,
 5554,Resupply Screen,Resupply Screen,
@@ -3377,7 +3377,7 @@ When you are ready use the ""Launch"" option to send the first colonists on thei
 
 Focus the Info Panel with <RT> first.","Актывуйце <em>Другую зьмену</em> у Дасьледчай лабараторыі.
 
-Паперш зфакусуйце інфапанэль праз <RT>.",
+Паперш сфакусуйце інфапанэль праз <RT>.",
 9182,Activate the <em>Second Shift</em> for the Research Lab.,Актывуйце <em>Другую зьмену</em> у Дасьледчай лабараторыі.,
 9185,"Set the priority of the Research Lab to <em>High</em>.
 
@@ -3406,7 +3406,7 @@ With the Research Lab selected, hold <RT> and press <ButtonA>.","Усталюй�
 
 Use <RT> to focus the Dome's Info Panel.","Абярыце любы купал і адкрыйце ""<em>Фільтраваць па Traits</em>"".
 
-Праз <RT> зфакусуйцесь на інфапанэлі купала.",
+Праз <RT> сфакусуйцесь на інфапанэлі купала.",
 9201,"Select any Dome and open the ""<em>Filter by Traits</em>"" screen.","Абярыце любы купал і адкрыйце ""<em>Фільтраваць па рысам</em>"".",
 9200,Filter UI,Інтэрфэйс фільтру,
 9204,"Set <em>Scientists</em> as desired in the research Dome, and <em>Geologists</em> as undesired.","Усталюйце <em>Навукоўцаў</em> як жаданых у купале навукі, а <em>Геолагаў</em> як нежаданых.",
@@ -3640,7 +3640,7 @@ Use <RT> to focus the Dome's Info Panel.","Абярыце любы купал і
 449474184601,High-speed Comm Satellite,Высакахуткасны спадарожнік сувязі,
 221516902916,Grants Funding. Multiple uses of this project will yield diminishing returns.,Дае фінансаваньне. Шматразовае выкарыстаньне гэтага праекта прывядзе да зьмяншэньня аддачы.,
 239893453674,Launch SETI Satellite,Запуск SETI cпадарожніка,
-660953468688,Generates Funding by doing on-site research for third-party contractors.,Дае фінансаваньне шляхам правядзеньня дасьледаваньняў на мейсцы для іншых падрадчыкаў.,
+660953468688,Generates Funding by doing on-site research for third-party contractors.,Дае фінансаваньне за правядзеньня дасьледаваньняў для іншых падрадчыкаў.,
 857386809253,Contract Exploration Access,Кантрактны доступ да выведкі,
 7072,None,Брак,
 7071,None,Брак,
@@ -3650,22 +3650,22 @@ Use <RT> to focus the Dome's Info Panel.","Абярыце любы купал і
 7312,B&W 2,ЧБ 2,
 7315,Black and White 3,Чорны й белы 3,
 7314,B&W 3,ЧБ 3,
-7316,Bleach Bypass,Bleach Bypass,
-725335706535,A vivid effect,A vivid effect,
-206642846467,Orton,Orton,
-204340117651,Cover Art-style,Cover Art-style,
-276606203553,Cover Art,Cover Art,
-384248854877,Highly abnormal weather patterns in this area prove there is still a lot we don’t know about Mars. Investigating the site could bring on a breakthrough. ,Highly abnormal weather patterns in this area prove there is still a lot we don’t know about Mars. Investigating the site could bring on a breakthrough. ,
-624494228390,"Observing the anomalous area brings the promise of either groundbreaking research, or the serious need to fix our observation instruments.","Observing the anomalous area brings the promise of either groundbreaking research, or the serious need to fix our observation instruments.",
-831247705295,This place is just weird. There is obviously something very wrong about our understanding of the planet and this particular area doesn’t give a damn.,This place is just weird. There is obviously something very wrong about our understanding of the planet and this particular area doesn’t give a damn.,
-212092328795,A mysterious signal caught from this area is speculated to come from the remnants of a lost and secretive science mission.,A mysterious signal caught from this area is speculated to come from the remnants of a lost and secretive science mission.,
-734867543182,This area registered off-the-charts readings for a while now. This prompts an expedition. ,This area registered off-the-charts readings for a while now. This prompts an expedition. ,
-104297822506,One-off strange readings usually don't merit much attention. This one is too weird to be a sensor glitch.,One-off strange readings usually don't merit much attention. This one is too weird to be a sensor glitch.,
-912284866362,"Multiple strange signals, detected over time, can all be traced to this area. It is now nicknamed ""The Zone"".","Multiple strange signals, detected over time, can all be traced to this area. It is now nicknamed ""The Zone"".",
-833131803329,Something interesting seems to be going on here. On Mars many interesting things can get you killed.,"Здаецца, тут адбываецца нешта цікавае. На Марсе шмат чаго цікавага можна забіць.",
-979258072581,We have visuals of a large crater. Thе meteorite that formed it was composed of metallic iron-nickel material. Someone suggested that we use some of it to forge a sword and name it.,We have visuals of a large crater. Thе meteorite that formed it was composed of metallic iron-nickel material. Someone suggested that we use some of it to forge a sword and name it.,
-737401821822,Satellites have located an iron-rich region where pieces of hematite and other useful minerals can just be picked from the ground! One only needs robot patience to do that.,Satellites have located an iron-rich region where pieces of hematite and other useful minerals can just be picked from the ground! One only needs robot patience to do that.,
-579851363047,We have discovered an open vein of hematite ore. It seems we can send an expedition to mine it even without heavy equipment.,We have discovered an open vein of hematite ore. It seems we can send an expedition to mine it even without heavy equipment.,
+7316,Bleach Bypass,Срэбная рэшта,
+725335706535,A vivid effect,Яркі эфэкт,
+206642846467,Orton,Ортан,
+204340117651,Cover Art-style,Стыль вокладкі,
+276606203553,Cover Art,Вокладка,
+384248854877,Highly abnormal weather patterns in this area prove there is still a lot we don’t know about Mars. Investigating the site could bring on a breakthrough. ,Вельмі надзвычайнае надвор'е ў гэтай вобласьці даказвае наколькі нашы веды пра Марс малы. Дасьледаваньне гэтага мейсца можа прынесьці прарыў.,
+624494228390,"Observing the anomalous area brings the promise of either groundbreaking research, or the serious need to fix our observation instruments.","Назіраньне за мейсцам можа прывесьці нас да прарыву, ці паказаць неабходнасьць рамонту нашых прыбораў.",
+831247705295,This place is just weird. There is obviously something very wrong about our understanding of the planet and this particular area doesn’t give a damn.,"Гэтае мейсца вельмі дзіўнае. Выяўна наша разуменьне планеты памылкова, а гэта вобласьць асабліва мае жадных падказак.",
+212092328795,A mysterious signal caught from this area is speculated to come from the remnants of a lost and secretive science mission.,"Мяркуецца, што таямнічы сігнал, атрыманы адсюль, паходзіць ад рэшткаў страчанай сакрэтнай навуковай місіі.",
+734867543182,This area registered off-the-charts readings for a while now. This prompts an expedition. ,На працягу часу ў тут замечаны анамальныя паказаньні. Прапануецца зрабіць экспедыцыю.,
+104297822506,One-off strange readings usually don't merit much attention. This one is too weird to be a sensor glitch.,Аднаразовыя дзіўныя дадзеныя звычайна ня варты ўвагі. Але гэтыя занадта дзіўны для збою датчыкаў,
+912284866362,"Multiple strange signals, detected over time, can all be traced to this area. It is now nicknamed ""The Zone"".","Дзіўныя сігналы, выяўленых з часам, усе ідуць з гэтай вобласьці. Цяпер яна клічацца «Зона».",
+833131803329,Something interesting seems to be going on here. On Mars many interesting things can get you killed.,Відавочна тут адбываецца нешта цікавае. На Марсе шмат чаго цікавага можа забіць.,
+979258072581,We have visuals of a large crater. Thе meteorite that formed it was composed of metallic iron-nickel material. Someone suggested that we use some of it to forge a sword and name it.,"Заўважаны вялікі кратэр. Мэтэарыт, які яго ўтварыў, складаўся з мэталічнага жалеза-нікелевага матэрыялу. Хтосьці прапанаваў выкаваць з яго меч і даць яму назву.",
+737401821822,Satellites have located an iron-rich region where pieces of hematite and other useful minerals can just be picked from the ground! One only needs robot patience to do that.,"Спадарожнікі выявілі рэгіён, багаты жалезам, дзе гэматыт і іншымі карысныя мінэралы можна проста падабіраць! Для гэтага патрэбна толькі цярплівасьць робату.",
+579851363047,We have discovered an open vein of hematite ore. It seems we can send an expedition to mine it even without heavy equipment.,"Мы знайшли адкрытую жылу гэматытавай руды. Здаецца, мы можам адправіць экспедыцыю для здабычы і нават без цяжкай тэхнікі.",
 385321892969,"Satellite observations discovered a region of dark sand dunes containing chromite, magnetite and ilmenite. We just need to send an expedition to scoop them up.","Satellite observations discovered a region of dark sand dunes containing chromite, magnetite and ilmenite. We just need to send an expedition to scoop them up.",
 139405223145,Readings suggest that this small black bump could actually be an obsidian-rich mountain. ,Readings suggest that this small black bump could actually be an obsidian-rich mountain. ,
 813401072465,A recent dust storm revealed the crash site of what is believed to be a polymer shipment gone missing a while back. ,A recent dust storm revealed the crash site of what is believed to be a polymer shipment gone missing a while back. ,
@@ -3680,15 +3680,15 @@ Use <RT> to focus the Dome's Info Panel.","Абярыце любы купал і
 725517301661,A regular satellite sweep located an easily exploitable deposit of rare metals. ,"Рэгулярная сканаваньне выявіла радовішча рэдкіх мэталаў, якое лёгка здабыць.",
 104319946091,We have located a quite unusual meteorite crater. It seems that the meteorite which created it was composed mainly of precious metals!,We have located a quite unusual meteorite crater. It seems that the meteorite which created it was composed mainly of precious metals!,
 12374,Spectrographic analyses revealed a ground cavity which seems to contain a huge deposit of precious metals. We can send an RC Commander to enter it and gather the treasure. Mission Control insisted that we name the rover “Siegfried”.,Spectrographic analyses revealed a ground cavity which seems to contain a huge deposit of precious metals. We can send an RC Commander to enter it and gather the treasure. Mission Control insisted that we name the rover “Siegfried”.,
-596190605680,An unidentified robotic rover roams the sands in this area. Reaching it could secure us precious knowledge. ,An unidentified robotic rover roams the sands in this area. Reaching it could secure us precious knowledge. ,
-240828340836,Previous observations tell of a rainbow having being sighted at this spot – most probably from crystalizing water vapors. Scientists are quite vocal of the interest the area represents.,Previous observations tell of a rainbow having being sighted at this spot – most probably from crystalizing water vapors. Scientists are quite vocal of the interest the area represents.,
-838917676572,Geological murmurs heard by our most sensitive equipment pinpoint an area of immense scientific interest. ,Geological murmurs heard by our most sensitive equipment pinpoint an area of immense scientific interest. ,
-502339513171,This location is believed to be the site of a secretive military experiment from decades ago. Rummaging through the sands here could yield some technological insights.,This location is believed to be the site of a secretive military experiment from decades ago. Rummaging through the sands here could yield some technological insights.,
+596190605680,An unidentified robotic rover roams the sands in this area. Reaching it could secure us precious knowledge. ,"Непазнаны марсаход блукае па пясках у гэтай мясцовасьці. Ёсьць магчымасьць атрымаць каштоўныя веды, калі захапіць яго.",
+240828340836,Previous observations tell of a rainbow having being sighted at this spot – most probably from crystalizing water vapors. Scientists are quite vocal of the interest the area represents.,"Папярэднія назіраньні сьведчаць, што ў гэтым мейсцы была заўважана вясёлка. Хутчэй за ўсё з-за крышталізаванай вадзяной пары. Навукоўцы даволі гучна выказваюцца аб цікавасьці гэтай тэрыторыі.",
+838917676572,Geological murmurs heard by our most sensitive equipment pinpoint an area of immense scientific interest. ,Наша самае чулае абсталяваньне вызначае геалагічыня шумы велізарнай навуковай цікаваьсці ў гэтай вобласьці.,
+502339513171,This location is believed to be the site of a secretive military experiment from decades ago. Rummaging through the sands here could yield some technological insights.,"Як лічыцца на гэтым мейсцы адбываўся сакрэтны ваенны экспэрымент дзесяцігоддзі таму. Ператрус пяскоў тут, можа даць некаторыя тэхнолёгічныя ідэі.",
 676455960275,"Through the devotion and self-sacrifice of our Colonists and your vision and leadership, Commander, the dream has come true. 
-Thanks to you, humanity has a new future, a new path to follow.","Through the devotion and self-sacrifice of our Colonists and your vision and leadership, Commander, the dream has come true. 
-Thanks to you, humanity has a new future, a new path to follow.",
-569680890599,A dream fulfilled,A dream fulfilled,
-554780175922,"In the beginning, it was just a dream - setting foot on another planet, surviving it, building a new future for humanity.","In the beginning, it was just a dream - setting foot on another planet, surviving it, building a new future for humanity.",
+Thanks to you, humanity has a new future, a new path to follow.","Праз адданасьць й самаахвярнасьць нашых каляністаў, а таксама вашаму бачаньню й кіраўніцтву, камандзір, мара ператварылася. 
+Дзякуючы вам, чалавецтва мае новую будучыню, новы шлях. ",
+569680890599,A dream fulfilled,Ператвор мары,
+554780175922,"In the beginning, it was just a dream - setting foot on another planet, surviving it, building a new future for humanity.","Першпачаткова гэта была проста мара – быць на іншай плянеце, трываць, будаваць прышласьць чалавецтву.",
 5685,Open Research Screen,Адчыніць экран дасьледаваньняў,
 5684,"Even the tiniest, simple-looking rock can contain the answers to mysteries which perplexed the human mind for generations. Sometimes it takes just a simple discovery to assure us of the vastness of the Universe, an encouragement to make us look beyond the boundaries of our existence and into the future.
 
@@ -12523,7 +12523,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 323241532868,"In this tutorial you will learn how to navigate Mars, how to land a rocket, manage Drones and construct buildings on Mars.","У гэтым уроку вы даведаецеся, як арыентавацца на Марсе, як саджаць ракету, кіраваць <em>Дронамі</em> й будаваць будынкі на Марсе.",
 263872574930,The Basics,Асновы,
 591539994508,THE BASICS,АСНОВЫ,
-826036921279,In this tutorial you will learn how to control and use rovers as well as the basics of Exploration and Research.,У гэтым уроку вы даведаецеся,
+826036921279,In this tutorial you will learn how to control and use rovers as well as the basics of Exploration and Research.,"У гэтым уроку вы даведаецеся, як кіраваць і выкарыстоўваць марсаходы, а таксама базу разведкі й дасьледаваньняў.",
 356391233163,"Rovers, Exploration & Research","Марсаходы, Выведка й дасьледаваньні",
 697231070742,EXPLORATION,ВЫВЕДКА,
 687937633359,"In this tutorial you will learn how to setup Power, Water and Oxygen systems. You will also learn about building maintenance and how to prepare your first dome for human colonists.","У гэтым уроку вы даведаецеся, як наладжваць сістэмы энэргіі, вады й тлёну. Вы таксама даведаецеся пра абслугоўваньне будынкаў і пра тое, як падрыхтаваць свой першы купал для людзей-калёнистаў.",
@@ -18470,7 +18470,7 @@ Services: <em><list></em>","<description>
 228,<em>This building operates on a single work shift</em>,<em>Гэты будынак працуе ў адну зьмену</em>,
 7361,You’ll need a separate crew of workers for each shift.,Для кожнай зьмены спатрэбіцца асобная брыгада працоўнікаў.,
 7362,<em>Workers will lose Sanity if they work during the night shift.</em>,"<em>Працоўнікі страчваюць разважлівасьць, калі працуюць у начную зьмену.</em>",
-7363,Working hours<right><number1>-<number2>h,Гадзіны працы<right><number1>-<number2>г,
+7363,Working hours<right><number1>-<number2>h,Час працы<right><number1>-<number2>г,
 7364,Status: <status>,Стан: <status>,
 7634,Building performance<right><performance>,Прадукцыйнасьць будынку<right><performance>,
 7635,Building performance,Прадукцыйнасьць будынку,
@@ -25248,7 +25248,7 @@ Status: <on_off(IsResourceEnabled(res))>","Пераключыць захоўва
 384684843215,Heavy workload Shift Performance change,Heavy workload Shift Performance change,
 570435030757,Heavy workload Shift Performance,Вялікая працоўная нагрузка ў зьмену,
 4692,Normal shift duration,Звычайная працягласьць зьмены,
-4693,Working hours,Гадзіны працы,
+4693,Working hours,Час працы,
 8673,"This version of Surviving Mars doesn't yet support downloading mods. You can, however, try the modding tools to create and load your own mods.","This version of Surviving Mars doesn't yet support downloading mods. You can, however, try the modding tools to create and load your own mods.",
 1000599,Warning,Увага,
 951,Failed to complete operation.,Failed to complete operation.,
