@@ -3336,16 +3336,16 @@ Remember, Water and Oxygen are transfered via pipes which have to be connected t
 9162,"Domes - Water, Power & Air","Купал – вада, энэргія, тлён",
 9166,From the Build Menu <ButtonY> construct a <em>Living Complex</em> at the indicated location. ,"Праз меню будоўлі <ButtonY>, пабудуйце <em>Жылы комплэкс</em> ў пазначаным мейсцы. ",
 9165,Construct a <em>Living Complex</em> at the indicated location. ,Пабудуйце <em>Жылы комплэкс</em> ў пазначаным мейсцы. ,
-9168,Open the <em>Resupply screen</em> by calling the Command Menu <LT> and order a Passenger Rocket.,Open the <em>Resupply screen</em> by calling the Command Menu <LT> and order a Passenger Rocket.,
-9167,Open the <em>Resupply screen</em> and order a Passenger Rocket.,Open the <em>Resupply screen</em> and order a Passenger Rocket.,
-5554,Resupply Screen,Resupply Screen,
+9168,Open the <em>Resupply screen</em> by calling the Command Menu <LT> and order a Passenger Rocket.,Адкрыйце <em>Экран забесьпячэньня</em> праз меню каманд <LT> і замоўце пасажырскую ракету.,
+9167,Open the <em>Resupply screen</em> and order a Passenger Rocket.,Адкрыйце <em>Экран забесьпячэньня</em> й замоўце пасажырскую ракету.,
+5554,Resupply Screen,Экран забесьпячэньня,
 9169,"Use the <em>applicants filter</em> to set criteria for what type of colonists you want to bring to Mars. Alternatively you may highlight individual applicants to inspect and hand pick 12 of them yourself.
 
-When you are ready use the ""Launch"" option to send the first colonists on their journey towards Mars.","Use the <em>applicants filter</em> to set criteria for what type of colonists you want to bring to Mars. Alternatively you may highlight individual applicants to inspect and hand pick 12 of them yourself.
+When you are ready use the ""Launch"" option to send the first colonists on their journey towards Mars.","Праз <em>фільтр кандыдатаў</em> усталюйце to set крытэрыі жаданых каляністаў якіх вы хочацца прывезьці на Марс. Дадаткова вы можаце вылучыць кандытатаў асабліва да дэтальнага прагляду й самім абраць 12 чалавек.
 
-When you are ready use the ""Launch"" option to send the first colonists on their journey towards Mars.",
-9172,From the Build Menu <ButtonY> construct a <em>Hydroponic Farm</em> and a <em>Grocer</em> inside your Dome.,"Праз меню будоўлі <ButtonY>, пабудуйце <em>Hydroponic Farm</em> and a <em>Grocer</em> inside your Dome.",
-9171,Construct a <em>Hydroponic Farm</em> and a <em>Grocer</em> inside your Dome.,Construct a <em>Hydroponic Farm</em> and a <em>Grocer</em> inside your Dome.,
+Калі вы гатовы, націсьніце ""Запуск"" да адпраўкі першых каляністаў у падарожжа да Марсу.",
+9172,From the Build Menu <ButtonY> construct a <em>Hydroponic Farm</em> and a <em>Grocer</em> inside your Dome.,"Праз меню будоўлі <ButtonY>, пабудуйце <em>Гідрапоннаю фэрму</em> і <em>Харчовау краму</em> у купале.",
+9171,Construct a <em>Hydroponic Farm</em> and a <em>Grocer</em> inside your Dome.,Пабудуйце <em>Гідрапоннаю фэрму</em> і <em>Харчовау краму</em> у купале.,
 9170,Hydroponic Farm and Grocer,Гідрапонная фэрма й харчовая крама,
 9175,From the Build Menu <ButtonY> construct a <em>Spacebar</em> inside the Dome.,Праз меню будоўлі<ButtonY> пабудуйце <em>Касьмічны бар</em> у купале.,
 9174,Construct a <em>Spacebar</em> inside the Dome.,Пабудуйце <em>Касьмічны бар</em> у купале.,
@@ -3356,20 +3356,20 @@ When you are ready use the ""Launch"" option to send the first colonists on thei
 
 1. Select the Spacebar with <ButtonA> , focus the Info Panel with <RT> and then highlight one of the work slots in the first 2 shifts using the <DPad> after which use <ButtonX>.
 
-2. Use <ButtonX> again if there already was a worker in the slot (first time fires the worker) until the slot is shown in red. ","Disable one <em>work slot</em> per active shift in the Spacebar by the following steps: 
+2. Use <ButtonX> again if there already was a worker in the slot (first time fires the worker) until the slot is shown in red. ","Адключыце <em>працоўнае мейсца</em> ў актыўных зьменах у касьмічным бары па крокам: 
 
-1. Select the Spacebar with <ButtonA> , focus the Info Panel with <RT> and then highlight one of the work slots in the first 2 shifts using the <DPad> after which use <ButtonX>.
+1. Абярыце касьмічны бар праз <ButtonA>, засяродзьцесь на інфапанэлі праз <RT> і вылучыце адно працоўнае мейсца ў першых 2 зьменах праз <DPad> пасьля націсьніце <ButtonX>.
 
-2. Use <ButtonX> again if there already was a worker in the slot (first time fires the worker) until the slot is shown in red. ",
+2. Націсьніце зноў <ButtonX> калі мейсца мае працаўніка (у першы раз зволіла працаўніка), мейсца павінна быць чырвоным. ",
 9178,"Disable one <em>work slot</em> per active shift in the Spacebar by the following steps: 
 
 1. Select the Spacebar and <right_click> on one of the work slots in the first 2 shifts until the slot is shown in red.
 
-2. <right_click> again if there already was a worker in the slot (first time fires the worker) until the slot is shown in red. ","Disable one <em>work slot</em> per active shift in the Spacebar by the following steps: 
+2. <right_click> again if there already was a worker in the slot (first time fires the worker) until the slot is shown in red. ","Адключыце <em>працоўнае мейсца</em> ў актыўных зьменах у касьмічным бары па крокам: 
 
-1. Select the Spacebar and <right_click> on one of the work slots in the first 2 shifts until the slot is shown in red.
+1. Абярыце касьмічны бар і <right_click> на адным з працоўных мейсцаў першых 2 працоўных зьмен, выключанае мейсца павінна быць чырвоным.
 
-2. <right_click> again if there already was a worker in the slot (first time fires the worker) until the slot is shown in red. ",
+2. <right_click> націсьніце зноў, калі мейсца мае працаўніка (у першы раз зволіла працаўніка), мейсца павінна быць чырвоным. ",
 9181,Open the Build Menu with <ButtonY> and construct a <em>Research Lab</em> inside the Dome.,Праз меню будоўлі <ButtonY> пабудуйце <em>Дасьледчую лабараторыю</em> у купале.,
 9180,Construct a <em>Research Lab</em> inside the Dome.,Пабудуйце <em>Дасьледчую лабараторыю</em> у купале.,
 5235,Research Lab,Дасьледчая лабараторыя,
