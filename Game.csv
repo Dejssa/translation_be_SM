@@ -3465,7 +3465,7 @@ Use <RT> to focus the Dome's Info Panel.","Абярыце любы купал і
 5590,Deposits found: <count>,Радовішча знойдзены: <count>,
 5589,New Deposits,Новыя радовішча,
 5594,<sponsor> funding: <funding(number)>,<sponsor> фінансаваньне: <funding(number)>,
-5593,Sponsor Funding,Спонсарскае фінансаваньне,
+5593,Sponsor Funding,Фінансаваньне фундатару,
 5606,A resupply Rocket has arrived in orbit,Ракета забесьпячэньня прыбыла на арбіту,
 5605,Resupply Arrived,Забесьпячэньне прыбыло,
 7037,We have a Resupply,У нас папаўненьне запасаў,
@@ -3636,7 +3636,7 @@ Use <RT> to focus the Dome's Info Panel.","Абярыце любы купал і
 279027486770,"Trigger a meteor shower that will yield some valuable resources – Metals, Rare Metals and Anomalies. <em>The meteor shower falls over a random location and may threaten the colony.</em>","Запусьціце мэтэёрны дождж, які дасьць некаторыя каштоўныя рэсурсы - мэталы, рэдкія металы й анамаліі. <em>Мэтэёрны паток падае над выпадковым мейсцам і можа пагражаць калёніі.</em>",
 629745664197,Capture Meteors,Захоп мэтэёраў,
 11943,<research(amount)>,<research(amount)>,
-138000713269,Increase sponsor research in exchange for constructing and launching an advanced communications satellite.,Пашырэньне спонсарскіх дасьледаваньняў у абмен на пабудову й запуск перадавога спадарожніка сувязі.,
+138000713269,Increase sponsor research in exchange for constructing and launching an advanced communications satellite.,Пашырэньне фундатарскіх дасьледаваньняў у абмен на пабудову й запуск перадавога спадарожніка сувязі.,
 449474184601,High-speed Comm Satellite,Высакахуткасны спадарожнік сувязі,
 221516902916,Grants Funding. Multiple uses of this project will yield diminishing returns.,Дае фінансаваньне. Шматразовае выкарыстаньне гэтага праекта прывядзе да зьмяншэньня аддачы.,
 239893453674,Launch SETI Satellite,Запуск SETI cпадарожніка,
@@ -5052,7 +5052,7 @@ But when something as serious as the motor system breaks down, it takes bravery 
 <effect> РК Выведчык няспраўны. Патрабуецца рамонт дронамі",
 7184,"As with everything made by the hands of man, the Explorer isn’t without its breakdowns and failures.","Як і ўсё, што зроблена чалавекам, Выведчык не пазбаўлены паломак і збояў.",
 7156,"You’d think the Explorer had found buried treasure, the way our scientists were reacting. It was a sulfur-rich regolith!","Як адрэагавалі нашы навукоўцы, можна палічыць, што Выведчык знайшоў закапаны скарб. Гэта быў багаты серай рэгаліт!",
-5774,"The Explorer vehicle gathered various soil samples from far and wide around the Anomaly site and fed us the data. For hours, the telemetry was filled with buzzing chatter as the scientists at Mission Control discussed the implications of the element and made inventive plans about the future. The time of the expedition was limited and we urged them to make a final decision.","Выведчык сабраў розныя ўзоры глебы здалёк і паўсюль вакол анамаліі й перадаў нам дадзеныя. На працягу некалькіх гадзін тэлеметрыя была напоўнена гудзеньнем лапатні навукоўцаў ЦЭМ, дзе абмяркоўвалі наступствы элементу й будавалі вынаходлівыя планы на прышласьць. Час экспедыцыі быў абмежаваны, і мы прапанавалі ім прыняць канчатковае рашэньне.",
+5774,"The Explorer vehicle gathered various soil samples from far and wide around the Anomaly site and fed us the data. For hours, the telemetry was filled with buzzing chatter as the scientists at Mission Control discussed the implications of the element and made inventive plans about the future. The time of the expedition was limited and we urged them to make a final decision.","Выведчык сабраў розныя ўзоры глебы здалёк і паўсюль вакол анамаліі й перадаў нам дадзеныя. На працягу некалькіх гадзін тэлеметрыя была напоўнена гудзеньнем лапатні навукоўцаў ЦКМ, дзе абмяркоўвалі наступствы элементу й будавалі вынаходлівыя планы на прышласьць. Час экспедыцыі быў абмежаваны, і мы прапанавалі ім прыняць канчатковае рашэньне.",
 5775,Concentrate effort on gathering as many samples as possible. (<research(1000)>),Засяродзьце намаганьні на зборы як мага большай колькасьці ўзораў. (<research(1000)>),
 5777,Focus on geochemical analysis of the most Sulphide-rich samples. (Reduces the cost of Engineering techs by 10%),Focus on geochemical analysis of the most Sulphide-rich samples. ((Памяншае кошт тэналёгій Інжынэрыі на 10%),
 7159,Our initial spectrographic analysis confirmed it. Chromium. To find such a rich deposit of such a rare metal. Important was an understatement.,Our initial spectrographic analysis confirmed it. Chromium. To find such a rich deposit of such a rare metal. Important was an understatement.,
@@ -5567,7 +5567,7 @@ The data we've gathered is already sent to our sponsor via encrypted transmissio
 
 <hint>The Object extracts resources from below the surface.","Марсаход наблізіўся на некалькі метраў да Аб'екту й правёў на ім серыю палявых выпрабаваньняў і назіраньняў. Мы адсканавалі яго з дапамогай радыялагічнагу й спэктраскапічнагу абсталяваньня й працягнулі дыстанцыйны зонд да яго панцыру, сабраўшы малюсенькія ўзоры яго кары. Праз яго тэлескапічную руку камера й гідралакатар былі ўстаўлены ўнутр аб'екту, адкрываючы заблытаны лабірынт паражнін і калідораў унутры. Пры ўважлівым разглядзе пад Аб'ектам бачна, што ён капае яму пад сабой дзякуючы кручэньню пярэдняй часткі корпусу й здабывае багатыя мэталамі руды, але яго становішча над узроўнем зямлі застаецца ранейшым. Аператары РК Выведчыку не паведамляюць аб адсутнасьці адказу ад аб'екту падчас любой з гэтых аперацый.
 
-Дадзеныя, якія мы сабралі, ужо адпраўлены нашаму спонсару праз зашыфраваную перадачу. Мы ўпэўнены, што камісія высока ацэніць нашы намаганьні.
+Дадзеныя, якія мы сабралі, ужо адпраўлены нашаму фундатару праз зашыфраваную перадачу. Мы ўпэўнены, што камісія высока ацэніць нашы намаганьні.
 
 <effect>Вы атрымліваеце <funding(reg_param1)> фінансаваньня й <research(reg_param2)>.
 
@@ -5583,7 +5583,7 @@ Despite our setbacks we gathered important data and have already sent it to our 
 
 <hint>The Object extracted resources from below the surface.","РК Выведчык  наблізіўся на некалькі метраў да Аб'екту й правёў на ім серыю палявых выпрабаваньняў і назіраньняў. Аператары адсканавалі аб'ект з дапамогай радыялагічнагу й спэктраскапічнагу абсталяваньня й працягнулі дыстанцыйны зонд да яго панцыру, сабраўшы малюсенькія ўзоры яго кары. Калі РК Выведчык наблізіўся да аб'екту для бліжэйшага ўзаемадзеяньня з ім тэлескапічнымі рычагамі, працэс капаньня аб'екта прывёў да нязначнага калапсу кары, і ён ледзь не разбіў пярэднюю частку корпусу марсаходу. Здаецца, гэта не была наўмысная атака, але пашкоджаньні відавочныя - бачыцца, што Аб'ект таксама валодае велізарнай сілай.
 
-Нягледзячы на нашы няўдачы, мы сабралі важныя дадзеныя й ўжо адправілі іх нашаму спонсару праз зашыфраваную перадачу. Мы ўпэўнены, што камісія высока ацэніць нашы намаганьні.
+Нягледзячы на нашы няўдачы, мы сабралі важныя дадзеныя й ўжо адправілі іх нашаму фундатару праз зашыфраваную перадачу. Мы ўпэўнены, што камісія высока ацэніць нашы намаганьні.
 
 <effect>Вы атрымліваеце <funding(reg_param1)> фінансаваньня. РК Выведчык атрымаў няспраўнасьць.
 
@@ -5595,7 +5595,7 @@ Despite our setbacks we gathered important data and have already sent it to our 
 
 <effect>You receive <funding(reg_param1)> Funding.
 
-<hint>The Object extracted metals from below the surface.","РК Выведчык хутка вернецца на базу. Тым часам мы будзем працягваць збор візуальных і тэлеметрычных дадзеных аб'екту. Дадзеныя, якія мы сабралі, ужо адпраўлены нашаму спонсару праз зашыфраваную перадачу. Мы ўпэўнены, што камісія высока ацэніць нашы намаганьні.
+<hint>The Object extracted metals from below the surface.","РК Выведчык хутка вернецца на базу. Тым часам мы будзем працягваць збор візуальных і тэлеметрычных дадзеных аб'екту. Дадзеныя, якія мы сабралі, ужо адпраўлены нашаму фундатару праз зашыфраваную перадачу. Мы ўпэўнены, што камісія высока ацэніць нашы намаганьні.
 
 <effect>Вы атрымліваеце <funding(reg_param1)> фінансаваньня.
 
@@ -5658,7 +5658,7 @@ The object demonstrated no interest in the activities of the rover. The scientis
 
 <effect>The Dredger Wavelength Decoding technology cost is reduced by 50%.",
 5975,The Dredgers: Convergence,Драгеры: Зьбежнасьць,
-7458,"Mission Control, we’re receiving a priority transmission from Earth.","ЦЭМ, зь Зямлі паступая прыярытэтная перадача.",
+7458,"Mission Control, we’re receiving a priority transmission from Earth.","ЦКМ, зь Зямлі паступая прыярытэтная перадача.",
 5976,"Several hours ago, the LINEAR and CSS programs detected an incoming cluster of meteorites from the asteroid belt. Their trajectories are likely to converge with the Martian orbit. Meteor impacts are likely to intensify during the course of the next few weeks.
 
 <effect>Expect several Meteor Storms to hit Mars in the next <text_param1> Sols.","Некалькі гадзін таму, LINEAR і CSS праграмы выявілі ўваходнае навала метэарытаў з поясу астэроідаў. Іх траекторыі, верагодна, збліжаюцца з арбітай Марсу. Верагодна, на працягу наступных некалькіх тыдняў падзеньне метэораў узмоцніцца.
@@ -5666,7 +5666,7 @@ The object demonstrated no interest in the activities of the rover. The scientis
 <effect>Чакайце, што праз <text_param1> Солаў на Марс абрынуцца некалькі мэтэорных бур.",
 5978,All personnel – keep calm and watch for meteors.,Усяму персаналу - захоўваць спакой і сачыць за мэтэорамі.,
 5979,The Dredgers: The Heavenly Storm,Драгеры: Нябесны шторм,
-7459,"Mission Control, we’ve got an update on the status of the meteor storms. And it’s not looking good.","ЦЭМ, мы атрымалі новую інфармацыю аб стане мэтэорных штормаў. Яно выглядае ня добра.",
+7459,"Mission Control, we’ve got an update on the status of the meteor storms. And it’s not looking good.","ЦКМ, мы атрымалі новую інфармацыю аб стане мэтэорных штормаў. Яно выглядае ня добра.",
 5980,"The initial evaluation of the situation with the meteor clusters had been miscalculated. The scientists from the near-Earth object detection programs predict that a significant amount of the meteorite stream would fill the space between Mars and Earth. While the thick atmosphere of our home world would protect it from eventual impacts, the threat level for any spacecraft will be past tolerable. To address the new situation, Earth Control has canceled all space flights until further notice.
 
 <effect>Rockets will not arrive until the situation with the meteor impacts is resolved. Inbound rockets will still land on Mars.","Першпачатковая ацэнка сітуацыі з наваламі адбылася памылковай. Навокоўцы праграм выяўленьня калязямных аб'ектаў прагназуюць, што значная кольскасьць мэтэарытнага патоку запоўніць прастору паміж Марсам і Зямлёй. У той час як густая атмасфэра роднага сьвету абароніць яго ад мачымых удараў, але ўзровень пагрозы для ксьмічных ракет будзе недапушчальным. Да вырашэньня адбыўшыйся выпадак, Кіраваньне Зямлі адмяніла ўсе касьмічныя палёты да наступных паведамленьняў.
@@ -5680,7 +5680,7 @@ The object demonstrated no interest in the activities of the rover. The scientis
 
 We could be wrong, but our initial visual readings on the object show that it has an unconventional form for a meteorite. Strange protrusions can be observed from the back of the object. Could this be something different than a meteor?
 
-<effect>A major impact is expected to happen somewhere on Mars.","ЦЭМ, нашы датчыкі выявілі вялікі аб'ект набліжаюшчыйся з вялікай хуткасьцю. Гледзячы на дадзеныя нашай тэлеметрыі, ягоная маса й хуткасьць дастаткова вяліка, каб сур'ёзна пашкодзіць паверхню. Было бы разумна эвакуіраваць тэрыторыю вакол меркаванага пункта удару.
+<effect>A major impact is expected to happen somewhere on Mars.","ЦКМ, нашы датчыкі выявілі вялікі аб'ект набліжаюшчыйся з вялікай хуткасьцю. Гледзячы на дадзеныя нашай тэлеметрыі, ягоная маса й хуткасьць дастаткова вяліка, каб сур'ёзна пашкодзіць паверхню. Было бы разумна эвакуіраваць тэрыторыю вакол меркаванага пункта удару.
 
 Мы можам памыляцца, але нашы першыя паказаньні выгляду сведчаць, што ён мае нетрадыцыйную форму для мэтэора. З тыльнага боку аб'екта магчыма назіраць дзіўныя выступы. Ці можа гэта іншае за мэтэор?
 
@@ -5888,7 +5888,7 @@ Pleased with our performance, the monitoring council of our sponsor offered us t
 
 Pleased with our performance, the monitoring council of our sponsor offered us their financial support as a stimulus.
 
-<effect>Вы зьнішчылі <reg_param1> Драгераў падчас масавай пасадкі. Улічваючы зьнішчаных Драгераў, спонсар місіі выдзеліў узнагароду ў памеры <funding(reg_param2)>.",
+<effect>Вы зьнішчылі <reg_param1> Драгераў падчас масавай пасадкі. Улічваючы зьнішчаных Драгераў, фундатар місіі выдзеліў узнагароду ў памеры <funding(reg_param2)>.",
 6050,We’ll do it again if we have to!,Калі спатрэбіцца,
 6048,The Dredgers: Darkened Skies – Debrief,Драгеры: Змрочныя нябёсы – Вынікі,
 7479,"Mission Control, the Dredgers are retreating!","Mission Control, the Dredgers are retreating!",
@@ -8421,7 +8421,7 @@ All in all, the mysterious man wants you to shelter a number of Clone applicants
 941158028958,Eureka!,Эўрыка!,
 377529619516,"Our scientific analysis servers just crashed! We tried turning them off and on again, but the problem persisted after reboot.","Нашы сэрвэры навуковага аналізу проста пайшлі з ладу! Мы паспрабавалі выключыць іх і зноў уключыць, але праблема ня зьнікла.",
 193345244030,Improve the performance.,Палепшыце прадукцыйнасьць,
-620355360059,gain <research(sponsor_research)> Sponsor research,Атрымаць <research(sponsor_research)> дасьледаваньня ад спонсара,
+620355360059,gain <research(sponsor_research)> Sponsor research,Атрымаць <research(sponsor_research)> дасьледаваньня ад фундатару,
 189917588567,Focus on single topic.,Сканцэнтрыравацца на адной тэме.,
 961435424262,a random tech will be researched,выпадковая тэхнолёгія будзе дасьледавана,
 889407832580,Do various optimizations.,Зрабіце розныя аптымізацыі.,
@@ -8808,7 +8808,7 @@ How do we answer?",
 11059,<number_of_killed> colonists have died in research experiments,<number_of_killed> colonists have died in research experiments,
 262478553203,"<if(is_commander(""rocketscientist""))>[<commander_profile>] Testing out the new engine will be a high-stake endeavor. Perhaps it would be wise to keep the payloads minimal until design kinks have been ironed out.","<if(is_commander(""rocketscientist""))>[<commander_profile>] Testing out the new engine will be a high-stake endeavor. Perhaps it would be wise to keep the payloads minimal until design kinks have been ironed out.",
 161497508085,Experimental Rocket,Эксперыментальная ракета,
-170727039645,A new rocket engine has been developed by our sponsor on Earth.  We have been offered the dubious honor of testing the first prototype.,Наш спонсар на Зямлі распрацаваў новы ракетны рухавік. Нам прапанавалі сумненны гонар выпрабаваць першы прататып.,
+170727039645,A new rocket engine has been developed by our sponsor on Earth.  We have been offered the dubious honor of testing the first prototype.,Наш фундатар на Зямлі распрацаваў новы ракетны рухавік. Нам прапанавалі сумненны гонар выпрабаваць першы прататып.,
 896864450689,We accept!,Мы прымаем!,
 11208,rocket travel time <traveltime_decrease>%,час палёту ракеты <traveltime_decrease>%,
 439284841942,Let me have a look at the blueprints,Дазвольце мне зірнуць на чарцяжы,
@@ -9852,7 +9852,7 @@ You remember that the Genius <DisplayName> had your special dispensation to stay
 949723673521,The door of the command room opens and you’re hit by the loud noise. A party!,"Дзьверы каманднага пакоя адчыняюцца, і вас ударае моцны шум. Вечарынка!",
 446442320434,I expect the maintenance and efficiency reports on my desk by 11:00 local time.,Я чакаю справаздачы аб абслугоўваньні й эфектыўнасьці на маім стале а 11:00 па мясцовым часе.,
 139200594944,Party!,Вечарынка!,
-827831603659,"Recreation is important, but duties, especially the duties of Mission Control, must never be forgotten.","Адпачынак важны, але ніколі нельга забываць пра абавязкі, асабліва ў ЦЭМ .",
+827831603659,"Recreation is important, but duties, especially the duties of Mission Control, must never be forgotten.","Адпачынак важны, але ніколі нельга забываць пра абавязкі, асабліва ў ЦКМ .",
 315003773008,"Under your harsh gaze, the team cleans up the control room and attend their action stations. You take your seat – there’s work to do.
 
 <effect>+<morale_bonus> Morale for <sols(morale_duration)> Sols for all Colonists","Пад вашым суровым позіркам каманда прыбірае дыспетчарскую й ідзе на свае працоўныя мейсцы. Сядайце, у нас ё справы.
@@ -14550,7 +14550,7 @@ New Building: <em>Forestation Plant</em> (<buildinginfo('ForestationPlant')>) - 
 907908492731,"Get a one-time subsidy of <em><funding(param1)></em> Funding from your sponsor.
 
 <grey>""Wisdom outweighs any wealth."" 
-<right>Sophocles</grey><left>","Атрымаць аднаразовую субсідыю ў памеры <em><funding(param1)></em> фінансаваньня ад вашага спонсару.
+<right>Sophocles</grey><left>","Атрымаць аднаразовую субсідыю ў памеры <em><funding(param1)></em> фінансаваньня ад вашага фундатару.
 
 <grey>""Мудрасць пераважвае любое багацьце."" 
 <right>Сафокл</grey><left>",
@@ -15395,9 +15395,9 @@ This technological challenge to take advantage of what little wind there is on M
 10179,Played as India and converted 3000 Waste Rock to useful materials before Sol 100,Граючы за Індыю апрацуйце 3000 пустой пароды ў карысныя матэрыялы па 100 Сол,
 10178,"Waste Not, Want Not","Не марнуйце, не жадайце",
 10180,Play as India and convert 3000 Waste Rock to useful materials before Sol 100,"Грайце за Індыю, апрацуйце 3000 пустой пароды ў карысныя матэрыялы па 100 Сол",
-10182,Played as SpaceY and complete all Sponsor Goals on challenge rating 500% or higher,Граючы за SpaceY выканайце ўсе мэты спонсара з выклікам 500% або больш,
+10182,Played as SpaceY and complete all Sponsor Goals on challenge rating 500% or higher,Граючы за SpaceY выканайце ўсе мэты фундатару з выклікам 500% або больш,
 10181,The Pace of Progress,Хуткасць прагрэсу,
-10183,Play as SpaceY and complete all Sponsor Goals on challenge rating 500% or higher,"Грайце за SpaceY, выканайце ўсе мэты спонсара з выклікам 500% або больш",
+10183,Play as SpaceY and complete all Sponsor Goals on challenge rating 500% or higher,"Грайце за SpaceY, выканайце ўсе мэты фундатару з выклікам 500% або больш",
 10185,Played as Russia and had 500 colonists on challenge rating 500% or higher,Граючы за Расею майце 500 каляністаў з выклікам 500% або больш,
 10184,"No Pain, No Gain",Бяз болю ня маеш долю,
 10186,Play as Russia and have 500 colonists on challenge rating 500% or higher,"Грайце за Расею, майце 500 каляністаў з выклікам 500% або больш",
@@ -18442,7 +18442,7 @@ Services: <em><list></em>","<description>
 7630,<green>Heavy workload +<amount></green>,<green>Вялікая працоўная нагрузка +<amount></green>,
 7631,<clr>Upgrade <amount>% (<upgrade>)</color>,<clr>Паляпшэньне <amount>% (<upgrade>)</color>,
 7632,<clr>Upgrade <amount> (<upgrade>)</color>,<clr>Паляпшэньне<amount> (<upgrade>)</color>,
-7633,<clr>Mission sponsor <amount>%</color>,<clr>Спонсар місіі<amount>%</color>,
+7633,<clr>Mission sponsor <amount>%</color>,<clr>Фундатар місіі<amount>%</color>,
 4310,<red>Seniors and children can't be assigned to work</red>,<red>Старых і дзяцей нельга прызначаць на працу</red>,
 8769,Required specialization mismatch,Неадпаведнасьць неабходнай спэцыялізацыі,
 4311,Current Workplace,Працуе тут,
@@ -18490,7 +18490,7 @@ Services: <em><list></em>","<description>
 7797,Spawn 10 Colonists,Стварыць 10 каляністаў,
 7798,Spawn 100 Colonists,Стварыць 100 каляністаў,
 12266,Stop Disaster,Спыніць катастрофу,
-12267,Unlock All SponsorBuildings,Разблакаваць усе будынкі спонсараў,
+12267,Unlock All SponsorBuildings,Разблакаваць усе будынкі фундатараў,
 12268,Unlock All Buildings,Разблакаваць усе будынкі ,
 12269,Max All Terraforming Parameters,Усе параметры тэрафарміраваньня на макс.,
 12270,Increase Soil Quality by 25%,Палепшыць якасьць глебы на 25%,
