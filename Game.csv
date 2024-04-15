@@ -3734,9 +3734,9 @@ We created a place for humanity to call home, a place which reminds us of Earth.
 7129,Warning,Увага,
 5766,"Failure's just another step in the process. The only thing is to dust ourselves off and try again. And when the future generations return to Mars, our experience, our mistakes and achievements will help them succeed where we could not.
 
-<effect> All Founders have either died or left Mars. The Colony couldn't live up to the dream of human colonization. Game over. But don't give up!","Failure's just another step in the process. The only thing is to dust ourselves off and try again. And when the future generations return to Mars, our experience, our mistakes and achievements will help them succeed where we could not.
+<effect> All Founders have either died or left Mars. The Colony couldn't live up to the dream of human colonization. Game over. But don't give up!","Няўдача - гэта проста яшчэ адзін крок. Зараз варта стрэсьці пыл і паспрабаваць яшчэ раз. І калі будучыя пакаленьні вернуцца на Марс, наш досьвед, нашы памылкі й дасягненьні дапамогуць ім дасягнуць посьпеху там, дзе мы не змаглі.
 
-<effect> All Founders have either died or left Mars. The Colony couldn't live up to the dream of human colonization. Game over. But don't give up!",
+<effect> Усе заснавальнікі загінулі ці пакінулі Марс. Калёнія не змагла ажыцявіць мару аб калянізацыі. Гульня скончана, але не сдавайцеся!",
 7154,Humanity had such high hopes and we failed them. We failed the Founders. But is this really the end?,"Чалавецтва мела такія вялікія надзеі, а мы не змаглі. Мы згубілі заснавальнікаў. Але ці сапраўды гэта канец?",
 8156,"Now, our goal as a species is to not despair. To not look away from the stars. The path has proven to be hard and rocky, but hardship had only made humans more determined – and that’s what defines us as a species! We are sure that one day people will walk the red sands and call Mars their home.
 
@@ -3744,7 +3744,7 @@ We created a place for humanity to call home, a place which reminds us of Earth.
 
 <effect> Усе каляністы загінулі ці пакінулі Марс. Гульня скончана, але не сдавайцеся!",
 5765,Game Over,Канец гульні,
-8157,"The Colony has failed. The lives and the dreams of our Colonists are lost, washed away by despair and grief.","The Colony has failed. The lives and the dreams of our Colonists are lost, washed away by despair and grief.",
+8157,"The Colony has failed. The lives and the dreams of our Colonists are lost, washed away by despair and grief.","Калянізацыя правалілася. Жыцьці й мары нашых каляністаў згублены, змыты адчаем і горам.",
 10477,"A Dust Storm is set to hit the colony soon. It will cause damage to Pipes and Cables and also will place a serious strain on all buildings – pushing them towards needing maintenance sooner than usual. 
 
 Stocking up on Power, Water and Oxygen in batteries and tanks is a wise precaution. Disabling non-vital buildings that consume these resources prior and during a Dust Storm will help get by on the available reserves. 
@@ -3752,14 +3752,14 @@ Stocking up on Power, Water and Oxygen in batteries and tanks is a wise precauti
 The following buildings do not function during Dust Storms:
 - MOXIEs
 - Moisture Vaporators
-- Solar Panels outside Domes","A Dust Storm is set to hit the colony soon. It will cause damage to Pipes and Cables and also will place a serious strain on all buildings – pushing them towards needing maintenance sooner than usual. 
+- Solar Panels outside Domes","Неўзабаве пясчаная бура прыйдзе да нашай калёніі. Яна можа пашкодзіцб трубы й кабэлі, а таксама дасі сур'ёзную нагрузку на ўсе будынкі, што прывядзе да іх абслугоўваньня значна раней.
 
-Stocking up on Power, Water and Oxygen in batteries and tanks is a wise precaution. Disabling non-vital buildings that consume these resources prior and during a Dust Storm will help get by on the available reserves. 
+Разумнай мерай засьцярогі будзе назапашваньне энэргіі, вады й тлёну ў батарэях ды баках. Адключэньне нежыцьцёва важных будынкаў, якія спажываюць гэтыя рэсурсы перад і падчас пясчанай буры, дапаможа пратрываць карыстаючыся рэзэрвамі.
 
-The following buildings do not function during Dust Storms:
-- MOXIEs
-- Moisture Vaporators
-- Solar Panels outside Domes",
+Гэтыя будныкі не працуюць падчас пясчаных бур:
+- МЭРТы
+- Выпарнікі вільгаці
+- Сонечныя панэлі па-за купаламі",
 4250,Dust Storm,Пясчаная бура,
 10478,"The region is about to experience a Meteor Storm. Buildings directly hit by meteors will be in need of repairs in order to function again while Pipes and Cables will get destroyed. Rovers hit by meteors will also need repairs while Drones may become irreversibly damaged. 
 
@@ -3773,27 +3773,26 @@ Cold Waves put an extra strain on the electrical grid and buildings will consume
 
 The following buildings will freeze during a Cold Wave:
 - Water Tanks
-- Outside buildings that are not operational for more than a Sol","A Cold Wave is imminent. While most of our machinery is designed and able to function in such low temperatures, if a building outside stops working for more than a Сол, it will freeze and may not be repaired until after the Cold Wave has lifted.
+- Outside buildings that are not operational for more than a Sol","Хвалі холаду непазьбегчы. Большасьць нашага абсталяваньня можа працаваць у такіх нізкіх тэмпэратурах. Але калі будынак звонку ня будзе працаваць больш за Сол, ён замерзьне й ня зможа быць адрамантаваны датуль, пакуль ня скончыцца халодная хваля.
 
-Cold Waves put an extra strain on the electrical grid and buildings will consume more electricity. One way to negate the effects of a Cold Wave is to place Subsurface Heaters (researched from the Physics field) near vulnerable buildings.
+Халодныя хвалі ствараюць дадатковую нагрузку на элэктрычную сетку й будынкі спажываюць больш элэктраэнэргіі. Адзін са спосабаў пазьбегчы ўздзеяньне хвалі холаду - усталяваць падземныя абагравальнікі (дасьледаваныя ў галіне фізіцы) каля уразлівых будынкаў.
 
-The following buildings will freeze during a Cold Wave:
-- Water Tanks
-- Outside buildings that are not operational for more than a Сол",
+Гэтыя будныкі не працуюць падчас халодных хваль:
+- Бакі вады
+- Не працуюшчыя больш за Сол вонкавыя будынкі",
 768080004870,"Although this is a controlled operation, the exact impact locations are outside our control and may endanger our colony.
-","Although this is a controlled operation, the exact impact locations are outside our control and may endanger our colony.
-",
-195953271943,Capture Meteors,Capture Meteors,
-443985878555,We have succeeded in capturing and diverting meteors towards our general vicinity in a gambit to bring precious resources and even scientific insight withing our reach.,We have succeeded in capturing and diverting meteors towards our general vicinity in a gambit to bring precious resources and even scientific insight withing our reach.,
+","Хоць гэта кантраляваная апэрацыя, дакладныя мейсцы ўдару знаходзяцца па-за нашым кантролем і гэта можа пагражаць нашай калёніі.",
+195953271943,Capture Meteors,Захоп мэтэёру,
+443985878555,We have succeeded in capturing and diverting meteors towards our general vicinity in a gambit to bring precious resources and even scientific insight withing our reach.,"Нам атрымалася захапіць і накіраваць мэтэёры ў навакольле, каб атрымаць каштоўныя рэсурсы й нават навуковы досьвед.",
 491282077872,The resulting speed at which data is now transferred makes everyone wonder how we got anything done before.,"У выніку хуткасьць перадачы дадзеных прымушае ўсіх задацца пытаньнем, як мы рабілі што-небудзь раней.",
 201673496950,High-speed Comm Satellite,Высакахуткасны спадарожнік сувязі,
 12146,Our high-speed Comm Satellite is now online.,Наш высакахуткасны спадарожнік сувязі зараз падлучаны.,
-392168173764,It is now operational and will contribute towards the decades old mission of finding signs of intelligent life elsewhere in the galaxy.,It is now operational and will contribute towards the decades old mission of finding signs of intelligent life elsewhere in the galaxy.,
-311475854684,SETI Satellite,SETI Satellite,
-439602669281,Our very own SETI Satellite has been delivered and launched into Martian orbit.,Our very own SETI Satellite has been delivered and launched into Martian orbit.,
-622650641152,Our partners on Earth are delighted by the fulfillment of the contract and have expressed their gratitude in a hefty amount of Funding.,Our partners on Earth are delighted by the fulfillment of the contract and have expressed their gratitude in a hefty amount of Funding.,
-949945570603,Contract Exploration Access,Contract Exploration Access,
-948001628351,The remote scientific outpost is set and has started transmitting intriguing data from the Red Planet.,The remote scientific outpost is set and has started transmitting intriguing data from the Red Planet.,
+392168173764,It is now operational and will contribute towards the decades old mission of finding signs of intelligent life elsewhere in the galaxy.,"З гэтага часу ён дзейнічае й будзе дапамагаць у доўгай, ужо дзясяткі год, місіі пошуку прыкмет разумнага жыцьця дзе-небудзь яшчэ ў галактыцы.",
+311475854684,SETI Satellite,SETI Спадарожнік,
+439602669281,Our very own SETI Satellite has been delivered and launched into Martian orbit.,Наш уласны спадарожнік SETI быў дастаўлены й запушчаны на арбіце Марсу.,
+622650641152,Our partners on Earth are delighted by the fulfillment of the contract and have expressed their gratitude in a hefty amount of Funding.,Нашы партнёры зь Зямлі ў захапленьні ад выкананьня кантракту й выказалі сваю ўдзячнасьць у значнай суме фінансаваньня.,
+949945570603,Contract Exploration Access,Доступ да кантрактнай выведкі,
+948001628351,The remote scientific outpost is set and has started transmitting intriguing data from the Red Planet.,Аддалены навуковы варвы пост усталяваны й пачаў перадачу спакуслівых дадзеных  з Чырвонай плянеты.,
 12420,"Free Update (Piazzi)
 - <em>Amphitheater</em> - a new building to comfort your colonists and increase tourists' satisfaction.
 - <em>UI Improvements</em> - you can see dust ranges during construction, reorder the research queue, see icons above cable and pipe leaks, cycle between grids with the top UI, and find more information per resource in the top UI.
@@ -3804,17 +3803,17 @@ Below and Beyond
 - <em>Asteroids</em> - a new environment to visit while they travel past Mars. Visit them with an <em>Asteroid Lander</em> to set up a temporary mining outpost. Gather as much as you can before the asteroid moves out of range again.
 - <em>Exotic Minerals</em> - a new resource obtained from <em>Asteroids</em>, required for several of the new buildings.
 - <em>Recon & Expansion Research</em> - new field that unlocks new buildings and upgrades for the underground and asteroids.
-- <em>Uncover new wonders</em> - buried deep below the Martian surface.","Free Update (Piazzi)
-- <em>Amphitheater</em> - a new building to comfort your colonists and increase tourists' satisfaction.
-- <em>UI Improvements</em> - you can see dust ranges during construction, reorder the research queue, see icons above cable and pipe leaks, cycle between grids with the top UI, and find more information per resource in the top UI.
-- <em>More Colony Control</em> - rename your colony, easily limit births when domes are full, and a new filter option to always include colonists with a specific trait or specialization.
+- <em>Uncover new wonders</em> - buried deep below the Martian surface.","Пясплатная аднаўленьне (Piazzi)
+- <em>Амфітэатр</em> - новы будынак для камфорту вашых каляністаў і для павялічваньня задаволенасьці турыстаў.
+- <em>Паляпшэньні інтэрфэйсу</em> - бачны радыус забруджваньня пылам падчас будоўлі; пераўпарадкаваньне чаргі дасьледаваньняў, значкі уцечкі труб і кабэляў; пераключэньне паміж сеткамі праз верхнюю частку інтэрфэйсу; больш інфармацыі па рэсурсам у верхняй частцы інтэрфэйсу.
+- <em>Больш кіраваньня калёніяй</em> - пераназва калёніі; лёгкае абмежаваньне родаў, калі купал поўны; і новая опцыя фільтру, каб заўсёды ўключаць каляністаў з пэўнай рысай або спэцыялізацыяй.
 
 Below and Beyond
-- <em>Underground</em> - a new area to explore right beneath your colony. Uncovering what the Martian Underground hid from us, and expand into the Underground for its resources and shelter from hazards. Just be careful of cave-ins.
-- <em>Asteroids</em> - a new environment to visit while they travel past Mars. Visit them with an <em>Asteroid Lander</em> to set up a temporary mining outpost. Gather as much as you can before the asteroid moves out of range again.
-- <em>Exotic Minerals</em> - a new resource obtained from <em>Asteroids</em>, required for several of the new buildings.
-- <em>Recon & Expansion Research</em> - new field that unlocks new buildings and upgrades for the underground and asteroids.
-- <em>Uncover new wonders</em> - buried deep below the Martian surface.",
+- <em>Пад паверхняй</em> - новая тэрыторыя да выведкі пад вашай калёніяй. Высьветліце, што хаваецца пад марсіянскай паверхняй, і пашырцеся пад паверхню за рэсурсамі й сховішчам ад небясьпек. Толькі ўважайце на абвалы.
+- <em>Астэроіды</em> - новая асяроддзе на наведваньне, калі яны пралятаюць побач Марсу. Наведвайце іх з <em>Астэроідны пасадчык</em> для стварэньня часовай здабываюшчай варты. Зьбярыце як мага больш раней за час, калі астэроід уляціць.
+- <em>Экзатычныя мінэралы</em> - новы рэсурс здабываемы на <em>Астэроідах</em>, патрабуецца некаторым новым будынкам.
+- <em>Выведка й дасьледваньні пашырэньня</em> - новыя дасьледваньні для адкрыцьця новых будынкаў і паляпшэньняў для пад паверхні й астэроідаў.
+- <em>Адкрыйце новыя цуды</em> - пахаваны глыбока пад паверхняй Марсу.",
 428742818526,New Update,Новае аднаўленьне,
 562110201672,"Surviving Mars has been recently updated. You can check the full patch notes online, but here are few highlights:","Surviving Mars атрымаў аднаўленьне. Вы можаце праглядзець нотаткі аб ім у сецты, а тут галоўнае:",
 7116,OK,Згода,
@@ -4812,7 +4811,7 @@ With the building selected, notice the three available work shifts on the info p
 The more workers assigned to a building, the better the building performes. Initially, however, we won’t be needing so many people working at the Space Bar as there will be other important jobs to fill and limited people to fill them – especially during the Founder Stage.
 
 <goal>Disable one job slot in every active shift.",
-9177,Managing Jobs,Managing Jobs,
+9177,Managing Jobs,Кіраваньне працамі,
 9361,Great! Now that you have a Spacebar you can customize its work settings.,Great! Now that you have a Spacebar you can customize its work settings.,
 9365,"Some buildings are more effective with workers with a certain specialization. For example, Scientists are the best workers for a Research Lab.
 
@@ -4862,8 +4861,8 @@ In the next and final tutorial you will learn how to manage a larger colony, con
 <goal>Construct a Shuttle Hub.","The complex technology needed for Shuttles flying in the thin Martian atmosphere typically must be researched. For the purposes of this tutorial, however, it has been already granted to you.
 
 <goal>Construct a Shuttle Hub.",
-745,Shuttles,Shuttles,
-9384,Shuttles can transport resources and colonists across great distances. ,Shuttles can transport resources and colonists across great distances. ,
+745,Shuttles,Шатлы,
+9384,Shuttles can transport resources and colonists across great distances. ,Шатлы могуць перавозіць рэсурсы й каляністаў на адлегласьці. ,
 9388,"Colonists can work in some outside buildings placed close to their Domes - such as extractors for Metals and Rare Metals. Since colonists will be needed for the extraction of these underground deposits, it is a good practice to place Domes near such deposits, as is the case in this simulation.
 
 <goal>Construct a Rare Metals Extractor next to the Rare Metals Deposit and connect it to the power grid.","Colonists can work in some outside buildings placed close to their Domes - such as extractors for Metals and Rare Metals. Since colonists will be needed for the extraction of these underground deposits, it is a good practice to place Domes near such deposits, as is the case in this simulation.
@@ -4933,26 +4932,26 @@ In the next and final tutorial you will learn how to manage a larger colony, con
 The colonization of Mars awaits! Good luck, Commander, and may the Cosmos be with you!","The team at Mission Control is eager to meet you and serve under your command. The challenge of conquering Mars for the sake of humankind is still a tough one, but with a Commander as skillful and resourceful as you the task seems a bit easier now.
 
 The colonization of Mars awaits! Good luck, Commander, and may the Cosmos be with you!",
-9418,Mission Complete,Mission Complete,
-9419,"Congratulations, Commander! You have graduated from the International Mars Mission training simulation! ","Congratulations, Commander! You have graduated from the International Mars Mission training simulation! ",
-9423,Play the tutorials,Play the tutorials,
-9424,Skip the tutorials,Skip the tutorials,
-9422,Colonizing Mars is hard.<newline>Over 60% of all colonies fail even before a single human sets foot on the Red Planet.<newline>Several tutorials are available to familiarize you with Surviving Mars.<newline>Don't let the Red Planet defeat you! Play the tutorials.,Colonizing Mars is hard.<newline>Over 60% of all colonies fail even before a single human sets foot on the Red Planet.<newline>Several tutorials are available to familiarize you with Surviving Mars.<newline>Don't let the Red Planet defeat you! Play the tutorials.,
+9418,Mission Complete,Місія выканана,
+9419,"Congratulations, Commander! You have graduated from the International Mars Mission training simulation! ","Віншую, камандзір! Вы скончылі вучэбную сімуляцыю Міжнароднай місіі на Марс!",
+9423,Play the tutorials,Гульць навучаньне,
+9424,Skip the tutorials,Прапусьціць навучаньне,
+9422,Colonizing Mars is hard.<newline>Over 60% of all colonies fail even before a single human sets foot on the Red Planet.<newline>Several tutorials are available to familiarize you with Surviving Mars.<newline>Don't let the Red Planet defeat you! Play the tutorials.,Калёнізацыя Марсу цяжкая справа.<newline>Больш за 60% усіх калёній не дачакаліся нават першага чалавека на Чырвонай плянеце.<newline>Некалькі ўрокаў каб пазнаёміца з Surviving Mars.<newline>Не дазваль Чырвонай плянеце забіць вас! Прайдзіце навучаньне.,
 9421,Tutorials Save Lives!,Навучаньне ратуе жыцьця!,
 9427,Disable All Mods,Адключыць усе моды,
 9428,Skip,Прапусьціць,
 9426,You have active mods that may affect the tutorial in unexpected ways and result in an unplayable tutorial. We recommend disabling all mods before continuing.,"У вас ёсьць уключаныя моды, якія могуць нечаканым чынам уплыць на працэс і як вынік - немагчымасьць прайсьці навучаньне. Мы раім адключыць усе моды перад працягам.",
 9425,Active Mods,Актыўныя моды,
-9429,"Commander, one other thing.","Commander, one other thing.",
-9430,A new situation has arisen.,A new situation has arisen.,
-9431,"Commander, some interesting readings are just in.","Commander, some interesting readings are just in.",
-9432,"On another note, Commander...","On another note, Commander...",
-9433,Things just took a turn for the weird.,Things just took a turn for the weird.,
-9434,What just transpired has left us speechless.,What just transpired has left us speechless.,
-9435,Our Explorer just stumbled upon something fascinating.,Our Explorer just stumbled upon something fascinating.,
-9436,"Bad news, Commander!","Bad news, Commander!",
-9437,"Commander, good news!","Commander, good news!",
-10480,Retry the challenge,Retry the challenge,
+9429,"Commander, one other thing.","Камандзір, ясчэ адна рэч.",
+9430,A new situation has arisen.,Адбыўся новы выпадак.,
+9431,"Commander, some interesting readings are just in.","Камандзір, некалькі цікавых дадзеных толькі што прыйшлі.",
+9432,"On another note, Commander...","Камандзір, ясчэ адна нататка...",
+9433,Things just took a turn for the weird.,Усё проста стала дзіўным.,
+9434,What just transpired has left us speechless.,"Тое, што зараз адбылося, пакінула нас зьнямелымі.",
+9435,Our Explorer just stumbled upon something fascinating.,Наш РК Выведчык толькі што наткнуўся на нешта захапляльнае.,
+9436,"Bad news, Commander!","Камандзір, дрэнныя навіны!",
+9437,"Commander, good news!","Камадзір, добрыя навіны!",
+10480,Retry the challenge,Паўтарыць выклік,
 10318,"We didn't manage to complete the <challenge_name> challenge within the <challenge_sols> Sols limit.
 
 As a great man famously said, failure is not fatal, it is the courage to continue that counts. Let's take this opportunity to learn from our mistakes and try again.","We didn't manage to complete the <challenge_name> challenge within the <challenge_sols> Sols limit.
@@ -5035,11 +5034,11 @@ The score of our colony is <score>.",
 4823,Upgrade 1,Upgrade 1,
 4824,Upgrade 2,Upgrade 2,
 4825,Upgrade 3,Upgrade 3,
-4826,Pin,Pin,
-5771,The Free Earth Channel,The Free Earth Channel,
+4826,Pin,Мацунак,
+5771,The Free Earth Channel,Канал вольнай Зямлі,
 5769,No Radio,Без радыё,
 5773,The Official Mars Channel,Афіцыйны канал Марсу,
-5772,Red Frontier,Red Frontier,
+5772,Red Frontier,Чырвоная мяжа,
 5858,Expedition Disaster: Marooned In Space,Катастрофа экспэдыцыі: выкінуты ў космас,
 5859,"The RC Explorer is a robust, yet complex machine. Those unacquainted would be astonished when they see the mission reports where dozens of minor breakdowns happened during an expedition and were ignored by the operators. Expedition veterans know that a dead light bulb won't break down the vehicle and they ignore it with a wry smile.
 
@@ -5054,22 +5053,22 @@ But when something as serious as the motor system breaks down, it takes bravery 
 7156,"You’d think the Explorer had found buried treasure, the way our scientists were reacting. It was a sulfur-rich regolith!","Як адрэагавалі нашы навукоўцы, можна палічыць, што Выведчык знайшоў закапаны скарб. Гэта быў багаты серай рэгаліт!",
 5774,"The Explorer vehicle gathered various soil samples from far and wide around the Anomaly site and fed us the data. For hours, the telemetry was filled with buzzing chatter as the scientists at Mission Control discussed the implications of the element and made inventive plans about the future. The time of the expedition was limited and we urged them to make a final decision.","Выведчык сабраў розныя ўзоры глебы здалёк і паўсюль вакол анамаліі й перадаў нам дадзеныя. На працягу некалькіх гадзін тэлеметрыя была напоўнена гудзеньнем лапатні навукоўцаў ЦКМ, дзе абмяркоўвалі наступствы элементу й будавалі вынаходлівыя планы на прышласьць. Час экспедыцыі быў абмежаваны, і мы прапанавалі ім прыняць канчатковае рашэньне.",
 5775,Concentrate effort on gathering as many samples as possible. (<research(1000)>),Засяродзьце намаганьні на зборы як мага большай колькасьці ўзораў. (<research(1000)>),
-5777,Focus on geochemical analysis of the most Sulphide-rich samples. (Reduces the cost of Engineering techs by 10%),Focus on geochemical analysis of the most Sulphide-rich samples. ((Памяншае кошт тэналёгій Інжынэрыі на 10%),
-7159,Our initial spectrographic analysis confirmed it. Chromium. To find such a rich deposit of such a rare metal. Important was an understatement.,Our initial spectrographic analysis confirmed it. Chromium. To find such a rich deposit of such a rare metal. Important was an understatement.,
-5785,"The geological team couldn't wait to get their hands on the samples, but this was going to prevent the engineering team from smelting the materials for their ceaseless operations. The experts at Mission Control argued for hours, but the course of action was clear.","The geological team couldn't wait to get their hands on the samples, but this was going to prevent the engineering team from smelting the materials for their ceaseless operations. The experts at Mission Control argued for hours, but the course of action was clear.",
-5786,Study the Chromium deposit. (Reduces the cost of Engineering techs by 10%),Study the Chromium deposit. (Памяншае кошт тэналёгій Інжынэрыі на 10%),
-5788,Exploit the deposit. (deep Rare Metals deposit),Exploit the deposit. (deep Rare Metals deposit),
-7160,Someone joked we found kryptonite. It was because of the greenish-yellow hue of the beryl crystals. ,Someone joked we found kryptonite. It was because of the greenish-yellow hue of the beryl crystals. ,
+5777,Focus on geochemical analysis of the most Sulphide-rich samples. (Reduces the cost of Engineering techs by 10%),Засяродзьцеся на геахімічным аналізе найбольш багатых сульфідамі узораў. (Памяншае кошт тэналёгій Інжынэрыі на 10%),
+7159,Our initial spectrographic analysis confirmed it. Chromium. To find such a rich deposit of such a rare metal. Important was an understatement.,Наш першапачатковы спэктраграфічны аналіз пацвердзіў гэта. Хром. Знайсьці такое багатае радовішча такога рэдкага металу – такое немагчыма пераацаніць.,
+5785,"The geological team couldn't wait to get their hands on the samples, but this was going to prevent the engineering team from smelting the materials for their ceaseless operations. The experts at Mission Control argued for hours, but the course of action was clear.","Геалагічная група не магла дачакацца, каб дакрануца да ўзораў, але гэта павінна было перашкодзіць камандзе інжынераў выплаўляць матэрыялы для іх бесперапыннай працы. Эксперты ЦКМ спрачаліся гадзінамі, але ход дзеяньняў быў ясны.",
+5786,Study the Chromium deposit. (Reduces the cost of Engineering techs by 10%),Дасьледаваць радовішча хрому. (Памяншае кошт тэналёгій Інжынэрыі на 10%),
+5788,Exploit the deposit. (deep Rare Metals deposit),Здабыць радовішча. (глыбокае радовішча рэдкіх мэталаў),
+7160,Someone joked we found kryptonite. It was because of the greenish-yellow hue of the beryl crystals. ,"Хтосьці пажартаваў, што мы знайшлі крыптаніт. Гэта адбылося з-за зелянява-жоўтага адценьня крышталяў бэрылію.",
 5790,"The contrast with the red Martian dust made them appear almost alien. Even if they wouldn't make any of the Colonists superhuman, they would surely give us almost supernatural powers!
 
 Our plans at Mission Control included the introduction of a long-term nuclear energy solution for the growing Colony, and the Beryllium that we would produce from these minerals would be an immense help in this difficult mission. We would encase the nuclear fuel rods of our nuclear reactors in Beryllium and make a good use of its incredible mechanical, chemical and nuclear properties.
 
-<effect>Reduces the cost of Physics techs by 10%.","The contrast with the red Martian dust made them appear almost alien. Even if they wouldn't make any of the Colonists superhuman, they would surely give us almost supernatural powers!
+<effect>Reduces the cost of Physics techs by 10%.","Кантраст з чырвоным марсіянскім пылам рабіў іх выгляд амаль чужым. Нават калі б яны не зрабілі каго-небудзь з каляністаў звышлюдзьмі, яны напэўна далі б нам амаль  надпрыродную моц!
 
-Our plans at Mission Control included the introduction of a long-term nuclear energy solution for the growing Colony, and the Beryllium that we would produce from these minerals would be an immense help in this difficult mission. We would encase the nuclear fuel rods of our nuclear reactors in Beryllium and make a good use of its incredible mechanical, chemical and nuclear properties.
+Нашы пляны ў цэнтры кіраваньня ўключалі ў сябе доўгатэрміновае рашэньне па ядзернай энэргетыцы для растучай калёніі. Велізарнай дапамогай у гэтай цяжкай місіі будзе бэрылій, які мы пачнем вырабляць з гэтых мінералаў. Мы зробім з ім ядзерныя стрыжні нашых рэактараў, а таксама ужылі б яго неверагодныя мэханічныя, хімічныя й ядзерныя ўласьцівасьці.
 
-<effect>Памяншае кошт тэналёгій Фізітцы на 10%.",
-5791,Awesome!,Awesome!,
+<effect>Памяншае кошт тэхналёгій Фізітцы на 10%.",
+5791,Awesome!,Выдатна!,
 7161,The rover manipulators held the silver-white mineral up to the camera just as the chemical analysis came through. We’ve found Tellurium.,"Маніпулятары марсахода паднеслі серабрыста-белы мінерал да камеры ў той момант, калі прайшоў хімічны аналіз. Мы знайшлі Тэлур.",
 5792,"In a moment, the Chief Engineer at Mission Control was at the communications station, urging instructions to the RC Explorer on how to handle and analyze the discovery. It was amusing to watch the almost childlike excitement in the eyes of the expert.
 
@@ -5079,7 +5078,7 @@ This is a significant discovery because it allows us to overcome an old problem 
 
 Гэта значнае адкрыцьцё, таму што яно дазваляе пераадолець старую праблему ў металургіі. Лёгкія да механічнай апрацоўцы металы дазваляюць эканомна вырабляць кампаненты, але фактары, якія дазваляюць гэта, звычайна зьніжаюць іх прадукцыйнасць, і наадварот. Такім чынам, перад інжынерамі заўсёды стаяла задача знайсьці спосабы збалансаваць два фактары. Даданьне тэлуру ў сплавы жалеза дазваляе ім лепш працаваць у абедзвюх галінах.
 
-<effect>Памяншае кошт тэналёгій Робататэхнітцы на 10%.",
+<effect>Памяншае кошт тэхналёгій Робататэхнітцы на 10%.",
 5793,Great news!,Выдатныя навіны!,
 7163,The probe’s drill had hit one hundred meters before it detected a spike in temperature. The data tells us it was ignited Magnesium compounds.,The probe’s drill had hit one hundred meters before it detected a spike in temperature. The data tells us it was ignited Magnesium compounds.,
 5795,"We are still waiting for confirmation but the preliminary results are clear. There are signs of chemical burning, indicating a combustible material in contact with the probe. The mechanical friction of the drilling head must have ignited the magnesium. What a great discovery!
@@ -5090,7 +5089,7 @@ Scientists on Earth had long planned the creation of jet engines that could burn
 
 Scientists on Earth had long planned the creation of jet engines that could burn the carbon dioxide in the Martian atmosphere with the use of magnesium powder. With abundant amounts on site, the research teams could begin preliminary testing of a working prototype right away!
 
-<effect>Памяншае кошт тэналёгій Робататэхнітцы на 10%.",
+<effect>Памяншае кошт тэхналёгій Робататэхнітцы на 10%.",
 7165,We’ve just confirmed the location of a metal-rich deposit. A drilling accident turned to our advantage.,We’ve just confirmed the location of a metal-rich deposit. A drilling accident turned to our advantage.,
 5797,"We lost a drilling probe while trying to analyze this Anomaly. The signal was suddenly lost and we got the tingling feeling that we would get lucky with the second one. The operators were extra careful and the second insertion revealed a vast network of underground cavities beneath the hard rock plate. On top of that, we managed to get in contact with the first probe which had fallen through in another section of the crust faults. We used the two probes as triangulation points for telemetry and pinpointed the location of the deposit.
 
@@ -5154,7 +5153,7 @@ While all this unscientific sensationalism had outraged our experts, the publici
 7158,"The readings told us it was a vein rich with ore, but the data turned out to be incorrect. Under those fine red sands lay the intact hull of a rover.","The readings told us it was a vein rich with ore, but the data turned out to be incorrect. Under those fine red sands lay the intact hull of a rover.",
 5780,"We immediately recognized it – Curiosity. A historic finding that stretched its hand in a welcoming gesture through the years back to the first missions on the Red Planet. It belonged in a museum, but on the other hand was an opportunity to gain more parts that we could rarely get our hands on. It was a tough decision.","We immediately recognized it – Curiosity. A historic finding that stretched its hand in a welcoming gesture through the years back to the first missions on the Red Planet. It belonged in a museum, but on the other hand was an opportunity to gain more parts that we could rarely get our hands on. It was a tough decision.",
 5781,Send Curiosity back to Earth. (<funding(500000000)> Funding),Send Curiosity back to Earth. (<funding(500000000)> Funding),
-5783,Display it as a monument in the Colony. (Reduces the cost of Social techs by 10%),Display it as a monument in the Colony. (Памяншае кошт тэналёгій Сацыяльных на 10%),
+5783,Display it as a monument in the Colony. (Reduces the cost of Social techs by 10%),Display it as a monument in the Colony. (Памяншае кошт тэхналёгій Сацыяльных на 10%),
 7166,The on-site data validates our predictive models of the electrically-charged dust devils.,The on-site data validates our predictive models of the electrically-charged dust devils.,
 5798,"Science is well aware of the causes of the massive Earth storms, monsoons and tornadoes and yet we never ceased to admire the primeval forces unleashed before our eyes. The same goes for Martian electrostatic dust storms. Our scientists already had a good working model on the behavior of these peculiar weather Anomalies on the Red Planet. Now we can refine this model even further. With the current expedition complete, we can confirm their theory, yet I doubt anyone would ever cease to revere the massive dust storms.
 
@@ -5182,7 +5181,7 @@ One of the best-equipped probe missions to Mars was Beagle 2, which failed drama
 
 One of the best-equipped probe missions to Mars was Beagle 2, which failed dramatically in the last minutes before landing. Failed by the parachutes and the treacherous Martian atmosphere, the brave little probe crashed at fatally high speed against the red desert.
 
-<effect>Памяншае кошт тэналёгій Робататэхнітцы 10%.",
+<effect>Памяншае кошт тэхналёгій Робататэхнітцы 10%.",
 5801,Begin analysis on the crash site.,Begin analysis on the crash site.,
 7173,We’ve just found the wreckage of Phobos-2! The old probe even had some new data for us to analyze.,We’ve just found the wreckage of Phobos-2! The old probe even had some new data for us to analyze.,
 5817,"On July 7th, 1988 the Soviet Union launched two Proton-K rockets carrying the Phobos-1 and Phobos-2 probes on a course to Mars. Of the two craft only Phobos-2 reached its final destination, but contact with it was lost just before it could deliver its precious payload.
@@ -5371,7 +5370,7 @@ Outside the labs however, the cult of the Cubes has gained even more momentum. P
 
 Outside the labs however, the cult of the Cubes has gained even more momentum. People are gathering to wait for what they think would be the coming of God to humanity’s second home.",
 5891,"A culmination seems to be imminent, that’s for certain.","A culmination seems to be imminent, that’s for certain.",
-5892,Power of Three: Solace in Science,Power of Three: Solace in Science,
+5892,Power of Three: Solace in Science,Моц Трох: Спакаеньне ў навуцы,
 7194,We’ve applied the scientific method in every possible way to no avail. Time to try something else.,We’ve applied the scientific method in every possible way to no avail. Time to try something else.,
 5893,"In a moment of brilliance, or possibly desperation, one of the physicists proposed they should try to crack open the structures.
 
@@ -5386,10 +5385,10 @@ The scientists moved the cube matrix inside a non-baryonic shell and proceeded t
 Though we have no explanation for the process, at least we have a way to deal with the cube matrices popping up everywhere. It appears that the exact solution rests on our reason and moderation.
 
 <effect>Cubes can be stored in special sites or destroyed",
-5894,"Piece by piece, we will unravel this enigma.","Piece by piece, we will unravel this enigma.",
-5895,Dark Spectrometry research completed. We can now store and destroy the cubes.,Dark Spectrometry research completed. We can now store and destroy the cubes.,
-5896,Power of Three: Embracing the Unknown,Power of Three: Embracing the Unknown,
-7195,The mystery of the black cubes has consumed our Colonists completely. The reactions are as numerous as they are varied.,The mystery of the black cubes has consumed our Colonists completely. The reactions are as numerous as they are varied.,
+5894,"Piece by piece, we will unravel this enigma.",Мы разгадаем гэту таямніцу частку за часткай.,
+5895,Dark Spectrometry research completed. We can now store and destroy the cubes.,Дасьледаваньне цёмнай спэктраметрыі завершана. Цяпер мы можам захоўваць і зьнішчаць кубы.,
+5896,Power of Three: Embracing the Unknown,Моц Трох: Прыняцьце Невядомага,
+7195,The mystery of the black cubes has consumed our Colonists completely. The reactions are as numerous as they are varied.,Таямніца чорных кубоў цалкам паглынула нашых каляністаў. Рэакцыі шматлікія й разнастайныя.,
 5897,"The Colonists have divided into factions centered around a certain hypothesis about the nature and purpose of the mysterious artifacts.
 
 The excitement about the cubes is evident from the schedules of the weekly hearings in the Colony. The trivial themes such as the quality of the food and the requests for additional scientific funding had completely disappeared, replaced by requests for publicity for each faction’s viewpoint.
@@ -5403,9 +5402,9 @@ The excitement about the cubes is evident from the schedules of the weekly heari
 So far, there are three major camps. The moderate skeptics argue that the truth is hardly within our reach and cubes need to be preserved and stored for further research. The pessimistic ones insist on the destruction of all the cubes, seeing them as a deliberate threat. Then, there are those who hold the firm belief that the cubes are meant to be a gift to humanity from some unknown benevolent entity. They request the cubes to be transported inside the Domes and put on display for everyone to see.
 
 <effect>Decoration Buildings made out of cubes can be constructed.",
-5898,"A gift or a Trojan horse, I wonder...","A gift or a Trojan horse, I wonder...",
-5899,Decorations can be created from the Black Cubes.,Decorations can be created from the Black Cubes.,
-5900,Power of Three: Primal Fear,Power of Three: Primal Fear,
+5898,"A gift or a Trojan horse, I wonder...","Дзіўна... Ці падарунак, ці траянскі конь",
+5899,Decorations can be created from the Black Cubes.,З чорных кубоў можна ствараць ўпрыгажэньні.,
+5900,Power of Three: Primal Fear,Моц Трох:  Першабытны страх,
 7196,We are attempting to make some sort of sense of the laws that govern the cubes’ behavior. But it’s like trying to find a needle in a haystack. In a pitch-black cave. While blindfolded.,We are attempting to make some sort of sense of the laws that govern the cubes’ behavior. But it’s like trying to find a needle in a haystack. In a pitch-black cave. While blindfolded.,
 5901,"Still, our scientists managed to define to some extent why the cubes sometimes materialize inside our buildings. It seems that some cryptic algorithm first sends a pulse of tachyons to the area where the cube will materialize. If the Cherenkov radiation measurements are within certain limits, the cube appears on the spot. Thus, the cubes avoid appearing inside rocks – indeed, none of our scans confirmed that any cube spawned inside of a high-density object.
 
@@ -5416,11 +5415,11 @@ Our structures tend to be much less dense than the monolithic Martian rocks. We 
 Our structures tend to be much less dense than the monolithic Martian rocks. We can modify our sensor towers to create a fake Cherenkov Effect by bombarding the areas around our structures with particles which are harmless to our Colonists, but would still prevent the cubes from threatening our Colony.
 
 <effect>Вежы-сканэры now protect nearby buildings from the Black Cubes",
-5902,A small victory – our efforts continue.,A small victory – our efforts continue.,
+5902,A small victory – our efforts continue.,Невялікая перавага – намаганьні працягваюцца.,
 5903,S.H.E.P.I.D. research completed. Buildings within range of our Sensor Towers will be protected from the cubes.,S.H.E.P.I.D. research completed. Buildings within range of our Вежы-сканэры will be protected from the cubes.,
 5884,We should research the S.H.E.P.I.D. technology to protect the Colony structures from the Black Cubes.,We should research the S.H.E.P.I.D. technology to protect the Colony structures from the Black Cubes.,
 5904,"All cubes on Mars have started to pulsate, counting towards an unknown event.","All cubes on Mars have started to pulsate, counting towards an unknown event.",
-5905,Power of Three: The Countdown,Power of Three: The Countdown,
+5905,Power of Three: The Countdown,Моц Трох: Адлік,
 7988,"Within the hour all the cubes across the Colony started emitting light pulses, sending a wave of panic across the Colony. Even here at Mission Control we found it hard not to worry.","Within the hour all the cubes across the Colony started emitting light pulses, sending a wave of panic across the Colony. Even here at Mission Control we found it hard not to worry.",
 5906,"The photovoltaic effect we observed earlier has completely disappeared. To make things worse, numerous glitches in the drone command software have our technicians scattering to extinguish fires all across the board. It seems that the pulses from the cubes are somehow interfering with the Drone uplink.
 
@@ -5428,11 +5427,11 @@ As reports are flowing in, we can clearly see a trend in the intensification of 
 
 As reports are flowing in, we can clearly see a trend in the intensification of the light pulses. Is this some kind of countdown? And if so, to what?",
 5907,"Just colonizing a new world isn’t interesting enough, it seems.","Just colonizing a new world isn’t interesting enough, it seems.",
-5908,Power of Three: Of Mice & Men,Power of Three: Of Mice & Men,
-7989,Our Colonists want decisive action in dealing with the cubes.,Our Colonists want decisive action in dealing with the cubes.,
+5908,Power of Three: Of Mice & Men,Моц Трох: Мышы ды людзі,
+7989,Our Colonists want decisive action in dealing with the cubes.,Нашы каляністы хочуць рашучых дзеяньняў у дачыненьні да кубоў.,
 5909,"Some of them call for the immediate destruction of all the cubes while others still insist on storing and studying them – as far away from the Domes as possible. And yet, the number of eccentrics worshiping the cubes and erecting monuments with them has grown even larger. Could the cubes be affecting us like they influenced our drones?","Some of them call for the immediate destruction of all the cubes while others still insist on storing and studying them – as far away from the Domes as possible. And yet, the number of eccentrics worshiping the cubes and erecting monuments with them has grown even larger. Could the cubes be affecting us like they influenced our drones?",
-5910,We must not lose focus.,We must not lose focus.,
-5911,Power of Three: Construction Begins,Power of Three: Construction Begins,
+5910,We must not lose focus.,Мы павінны трымаць пільнасьць,
+5911,Power of Three: Construction Begins,Моц Трох: Пачатак збудовы,
 7990,Looks like we're fighting the cubes for the control of our drones. And we are losing that battle.,Looks like we're fighting the cubes for the control of our drones. And we are losing that battle.,
 5912,"Between their usual command cycles, the drones have begun carrying cubes to a specific location and seem to be constructing a strange structure.
 
@@ -5447,9 +5446,9 @@ Diagnostics on the drone software and hardware reveal no clues for any reprogram
 Mission Control advises all personnel to brace for the unknown.
 
 <effect>Some Drones are constructing a mystery building with the cubes.",
-5913,At least our Drones aren't attacking us yet.,At least our Drones aren't attacking us yet.,
-5914,Affected Drones are building something of alien design.,Affected Drones are building something of alien design.,
-5915,Unknown Construction,Unknown Construction,
+5913,At least our Drones aren't attacking us yet.,"Прынамсі нашыя дроны не атакуюць нас, пакуль.",
+5914,Affected Drones are building something of alien design.,Закранутыя дроны будуюць нешта іншаплянетнае.,
+5915,Unknown Construction,Невядомае збудаваньне,
 5916,Drones influenced by the cubes have started the construction of a Mega Monolith.,Drones influenced by the cubes have started the construction of a Mega Monolith.,
 7991,"Once completed, the monument emitted a pulse of all-encompassing energy and we all experienced a single collective dream! Or memory? ","Once completed, the monument emitted a pulse of all-encompassing energy and we all experienced a single collective dream! Or memory? ",
 5918,"Eons ago, while Earth was still a molten world, Mars had already been a teeming, living world covered by oceans and forests. This long-forgotten Mars was the home for a sentient race which quickly mastered their primitive urges and reached technological peaks yet to be conquered by humankind.
@@ -5461,7 +5460,7 @@ The robust Black Cubes lay in wait on the Red Planet for a meeting of the minds.
 We witnessed the astonishing evolution of the Ancients and the countless metamorphoses they experienced until they reached a state of existence which allowed them to transcend the boundaries of the material form. Without worrying about resources or lifespan, they traversed the universe, leaving their home behind. But they have not forgotten it.
 
 The robust Black Cubes lay in wait on the Red Planet for a meeting of the minds. Our actions here were detected by the semi-sentient algorithm which controlled the cubes and triggered the message left by the Ancients. Some of the accounts given by our personnel describe being talked to in a language both familiar and thoroughly alien, while others describe being shown images most vivid and influencing. Some would even account for experiencing a sort of judgment. The essence of the information was, however, without exception, the same.",
-5919,"I saw it, too...","I saw it, too...",
+5919,"I saw it, too...",Таксама бачыў...,
 7992,"The Ancients were pleased to see we had reacted with restraint and curiosity, trying to understand the unknown phenomenon instead of fearing it. ","The Ancients were pleased to see we had reacted with restraint and curiosity, trying to understand the unknown phenomenon instead of fearing it. ",
 5920,"Judging from their own history, they assume this was not necessarily an easy thing to do.
 
@@ -5511,37 +5510,37 @@ Not quite sure what to make of this, they express hope we will retain our creati
 5929,We didn't get to the bottom of the mystery of the Black Cubes. Perhaps more decisive action was needed.,We didn't get to the bottom of the mystery of the Black Cubes. Perhaps more decisive action was needed.,
 7197,<red>The mystery of the Cubes remains unresolved</red>,<red>The mystery of the Cubes remains unresolved</red>,
 5930,Power of Three: For the Generations to Witness,Power of Three: For the Generations to Witness,
-7996,The cubes can’t be ignored. ,The cubes can’t be ignored. ,
+7996,The cubes can’t be ignored. ,Нельга ігнараваць кубы.,
 5931,"It would be irresponsible to mismanage the situation and leave public opinion to sway back and forth on the matter.
 
 With the current state of events we lack sufficient data to judge the purpose of the cubes. It could take years if not generations of scientific research to reach a conclusion on that subject. Until then, we will attempt to control the erratic spread of the cubes which hampers our resources and colonization operations by storing them away in a convenient manner.","It would be irresponsible to mismanage the situation and leave public opinion to sway back and forth on the matter.
 
 With the current state of events we lack sufficient data to judge the purpose of the cubes. It could take years if not generations of scientific research to reach a conclusion on that subject. Until then, we will attempt to control the erratic spread of the cubes which hampers our resources and colonization operations by storing them away in a convenient manner.",
-5932,Only time will tell if we are right.,Only time will tell if we are right.,
-5933,Power of Three: Might Makes Right,Power of Three: Might Makes Right,
-7997,The primary goal of our mission is the permanent colonization of Mars. Any potential threat to humanity’s pioneers is to be eliminated.,The primary goal of our mission is the permanent colonization of Mars. Any potential threat to humanity’s pioneers is to be eliminated.,
-5934,"We will attempt to remove all the cubes from our immediate area. A decision as serious as this required a consensus, which was reached through a vote at Mission Control. The public may deem this decision wrong, but we cannot place the fate of the entire Colony on our desire to wait it out. History had taught us that the inability to act often results in disaster. The destruction of cubes will proceed as planned.","We will attempt to remove all the cubes from our immediate area. A decision as serious as this required a consensus, which was reached through a vote at Mission Control. The public may deem this decision wrong, but we cannot place the fate of the entire Colony on our desire to wait it out. History had taught us that the inability to act often results in disaster. The destruction of cubes will proceed as planned.",
-5935,"Humanity will prevail, no matter the cost.","Humanity will prevail, no matter the cost.",
-5936,Power of Three: Cult of Tomorrow,Power of Three: Cult of Tomorrow,
-7998,The idea that we are not alone in the universe and could become part of a bigger whole has swept over the Colony.,The idea that we are not alone in the universe and could become part of a bigger whole has swept over the Colony.,
+5932,Only time will tell if we are right.,Толькі час пакажа ці мае мы рацыю,
+5933,Power of Three: Might Makes Right,Моц Трох: Моц мае рацыю,
+7997,The primary goal of our mission is the permanent colonization of Mars. Any potential threat to humanity’s pioneers is to be eliminated.,Галоўная мэта нашай місіі - калёнізацыя Марсу. Любая магчымая пагроза першапраходцам чалавецтву павінна быць ліквідавана.,
+5934,"We will attempt to remove all the cubes from our immediate area. A decision as serious as this required a consensus, which was reached through a vote at Mission Control. The public may deem this decision wrong, but we cannot place the fate of the entire Colony on our desire to wait it out. History had taught us that the inability to act often results in disaster. The destruction of cubes will proceed as planned.","Мы паспрабуем пазбавіцца ад усіх кубоў з нашай тэрыторыі й побач. Такое сур'ёзнае рашэньне патрабавала згоджаньня, якое дасягнута ў выніку галасаваньня ў ЦКМ. Грамадства можа палічыць гэтае рашэньне памылковым, але мы не можам зьвязваць лёс усёй калёніі з жаданьнем яго чакаць. Гісторыя навучыла нас, што няздольнасьць дзейнічаць часта прыводзіць да катастрофы. Разбурэньне кубоў будзе ісьці як сплянавана.",
+5935,"Humanity will prevail, no matter the cost.","Чалавецтва пераважа, незалежна ад кошту.",
+5936,Power of Three: Cult of Tomorrow,Моц трох: Культ Заўтрашняга дню,
+7998,The idea that we are not alone in the universe and could become part of a bigger whole has swept over the Colony.,"Ідэя, што мы не адны ў сусьвеце й можам стаць часткай большага й адзіннага ахапіла калёнію.",
 5937,"To disregard the desires of our Colonists would be a monstrous, autocratic act.
 
-Mission Control has officially allowed the creation of a series of monuments dedicated to the Higher Truth proclaimed by some of our most active Colonists. We must look into ourselves and at our history as a species – denying the possibility that these people are right would mean that we are no better than the fanatics who burned visionaries at the pyres because of their beliefs.","To disregard the desires of our Colonists would be a monstrous, autocratic act.
+Mission Control has officially allowed the creation of a series of monuments dedicated to the Higher Truth proclaimed by some of our most active Colonists. We must look into ourselves and at our history as a species – denying the possibility that these people are right would mean that we are no better than the fanatics who burned visionaries at the pyres because of their beliefs.","Ігнараваць прагу нашых каляністаў было б жахлівым, аўтакратычным учынкам.
 
-Mission Control has officially allowed the creation of a series of monuments dedicated to the Higher Truth proclaimed by some of our most active Colonists. We must look into ourselves and at our history as a species – denying the possibility that these people are right would mean that we are no better than the fanatics who burned visionaries at the pyres because of their beliefs.",
-5938,It would be tyranny to forbid this.,It would be tyranny to forbid this.,
-5939,Power of Three: Singularity Imminent,Power of Three: Singularity Imminent,
-7198,The argument was that hindering the construction of the Mega-Monument would give us enough time to prepare for any possible risks. The argument was wrong.,The argument was that hindering the construction of the Mega-Monument would give us enough time to prepare for any possible risks. The argument was wrong.,
+Кіраваньне місіяй афіцыйна дазволіла стварэньне сэрыі помнікаў, прысьвечаных Вышэйшай Ісьціне, абвешчанай некаторымі з нашых найбольш актыўных каляністаў. Мы павінны паглядзець на сябе й на сваю гісторыю як роду - адмаўленьне мажлівай рацыі гэтых людзей, азначала б, што мы не лепшыя за фанатыкаў, якія спальвалі празорцаў на вогнішчах з-за іх веру.",
+5938,It would be tyranny to forbid this.,Было б тыраніяй забараніць гэта.,
+5939,Power of Three: Singularity Imminent,Моц трох: Непазьбежная сінгулярнасьць,
+7198,The argument was that hindering the construction of the Mega-Monument would give us enough time to prepare for any possible risks. The argument was wrong.,"Довад, што перашкода будаўніцтву Мега-помніка дасьць нам дастаткова часу, каб падрыхтавацца да любых магчымых рызык, відавочна, быў памылковым.",
 5940,"The obscure algorithm or – perish the thought! - the intelligence directing the construction has commanded otherwise. Within mere hours, the super-structure dematerialized, decaying to its basic components, and reappeared, commanding our drones to proceed with its construction anew.
 
 The creators of the structure definitely want us to finish their plan. The potential risk from yesterday has now become a tangible menace and I don't believe that anyone in the Colony lives under the illusion that it is avoidable.
 
-<effect>All Colonists suffer Sanity loss due to the threatening behavior of the Mega-Monument Construction.","The obscure algorithm or – perish the thought! - the intelligence directing the construction has commanded otherwise. Within mere hours, the super-structure dematerialized, decaying to its basic components, and reappeared, commanding our drones to proceed with its construction anew.
+<effect>All Colonists suffer Sanity loss due to the threatening behavior of the Mega-Monument Construction.","Незразумелы алгарытм ці... – згінь думка! - розум, кіраваўшы будаўніцтвам, загадаў інакш. На працягу ўсяго некалькіх гадзін супэрструктура зьнікла, распадаючыся на складнікі, і з'явілася ізноў, загадаўшы нашым дронам працягваць яе будаўніцтва нанова.
 
-The creators of the structure definitely want us to finish their plan. The potential risk from yesterday has now become a tangible menace and I don't believe that anyone in the Colony lives under the illusion that it is avoidable.
+Стваральнікі канструкцыі безумоўна хочуць каб мы давялі іх плян да канца. Магчымая небясьпека ўчорашняга дню цяпер стала адчувальнай пагрозай, і я не веру, што хто-небудзь у калёніі жыве ў ілюзіі, што гэтага можна пазьбегнуць. 
 
-<effect>All Colonists suffer Sanity loss due to the threatening behavior of the Mega-Monument Construction.",
-5941,Ominous news. We must be ready for anything.,Ominous news. We must be ready for anything.,
+<effect>Усе каляністы губляюць разважлівасьць з-за пагрозлівых паводзін будаўніцтву мэга-помніка.",
+5941,Ominous news. We must be ready for anything.,Злавесныя навіны. Мы павінны быць падрыхтованы да ўсяго.,
 5942,Meteors incoming from the Koronis asteroid cluster are about to intercept the Earth and Mars orbits.,"Метэоры, якія паступаюць ад кластару астэроідаў Караніса, зьбіраюцца перахапіць арбіты Зямлі й Марсу.",
 5943,The Dredger that lands excavates something from the planet's surface. Sending an expedition crew to analyze this location will shed light on the Dredgers' behavior.,"Драгер, які прызямліўся, выкопвае нешта з паверхні планеты. Адпраўка экіпажу экспэдыцыі для аналізу гэтага мейсцу пралье сьвятло на паводзіны Драгеру.",
 5944,Dredger Encounter: Alpha,Спатканьне з Драгерам: Альфа,
@@ -5646,17 +5645,17 @@ The object demonstrated no interest in the activities of the rover. The scientis
 7456,Our science team is busy with the scant remains of the destroyed Dredger.,Our science team is busy with the scant remains of the destroyed Dredger.,
 5972,"The spectacular explosion revealed that the Dredger lacks mechanical components, its warped internal components resembling organs more than devices. The mysteries behind such a technology have already inspired some of our greatest minds. The Head Scientist called this the project of the century and one can clearly hear the excitement in his voice.
 
-<effect>The Dredger Wavelength Decoding technology cost is reduced by 50%.","The spectacular explosion revealed that the Dredger lacks mechanical components, its warped internal components resembling organs more than devices. The mysteries behind such a technology have already inspired some of our greatest minds. The Head Scientist called this the project of the century and one can clearly hear the excitement in his voice.
+<effect>The Dredger Wavelength Decoding technology cost is reduced by 50%.","Эфэктны выбух высьвятліў, што ў Драгера жадных механічных кампанентаў. Ягонны ўнутраны склад больш нагадвае органы за прылады. Таямніцы такой тэхнолёгіі ўжо натхнілі некаторых з нашых найвялікшых розумаў. Галоўны вучоны назваў гэты праект стагоддзя й у яго голасе добра чуваць хваляваньне.
 
-<effect>The Dredger Wavelength Decoding technology cost is reduced by 50%.",
-5973,Keep up the good work.,Keep up the good work.,
-5971,The Dredgers: The Chinese Puzzle,The Dredgers: The Chinese Puzzle,
-7457,An RC Explorer just brought in materials salvaged from another destroyed Dredger.,An RC Explorer just brought in materials salvaged from another destroyed Dredger.,
+<effect>Тэхнолёгія дакэдаваньня перадач Драгераў зьніжана на 50%.",
+5973,Keep up the good work.,Працягвайце.,
+5971,The Dredgers: The Chinese Puzzle,Драгеры: Кітайская галаваломка,
+7457,An RC Explorer just brought in materials salvaged from another destroyed Dredger.,РК Выведчык прывёз матэрыялы сабраныя з зьнішчанага Драгера.,
 5974,"More samples would allow our scientists to apply more aggressive experimentation and analytical methods, speeding up their work immensely.
 
-<effect>The Dredger Wavelength Decoding technology cost is reduced by 50%.","More samples would allow our scientists to apply more aggressive experimentation and analytical methods, speeding up their work immensely.
+<effect>The Dredger Wavelength Decoding technology cost is reduced by 50%.","Больш узораў дазволіць нашым навукоўцам выкарыстоўваць больш агрэсыўныя дасьледваньні й мэтады аналізу для спрытнай працы.
 
-<effect>The Dredger Wavelength Decoding technology cost is reduced by 50%.",
+<effect>Тэхнолёгія дакэдаваньня перадач Драгераў зьніжана на 50%.",
 5975,The Dredgers: Convergence,Драгеры: Зьбежнасьць,
 7458,"Mission Control, we’re receiving a priority transmission from Earth.","ЦКМ, зь Зямлі паступая прыярытэтная перадача.",
 5976,"Several hours ago, the LINEAR and CSS programs detected an incoming cluster of meteorites from the asteroid belt. Their trajectories are likely to converge with the Martian orbit. Meteor impacts are likely to intensify during the course of the next few weeks.
@@ -5869,8 +5868,8 @@ Your influence will aid the Colony greatly.
 <effect> Public opinion for Mars Alpha increased. Additional <reg_param1> Applicants are available.",
 6043,I feel like a rock star.,I feel like a rock star.,
 6044,Millions of people on Earth were inspired by the press-conference and more and more Applicants are willing to colonize Mars.,Millions of people on Earth were inspired by the press-conference and more and more Applicants are willing to colonize Mars.,
-6045,The Dredgers: Darkened Skies,The Dredgers: Darkened Skies,
-7478,Warning! We’ve got a red alert!,Warning! We’ve got a red alert!,
+6045,The Dredgers: Darkened Skies,Драгеры: Змрочныя нябёсы,
+7478,Warning! We’ve got a red alert!,Увана! Чырвоная трывога!,
 6046,"The scanners have gone crazy with the signatures of dozens of Dredgers heading our way. The Dredger transmissions repeat a signal we can interpret only as “urgency eat/dig”. On the screen they look like a swarm of locusts and we presume their goal is similar.
 The mission sponsor has authorized a forceful response.
 
@@ -5879,19 +5878,19 @@ The mission sponsor has authorized a forceful response.
 
 <effect>Multiple Dredgers detected! They will arrive within <text_param1> Sols.",
 7199,5,5,
-6047,Multiple Dredgers are bound to land on Mars and harvest our resources!,Некалькі Драгераў павінны прызямліцца на Марсе й здабыць нашы рэсурсы!,
+6047,Multiple Dredgers are bound to land on Mars and harvest our resources!,Шмат Драгераў плянуць сесьці на Марсе й здабыць нашы рэсурсы!,
 6049,"As sudden as they fell upon us, the alien vessels are taking off all at once. Our scientists are just starting to estimate the exact amount of precious resources that have been irreparably lost, but the preliminary reports are promising. We've survived!
 
 Pleased with our performance, the monitoring council of our sponsor offered us their financial support as a stimulus.
 
-<effect>You destroyed <reg_param1> Dredgers during the mass landing. Based on the Dredgers destroyed, the mission sponsor provided a bounty of <funding(reg_param2)> Funding.","As sudden as they fell upon us, the alien vessels are taking off all at once. Our scientists are just starting to estimate the exact amount of precious resources that have been irreparably lost, but the preliminary reports are promising. We've survived!
+<effect>You destroyed <reg_param1> Dredgers during the mass landing. Based on the Dredgers destroyed, the mission sponsor provided a bounty of <funding(reg_param2)> Funding.","Гэтак жа раптоўна, як яны абрынуліся на нас, іншаплянетныя караблі ўзлятаюць усе адразу. Нашы навукоўцы толькі пачынаюць падлічваць дакладную колькасьць каштоўных рэсурсаў, якія былі беззваротна страчаны, але папярэднія справаздачы шматабяцальны. Мы выжылі!
 
-Pleased with our performance, the monitoring council of our sponsor offered us their financial support as a stimulus.
+Задаволены нашымі посьпехамі, назіральная рада нашага фундатару прапанавала нам фінансавую падтрымку ў якасьці стымулу.
 
-<effect>Вы зьнішчылі <reg_param1> Драгераў падчас масавай пасадкі. Улічваючы зьнішчаных Драгераў, фундатар місіі выдзеліў узнагароду ў памеры <funding(reg_param2)>.",
+<effect>Вы зьнішчылі <reg_param1> Драгераў падчас масавай пасадкі. Улічваючы зьнішчаных Драгераў, фундатар місіі выдзяліў узнагароду ў памеры <funding(reg_param2)>.",
 6050,We’ll do it again if we have to!,Калі спатрэбіцца,
 6048,The Dredgers: Darkened Skies – Debrief,Драгеры: Змрочныя нябёсы – Вынікі,
-7479,"Mission Control, the Dredgers are retreating!","Mission Control, the Dredgers are retreating!",
+7479,"Mission Control, the Dredgers are retreating!","Цэнтр кіраваньня, Драгеры адыходзяць!",
 6051,"As sudden as they fell upon us, the alien vessels are taking off all at once. Our scientists estimate they extracted a significant amount of materials from below the surface. This is a serious threat to the viability of our Colony and the monitoring council of our sponsor took that in mind. They offered us a small sum as a disaster relief, but from the subtle remarks in their message we can tell they are not happy with the situation.
 
 <effect>You've gained <funding(reg_param1)> Funding as disaster relief.","As sudden as they fell upon us, the alien vessels are taking off all at once. Our scientists estimate they extracted a significant amount of materials from below the surface. This is a serious threat to the viability of our Colony and the monitoring council of our sponsor took that in mind. They offered us a small sum as a disaster relief, but from the subtle remarks in their message we can tell they are not happy with the situation.
