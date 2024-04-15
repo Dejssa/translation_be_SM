@@ -3867,41 +3867,41 @@ This troublesome rumor deters many valuable candidates from coming to the new fr
 Гэтыя трывожныя чуткі стрымліваюць шмат каштоўных кандыдатаў ад прыходу да новай мяжы - і гэта людзі, якія нам вельмі патрэбныя для выкананьня вялікай місіі калёнізацыі Марсу й набліжэньня нашага бачаньня прышласьці.
 
 <hint> Штораз, калі каляніст загінае не натуральна, <ApplicantsLostOnColonistDeath> кандыдаты пакідаюць  leave the pool.",
-7788,A Mission In Jeopardy,A Mission In Jeopardy,
-8124,The recent Colonist deaths are a worrisome trend which cannot be ignored!,The recent Colonist deaths are a worrisome trend which cannot be ignored!,
+7788,A Mission In Jeopardy,Місія пад пагрозай,
+8124,The recent Colonist deaths are a worrisome trend which cannot be ignored!,"Нядаўнія сьмерці каляністаў - гэта трывожная тэндэнцыя, якую нельга ігнараваць!",
 7736,"The dwindling resources on our planet, overpopulation and environmental crisis, as well as the risk of a global-scale Armageddon create a powerful argument for anyone doubting the importance of our mission.
 
 It is a well understood fact that it’s a matter of “when” not “if” for a major extinction event to happen. Having a self-sustaining population on a world other than Earth when the time comes should drastically increase humankind’s odds of survival.
 
-<goal><objective>","The dwindling resources on our planet, overpopulation and environmental crisis, as well as the risk of a global-scale Armageddon create a powerful argument for anyone doubting the importance of our mission.
+<goal><objective>","Зьмяншэньне рэсурсаў на нашай плянеце, перанаселенасьць і экалягічны крызіс, а тым больш рызыка глабальнага Армагедону ствараюць важкі довад тым, хто сумняваецца ў важнасьці нашай місіі.
 
-It is a well understood fact that it’s a matter of “when” not “if” for a major extinction event to happen. Having a self-sustaining population on a world other than Earth when the time comes should drastically increase humankind’s odds of survival.
+Добра вядомы факт, што сур'ёзнае зьнікненне залежыць не ад «можа», а «аднойчы». Наяўнасьць самадастатковага насельніцтва ў іншым сьвеце, акрамя Зямлі, калі прыйдзе час, павінна рэзка павялічыць шанцы чалавецтва на выжываньне.
 
 <goal><objective>",
-8125,Scientists and visionaries have promoted the idea of “Humanity as a multi-planetary species” as the only way to prevent a possible mass extinction.,Scientists and visionaries have promoted the idea of “Humanity as a multi-planetary species” as the only way to prevent a possible mass extinction.,
+8125,Scientists and visionaries have promoted the idea of “Humanity as a multi-planetary species” as the only way to prevent a possible mass extinction.,Навукоўцы й празорцы працісквалі ідэю «Чалавецтва як шматплянетнага роду» як адзіны спосаб прадухіліць магчымае масавае выміраньне.,
 7738,"But this failure shouldn't throw us into despair. We still have to strive to create a stable, self-sustaining foothold from which humanity would reach the stars and conquer them.
 
-<effect>Mission Evaluation objective failed - you have <count> Colonists out of <target> present on the planet. Final Score: <Score>.","But this failure shouldn't throw us into despair. We still have to strive to create a stable, self-sustaining foothold from which humanity would reach the stars and conquer them.
+<effect>Mission Evaluation objective failed - you have <count> Colonists out of <target> present on the planet. Final Score: <Score>.","Але гэтая няўдача не павінна ўводзіць нас у роспач. Мы павінны імкнуцца да стварэньня стабільнай, самадастатковай апоры, з якой чалавецтва дасягнула б зорак і заваявала іх.
 
-<effect>Mission Evaluation objective failed - you have <count> Colonists out of <target> present on the planet. Final Score: <Score>.",
-8126,"We have to admit that we failed to accomplish one of the main goals set before our mission. Sadly, we underestimated the difficulties of sustaining a large population on the Red Planet.","We have to admit that we failed to accomplish one of the main goals set before our mission. Sadly, we underestimated the difficulties of sustaining a large population on the Red Planet.",
+<effect>Мэта місіі не выканана – вы маеце <count> каляністаў з <target> на плянеце. Вынік: <Score>.",
+8126,"We have to admit that we failed to accomplish one of the main goals set before our mission. Sadly, we underestimated the difficulties of sustaining a large population on the Red Planet.","Трэба прызнаць, што мы не выканалі адну з галоўных мэт, пастаўленых перад нашай місіяй. На жаль, мы недаацанілі цяжкасьці ўтрыманьня вялікай колькасьці насельніцтва на Чырвонай планеце.",
 7739,"Even that we didn't surpass the expectations, the stable trends of development of the colony are encouraging.
 
 Our achievement is still a tremendous success – we did something which no one imagined to be possible. The Colony would now be a symbol of hope and new beginning, a proof that humanity would persevere and live on regardless of the challenges we face.
 
-<effect> Mission Evaluation objective completed - you have <count> Colonists out of <target> present on the planet. Final Score: <Score>.","Even that we didn't surpass the expectations, the stable trends of development of the colony are encouraging.
+<effect> Mission Evaluation objective completed - you have <count> Colonists out of <target> present on the planet. Final Score: <Score>.","Нягледзячы на тое, што мы не дасягнулі чаго чакалі, стабільныя кірунак разьвіцьця калёніі абнадзейвае.
 
-Our achievement is still a tremendous success – we did something which no one imagined to be possible. The Colony would now be a symbol of hope and new beginning, a proof that humanity would persevere and live on regardless of the challenges we face.
+Наша дасягненьне па-ранейшаму з'яўляецца велізарным посьпехам - мы зрабілі тое, што ніхто не мог сабе ўявіць. Цяпер калёнія будзе сімвалам надзеі й новага пачатку, доказам таго, што чалавецтва трывае й будзе жыць, незалежна ад праблем, з якімі мы сутыкаемся.
 
-<effect> Mission Evaluation objective completed - you have <count> Colonists out of <target> present on the planet. Final Score: <Score>.",
-8127,As the Evaluation Day dawns upon us we can clearly say that the mission to Mars was a success.,As the Evaluation Day dawns upon us we can clearly say that the mission to Mars was a success.,
+<effect> Мэта ацэнкі місіі выканана – вы маеце <count> каляністаў з <target> на плянеце. Вынік: <Score>.",
+8127,As the Evaluation Day dawns upon us we can clearly say that the mission to Mars was a success.,"З надыходам дня ацэнкі мы можам выразна сказаць, што місія на Марс была пасьпяховай.",
 7740,"We managed not only to achieve our goals, but also to surpass all expectations as the size of our current Colony is far beyond the initial estimations. This day will be marked in human history by the importance of our accomplishment – we secured the future of humankind as interplanetary species. The Colony would now be a symbol of hope and new beginning, a proof that humanity would persevere and live on regardless of the challenges we face.
 
-<effect> Mission Evaluation objective completed - you have <count> Colonists out of <target> present on the planet. Final Score: <Score>.","We managed not only to achieve our goals, but also to surpass all expectations as the size of our current Colony is far beyond the initial estimations. This day will be marked in human history by the importance of our accomplishment – we secured the future of humankind as interplanetary species. The Colony would now be a symbol of hope and new beginning, a proof that humanity would persevere and live on regardless of the challenges we face.
+<effect> Mission Evaluation objective completed - you have <count> Colonists out of <target> present on the planet. Final Score: <Score>.","Мы змаглі ня толькі дасягнуць мэт, але й перасягнуць усе чаканьні, паколькі памер нашай цяперашняй калёніі значна перавышае першапачатковыя ацэнкі. Гэты дзень будзе адзначаны ў гісторыі чалавецтва важнасьцю нашага дасягненьня - мы забясьпечылі будучыню чалавецтва як міжпланетнага роду. Цяпер калёнія будзе сімвалам надзеі й новага пачатку, доказам таго, што чалавецтва трывае й будзе жыць, незалежна ад праблем, з якімі мы сутыкаемся.
 
-<effect> Mission Evaluation objective completed - you have <count> Colonists out of <target> present on the planet. Final Score: <Score>.",
-7735,Mission Evaluation: The Exodus,Mission Evaluation: The Exodus,
-8128,Congratulations! Everyone at Mission Control rejoices as the Colony has been marked as “extremely successful” in the Evaluation Report.,Congratulations! Everyone at Mission Control rejoices as the Colony has been marked as “extremely successful” in the Evaluation Report.,
+<effect>Мэта ацэнкі місіі выканана – вы маеце <count> каляністаў з <target> на плянеце. Вынік: <Score>.",
+7735,Mission Evaluation: The Exodus,Ацэнка місіі: Зыход,
+8128,Congratulations! Everyone at Mission Control rejoices as the Colony has been marked as “extremely successful” in the Evaluation Report.,"Віншаваньне! Усе супрацоўнікі кіраваньня місіяй рады таму, што калёнія была адзначана як «надзвычай пасьпяховая» ў справаздачы аб ацэнцы.",
 7742,"New horizons open new possibilities. Mars can be viewed as a blank canvas – a hostile, uncultivated place where humanity can start anew. A fresh start needs new people – people born on Mars, raised in a society where people cooperate and fight the odds instead of each other.
 
 <goal><objective>","New horizons open new possibilities. Mars can be viewed as a blank canvas – a hostile, uncultivated place where humanity can start anew. A fresh start needs new people – people born on Mars, raised in a society where people cooperate and fight the odds instead of each other.
@@ -3933,7 +3933,7 @@ The path ahead of us is rough and uncertain, but who knows, maybe one day the pe
 The path ahead of us is rough and uncertain, but who knows, maybe one day the people on Earth would admire the achievements of the Martians in awe, learning from them.
 
 <effect> Mission Evaluation objective completed - you have <count> Martianborn Colonists present on the planet out of the target <target>. Final Score: <Score>.",
-7741,Mission Evaluation: A Fresh Start,Mission Evaluation: A Fresh Start,
+7741,Mission Evaluation: A Fresh Start,Ацэнка місіі: Новы пачатак,
 8132,The Mission Evaluation period is over and it’s not wrong to say that we managed to outdo ourselves.,The Mission Evaluation period is over and it’s not wrong to say that we managed to outdo ourselves.,
 7747,"A new era of scientific discovery is ahead of us and we are the ones who are blessed with the opportunity to be on Mars – a completely new territory where new scientific discoveries lie behind the corner. We’re talking about new ideas which would sweep the human minds and the market and give us a tremendous head start in the future.
 
@@ -3962,82 +3962,82 @@ The primary reason behind the creation of this Colony is scientific and this is 
 <effect> Mission Evaluation objective completed - you have <count> researched Technologies out of the target <target>! Final Score: <Score>.","What’s more important is that we demonstrated to the world that the future is really just behind the corner. Our brightest minds have become icons of prosperity and progress, paving the way for future generations to create a better tomorrow – on Mars, on Earth or any other place in the Universe!
 
 <effect> Mission Evaluation objective completed - you have <count> researched Technologies out of the target <target>! Final Score: <Score>.",
-7746,Mission Evaluation: New Dawn,Mission Evaluation: New Dawn,
-8136,Our contribution towards the scientific advancement of humankind will be forever remembered. The Evaluation Day report shows accomplishments beyond even our wildest expectations.,Our contribution towards the scientific advancement of humankind will be forever remembered. The Evaluation Day report shows accomplishments beyond even our wildest expectations.,
+7746,Mission Evaluation: New Dawn,Ацэнка місіі: Новы сьвітанак,
+8136,Our contribution towards the scientific advancement of humankind will be forever remembered. The Evaluation Day report shows accomplishments beyond even our wildest expectations.,"Наш уклад у навуковы прагрэс чалавецтва застанецца ў памяці назаўжды. Дзень справаздачы аб ацэнцы паказвае дасягненьні, якія пераўзыходзяць нават нашы сьмелыя чаканьні.",
 7737,OK,Згода,
 7752,"Our nature is one of discovery and novelty – our curiosity will never be satisfied. To this we owe much of our civilization’s prosperity and progress.
 
 Exploring the mysteries beyond our world caters to the best in us and by capturing our collective imagination as a species, we bring the focus back to what we can accomplish together instead of bickering and fighting amongst each other.
 
-<goal><objective>","Our nature is one of discovery and novelty – our curiosity will never be satisfied. To this we owe much of our civilization’s prosperity and progress.
+<goal><objective>","Адкрыцьцё й навізна - наша натура, наша цікаўнасьць ніколі не будзе наталяна. Гэтаму мы шмат у чым удзячны за росквіт і прагрэс нашай цывілізацыі.
 
-Exploring the mysteries beyond our world caters to the best in us and by capturing our collective imagination as a species, we bring the focus back to what we can accomplish together instead of bickering and fighting amongst each other.
+Дасьледуючы таямніцы па-за межамі нашага сьвету, мы гадуе лепшае ў нас і, аб'ядноўвае наша ўяўленне, мы вяртаем увагу да таго, чаго мы можам дасягнуць разам, замест таго, каб сварыцца й змагацца адзін з адным.
 
 <goal><objective>",
-8137,"We are all descendants of those who dared to look beyond the nice, cozy valley they inhabited and enter a world full of mystery and wonder. ","We are all descendants of those who dared to look beyond the nice, cozy valley they inhabited and enter a world full of mystery and wonder. ",
+8137,"We are all descendants of those who dared to look beyond the nice, cozy valley they inhabited and enter a world full of mystery and wonder. ","Усе мы нашчадкі тых, хто адважыўся зазірнуць за межы прыгожай, утульнай даліны, у якой жылі, каб увайсьці ў сьвет, поўны таямніц і цудаў.",
 7753,"The planet turned out to be even more hostile and uninviting than we thought, thwarting any attempts to make a breakthrough in its exploration.
 
 It seems that Mars will continue to be an uncharted territory for the next generations to explore. What matters now is to turn our failure into success by making sure that the Colony is a good starting point for these crews and expeditions that would set off into the red deserts to satisfy their wanderlust.
 
-<effect>Mission Evaluation objective failed – you have analyzed <count> Anomalies out of the target <target>. Final score: <Score>.","The planet turned out to be even more hostile and uninviting than we thought, thwarting any attempts to make a breakthrough in its exploration.
+<effect>Mission Evaluation objective failed – you have analyzed <count> Anomalies out of the target <target>. Final score: <Score>.","Плянета аказалася яшчэ больш варожай і непрывабнай за як мы лічылі, зрываючы любыя спробы зрабіць прарыў у яе дасьледаваньні.
 
-It seems that Mars will continue to be an uncharted territory for the next generations to explore. What matters now is to turn our failure into success by making sure that the Colony is a good starting point for these crews and expeditions that would set off into the red deserts to satisfy their wanderlust.
+Здаецца, Марс застанецца нязьведанай тэрыторыяй для вывучэньня наступнымі пакаленьнямі. Цяпер важна ператварыць нашу няўдачу ў посьпех, пераканаўшыся, што калёнія з'яўляецца добрым пунктам пачатку для экіпажаў і экспедыцый, якія адправяцца ў чырвоныя пустыні, каб наталіць сваю прагу да вандровак.
 
-<effect>Mission Evaluation objective failed – you have analyzed <count> Anomalies out of the target <target>. Final score: <Score>.",
-8138,The Mission Evaluation report confirms what we knew – the target goals were far off from the very beginning.,The Mission Evaluation report confirms what we knew – the target goals were far off from the very beginning.,
+<effect> Мэта ацэнкі місіі не выканана - вы прааналізавалі <count> анамаліі з <target>. Вынік: <Score>.",
+8138,The Mission Evaluation report confirms what we knew – the target goals were far off from the very beginning.,"Справаздача аб ацэнцы місіі пацьвярджае, што мы ведалі - мэты былі далёкія ад самага пачатку.",
 7754,"We found unexpected treasures buried in the sand of Mars and they only fueled our growing interest to find out more.
 
 What’s more important is that the wave of inspiration has swept over Earth, sparking immense interest and the desire to work together towards a common goal.
 
-<effect>Mission Evaluation objective completed – you have analyzed <count> Anomalies out of the target <target>. Final score: <Score>.","We found unexpected treasures buried in the sand of Mars and they only fueled our growing interest to find out more.
+<effect>Mission Evaluation objective completed – you have analyzed <count> Anomalies out of the target <target>. Final score: <Score>.","Мы знайшлі нечаканыя скарбы, пахаваныя ў пяску Марсу, і яны толькі падштурхнулі нашу зацікаўленасьць даведацца больш.
 
-What’s more important is that the wave of inspiration has swept over Earth, sparking immense interest and the desire to work together towards a common goal.
+Больш важна тое, што хваля натхненьня пракацілася па Зямлі, выклікаўшы велізарную цікавасьць і прагу працаваць разам для дасягненьня агульнай мэты.
 
-<effect>Mission Evaluation objective completed – you have analyzed <count> Anomalies out of the target <target>. Final score: <Score>.",
-7751,Mission Evaluation: The Final Frontier,Mission Evaluation: The Final Frontier,
-8139,The final Mission Evaluation report concludes that the Colony has scored a significant progress in the exploration of the Red Planet.,The final Mission Evaluation report concludes that the Colony has scored a significant progress in the exploration of the Red Planet.,
+<effect>Мэта ацэнкі місіі выканана - вы прааналізавалі <count> анамаліі з <target>. Вынік: <Score>.",
+7751,Mission Evaluation: The Final Frontier,Ацэнка місіі: Апошняя мяжа,
+8139,The final Mission Evaluation report concludes that the Colony has scored a significant progress in the exploration of the Red Planet.,"Па апошней справаздачы аб ацэнцы місіі, вынік такавы, што калёнія дасягнула значнага прагрэсу ў даследаваньні Чырвонай планеты.",
 8141,All resupply missions are temporarily suspended.,Усе місіі папаўнення запасаў часова прыпынены.,
 8140,Launch Issue: Suspended Missions,Праблема запуску: Місія прыпынена,
-8143,Rockets cannot land or launch during Dust Storms. We will have to wait until the storm is over.,Rockets cannot land or launch during Dust Storms. We will have to wait until the storm is over.,
-8142,Launch Issue: Dust Storm,Праблема запуску: Dust Storm,
+8143,Rockets cannot land or launch during Dust Storms. We will have to wait until the storm is over.,Ракеты не могуць садзіцца ці ўзлятаць падчас пясчаных бур. Трэба дачакацца сканчэньня шторму.,
+8142,Launch Issue: Dust Storm,Праблема запуску: Пясчаная бура,
 8145,This Rocket is not yet refueled for the next voyage.<newline><newline>Fuel is produced in a Fuel Refinery building supplied with Water. It is then transported by Drones to the Rocket.,Гэтая ракета яшчэ не запраўлена для наступнага палёту.<newline><newline>Паліва вырабляецца ў заводзе паліва,
 8144,Launch Issue: Fuel,Праблема запуску: Паліва,
-8766,The Rocket is not currently landed. It will have to land and refuel for re-launch.,The Rocket is not currently landed. It will have to land and refuel for re-launch.,
-8765,Launch Issue: Not Landed,Праблема запуску: Not Landed,
-8147,"Not all resources from this Rocket have been unloaded yet. If the Rocket launches now, the remaining resources on board will be lost.<newline><newline>To complete the unloading process, make sure there is enough available storage space in the vicinity as well as operational Drones to transport the resources.","Not all resources from this Rocket have been unloaded yet. If the Rocket launches now, the remaining resources on board will be lost.<newline><newline>To complete the unloading process, make sure there is enough available storage space in the vicinity as well as operational Drones to transport the resources.",
+8766,The Rocket is not currently landed. It will have to land and refuel for re-launch.,Ракета ясчэ ня села. Патрэбна яе пасадзіць і заправіць для паўторнага запуску.,
+8765,Launch Issue: Not Landed,Праблема запуску: Ня села,
+8147,"Not all resources from this Rocket have been unloaded yet. If the Rocket launches now, the remaining resources on board will be lost.<newline><newline>To complete the unloading process, make sure there is enough available storage space in the vicinity as well as operational Drones to transport the resources.","Яшчэ ня ўсе рэсурсы з гэтай Ракеты выгружаны. Калі запусьці зараз Ракету, рэшта рэсурсаў на борце будуць страчаны.<newline><newline>Каб скончыць працэс выгрузкі, пераканайцеся, што побач ёсьць дастаткова вольнаша мейсца для захоўваньня, а таксама дроны для транспарціроўкі рэсурсаў.",
 8146,Launch Issue: Remaining Resources on Board,Праблема запуску: Remaining Resources on Board,
-8148,There are <em><number1></em> passengers on board but there's only space for <em><number2></em> new residents in the Colony.,There are <em><number1></em> passengers on board but there's only space for <em><number2></em> new residents in the Colony.,
-648845139046,Launch Issue: Residential Space,Праблема запуску: Residential Space,
-809411461416,The Rocket has malfunctioned and needs repairs.,The Rocket has malfunctioned and needs repairs.,
-623462076855,Launch Issue: Maintenance,Праблема запуску: Maintenance,
-229343936631,You can't launch this rocket currently.,You can't launch this rocket currently.,
-622366848807,Launch Issue: Launch Disabled,Праблема запуску: Launch Disabled,
-11602,No applicants match the selected filters,No applicants match the selected filters,
-5688,That is most worrying,That is most worrying,
+8148,There are <em><number1></em> passengers on board but there's only space for <em><number2></em> new residents in the Colony.,"На борце <em><number1></em> пасажыраў, але ў калёніі ёсьць памяшканьня толькі для <em><number2></em>.",
+648845139046,Launch Issue: Residential Space,Праблема запуску: Памяшканьні,
+809411461416,The Rocket has malfunctioned and needs repairs.,Ракета зламана й патрабуе рамонту.,
+623462076855,Launch Issue: Maintenance,Праблема запуску: Абслугоўваньне,
+229343936631,You can't launch this rocket currently.,Зараз вы ня можаце запусьціць гэтую ракету.,
+622366848807,Launch Issue: Launch Disabled,Праблема запуску: Запуск заблакаваны,
+11602,No applicants match the selected filters,"Брак кандыдатаў, якія адпавядаюць выбраным фільтрам",
+5688,That is most worrying,Гэта больш за ўсё хвалюе,
 5687,"Whatever lies within the Sphere is pretty capable of harnessing any energy projected at it. Furthermore, the energy used by our instruments seems to have furthered its power-up process.
 
 <effect>The Sphere charges a bit","Whatever lies within the Sphere is pretty capable of harnessing any energy projected at it. Furthermore, the energy used by our instruments seems to have furthered its power-up process.
 
 <effect>The Sphere charges a bit",
-5686,Spheres: The Trusty Screwdriver,Spheres: The Trusty Screwdriver,
+5686,Spheres: The Trusty Screwdriver,Сфэры: Надзейная адвёртка,
 7074,"Our attempts to penetrate the outer layer of the Sphere were unsuccessful, though they did yield some interesting results.","Our attempts to penetrate the outer layer of the Sphere were unsuccessful, though they did yield some interesting results.",
-5691,I kinda hope it stays quiet,I kinda hope it stays quiet,
+5691,I kinda hope it stays quiet,"Я якта спадзяюся, усё будзе ціха",
 5690,"So thorough is the absorption process that we fail to detect even the slightest reflected wave being thrown back at us. Aside from that the Sphere remains, unsurprisingly, quiet.
 
 <effect>The Sphere charges a bit","So thorough is the absorption process that we fail to detect even the slightest reflected wave being thrown back at us. Aside from that the Sphere remains, unsurprisingly, quiet.
 
 <effect>The Sphere charges a bit",
-5689,Spheres: Metallic Silence,Spheres: Metallic Silence,
-7075,"Our test results tell us the Sphere accumulates energy by absorbing radio waves,","Our test results tell us the Sphere accumulates energy by absorbing radio waves,",
-5694,Whose idea was this anyway?,Whose idea was this anyway?,
+5689,Spheres: Metallic Silence,Сфэры:Мэталічная цішыня,
+7075,"Our test results tell us the Sphere accumulates energy by absorbing radio waves,","Нашы выпрабаваньні высьветлілі, што сфэра назапашвае энэргію, паглынаючы радыёхвалі,",
+5694,Whose idea was this anyway?,"Увогуле, чыя гэта была ідэя?",
 5693,"While energy direction by itself is not something so unusual, utilizing it for a purpose implies intent or at least programming of some kind. Our current test-grade proof will most certainly help encourage our scientists currently tackling this mystery.
  
 <effect>The Sphere charges a bit","While energy direction by itself is not something so unusual, utilizing it for a purpose implies intent or at least programming of some kind. Our current test-grade proof will most certainly help encourage our scientists currently tackling this mystery.
  
 <effect>The Sphere charges a bit",
-5692,Spheres: Is it Alive?,Spheres: Is it Alive?,
-7076,Our running hypothesis seems to be correct. It’s releasing energy to charge faster. Maybe it’s alive?,Our running hypothesis seems to be correct. It’s releasing energy to charge faster. Maybe it’s alive?,
-5697,Keep me up to speed on any finds.,Keep me up to speed on any finds.,
+5692,Spheres: Is it Alive?,Сфэры: яно жывое?,
+7076,Our running hypothesis seems to be correct. It’s releasing energy to charge faster. Maybe it’s alive?,"Наша здагадка, здаецца, правільная. Яно вызваляе энэргію для больш хуткай зарадкі. Можа, яно жывое?",
+5697,Keep me up to speed on any finds.,Паведамляйце мне наконт любых знаходак.,
 5696,"Its surface is perfectly smooth and also seems to sport mirror-like features.
 
 The way this sphere reflects its surroundings has struck our team as being especially odd. It reflects not what one would expect, and in some instances seems to entirely ignore the observer from the reflection.   
@@ -4051,7 +4051,7 @@ The way this sphere reflects its surroundings has struck our team as being espec
 This has the potential to be something monumental. Further excavation is most definitely encouraged by everyone here at Mission Control.
 
 <effect> A half-buried sphere is revealed",
-5695,Spheres: A Buried Secret,Spheres: A Buried Secret,
+5695,Spheres: A Buried Secret,Сфэры: Пахаваныя тайны,
 7077,A short dig following an off-the-charts reading revealed a metallic spheroid buried just beneath the surface.,A short dig following an off-the-charts reading revealed a metallic spheroid buried just beneath the surface.,
 5700,That’s some B-movie material right there.,That’s some B-movie material right there.,
 5699,"Our most sensitive instruments detect a very weak, yet constant low frequency vibration, giving the Sphere a sort of hum. At least no harmful particles are detected. 
@@ -4063,7 +4063,7 @@ We will be waiting for further test results.
 We will be waiting for further test results.
 
 <effect>The Sphere begins charging.",
-5698,Spheres: System Shock,Spheres: System Shock,
+5698,Spheres: System Shock,Сфэры: Сістэмны шок,
 7078,"We tried interacting with it, which triggered some sort of response. The Sphere isn’t dormant anymore.","We tried interacting with it, which triggered some sort of response. The Sphere isn’t dormant anymore.",
 5703,The Sphere should be watched closely at all times!,The Sphere should be watched closely at all times!,
 5702,"Mission Control was struck speechless as the half excavated Sphere finished the job itself and un-burrowed fully on its own, then began moving - levitating with the aid of some propulsion method unknown to us. 
@@ -4079,17 +4079,17 @@ Around it, temperatures fell drastically, creating a cold area that moved around
 These are exciting times – scary, but exciting.
 
 <effect>The Sphere begins moving.",
-5701,"Spheres: Hello, Goodbye","Spheres: Hello, Goodbye",
-7079,"Definitive contact with an extraterrestrial being, for the first time in the history of mankind.","Definitive contact with an extraterrestrial being, for the first time in the history of mankind.",
-5706,Son of a…,Son of a…,
+5701,"Spheres: Hello, Goodbye","Сфэры: Прывітаньне, Бывайце",
+7079,"Definitive contact with an extraterrestrial being, for the first time in the history of mankind.","Усталяваны кантакт з іншапланетнай істотай, упершыню ў гісторыі чалавецтва.",
+5706,Son of a…,Ку..сын,
 5705,"While we aren’t sure if the Sphere has any set destination it is hovering towards, we have enough evidence to say that a new process has been initiated by the Sphere. For what purpose, we cannot say as of now.
 
 <hint> The Sphere drains batteries and charges quicker.","While we aren’t sure if the Sphere has any set destination it is hovering towards, we have enough evidence to say that a new process has been initiated by the Sphere. For what purpose, we cannot say as of now.
 
 <hint> The Sphere drains batteries and charges quicker.",
-5704,Spheres: The Sphere is a Sucker!,Spheres: The Sphere is a Sucker!,
+5704,Spheres: The Sphere is a Sucker!,Сфэры: Сфэры смактуны!,
 7080,"It seems to be absorbing any sort of electrical current in close proximity. In other words, it’s feeding on our batteries.","It seems to be absorbing any sort of electrical current in close proximity. In other words, it’s feeding on our batteries.",
-5709,The safety of our citizens is always a priority!,The safety of our citizens is always a priority!,
+5709,The safety of our citizens is always a priority!,Бясьпека нашых грамадзян заўсёды першачаргова!,
 5708,"While it does not seem to be lethal in any moderate doses, any Colonist, subject to the Sphere’s influence, shows signs of deteriorating health and needs a solid few days at the Infirmary.
 
 Our researchers have several theories on what this phenomenon is and should we prioritize it, we may be able to come up with a way to protect our citizens from the harmful influence of any such Sphere. 
@@ -4099,9 +4099,9 @@ Our researchers have several theories on what this phenomenon is and should we p
 Our researchers have several theories on what this phenomenon is and should we prioritize it, we may be able to come up with a way to protect our citizens from the harmful influence of any such Sphere. 
 
 <effect> <em>Sphere Protection</em> research available.",
-5707,Spheres: Bad Vibrations,Spheres: Bad Vibrations,
+5707,Spheres: Bad Vibrations,Сферы: Дрэнныя вібрацыі,
 7081,"The humming’s less than subtle now, with the added bonus that it’s clearly harming any Colonists that come too close.","The humming’s less than subtle now, with the added bonus that it’s clearly harming any Colonists that come too close.",
-5734,"Well, this can’t be good...","Well, this can’t be good...",
+5734,"Well, this can’t be good...","Ну, гэта не можа быць добра ...",
 5733,"In a moment of pure awesomeness the Sphere split into two identical Spheres. The new objects have grown to the exact same size as the previous one.
 
 The second Sphere is now entirely independent from the first, moving in a direction of its own choosing, yet the two Spheres are clearly interacting with each other at a distance. Their humming frequencies are changing simultaneously and the more they resonate, the more a slight ionization of the atmosphere around them becomes evident.
@@ -4115,9 +4115,9 @@ The second Sphere is now entirely independent from the first, moving in a direct
 At the moment of the splitting a vast amount of data was gathered by our instruments, so we may have the means to dig deeper within this mystery. Until then we can only predict that some event will trigger when a certain resonance frequency has been reached by both Spheres.
 
 <effect>The Sphere divided into two separate Spheres.",
-5732,Spheres: More to Come,Spheres: More to Come,
-7109,The Mirror Sphere has Mission Control in total chaos. Though that’s expected given what we saw.,The Mirror Sphere has Mission Control in total chaos. Though that’s expected given what we saw.,
-5737,Aced it!,Aced it!,
+5732,Spheres: More to Come,Сфэры: Будзе больш,
+7109,The Mirror Sphere has Mission Control in total chaos. Though that’s expected given what we saw.,"Кіраваньне місіяй у поўным хаосе з-за люстранай сфэры. Аднак, гэта чакана, улічваючы тое, што мы бачылі.",
+5737,Aced it!,Перамог!,
 5736,"Apart from controlling where it goes and what damage it does, this is of little use to us at the moment as we can’t dismantle them or even hinder their function in any way. 
 
 However, this is critical for closer observation and research.
@@ -4127,9 +4127,9 @@ However, this is critical for closer observation and research.
 However, this is critical for closer observation and research.
 
 <effect> A Sphere is being held motionless.",
-5735,Spheres: It Works!,Spheres: It Works!,
-7110,"Those decoy buildings worked just like we planned, much to the dismay of our hardworking engineers. We've captured our first Sphere!","Those decoy buildings worked just like we planned, much to the dismay of our hardworking engineers. We've captured our first Sphere!",
-5740,My thoughts exactly.,My thoughts exactly.,
+5735,Spheres: It Works!,Сфэры: Гэта працуе!,
+7110,"Those decoy buildings worked just like we planned, much to the dismay of our hardworking engineers. We've captured our first Sphere!","Нашых працавітых інжынеры ў вялікім непакою, але гэтыя прынады спрацавалі так, як мы плянавалі. Мы захапілі нашу першую сферу!",
+5740,My thoughts exactly.,Дакладна мае думкі.,
 5739,"The Sphere is converted back to its precious ingredients.
 
 Our scientists are quick to inform us that any Sphere free from our decoy buildings will roll back to its splitting phase and will most probably try to retrieve the critical amount needed for their collective purpose.
@@ -4143,7 +4143,7 @@ Our scientists are quick to inform us that any Sphere free from our decoy buildi
 We feel we have gathered enough information from these Spheres. It’s been deemed that decomposing all the Spheres is our best road of action.
 
 <effect> A Sphere was converted into resources.",
-5738,Spheres: Choose Your Poison,Spheres: Choose Your Poison,
+5738,Spheres: Choose Your Poison,Сфэры: Абяры сваю атруту,
 7111,Humanity applied its knowledge of an alien technology for the first time ever. And it was a complete success.,Humanity applied its knowledge of an alien technology for the first time ever. And it was a complete success.,
 5746,This is now officially a fight for survival.,This is now officially a fight for survival.,
 5745,"What or who needs to lower the atmospheric temperature of contemporary Mars is beyond any of us – yet it is most evident that the Spheres are effective at what they are doing. 
@@ -4180,7 +4180,7 @@ When our scientists give up on trying to determine the origin of these Spheres, 
 
 <effect> No more Spheres are left.
 <effect> Cold Wave dispelled.",
-5760,....,....,
+5760,....,.....,
 5661,Mystery Log,Журнал таямніцы,
 5712,"Thank you, fellow Colonists.","Thank you, fellow Colonists.",
 5711,"As difficult and painful as it is, we must accept that <ColonistName(colonist)> is dead. As friends, as a community, we express our sadness, we acknowledge our loss, acknowledge the great importance of <ColonistName(colonist)>’s life.
