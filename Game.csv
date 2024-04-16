@@ -3883,7 +3883,7 @@ It is a well understood fact that it’s a matter of “when” not “if” for
 
 <effect>Mission Evaluation objective failed - you have <count> Colonists out of <target> present on the planet. Final Score: <Score>.","Але гэтая няўдача не павінна ўводзіць нас у роспач. Мы павінны імкнуцца да стварэньня стабільнай, самадастатковай апоры, з якой чалавецтва дасягнула б зорак і заваявала іх.
 
-<effect>Мэта місіі не выканана – вы маеце <count> каляністаў з <target> на плянеце. Вынік: <Score>.",
+<effect>Падсумаваньне місіі: мэта ня выканана. Вы маеце <count> каляністаў з <target> на плянеце. Вынік: <Score>.",
 8126,"We have to admit that we failed to accomplish one of the main goals set before our mission. Sadly, we underestimated the difficulties of sustaining a large population on the Red Planet.","Трэба прызнаць, што мы не выканалі адну з галоўных мэт, пастаўленых перад нашай місіяй. На жаль, мы недаацанілі цяжкасьці ўтрыманьня вялікай колькасьці насельніцтва на Чырвонай планеце.",
 7739,"Even that we didn't surpass the expectations, the stable trends of development of the colony are encouraging.
 
@@ -3893,75 +3893,75 @@ Our achievement is still a tremendous success – we did something which no one 
 
 Наша дасягненьне па-ранейшаму з'яўляецца велізарным посьпехам - мы зрабілі тое, што ніхто не мог сабе ўявіць. Цяпер калёнія будзе сімвалам надзеі й новага пачатку, доказам таго, што чалавецтва трывае й будзе жыць, незалежна ад праблем, з якімі мы сутыкаемся.
 
-<effect> Мэта ацэнкі місіі выканана – вы маеце <count> каляністаў з <target> на плянеце. Вынік: <Score>.",
+<effect> Падсумаваньне місіі: мэта выканана. Вы маеце <count> каляністаў з <target> на плянеце. Вынік: <Score>.",
 8127,As the Evaluation Day dawns upon us we can clearly say that the mission to Mars was a success.,"З надыходам дня ацэнкі мы можам выразна сказаць, што місія на Марс была пасьпяховай.",
 7740,"We managed not only to achieve our goals, but also to surpass all expectations as the size of our current Colony is far beyond the initial estimations. This day will be marked in human history by the importance of our accomplishment – we secured the future of humankind as interplanetary species. The Colony would now be a symbol of hope and new beginning, a proof that humanity would persevere and live on regardless of the challenges we face.
 
 <effect> Mission Evaluation objective completed - you have <count> Colonists out of <target> present on the planet. Final Score: <Score>.","Мы змаглі ня толькі дасягнуць мэт, але й перасягнуць усе чаканьні, паколькі памер нашай цяперашняй калёніі значна перавышае першапачатковыя ацэнкі. Гэты дзень будзе адзначаны ў гісторыі чалавецтва важнасьцю нашага дасягненьня - мы забясьпечылі будучыню чалавецтва як міжпланетнага роду. Цяпер калёнія будзе сімвалам надзеі й новага пачатку, доказам таго, што чалавецтва трывае й будзе жыць, незалежна ад праблем, з якімі мы сутыкаемся.
 
-<effect>Мэта ацэнкі місіі выканана – вы маеце <count> каляністаў з <target> на плянеце. Вынік: <Score>.",
+<effect>Падсумаваньне місіі: мэта выканана. Вы маеце <count> каляністаў з <target> на плянеце. Вынік: <Score>.",
 7735,Mission Evaluation: The Exodus,Ацэнка місіі: Зыход,
 8128,Congratulations! Everyone at Mission Control rejoices as the Colony has been marked as “extremely successful” in the Evaluation Report.,"Віншаваньне! Усе супрацоўнікі кіраваньня місіяй рады таму, што калёнія была адзначана як «надзвычай пасьпяховая» ў справаздачы аб ацэнцы.",
 7742,"New horizons open new possibilities. Mars can be viewed as a blank canvas – a hostile, uncultivated place where humanity can start anew. A fresh start needs new people – people born on Mars, raised in a society where people cooperate and fight the odds instead of each other.
 
-<goal><objective>","New horizons open new possibilities. Mars can be viewed as a blank canvas – a hostile, uncultivated place where humanity can start anew. A fresh start needs new people – people born on Mars, raised in a society where people cooperate and fight the odds instead of each other.
+<goal><objective>","Новыя гарызонты адкрываюць новыя магчымасьці. Марс можна разглядаць як чыстае палатно - варожае, неапрацаванае мейсца, дзе чалавецтва можа пачаць усё нанова. Новы пачатак патрабуе новых людзей. Людзей, якія нарадзіліся на Марсе, вырасьлі ў грамадстве, дзе усе супрацоўнічаюць і змагаюцца супраць розьніцы, а не адзін аднаго.
 
 <goal><objective>",
-8129,"Our civilization, in all its glory, still bears the mark of obsolete cultural and ideological beliefs, from times when people didn't know any better. If we remain ignorant of our own flaws we risk destroying the future for our children.","Our civilization, in all its glory, still bears the mark of obsolete cultural and ideological beliefs, from times when people didn't know any better. If we remain ignorant of our own flaws we risk destroying the future for our children.",
+8129,"Our civilization, in all its glory, still bears the mark of obsolete cultural and ideological beliefs, from times when people didn't know any better. If we remain ignorant of our own flaws we risk destroying the future for our children.","Наша цывілізацыя ва ўсёй красе усё нясе на сабе адбітак састарэлых культурных і ідэалагічных перакананьняў, з таго часу, калі людзі ня ведалі лепшага. Калі мы застанемся ў няведаньні аб нашых уласных недахопах, мы рызыкуем разбурыць будучыню для нашых дзяцей.",
 7743,"Martian birthrate trends are still susceptible to malicious undercurrents and the Colony depends largely on the arrival of Applicants from Earth.
 
 The Sponsors are disappointed that their program goal - a new human civilization on Mars - can't be achieved yet. Probably it was too early to expect that humanity can beat the odds of survival on such a hostile world and reach the level of everyday comfort required to start thinking about children and the future. The burden to disprove the evil tongues who would say this is impossible now lies on our shoulders. There's still work to be done
 
-<effect>Mission Evaluation objective failed - you have <count> Martianborn Colonists out of <target> present in the Colony. Final Score: <Score>.","Martian birthrate trends are still susceptible to malicious undercurrents and the Colony depends largely on the arrival of Applicants from Earth.
+<effect>Mission Evaluation objective failed - you have <count> Martianborn Colonists out of <target> present in the Colony. Final Score: <Score>.","Марсіянская нараджальнасьці ўсё яшчэ крытычна мала, таму калёнія ў значнай ступені залежыць ад прыбыцця людзей зь Зямлі.
 
-The Sponsors are disappointed that their program goal - a new human civilization on Mars - can't be achieved yet. Probably it was too early to expect that humanity can beat the odds of survival on such a hostile world and reach the level of everyday comfort required to start thinking about children and the future. The burden to disprove the evil tongues who would say this is impossible now lies on our shoulders. There's still work to be done
+Фундатары расчараваны, што мэта іх праграмы «новая чалавечая цывілізацыя на Марсе» пакуль не можа быць дасягнута. Напэўна, зарана было чакаць, што чалавецтва зможа пераадолець цяжкасьці й мець мець дастаткова неабходнага паўсядзённага камфорту, каб пачаць думаць пра дзяцей і будучыню замест ці маюць лі яны шанцы на выжываньне ў такім варожым сьвеце. Цяпер мы маем задачу, як пераканаць людзей, каб яны зноў паверылі ў місію. У нас шмат працы
 
-<effect>Mission Evaluation objective failed - you have <count> Martianborn Colonists out of <target> present in the Colony. Final Score: <Score>.",
-8130,"The Mission Evaluation period is over and the progress we've made was marked as... sub-optimal, to say the least.","The Mission Evaluation period is over and the progress we've made was marked as... sub-optimal, to say the least.",
+<effect>Падсумаваньне місіі: мэта ня выканана. Вы маеце <count> народжаных на Марсе каляністаў з <target> у калёніі. Вынік: <Score>.",
+8130,"The Mission Evaluation period is over and the progress we've made was marked as... sub-optimal, to say the least.","Перыяд ацэнкі місіі скончыўся, і прагрэс, якога мы дасягнулі, быў адзначаны як... мякка кажучы, сярэдне.",
 7744,"If we keep up the good work, in several generations the concept of the Martian civilization would exit the state of the hypothetical and become a reality.
 
-<effect> Mission Evaluation objective completed - you have <count> Colonists present on the planet out of the target <target>. Final Score: <Score>.","If we keep up the good work, in several generations the concept of the Martian civilization would exit the state of the hypothetical and become a reality.
+<effect> Mission Evaluation objective completed - you have <count> Colonists present on the planet out of the target <target>. Final Score: <Score>.","Калі ўсё так будзе добра працягвацца, тады праз некалькі пакаленьняў канцэпцыя марсіянскай цывілізацыі больш ня будзе проста гіпотэзай і стане рэальнасьцю.
 
-<effect> Mission Evaluation objective completed - you have <count> Colonists present on the planet out of the target <target>. Final Score: <Score>.",
-8131,The Mission Evaluation period is over and the results we have achieved are quite satisfactory.,The Mission Evaluation period is over and the results we have achieved are quite satisfactory.,
+<effect>Падсумаваньне місіі: мэта выканана. Вы маеце <count> каляністаў з <target> на плянеце. Вынік: <Score>.",
+8131,The Mission Evaluation period is over and the results we have achieved are quite satisfactory.,"Перыяд ацэнкі місіі скончыўся, і вынікі, якіх мы дасягнулі, цалкам здавальняючыя.",
 7745,"The number of Colonists born on Mars have reached beyond the wildest expectations! This solid base would serve us to promote new values of the new society, to allow the culture of the Red Planet to flourish and develop independent of the bad influence of Earth.
 
 The path ahead of us is rough and uncertain, but who knows, maybe one day the people on Earth would admire the achievements of the Martians in awe, learning from them.
 
-<effect> Mission Evaluation objective completed - you have <count> Martianborn Colonists present on the planet out of the target <target>. Final Score: <Score>.","The number of Colonists born on Mars have reached beyond the wildest expectations! This solid base would serve us to promote new values of the new society, to allow the culture of the Red Planet to flourish and develop independent of the bad influence of Earth.
+<effect> Mission Evaluation objective completed - you have <count> Martianborn Colonists present on the planet out of the target <target>. Final Score: <Score>.","Кольскасьць марсіянанароджанных каляністаў перасягнула самыя сьмелыя чаканьні! Гэтая трывалая аснова будзе служыць нам для развіцьця новых каштоўнасьцяў новага грамадства, каб культура Чырвонай планеты квітнела й разьвівалася незалежна ад дрэннага ўплыву Зямлі.
 
-The path ahead of us is rough and uncertain, but who knows, maybe one day the people on Earth would admire the achievements of the Martians in awe, learning from them.
+Прышласьць усё раўна ясчэ цямна й невядома, але, можа аднойчы, людзі зь Зямлі будуць захапляцца дасягненьнямі марсіян і вучыцца ў іх.
 
-<effect> Mission Evaluation objective completed - you have <count> Martianborn Colonists present on the planet out of the target <target>. Final Score: <Score>.",
+<effect>Падсумаваньне місіі: мэта выканана. Вы маеце <count> народжаных на Марсе каляністаў з <target> у калёніі. Вынік: <Score>.",
 7741,Mission Evaluation: A Fresh Start,Ацэнка місіі: Новы пачатак,
-8132,The Mission Evaluation period is over and it’s not wrong to say that we managed to outdo ourselves.,The Mission Evaluation period is over and it’s not wrong to say that we managed to outdo ourselves.,
+8132,The Mission Evaluation period is over and it’s not wrong to say that we managed to outdo ourselves.,"Перыяд ацэнкі місіі скончыўся, і нельга сказаць, што нам удалося перасягнуць сябе.",
 7747,"A new era of scientific discovery is ahead of us and we are the ones who are blessed with the opportunity to be on Mars – a completely new territory where new scientific discoveries lie behind the corner. We’re talking about new ideas which would sweep the human minds and the market and give us a tremendous head start in the future.
 
 The primary reason behind the creation of this Colony is scientific and this is what we’re expected to do – to push the boundaries of human knowledge!
 
-<goal><objective>","A new era of scientific discovery is ahead of us and we are the ones who are blessed with the opportunity to be on Mars – a completely new territory where new scientific discoveries lie behind the corner. We’re talking about new ideas which would sweep the human minds and the market and give us a tremendous head start in the future.
+<goal><objective>","Набліжаецца новая эра навуковых адкрыцьцяў, і нам пашанцавала апынуцца на зусім новай тэрыторыі, на Марсе, дзе што крок новыя навуковыя адкрыцьці. Ідуць размовы наконт новых ідэй, якія ахопяць чалавечыя розумы, штурхнуць рынкі й дадуць нам каласальную перавагу ў прышласьці.
 
-The primary reason behind the creation of this Colony is scientific and this is what we’re expected to do – to push the boundaries of human knowledge!
+Галоўная мэта стварэньня гэтай калёніі – навука. Гэта тое, што мы павінны зрабіць - пашырыць межы чалавечых ведаў!
 
 <goal><objective>",
-8133,Humankind might be on the verge of a new Golden Age! And we have to be the ones who ride the crest of that wave!,Humankind might be on the verge of a new Golden Age! And we have to be the ones who ride the crest of that wave!,
+8133,Humankind might be on the verge of a new Golden Age! And we have to be the ones who ride the crest of that wave!,Чалавецтва можа быць на мяжы новага залатога веку! І мы павінны быць на грэбні гэтай хвалі!,
 7748,"The harsh conditions of Mars proved too overwhelming and the technological leap desired is very far off.
 
-<effect>Mission Evaluation objective failed - you have <count> researched Technologies out of <target>. Final Score: <Score>.","The harsh conditions of Mars proved too overwhelming and the technological leap desired is very far off.
+<effect>Mission Evaluation objective failed - you have <count> researched Technologies out of <target>. Final Score: <Score>.","Суровыя ўмовы Марсу апынуліся занадта цяжкімі, і прагны тэхнолёгічны скачок вельмі далёкі.
 
-<effect>Mission Evaluation objective failed - you have <count> researched Technologies out of <target>. Final Score: <Score>.",
-8134,"At the end of the Mission Evaluation period we have to admit that the pursuit of technological progress on a hostile alien world is an unaccessible luxury, when we're preoccupied with short-term survival.","At the end of the Mission Evaluation period we have to admit that the pursuit of technological progress on a hostile alien world is an unaccessible luxury, when we're preoccupied with short-term survival.",
+<effect>Падсумаваньне місіі: мэта ня выканана. Вы дасьледвалаі <count> тэхналёгій з <target>. Вынік: <Score>.",
+8134,"At the end of the Mission Evaluation period we have to admit that the pursuit of technological progress on a hostile alien world is an unaccessible luxury, when we're preoccupied with short-term survival.","У канцы перыяду ацэнкі місіі мы павінны прызнаць, што імкненьне да тэхналагічнага прагрэсу ў варожым іншапланетным сьвеце - недаступная раскоша, калі мы занятыя выжываньнем.",
 7749,"The colony has proven its worth as a cradle of scientific thought and everyone is sure that the future is hiding more secrets to be uncovered and more mysteries solved.
 
-<effect> Mission Evaluation objective completed - you have <count> researched Technologies out of the target <target>. Final Score: <Score>.","The colony has proven its worth as a cradle of scientific thought and everyone is sure that the future is hiding more secrets to be uncovered and more mysteries solved.
+<effect> Mission Evaluation objective completed - you have <count> researched Technologies out of the target <target>. Final Score: <Score>.","Калёнія даказала сваю каштоўнасьць як калыска навуковай думкі, і ўсе ўпэўнены, што прышласьць хавае яшчэ больш сакрэтаў і таямніц, якія трэба раскрыць.
 
-<effect> Mission Evaluation objective completed - you have <count> researched Technologies out of the target <target>. Final Score: <Score>.",
-8135,The Mission Evaluation period is over and the results of our efforts are visible – a steady track of technological milestones can be traced back to the moment the very first rocket landed on the Red Planet.,The Mission Evaluation period is over and the results of our efforts are visible – a steady track of technological milestones can be traced back to the moment the very first rocket landed on the Red Planet.,
+<effect> Падсумаваньне місіі: мэта выканана. Вы дасьледвалаі <count> тэхналёгій з <target>. Вынік: <Score>.",
+8135,The Mission Evaluation period is over and the results of our efforts are visible – a steady track of technological milestones can be traced back to the moment the very first rocket landed on the Red Planet.,"Перыяд ацэнкі місіі скончыўся, і вынікі нашых намаганньяў вядомы. З моманту як першая ракета села на Чырвоную плянету, мы зрабілі вялізарны тэхнолёгічны скачок.",
 7750,"What’s more important is that we demonstrated to the world that the future is really just behind the corner. Our brightest minds have become icons of prosperity and progress, paving the way for future generations to create a better tomorrow – on Mars, on Earth or any other place in the Universe!
 
-<effect> Mission Evaluation objective completed - you have <count> researched Technologies out of the target <target>! Final Score: <Score>.","What’s more important is that we demonstrated to the world that the future is really just behind the corner. Our brightest minds have become icons of prosperity and progress, paving the way for future generations to create a better tomorrow – on Mars, on Earth or any other place in the Universe!
+<effect> Mission Evaluation objective completed - you have <count> researched Technologies out of the target <target>! Final Score: <Score>.","Больш важна тое, што мы паказалі сьвету – прышласьць амаль тут. Нашы самыя сьветлыя розумы сталі іконамі росквіту й прагрэсу, пракладваючы шлях прышлым пакаленьням да стварэньня лепшага заўтра - на Марсе, на Зямлі ці ў любым іншым мейсцы Сусьвету!
 
-<effect> Mission Evaluation objective completed - you have <count> researched Technologies out of the target <target>! Final Score: <Score>.",
+<effect> Падсумаваньне місіі: мэта выканана. Вы дасьледвалаі <count> тэхналёгій з <target>! Вынік: <Score>.",
 7746,Mission Evaluation: New Dawn,Ацэнка місіі: Новы сьвітанак,
 8136,Our contribution towards the scientific advancement of humankind will be forever remembered. The Evaluation Day report shows accomplishments beyond even our wildest expectations.,"Наш уклад у навуковы прагрэс чалавецтва застанецца ў памяці назаўжды. Дзень справаздачы аб ацэнцы паказвае дасягненьні, якія пераўзыходзяць нават нашы сьмелыя чаканьні.",
 7737,OK,Згода,
@@ -3983,7 +3983,7 @@ It seems that Mars will continue to be an uncharted territory for the next gener
 
 Здаецца, Марс застанецца нязьведанай тэрыторыяй для вывучэньня наступнымі пакаленьнямі. Цяпер важна ператварыць нашу няўдачу ў посьпех, пераканаўшыся, што калёнія з'яўляецца добрым пунктам пачатку для экіпажаў і экспедыцый, якія адправяцца ў чырвоныя пустыні, каб наталіць сваю прагу да вандровак.
 
-<effect> Мэта ацэнкі місіі не выканана - вы прааналізавалі <count> анамаліі з <target>. Вынік: <Score>.",
+<effect>Падсумаваньне місіі: мэта выканана. Вы прааналізавалі <count> анамаліі з <target>. Вынік: <Score>.",
 8138,The Mission Evaluation report confirms what we knew – the target goals were far off from the very beginning.,"Справаздача аб ацэнцы місіі пацьвярджае, што мы ведалі - мэты былі далёкія ад самага пачатку.",
 7754,"We found unexpected treasures buried in the sand of Mars and they only fueled our growing interest to find out more.
 
@@ -3993,7 +3993,7 @@ What’s more important is that the wave of inspiration has swept over Earth, sp
 
 Больш важна тое, што хваля натхненьня пракацілася па Зямлі, выклікаўшы велізарную цікавасьць і прагу працаваць разам для дасягненьня агульнай мэты.
 
-<effect>Мэта ацэнкі місіі выканана - вы прааналізавалі <count> анамаліі з <target>. Вынік: <Score>.",
+<effect>Падсумаваньне місіі: мэта выканана. Вы прааналізавалі <count> анамаліі з <target>. Вынік: <Score>.",
 7751,Mission Evaluation: The Final Frontier,Ацэнка місіі: Апошняя мяжа,
 8139,The final Mission Evaluation report concludes that the Colony has scored a significant progress in the exploration of the Red Planet.,"Па апошней справаздачы аб ацэнцы місіі, вынік такавы, што калёнія дасягнула значнага прагрэсу ў даследаваньні Чырвонай планеты.",
 8141,All resupply missions are temporarily suspended.,Усе місіі папаўнення запасаў часова прыпынены.,
