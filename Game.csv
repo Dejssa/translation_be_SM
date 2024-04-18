@@ -4124,11 +4124,11 @@ These are exciting times – scary, but exciting.
 
 Our researchers have several theories on what this phenomenon is and should we prioritize it, we may be able to come up with a way to protect our citizens from the harmful influence of any such Sphere. 
 
-<effect> <em>Sphere Protection</em> research available.","While it does not seem to be lethal in any moderate doses, any Colonist, subject to the Sphere’s influence, shows signs of deteriorating health and needs a solid few days at the Infirmary.
+<effect> <em>Sphere Protection</em> research available.","Нягледзячы на тое, што ўздзеяньне Сфэры не здаецца сьмяротным у ўмераных дозах, кожны каляніст, які падвяргаецца яго ўздзеяньню, пачынае пагаршацца й павінен правесьці некалькі дзён у шпіталю.
 
-Our researchers have several theories on what this phenomenon is and should we prioritize it, we may be able to come up with a way to protect our citizens from the harmful influence of any such Sphere. 
+Нашы дасьледчыкі маюць некалькі гіпотэз наконт таго, што гэта за з'ява й ці варта ставіць яго ў прыярытэт. Магчыма, мы зможам знайсьці нейкі спосаб абараніць нашых грамадзян ад шкоднага ўздзеяньня такіх Сфэр.
 
-<effect> <em>Sphere Protection</em> research available.",
+<effect>Даступна новае дасьледваньне: <em>Захова ад Сфэр</em>.",
 5707,Spheres: Bad Vibrations,Сферы: Дрэнныя вібрацыі,Kule: Złe wibracje
 7081,"The humming’s less than subtle now, with the added bonus that it’s clearly harming any Colonists that come too close.",Гуд Cфэры цяпер больш чутны й шкодзіць каляністам паблізу.,Buczenie Kuli jest teraz bardziej słyszalne i wyraźnie szkodzi kolonistom znajdującym się w pobliżu.
 5734,"Well, this can’t be good...","О, гэта даволі дрэнна ...","Oj, to raczej niedobrze..."
@@ -4138,13 +4138,13 @@ The second Sphere is now entirely independent from the first, moving in a direct
 
 At the moment of the splitting a vast amount of data was gathered by our instruments, so we may have the means to dig deeper within this mystery. Until then we can only predict that some event will trigger when a certain resonance frequency has been reached by both Spheres.
 
-<effect>The Sphere divided into two separate Spheres.","In a moment of pure awesomeness the Sphere split into two identical Spheres. The new objects have grown to the exact same size as the previous one.
+<effect>The Sphere divided into two separate Spheres.","У момант найчысьцейшага захапленьня Сфэра распадаецца на дзьве аднолькавыя Сфэры - сапраўды такога ж памеру, як першапачатковая.
 
-The second Sphere is now entirely independent from the first, moving in a direction of its own choosing, yet the two Spheres are clearly interacting with each other at a distance. Their humming frequencies are changing simultaneously and the more they resonate, the more a slight ionization of the atmosphere around them becomes evident.
+Другая Сфэра рухаецца абсалютна незалежна ад першай у абраным кірунку, але дзьве, відаць, узаемадзейнічаюць адна з адной на адлегласьці. Адначасова зьмяняюцца частата іх гудзеньня, і чым мацнейшым становяцца рэзананс, тым больш бачная лёгкая іянізацыя атмасфэры, якая іх акружае.
 
-At the moment of the splitting a vast amount of data was gathered by our instruments, so we may have the means to dig deeper within this mystery. Until then we can only predict that some event will trigger when a certain resonance frequency has been reached by both Spheres.
+Нашы прыборы запісалі велізарны аб'ём дадзеных, калі шары раз'ядналіся, так што, магчыма, мы зможам даследаваць гэтую таямніцу далей. На дадзены момант мы можам прадбачыць толькі тое, што нейкая падзея адбудзецца, калі абедзве сферы дасягнуць пэўнай частаты гудзення.
 
-<effect>The Sphere divided into two separate Spheres.",
+<effect>Сфэра падзялілася на дзьве асобныя сфэры.",
 5732,Spheres: More to Come,Сфэры: Будзе больш,Kule: To jeszcze nie koniec
 7109,The Mirror Sphere has Mission Control in total chaos. Though that’s expected given what we saw.,"Камандаваньне у поўным хаосе з-за люстранай сфэры. Аднак, гэта чакана, улічваючы тое, што мы бачылі.","Lustrzana Kula spowodowała chaos w Dowództwie. To zrozumiałe, biorąc pod uwagę, co właśnie widzieliśmy!"
 5737,Aced it!,Перамог!,Smerfastycznie!
@@ -4152,9 +4152,9 @@ At the moment of the splitting a vast amount of data was gathered by our instrum
 
 However, this is critical for closer observation and research.
 
-<effect> A Sphere is being held motionless.","Apart from controlling where it goes and what damage it does, this is of little use to us at the moment as we can’t dismantle them or even hinder their function in any way. 
+<effect> A Sphere is being held motionless.","Акрамя таго, каб кантраляваць кірунак руху й тое, што будзе зьнішчана, мы атрымалі мала карысьці. Мы ня можам разабраць або адключыць яго ў любым выпадку.
 
-However, this is critical for closer observation and research.
+Аднак у нас ёсьць магчымасць прыгледзецца да яго больш уважліва і даследаваць яго лепш.
 
 <effect> A Sphere is being held motionless.",
 5735,Spheres: It Works!,Сфэры: Гэта працуе!,Kule: To działa!
@@ -4166,14 +4166,14 @@ Our scientists are quick to inform us that any Sphere free from our decoy buildi
 
 We feel we have gathered enough information from these Spheres. It’s been deemed that decomposing all the Spheres is our best road of action.
 
-<effect> A Sphere was converted into resources.","The Sphere is converted back to its precious ingredients.
+<effect> A Sphere was converted into resources.","Cфэра была ператворана у каштоўныя складнікі.
 
-Our scientists are quick to inform us that any Sphere free from our decoy buildings will roll back to its splitting phase and will most probably try to retrieve the critical amount needed for their collective purpose.
+Навукоўцы пасьпяшаліся паведаміць нам, што калі які-небудзь шар вырвецца з нашай пасткі, ён вернецца ў фазу аддзяленьня й, верагодна, паспрабуе ўзнавіць крытычную колькасьць, неабходную для дасягненьня мэты.
 
-We feel we have gathered enough information from these Spheres. It’s been deemed that decomposing all the Spheres is our best road of action.
+Нам здаецца, што мы атрымалі дастаткова інфармацыі ад Сфэр. Вырашана, што лепшы спосаб дзеяньняў - разабраць усе Сфэры.
 
-<effect> A Sphere was converted into resources.",
-5738,Spheres: Choose Your Poison,Сфэры: Абяры сваю атруту,"Kule: Bierz, co chcesz"
+<effect> Сфэра была ператворана ў рэсурсы.",
+5738,Spheres: Choose Your Poison,Сфэры: Абяры што пражыш,"Kule: Bierz, co chcesz"
 7111,Humanity applied its knowledge of an alien technology for the first time ever. And it was a complete success.,Чалавецтва толькі што ўпершыню атрымала веды аб іншаплянетных тэхнолёгіях! Поўны посьпех!,Ludzkość właśnie zdobyła po raz pierwszy wiedzę o technologii obcej cywilizacji! Pełen sukces!
 5746,This is now officially a fight for survival.,Цяпер гэта змаганьне а сваім жыцьці,Zatem walczymy o życie
 5745,"What or who needs to lower the atmospheric temperature of contemporary Mars is beyond any of us – yet it is most evident that the Spheres are effective at what they are doing. 
@@ -4181,12 +4181,12 @@ We feel we have gathered enough information from these Spheres. It’s been deem
 If we want to stop the change, we must find a breakthrough based on what we already know and learn how to control or cancel this process.
 
 <effect> A prolonged, extremely strong Cold Wave has begun.
-<effect> <em>Xeno-Terraforming</em> research available.","What or who needs to lower the atmospheric temperature of contemporary Mars is beyond any of us – yet it is most evident that the Spheres are effective at what they are doing. 
+<effect> <em>Xeno-Terraforming</em> research available.","Хто ці што можа выйграць ад паніжэньня цяперашняй тэмпературы марсіянскай атмасфэры - мы ня ведаем. Аднак відавочна, што Сфэры валодаюць дастаткова моцы ў тым, што яны робяць.
 
-If we want to stop the change, we must find a breakthrough based on what we already know and learn how to control or cancel this process.
+Калі мы хочам спыніць гэтыя зьмены, нам трэба зрабіць прарыў на аснове таго, што мы ўжо ведаем, і высветліць, як кантраляваць або спыніць увесь працэс.
 
-<effect> A prolonged, extremely strong Cold Wave has begun.
-<effect> <em>Xeno-Terraforming</em> research available.",
+<effect> Пачалася працяглая надзвычай моцная хваля холаду.
+<effect>Даступна тэхнолёгія <em>Ксенатэрафарміраваньне.</em>",
 5748,"The Cold Wave that had gripped our Colony has finally been dispelled. Temperatures have returned to the normal, cruelly cold levels we are used to.
 
 Our scientists are confident that we have recorded and gathered all data necessary for making sense of this encounter in the coming decades. Also, they are confident that the Spheres themselves had overstayed their welcome. 
@@ -4198,18 +4198,18 @@ And despite the risks, despite the purely pragmatic reasons for destroying all t
 When our scientists give up on trying to determine the origin of these Spheres, will textbooks mention that because of the rash actions and fears of the few pioneers that lived on Mars at the time, the riddle will never be solved?
 
 <effect> No more Spheres are left.
-<effect> Cold Wave dispelled.","The Cold Wave that had gripped our Colony has finally been dispelled. Temperatures have returned to the normal, cruelly cold levels we are used to.
+<effect> Cold Wave dispelled.","Хваля холаду, якая ахапіла нашу калёнію, нарэшце скончылася, і тэмпература вяртаецца да звычайнага, лютага халоднага ўзроўню, да якога мы прывыклі.
 
-Our scientists are confident that we have recorded and gathered all data necessary for making sense of this encounter in the coming decades. Also, they are confident that the Spheres themselves had overstayed their welcome. 
+Нашы навукоўцы мяркуюць, што яны запісалі й сабралі ўсе дадзеныя, неабходныя, каб раскрыць значэньне гэтай сустрэчы на доўгія гады. Яны таксама лічаць, што самі Сфэры ўжо злоўжывалі нашай гасьціннасьцю.
 
-Keeping them around would have meant living with the ever-present danger of re-activating the endless Cold Wave once more, even if we had managed to find a way to halt it without destroying all the Spheres. 
+Пакінуць іх у калёніі азначала б жыць у цені пастаяннай пагрозы таго, што яны выклічуць чарговую хвалю жудаснага холаду й нанясуць нам новую шкоду, нават калі мы знойдзем спосаб спыніць гэта, не знішчыўшы ўсе Сфэры.
 
-And despite the risks, despite the purely pragmatic reasons for destroying all the Spheres, one can’t help but wonder how the generations to come will feel of this deed. Will we go down in history as cowards? Or maybe as too insensitive to the magnitude of the encounter, the very first non-man-made technology ever found?
+І ўсё ж, нягледзячы на пагрозы й цалкам прагматычныя прычыны, якія прапануюць зьнішчыць усе Сфэры, нам не дае спакою сумнеў наконт таго, як да нашых дзеяньняў будуць ставіцца прышлыя пакаленьні. Ці ўвойдзем мы ў гісторыю баязьліўцамі? Няўжо мы, людзі, сьляпыя да значэньня гэтай сустрэчы - нашага першага кантакту з нечалавечымі тэхнолёгіямі?
 
-When our scientists give up on trying to determine the origin of these Spheres, will textbooks mention that because of the rash actions and fears of the few pioneers that lived on Mars at the time, the riddle will never be solved?
+Калі нашы навукоўцы адмовяцца ад спроб вызначыць паходжаньне Сфэр, ці ў будучых падручніках будзе выяўлена, што таямніца засталася неразгаданай з-за неабдуманых дзеяньняў і страхаў некалькіх піянераў, якія жылі ў той час на Марсе?
 
-<effect> No more Spheres are left.
-<effect> Cold Wave dispelled.",
+<effect> Усе Сфэры разабраны.
+<effect> Халодная хваля скончылася.",
 5760,....,.....,....
 5661,Mystery Log,Журнал таямніцы,Dziennik tajemnic
 5712,"Thank you, fellow Colonists.","Дзякуй вам, мае сябры-каляністы.","Dziękuję wam, moi przyjaciele koloniści."
@@ -4220,14 +4220,14 @@ When our scientists give up on trying to determine the origin of these Spheres, 
 What is it that takes a person through all of this is a question only we can answer. This is a question whose answer is the spirit of <ColonistName(colonist)>, and this is a legacy for us.
 
 <effect><ColonistName(colonist)> has died. Cause: <reason>
-<hint> Each time a Colonist dies from a non-natural death, two Applicants leave the pool","As difficult and painful as it is, we must accept that <ColonistName(colonist)> is dead. As friends, as a community, we express our sadness, we acknowledge our loss, acknowledge the great importance of <ColonistName(colonist)>’s life.
+<hint> Each time a Colonist dies from a non-natural death, two Applicants leave the pool","Хоць гэта цяжка й балюча, мы павінны прыняць, што <ColonistName(colonist)>  мёртвы. Мы аб'яднаныя ў смутку як сябры й як супольнасьць - мы панесьлі вялікую страту з-за сьмерці такога важнага чалавека, як <ColonistName(colonist)> .
 
-<ColonistName(colonist)>’s life has been a journey towards a vision, a journey which brought us all towards the possibility of living on the Red Planet, one small step after at a time. <ColonistName(colonist)> didn’t try to make their mark in human history, for there is no room for attempts in success. <ColonistName(colonist)> knew what the calling of fate was, knew the risks and the opportunities and made the best of it, for the good of us all.
+Давайце жыць як <ColonistName(colonist)> так, каб наша жыцьцё было падарожжам да пэўнага бачаньня, падарожжам, якое набліжае нас да магчымасьці зрабіць Чырвоную плянету нашым домам - крок за крокам. Як і <ColonistName(colonist)>, давайце ня будзем спрабаваць пакінуць свой адбітак у гісторыі, таму што гэта ня той посьпех, да якога мы імкнемся. Як і <ColonistName(colonist)>, ведаем наша пакліканьне, ведаем яго пагрозы й магчымасьці, і паспрабуем максімальна выкарыстоўваць іх.
 
-What is it that takes a person through all of this is a question only we can answer. This is a question whose answer is the spirit of <ColonistName(colonist)>, and this is a legacy for us.
+Што трэба чалавеку, каб з гэтым справіцца, можам сказаць толькі мы. Адказ ужо далі нам многія людзі, такія як <ColonistName(colonist)> - і гэта наша спадчына.
 
-<effect><ColonistName(colonist)> has died. Cause: <reason>
-<hint> Each time a Colonist dies from a non-natural death, two Applicants leave the pool",
+<effect><ColonistName(colonist)> мёртвы. Прычына: <reason>
+<hint> Калі каляніст раптоўна памірае, два добраахвотнікі заўсёды адклікаюць сваю заяўку.",
 5710,A Eulogy for an Everyday Hero,Паніхіда героя,Mowa pogrzebowa dla bohatera
 7082,We gather here today to bid a final farewell to one of our finest.,"Мы сабраліся тут, каб развітацца з адным з самых адметных людзей нашай калёніі.","Zebraliśmy się tutaj, aby pożegnać jedną z najwybitniejszych osób z naszej kolonii."
 5714,"<ColonistName(colonist)>, as every other Colonist, went through psychological conditioning before arriving on Mars to guarantee their most basic ability to cope with the adverse environment. Indeed, the people live on a barren, dead-cold world with a toxic, almost non-existent atmosphere, protected only by a fragile-looking Dome and relying on machines to keep them alive.
@@ -4440,8 +4440,8 @@ Let’s get started!
 <goal>Land the Rocket on Mars.","Proceed by selecting the pinned icon representing the Rocket that is currently in orbit around Mars.
 
 <goal>Land the Rocket on Mars.",
-9232,Landing the Rocket,Landing the Rocket,Lądowanie rakiety
-9233,Now it's time to land your first Rocket.,Now it's time to land your first Rocket.,Czas posadzić pierwszą rakietę na Czerwonej Planecie.
+9232,Landing the Rocket,Пасадка ракеты,Lądowanie rakiety
+9233,Now it's time to land your first Rocket.,Час пасадзіць першую ракету на Чырвонай Плянеце.,Czas posadzić pierwszą rakietę na Czerwonej Planecie.
 9237,"It carries Drones - remotely controlled robots which constitute your construction and resources gathering workforce.
 
 Gathering basic resources for building construction is one of the first things our Martian base needs. Place a Metals Depot so the Drones begin automatically bringing Metals from the scattered surface deposits nearby.
@@ -4462,7 +4462,7 @@ Gathering basic resources for building construction is one of the first things o
 
 <goal>From the build menu, select to build a Concrete Extractor and place it at the proposed location.",
 5032,Concrete Extractor,Экстрактар бэтону,Ekstraktor cementu
-9241,"Along with Metals, Concrete is the other vital basic construction resource.","Along with Metals, Concrete is the other vital basic construction resource.",Drugim podstawowym surowcem budowlanym jest cement.
+9241,"Along with Metals, Concrete is the other vital basic construction resource.",Другім галоўным будаўнічым матэрыялам з'яўляецца бэтон.,Drugim podstawowym surowcem budowlanym jest cement.
 9245,"Buildings are constructed by Drones. If you place a building outside the Drones' work range it won't be constructed. When placing buildings, make sure that those buildings are within range of drone controllers like the Rocket, Drone Hubs or RC Commanders.
 
 You can select the Rocket to view its control radius.","Buildings are constructed by Drones. If you place a building outside the Drones' work range it won't be constructed. When placing buildings, make sure that those buildings are within range of drone controllers like the Rocket, Drone Hubs or RC Commanders.
@@ -5848,65 +5848,65 @@ Our Colony's safety and viability is our utmost priority. This is why I’ve per
 The first contact, if one has the audacity to call it that way, was with a system of automated mining equipment. As disappointing as it may sound, the alien machines displayed an almost offensive disregard for our presence. So far they had followed their simple purpose – to extract resources from the surface of Mars. The nature and intentions of their creators remains a mystery and our best minds are working towards unveiling it.","At their core of our expectations has always been a flawed assumption – that an alien race would be psychologically human.
 
 The first contact, if one has the audacity to call it that way, was with a system of automated mining equipment. As disappointing as it may sound, the alien machines displayed an almost offensive disregard for our presence. So far they had followed their simple purpose – to extract resources from the surface of Mars. The nature and intentions of their creators remains a mystery and our best minds are working towards unveiling it.",
-7318,Continue,Continue,Dalej
-6030,The Dredgers: Press Conference - Hard Questions,The Dredgers: Press Conference - Hard Questions,Bagrownice - Konferencja prasowa - trudne pytania
-7474,"After the applause dies down, the delegates proceed to question our sponsor’s committee as to the details of their encounter with the Dredgers.","After the applause dies down, the delegates proceed to question our sponsor’s committee as to the details of their encounter with the Dredgers.",Po stosownej dawce oklasków delegaci przystąpili do wypytywania komisji naszego sponsora o spotkanie z bagrownicami.
+7318,Continue,Далей,Dalej
+6030,The Dredgers: Press Conference - Hard Questions,Драгеры: Прэс-канферэнцыя - складаныя пытаньні,Bagrownice - Konferencja prasowa - trudne pytania
+7474,"After the applause dies down, the delegates proceed to question our sponsor’s committee as to the details of their encounter with the Dredgers.",Па адпаведнай порцыі апладысьментаў дэлегаты пачалі распытваць наш камітэт фундатару пра сустрэчу з Драгерамі.,Po stosownej dawce oklasków delegaci przystąpili do wypytywania komisji naszego sponsora o spotkanie z bagrownicami.
 6031,"They handle most of the questions with ease and require little input from you. And then you are confronted with a direct question from one of the delegates.
 
-“An anonymous yet reliable source disclosed to us that you ordered and succeeded in the deliberate destruction of at least one of the alien vessels. My country condemns any premature aggressive actions which could taint the reputation of humankind, especially when addressing such a delicate matter. What gave you the authority to act in such a risky manner without an official resolution from the Council of the United Nations?”","They handle most of the questions with ease and require little input from you. And then you are confronted with a direct question from one of the delegates.
+“An anonymous yet reliable source disclosed to us that you ordered and succeeded in the deliberate destruction of at least one of the alien vessels. My country condemns any premature aggressive actions which could taint the reputation of humankind, especially when addressing such a delicate matter. What gave you the authority to act in such a risky manner without an official resolution from the Council of the United Nations?”","Члены камітэту зь лёгкасьцю вырашаюць большасьць пытаньняў і не патрабуюць ад вас асаблівага ўкладу. Пакуль вы нарэшце не атрымаеце прамое пытаньне ад аднаго з дэлегатаў.
 
-“An anonymous yet reliable source disclosed to us that you ordered and succeeded in the deliberate destruction of at least one of the alien vessels. My country condemns any premature aggressive actions which could taint the reputation of humankind, especially when addressing such a delicate matter. What gave you the authority to act in such a risky manner without an official resolution from the Council of the United Nations?”",
-6032,The prosperity of our Colony is our first and only concern...,The prosperity of our Colony is our first and only concern...,Naszym jedynym zadaniem jest powodzenie naszej kolonii...
-6033,This is not an act of aggression but instead a step towards mutual understanding...,This is not an act of aggression but instead a step towards mutual understanding...,"To nie jest akt agresji, ale pierwszy krok ku porozumieniu..."
-6034,The Dredgers: Press Conference – United We Stand,The Dredgers: Press Conference – United We Stand,Bagrownice - Konferencja prasowa - w jedności siła
-7475,"Honorable delegates, we stand at the doorway to a new era, taking those first hesitant steps towards the stars beyond. Allowing fear and doubt to sway us from our path would fail not only Mars Alpha, but us as a species.","Honorable delegates, we stand at the doorway to a new era, taking those first hesitant steps towards the stars beyond. Allowing fear and doubt to sway us from our path would fail not only Mars Alpha, but us as a species.","Szanowni delegaci, stoimy na progu nowej epoki. Właśnie uczyniliśmy pierwszy krok ku gwiazdom i jeśli pozwolimy, by strach i wątpliwości zmusiły nas do zawrócenia z tej drogi, zawiedziemy nie tylko kolonię Mars Alpha, ale i całą ludzkość."
+«Ананімная, але надзейная крыніца паведаміла нам, што вы загадалі й пасьпяхова завяршылі зьнішчэньне як мінімум аднаго з іншаплянетных транспартных сродкаў. Мая краіна асуджае любыя заўчасныя агрэсіўныя дзеяньні, якія могуць запляміць рэпутацыю чалавецтва, асабліва ў такім далікатным пытаньні. Хто дазволіў вам дзейнічаць такім рызыкоўным чынам без афіцыйнай рэзалюцыі Рады бясьпекі ААН?»",
+6032,The prosperity of our Colony is our first and only concern...,Наша адзіная задача - посьпех нашай калёніі...,Naszym jedynym zadaniem jest powodzenie naszej kolonii...
+6033,This is not an act of aggression but instead a step towards mutual understanding...,"Гэта не акт агрэсіі, а першы крок да разуменьня...","To nie jest akt agresji, ale pierwszy krok ku porozumieniu..."
+6034,The Dredgers: Press Conference – United We Stand,Драгеры: Прэс-канферэнцыя - у адзінстве сіла,Bagrownice - Konferencja prasowa - w jedności siła
+7475,"Honorable delegates, we stand at the doorway to a new era, taking those first hesitant steps towards the stars beyond. Allowing fear and doubt to sway us from our path would fail not only Mars Alpha, but us as a species.","Паважаныя дэлегаты, мы стаім на парозе новай эпохі. Мы толькі што зрабілі наш першы крок да зорак, і калі мы дазволім страху й сумневам прымусіць нас вярнуцца назад, мы падманем не толькі калонію Марса Альфа, але і ўсё чалавецтва.","Szanowni delegaci, stoimy na progu nowej epoki. Właśnie uczyniliśmy pierwszy krok ku gwiazdom i jeśli pozwolimy, by strach i wątpliwości zmusiły nas do zawrócenia z tej drogi, zawiedziemy nie tylko kolonię Mars Alpha, ale i całą ludzkość."
 6035,"For countless generations the human species had proven to possess the ability to adapt, survive and thrive. Let us not forget who we are.
 
-The actions I ordered were not an act of war and aggression, but instead were means to secure the future of our initiative and fulfill a promise to all people on Earth. Dismantling several alien vessels is a fair price to pay for what's at stake today. And if the creators of these vessels see our actions as something more than doing the right thing, we will prove them wrong. For we do not desire to take what's not ours – we want to fulfill our destiny as a space-faring species.","For countless generations the human species had proven to possess the ability to adapt, survive and thrive. Let us not forget who we are.
+The actions I ordered were not an act of war and aggression, but instead were means to secure the future of our initiative and fulfill a promise to all people on Earth. Dismantling several alien vessels is a fair price to pay for what's at stake today. And if the creators of these vessels see our actions as something more than doing the right thing, we will prove them wrong. For we do not desire to take what's not ours – we want to fulfill our destiny as a space-faring species.","На працягу незлічоных пакаленняў чалавечы рода дэманстраваў сваю здольнасьць адаптавацца, выжываць і квітнець. Давайце не забываць, хто мы ёсьць.
 
-The actions I ordered were not an act of war and aggression, but instead were means to secure the future of our initiative and fulfill a promise to all people on Earth. Dismantling several alien vessels is a fair price to pay for what's at stake today. And if the creators of these vessels see our actions as something more than doing the right thing, we will prove them wrong. For we do not desire to take what's not ours – we want to fulfill our destiny as a space-faring species.",
-7319,Continue,Continue,Dalej
+Дзеяньні, якія я загадаў, не былі актам вайны або агрэсіі, а толькі сродкам забесьбпячэньня прышласьці нашай ініцыятывы й выкананьня абяцаньня, якое мы далі ўсім людзям на Зямлі. Разбор некалькіх іншаплянетных машын - гэта справядлівая цана, улічваючы нашу стаўку. І калі стваральнікі гэтых машын думаюць, што мы робім нешта больш, чым проста робім правільныя рэчы, мы дакажам, што яны памыляюцца. Таму што мы ня хочам браць тое, што ня наша - мы хочам выканаць свой лёс, лёс роду, здольнага падарожнічаць па космасе.",
+7319,Continue,Далей,Dalej
 6037,"You not only managed to persuade the public to support our efforts, but also inspired millions of people around the world who watched the live-stream.
 
 Your influence will aid the Colony greatly.
 
-<effect>The United Nations transferred resources to the Mars Alpha project. You've gained <funding(reg_param1)> Funding.","You not only managed to persuade the public to support our efforts, but also inspired millions of people around the world who watched the live-stream.
+<effect>The United Nations transferred resources to the Mars Alpha project. You've gained <funding(reg_param1)> Funding.","Вы не толькі здолелі пераканаць грамадскасьць падтрымаць вашы намаганьні, але й натхнілі мільёны людзей па ўсім сьвеце, якія глядзелі прамую трансьляцыю.
 
-Your influence will aid the Colony greatly.
+Ваш уплыў стане вялікай дапамогай для калёніі.
 
-<effect>The United Nations transferred resources to the Mars Alpha project. You've gained <funding(reg_param1)> Funding.",
-6038,I'm glad the UN understood the importance of our mission.,I'm glad the UN understood the importance of our mission.,"Cieszę się, że ONZ zrozumiała wagę naszej misji."
-6039,The United Nations were persuaded to support the Colony with increased funding.,ААН пераканалі павялічыць фінансаваньне калёніі.,Organizacja Narodów Zjednoczonych została przekonana do wsparcia kolonii dodatkowymi funduszami.
-6040,Press Conference 2: A Bridge to Build,Press Conference 2: A Bridge to Build,Bagrownice - Konferencja prasowa - nić porozumienia
-7477,"I would only take issue with half of the statement given by our honorable delegate. While we did indeed dismantle the vessel, I would hardly paint our intent as an expression of the darker side of human nature.","I would only take issue with half of the statement given by our honorable delegate. While we did indeed dismantle the vessel, I would hardly paint our intent as an expression of the darker side of human nature.","Potwierdzam tylko część stwierdzenia szanownego delegata - istotnie rozmontowaliśmy pewien obcy pojazd, ale nasze intencje były dalekie od mroczniejszej, niszczycielskiej strony ludzkiej natury."
+<effect>Арганізацыя Аб'яднаных Нацый ахвяравала рэсурсы на праект Марс Альфа. Вы атрымліваецце <funding(reg_param1)> фінансаваньня.",
+6038,I'm glad the UN understood the importance of our mission.,"Я рады, што ў ААН зразумелі важнасць нашай місіі.","Cieszę się, że ONZ zrozumiała wagę naszej misji."
+6039,The United Nations were persuaded to support the Colony with increased funding.,Арганізацыю Аб'яднаных Нацый пераканалі падтрымаць калёнію дадатковым фінансаваньнем.,Organizacja Narodów Zjednoczonych została przekonana do wsparcia kolonii dodatkowymi funduszami.
+6040,Press Conference 2: A Bridge to Build,Драгеры: Прэс-канферэнцыя – Ніць паразуменьня,Bagrownice - Konferencja prasowa - nić porozumienia
+7477,"I would only take issue with half of the statement given by our honorable delegate. While we did indeed dismantle the vessel, I would hardly paint our intent as an expression of the darker side of human nature.","Я толькі пацьвярджаю частку заявы, зробленай шаноўным дэлегатам - мы сапраўды разабралі іншаплянетны транспартны сродак, але нашы намеры былі далёкія ад цёмнага, разбуральнага боку чалавечай прыроды.","Potwierdzam tylko część stwierdzenia szanownego delegata - istotnie rozmontowaliśmy pewien obcy pojazd, ale nasze intencje były dalekie od mroczniejszej, niszczycielskiej strony ludzkiej natury."
 6041,"Our goal was to make sense of what's happening, of the nature of the alien vessels, which is one of the underlying principles of science.
 
-Our efforts were not in vain. The greatest minds of Mars Alpha and Earth managed to make amazing progress. Dismantling the probe allowed us to make sense of the communications of the alien machines, maybe even the basis of the language of their creators, and not only that. The scientific knowledge we gained from this event will speed our way to the stars, where even more puzzling mysteries await those of us who have the bravery and integrity to face the unknown.","Our goal was to make sense of what's happening, of the nature of the alien vessels, which is one of the underlying principles of science.
+Our efforts were not in vain. The greatest minds of Mars Alpha and Earth managed to make amazing progress. Dismantling the probe allowed us to make sense of the communications of the alien machines, maybe even the basis of the language of their creators, and not only that. The scientific knowledge we gained from this event will speed our way to the stars, where even more puzzling mysteries await those of us who have the bravery and integrity to face the unknown.","Нашай мэтай было ўцёміць што адбываецца й прыроду іншаплянетных апаратаў. Гэта адзін з асноўных прынцыпаў навукі.
 
-Our efforts were not in vain. The greatest minds of Mars Alpha and Earth managed to make amazing progress. Dismantling the probe allowed us to make sense of the communications of the alien machines, maybe even the basis of the language of their creators, and not only that. The scientific knowledge we gained from this event will speed our way to the stars, where even more puzzling mysteries await those of us who have the bravery and integrity to face the unknown.",
-7320,Continue,Continue,Dalej
-6036,The Dredgers: Press Conference – A Battle Well Fought,The Dredgers: Press Conference – A Battle Well Fought,Bagrownice - Konferencja prasowa - dobra robota
-7476,"By the looks on the faces of the audience, your words have made a lasting mark.","By the looks on the faces of the audience, your words have made a lasting mark.",Twoje słowa wywarły niezatarte wrażenie na słuchaczach.
+Нашы намаганьні ня былі марнымі. Самыя яркія розумы праекту Марс Альфа - і тыя, хто на Зямлі - дасягнулі дзіўнага прагрэсу. Разбор згаданага зонда дазволіў зразумець камунікацыю іншаплянетных машын, магчыма, нават асновы мовы іх стваральнікаў і шмат іншае. Навуковыя веды, якія мы атрымалі ў выніку гэтай дзейнасьці, паскораць наша падарожжа да зорак, дзе яшчэ больш дзіўныя загадкі чакаюць тых з нас, хто адважны й дастаткова рашучы, каб сутыкнуцца зь невядомым.",
+7320,Continue,Далей,Dalej
+6036,The Dredgers: Press Conference – A Battle Well Fought,Драгеры: Прэс-канфэрэнцыя - Добрая праца,Bagrownice - Konferencja prasowa - dobra robota
+7476,"By the looks on the faces of the audience, your words have made a lasting mark.",Вашы словы пакінулі незабыўнае ўражаньне на прысутных.,Twoje słowa wywarły niezatarte wrażenie na słuchaczach.
 6042,"You not only managed to persuade the public to support our efforts, but also inspired millions of people around the world who watched the live-stream.
 
 Your influence will aid the Colony greatly.
 
-<effect> Public opinion for Mars Alpha increased. Additional <reg_param1> Applicants are available.","You not only managed to persuade the public to support our efforts, but also inspired millions of people around the world who watched the live-stream.
+<effect> Public opinion for Mars Alpha increased. Additional <reg_param1> Applicants are available.","Вы не толькі здолелі пераканаць грамадскасьць падтрымаць вашы намаганьні, але й натхнілі мільёны людзей па ўсім сьвеце, якія глядзелі прамую трансьляцыю.
 
-Your influence will aid the Colony greatly.
+Ваш уплыў стане вялікай дапамогай для калёніі.
 
-<effect> Public opinion for Mars Alpha increased. Additional <reg_param1> Applicants are available.",
-6043,I feel like a rock star.,I feel like a rock star.,Czuję się jak gwiazda mediów.
-6044,Millions of people on Earth were inspired by the press-conference and more and more Applicants are willing to colonize Mars.,Millions of people on Earth were inspired by the press-conference and more and more Applicants are willing to colonize Mars.,Miliony ludzi na Ziemi zainspirowały się konferencją prasową. Pojawiają się nowi ochotnicy do kolonizacji Marsa.
+<effect>Праект Марс Альфа выклікае шырокае захапленьне. Новыя <reg_param1> кандыдаты даступны.",
+6043,I feel like a rock star.,Я адчуваю сябе медыйнай зоркай.,Czuję się jak gwiazda mediów.
+6044,Millions of people on Earth were inspired by the press-conference and more and more Applicants are willing to colonize Mars.,Прэс-канфэрэнцыя натхніла мільёны людзей на Зямлі. З'яўляюцца новыя кандыдаты для каланізацыі Марса.,Miliony ludzi na Ziemi zainspirowały się konferencją prasową. Pojawiają się nowi ochotnicy do kolonizacji Marsa.
 6045,The Dredgers: Darkened Skies,Драгеры: Змрочныя нябёсы,Bagrownice - Ciemne niebo
 7478,Warning! We’ve got a red alert!,Увана! Чырвоная трывога!,"Uwaga! Do wszystkich, czerwony alarm!"
 6046,"The scanners have gone crazy with the signatures of dozens of Dredgers heading our way. The Dredger transmissions repeat a signal we can interpret only as “urgency eat/dig”. On the screen they look like a swarm of locusts and we presume their goal is similar.
 The mission sponsor has authorized a forceful response.
 
-<effect>Multiple Dredgers detected! They will arrive within <text_param1> Sols.","The scanners have gone crazy with the signatures of dozens of Dredgers heading our way. The Dredger transmissions repeat a signal we can interpret only as “urgency eat/dig”. On the screen they look like a swarm of locusts and we presume their goal is similar.
-The mission sponsor has authorized a forceful response.
+<effect>Multiple Dredgers detected! They will arrive within <text_param1> Sols.","Сканэры звар'яцелі - экраны ўсеяныя сігнатурамі дзясяткаў Драгераў, якія накіроўваюцца да нас. Паведамленьні ад земснарадаў паўтараюць адзін сігнал, які можна перавесьці толькі як «трэба капаць/есьці». На экране гэта падобна на зграю саранчы. Мы мяркуем, што ў іх падобная мэта.
+Фундатар місіі дазволіў нам рэаргаваць сілай.
 
-<effect>Multiple Dredgers detected! They will arrive within <text_param1> Sols.",
+<effect>Выяўлена некалькі Драг! Яны прыбудуць праз <text_param1> Солаў.",
 7199,5,5,5
 6047,Multiple Dredgers are bound to land on Mars and harvest our resources!,Шмат Драгераў плянуць сесьці на Марсе й здабыць нашы рэсурсы!,"W kierunku Marsa leci chmara bagrownic, aby wylądować i pożreć nasze surowce!"
 6049,"As sudden as they fell upon us, the alien vessels are taking off all at once. Our scientists are just starting to estimate the exact amount of precious resources that have been irreparably lost, but the preliminary reports are promising. We've survived!
@@ -11926,9 +11926,9 @@ New Dome: <em>Mega Trigon</em> (<buildinginfo('DomeMegaTrigon')>) - A bigger tri
 <grey>A theory on the purpose of the Spheres, how they navigate and how to contain the threat that they represent.</grey> 
 
 ",
-6618,Purpose of the Spheres,Purpose of the Spheres,Przeznaczenie Kul
-6621,A way to immunize our colonists from the negative health effects of the Mirror Spheres.,A way to immunize our colonists from the negative health effects of the Mirror Spheres.,Sposób uodpornienia naszych kolonistów przed negatywnym wpływem lustrzanych kul na zdrowie.
-6620,Sphere Protection,Sphere Protection,Ochrona przed Kulą
+6618,Purpose of the Spheres,Прызначэньне Сфэр,Przeznaczenie Kul
+6621,A way to immunize our colonists from the negative health effects of the Mirror Spheres.,Спосаб імунізацыі нашых каляністаў ад негатыўнага ўздзеяньня люстраных Сфэр на здароўе.,Sposób uodpornienia naszych kolonistów przed negatywnym wpływem lustrzanych kul na zdrowie.
+6620,Sphere Protection,Захова ад Сфэр,Ochrona przed Kulą
 6623,"Mirror Spheres in captivity may be broken down to their building parts.
 
 <grey>An attempt at understanding the climate changing devices that are the Mirror Spheres.</grey>
