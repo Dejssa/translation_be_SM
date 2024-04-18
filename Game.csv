@@ -4234,18 +4234,18 @@ What is it that takes a person through all of this is a question only we can ans
 
 The unparalleled everyday stress levels slowly drain the people of their resolve – thus even the slightest shock or frustration can send someone over the edge. On Earth entertainment and recreation are just for fun, but here they are a tool for basic survival.
 
-<hint> The Colonist <ColonistName(colonist)> has reached critically low Sanity. Provide operational Healthcare buildings in the Domes and avoid Heavy workload or Nighttime work to prevent this situation.","<ColonistName(colonist)>, as every other Colonist, went through psychological conditioning before arriving on Mars to guarantee their most basic ability to cope with the adverse environment. Indeed, the people live on a barren, dead-cold world with a toxic, almost non-existent atmosphere, protected only by a fragile-looking Dome and relying on machines to keep them alive.
+<hint> The Colonist <ColonistName(colonist)> has reached critically low Sanity. Provide operational Healthcare buildings in the Domes and avoid Heavy workload or Nighttime work to prevent this situation.","<ColonistName(colonist)>, як і кожны каляніст, перад прыбыцьцём на Марс прайшоў псіхалягічную падрыхтоўку, каб дапамагчы яму справіцца з надзвычай варожым асяроддзем. Людзі жывуць тут у бязлюдным, пякельна халодным сьвеце зь ледзь прыкметнай і шкоднай атмасфэрай, і іх абараняюць толькі купалы, якія здаюцца далікатнымі, і машыны, якія не на 100% надзейныя.
 
-The unparalleled everyday stress levels slowly drain the people of their resolve – thus even the slightest shock or frustration can send someone over the edge. On Earth entertainment and recreation are just for fun, but here they are a tool for basic survival.
+Неймаверны штодзённы стрэс паступова пазбаўляе іх розуму - так што нават найменшае ўзрушэньне або трывога можа прывесьці кагосьці да крайнасьці. На Зямлі забавы й адпачынак прызначаны ў асноўным для забавы, але тут яны з'яўляюцца важным інструментам для выжываньня. 
 
-<hint> The Colonist <ColonistName(colonist)> has reached critically low Sanity. Provide operational Healthcare buildings in the Domes and avoid Heavy workload or Nighttime work to prevent this situation.",
+<hint> The Colonist <ColonistName(colonist)> мае крытычна нізкі ўзровень разважлівасьці. Забясьпечце сваім грамадзянам функцыянуючыя мэдыцынскія будынкі ў купалах і пазьбягайце вялікіх працоўных нагрузак і начных зьмен, каб пазьбегнуць такіх сітуацый. ",
 5713,Mental Breakdown,Псіхічны зрыў,Załamanie psychiczne
 7083,A Colonist just snapped!,У аднаго з каланістаў здарыўся псіхічны зрыў!,Jeden z kolonistów doznał załamania psychicznego!
 5717,"Our Domes are large enough to contain tons of breathable air, but when the systems fail to refresh the supply, the amount of carbon dioxide will steadily increase until the atmosphere becomes unbreathable.
 
-<hint> Colonists with the Suffocating status effect have no access to Oxygen and will die within a short time. Connect their Dome to operational MOXIEs and Oxygen Tanks or plant Oxygen-Producing Crops in Farms to supply them with Oxygen.","Our Domes are large enough to contain tons of breathable air, but when the systems fail to refresh the supply, the amount of carbon dioxide will steadily increase until the atmosphere becomes unbreathable.
+<hint> Colonists with the Suffocating status effect have no access to Oxygen and will die within a short time. Connect their Dome to operational MOXIEs and Oxygen Tanks or plant Oxygen-Producing Crops in Farms to supply them with Oxygen.","Нашы купалы дастаткова вялікія, каб утрымліваць тоны паветру прыдатнага да дыханьня. Аднак, калі яго не абнаўляць, канцэнтрацыя вуглякіслага газу будзе паступова павялічвацца, пакуль паветра не стане непрыдатным. 
 
-<hint> Colonists with the Suffocating status effect have no access to Oxygen and will die within a short time. Connect their Dome to operational MOXIEs and Oxygen Tanks or plant Oxygen-Producing Crops in Farms to supply them with Oxygen.",
+<hint> Каляністы, якія адчуваюць гіпаксію, ня маюць доступу да тлёну й хутка памруць. Падключыце іх купал да дзеючых МЭРТаў і бакаў тлёну, або пасадзіце на сваіх фэрмах культуры, якія вырабляюць тлён, каб забясьпечыць іх гэтым жыватворным газам. ",
 5716,Suffocation!,Гіпаксія!,Niedotlenienie!
 7084,Our Colonists are suffocating! We only have a few hours to get them more Oxygen before they run out!,"Нашы каляністы задыхаюцца! Маем усяго некалькі гадзін, каб забясьпечыць іх тлёнам, інакш усё скончыцца трагічна.","Nasi koloniści duszą się! Mamy tylko kilka godzin na dostarczenie im tlenu, inaczej rzecz skończy się tragicznie."
 5720,Oh my!,Езус!,Ojej!
@@ -4258,16 +4258,16 @@ The unparalleled everyday stress levels slowly drain the people of their resolve
 7085,The Colonists are on the brink of dehydration! We need to figure out something quick before they die.,Нашы каляністы рызыкуюць памерці ад смагі! Трэба як мага хутчэй вырашыць гэтую праблему.,Naszym kolonistom grozi śmierć z pragnienia! Trzeba jak najszybciej rozwiązać ten problem.
 5722,"Domes feature heaters which maintain a pleasant temperature of 23 degrees Celsius around the clock, protecting against the fluctuating temperature of the fickle Martian atmosphere outside. The temperature inside the Dome quickly decreases when the power supply is cut and the Colonists sure do feel the effects. If the situation remains unchanged, I'm afraid that it could be fatal.
 
-<hint> Colonists with the Freezing status effect reside in a Dome with an insufficient supply of Power. Increase the amount of Power accessible to the Dome to prevent this.","Domes feature heaters which maintain a pleasant temperature of 23 degrees Celsius around the clock, protecting against the fluctuating temperature of the fickle Martian atmosphere outside. The temperature inside the Dome quickly decreases when the power supply is cut and the Colonists sure do feel the effects. If the situation remains unchanged, I'm afraid that it could be fatal.
+<hint> Colonists with the Freezing status effect reside in a Dome with an insufficient supply of Power. Increase the amount of Power accessible to the Dome to prevent this.","Купалы абсталяваны абагравальнікамі, якія кругласутачна падтрымліваюць прыемныя 23 градусы Цэльсія, незалежна ад ваганьняў тэмпературы жаласнай марсіянскай атмасфэры звонку. Аднак пры браку элэктрычнасьці, тэмпература ў купале хутка ўпадзе, і каляністы адчуюць гэта моцна. Калі сітуацыя ня зьменіцца досыць хутка, холад можа прывесьці да трагічных наступстваў.
 
-<hint> Colonists with the Freezing status effect reside in a Dome with an insufficient supply of Power. Increase the amount of Power accessible to the Dome to prevent this.",
+<hint> Каляністы, якія пакутуюць ад пераахаладжэньня, жывуць у купале зь недастатковым забесьпячэньнем энэргіяй. Павялічце колькасьць энэргіі, даступнай для гэтага купала, каб пазьбегнуць такіх праблем.",
 5721,Hypothermia!,Гіпатэрмія!,Hipotermia!
 7086,Our Colonists are suffering from hypothermia!,Калzністы пакутуюць ад пераахаладжэньня!,Koloniści cierpią na wychłodzenie!
 5724,"Constant supply of fresh nutrients is vital to the survival of the Colony. The Colonists can go on for some time before they suffer more adverse effects from the lack of food, but if you don't feed them soon, they will die.
 
-<hint> Colonists with the Starving status effect have no access to Food. Deliver Food from Earth or produce it by farming to supply the starving.","Constant supply of fresh nutrients is vital to the survival of the Colony. The Colonists can go on for some time before they suffer more adverse effects from the lack of food, but if you don't feed them soon, they will die.
+<hint> Colonists with the Starving status effect have no access to Food. Deliver Food from Earth or produce it by farming to supply the starving.","Бесьперапыннае забесьпячэньне сьвежай ежай вельмі важна для выжываньня калёніі. Нейкі час каляністы пратрываюць бяз ежы, але калі не накарміць іх у хуткім часе, памруць з голаду. 
 
-<hint> Colonists with the Starving status effect have no access to Food. Deliver Food from Earth or produce it by farming to supply the starving.",
+<hint> Каляністы, якія пакутуюць ад голаду, ня маюць доступу да ежы. Прывязіце яе зь Зямлі або выгадуйце на фэрмах, каб накарміць галодных.",
 5723,Starvation!,Галодная сьмерць!,Śmierć głodowa!
 7087,Our Colonists are starving!,Каляністы галадаюць!,Koloniści głodują!
 5726,"<ColonistName(colonist)> had a dream – to see humanity united, conquering the stars. And <ColonistName(colonist)> allowed nothing to stand in the path of this dream. No hardship, no loss, not even personal safety. What more can anyone be asked to do?
@@ -4276,32 +4276,32 @@ We had known many women and men of character, of strength and virtue. Any one of
 
 When <ColonistName(colonist)> fell, it left a void. Do not let it take over your hearts, friends. Do not mourn the icon of good that we have lost, rather rise up and become the icon yourself. Let this death be not a blow against the will of humanity to grow, learn and conquer new frontiers.
 
-<hint>The Founder <ColonistName(colonist)> died. Cause: <reason>.","<ColonistName(colonist)> had a dream – to see humanity united, conquering the stars. And <ColonistName(colonist)> allowed nothing to stand in the path of this dream. No hardship, no loss, not even personal safety. What more can anyone be asked to do?
+<hint>The Founder <ColonistName(colonist)> died. Cause: <reason>.","Добра мець такую мару, як <ColonistName(colonist)> - жадаць бачыць, як аб'яднанае чалавецтва заваёўвае зоркі. Такі чалавек, як <ColonistName(colonist)> не дазваляе нічому перашкодзіць гэтай мары. Ні цяжкасьцям, ні стратам, нават не пытаньне асабістай бясьпекі. Ці можна прасіць ад чалавека чагосьці большага?
 
-We had known many women and men of character, of strength and virtue. Any one of them might have stepped into <ColonistName(colonist)>'s place and we would be none the wiser. But we know why <ColonistName(colonist)> chose this path. When a heart as big and strong beats in one's chest it gives no other option but to follow its call.
+Мы ведалі шмат мужных, моцных, шляхетных мужчын і жанчын. Сёньня <ColonistName(colonist)> можа стаяць у адным шэрагу з імі. Мы ведаем, чаму такія людзі, як <ColonistName(colonist)> абіраюць гэты шлях. Калі ў грудзях б'ецца такое вялікае й моцнае сэрца, іншага выйсьця няма. 
 
-When <ColonistName(colonist)> fell, it left a void. Do not let it take over your hearts, friends. Do not mourn the icon of good that we have lost, rather rise up and become the icon yourself. Let this death be not a blow against the will of humanity to grow, learn and conquer new frontiers.
+<ColonistName(colonist)> памёр і мы засталіся пустымі. Але давайце не дазволім гэтаму паглынуць нашыя сэрцы, сябры. Давайце ня будзем аплакваць гэты сімвал дабра, які мы страцілі - замест гэтага давайце паўстанем і самі будзем такімі сімваламі. Няхай гэтая сьмерць ня стане ўдарам па нашай волі разьвівацца, дасьледаваць сьвет і перасякаць новыя межы. 
 
-<hint>The Founder <ColonistName(colonist)> died. Cause: <reason>.",
+<hint>Заснавальнік <ColonistName(colonist)> памёр. Прычына: <reason>.",
 7088,"The day claimed our last living Founder, spelling the end of an era for us all.",Сёньня сьмерць забрала апошняга з заснавальнікаў. Гэта канец эпохі для ўсіх нас.,Śmierć zabrała dziś ostatniego z Założycieli. To koniec pewnej epoki dla nas wszystkich.
 5727,"Rest in peace, friend.",Спачывай з супакоем.,Niech spoczywa w pokoju.
 5729,"We will all have our own special memories of the mark <ColonistName(colonist)> left in our hearts and in our lives. I am certain that <ColonistName(colonist)> would have wanted us all to be here today filled not with grief but with strength, vision and hope for the future. This is what <ColonistName(colonist)> lived for and doing otherwise would make this cause pointless.
 
 We are all here today not only because <ColonistName(colonist)> laid down the foundations of our Colony. We were all personally touched and inspired by their strong character, personality and presence. We were all very lucky to have had <ColonistName(colonist)> beside us in both good and bad moments and, as much as will be missing our comrade, their memory will live on as long as we remain united.
 
-<hint>The Founder <ColonistName(colonist)> passed away due to old age.","We will all have our own special memories of the mark <ColonistName(colonist)> left in our hearts and in our lives. I am certain that <ColonistName(colonist)> would have wanted us all to be here today filled not with grief but with strength, vision and hope for the future. This is what <ColonistName(colonist)> lived for and doing otherwise would make this cause pointless.
+<hint>The Founder <ColonistName(colonist)> passed away due to old age.","Кожны з нас мае свае ўспаміны, якія <ColonistName(colonist)> пакідае ў нашых сэрцах і жыцьці. Я ўпэўнены, што калі такія людзі, як <ColonistName(colonist)> сыходзяць, яны хочуць, каб тыя, хто застаўся, адчувалі ня смутак, а сілу, бачанне і надзею на прышласьць. Гэта тое, дзеля чаго жывуць такія вялікія людзі, як <ColonistName(colonist)> і паступаць інакш зрабіла б жыцьцё бессэнсоўным. 
 
-We are all here today not only because <ColonistName(colonist)> laid down the foundations of our Colony. We were all personally touched and inspired by their strong character, personality and presence. We were all very lucky to have had <ColonistName(colonist)> beside us in both good and bad moments and, as much as will be missing our comrade, their memory will live on as long as we remain united.
+Мы ўсе сабраліся тут сёньня не толькі таму, што <ColonistName(colonist)> - адзін з людзей, якія зрабілі падмурак нашай калёніі. Гэты моцны характар, гэтая асоба і прысутнасьць паўплывалі й натхнілі ўсіх нас. На працягу шмат год нам шанцавала мець побач з намі кагосьці накшталт <ColonistName(colonist)> у добрыя й благія часы. І хаця нам гэтага будзе бракаваць, гэтая памяць будзе жыць, пакуль мы будзем адзіныя.
 
-<hint>The Founder <ColonistName(colonist)> passed away due to old age.",
+<hint> Заснавальнік <ColonistName(colonist)> памёр з-за старасьць. ",
 5728,Do Not Go Gentle Into That Good Night,Не ўваходзь далікатна ў гэтую добрую ноч,Nie wchodź łagodnie do tej dobrej nocy
 7089,Today was a tough one. We lost one of our Founders.,Гэты дзень цяжкі для ўсіх нас. Памёр адзін з заснавальнікаў.,Ten dzień jest ciężki dla nas wszystkich. Zmarł jeden z Założycieli.
 7093,Alcohol is not the answer.,Алкаголь - не рашэньне.,Alkohol nie jest odpowiedzią.
 7091,"Despite the great lengths we go through to make it seem safe and as close as possible to home, one’s mind is never too far from the dangers that the privilege of being an interplanetary pioneer carries. We all find our own ways to cope with this pressure.  <ColonistName(colonist)> finds it in the bottle.
 
-<hint>The Founder <ColonistName(colonist)> has the <em>Alcoholic</em> Trait.","Despite the great lengths we go through to make it seem safe and as close as possible to home, one’s mind is never too far from the dangers that the privilege of being an interplanetary pioneer carries. We all find our own ways to cope with this pressure.  <ColonistName(colonist)> finds it in the bottle.
+<hint>The Founder <ColonistName(colonist)> has the <em>Alcoholic</em> Trait.","Нягледзячы на тое, што мы прыкладаем усе намаганьні, каб зрабіць гэтае мейсца такім жа бясьпечным і прыязным, як наш дом, мы не ў стане забываць пра небясьпеку, якая пагражае піянэрам пазаземных пасяленьняў. Кожны з нас павінен знайсьці спосаб справіцца з гэтым псіхалёгічным ціскам. <ColonistName(colonist)> знаходзіць яго ў бутэльцы.
 
-<hint>The Founder <ColonistName(colonist)> has the <em>Alcoholic</em> Trait.",
+<hint> Заснавальнік <ColonistName(colonist)> атрымлівае рысу <em>  Алкаголік</em>.",
 7090,Nobody Knows The Trouble I've Seen...,"Ніхто ня ведае ўсіх клопатаў, якія я бачыў...","Nikt nie zna wszystkich trosk, które widziałem..."
 7092,It's a rough life here on Mars. You can't prepare for addiction.,Жыцьцё на Марсе цяжкае. Ніхто ня можа быць захованы ад залежнасьцяў.,"Życie na Marsie jest ciężkie. Można się było spodziewać, że nawet najlepiej przygotowane osoby mogą popaść w uzależnienie."
 7445,Oh boy...,О не...,O rany...
@@ -4312,12 +4312,12 @@ We are all here today not only because <ColonistName(colonist)> laid down the fo
 <hint>Заснавальнік<ColonistName(colonist)> мае рысу <em>Нэндза</em>. ",
 7442,"In Space, No One Can Hear you Whine",У космасе ніхто не пачуе твайго ныцьця,W próżni nie słychać twego marudzenia
 7444,The Founders are supposed to be the pillars of the future Colony – destined to be remembered for generations.,"Заснавальнікі павінны быць слупамі будучай калоніі, якія будуць памятацаца пакаленьнямі.","Założyciele mają stanowić fundament przyszłej kolonii - pionierów, których zapamiętają przyszłe pokolenia."
-7097,Courage is finite.,Courage is finite.,Odwaga ma swoje granice.
+7097,Courage is finite.,Мужнасьць мае свае межы.,Odwaga ma swoje granice.
 7095,"They face uncertainty which no humans have faced before. <ColonistName(colonist)> on the other hand, albeit a pioneer, doesn’t seem especially brave and makes jumping in fright after seeing one’s own shadow look like a normal thing. 
 
-<hint>The Founder <ColonistName(colonist)> has the <em>Coward</em> Trait.","They face uncertainty which no humans have faced before. <ColonistName(colonist)> on the other hand, albeit a pioneer, doesn’t seem especially brave and makes jumping in fright after seeing one’s own shadow look like a normal thing. 
+<hint>The Founder <ColonistName(colonist)> has the <em>Coward</em> Trait.","Гэтыя людзі сутыкаюцца з выклікам, з якім чалавецтва ніколі раней не выпрабавала. Тым ня менш, <ColonistName(colonist)> хоць і з'яўляецца піянэрам, не адрозніваецца асаблівай адвагай і стрыманасьцю й вельмі... празмерна рэагуе на любы рух.
 
-<hint>The Founder <ColonistName(colonist)> has the <em>Coward</em> Trait.",
+<hint> Заснавальнік <ColonistName(colonist)> атрымлівае рысу <em>Баязліўца</em>.",
 7094,Courage Has Layers,Мужнасьць мае пласты,Odwaga ma warstwy
 7096,It takes more than bravery to be a pioneer of the Martian frontier. Or at least it should.,"Піянеры калянізацыі Марсу больш чым адважныя. Ці, прынамсі, яны павінны быць.",Pionierzy kolonizacji Marsa są bardziej niż odważni. A przynajmniej powinni być.
 7101,That's the spirit!,Так трымаць!,Tak trzymać!
@@ -4325,7 +4325,7 @@ We are all here today not only because <ColonistName(colonist)> laid down the fo
 
 <hint>The Founder <ColonistName(colonist)> has the <em>Enthusiast</em> trait.","У рэшце рэшт, мэта - гэта наймацнейшы доўгатэрміновы рухавік. Па прыбыцьцю на Марс, энтузіязм <ColonistName(colonist)> зарэкамендаваў сябе вышэй за сярэдні, нават па нормах заснавальніку, і паказаная надзвычайная прадукцыйнасьць можа быць зьведзена да аднаго простага тлумачэньня– <ColonistName(colonist)> сапраўды любыць тое, чым займаецца.
 
-<hint>Заснавальнік <ColonistName(colonist)> мае рысу <em>Энтузіяст</em>.",
+<hint> Заснавальнік <ColonistName(colonist)> атрымлівае рысу <em>Энтузіяст</em>.",
 7098,When Life Gives You Lemons...,Калі жыцьцё дае табе лімоны...,Gdy życie daje ci cytryny...
 7100,"Building a new home on an alien world? That takes guts, to say the least.","Будуеце новы дом у чужым сьвеце? Шчыра кажучы, гэта патрабуе сьмеласьці.",Budowa nowego domu w obcym świecie niewątpliwe wymaga entuzjazmu. Między innymi.
 7446,OK,Згода,OK
@@ -4479,21 +4479,21 @@ We've provided you with a Stirling Generator prefab.
 We've provided you with a Генератар стырлінгу prefab.
 
 <goal>Construct a Генератар стырлінгу and then connect it to the Concrete extractor with a Power Cable or place the Генератар стырлінгу adjacent to the Concrete Extractor for a direct connection.",
-9246,"Like most buildings, the Concrete Extractor needs  power in order to operate. Having a reliable electrical grid and supply is essential for the success of the colony.","Like most buildings, the Concrete Extractor needs  power in order to operate. Having a reliable electrical grid and supply is essential for the success of the colony.",Jak większość budynków ekstraktor cementu wymaga zasilania. Stworzenie odpowiedniej sieci energetycznej i zapewnienie dopływu energii jest niezbędne dla powodzenia kolonii.
+9246,"Like most buildings, the Concrete Extractor needs  power in order to operate. Having a reliable electrical grid and supply is essential for the success of the colony.","Як і большасьць будынкаў, экстрактар бэтону патрабуе элэктраэнэргію. Стварэньне адпаведнай элэктрасеткі й забесьпячэньне энэргазабесьпячэньня неабходна для посьпеху калёніі.",Jak większość budynków ekstraktor cementu wymaga zasilania. Stworzenie odpowiedniej sieci energetycznej i zapewnienie dopływu energii jest niezbędne dla powodzenia kolonii.
 9250,"The amount of Waste Rock per resource extracted depends on the Grade of the resource deposit. You can select a resource deposit to view its Grade and the amount of resources remaining in it.
 
 <goal>Place a Dumping Site and a Concrete Depot to store the extracted Concrete.","The amount of Waste Rock per resource extracted depends on the Grade of the resource deposit. You can select a resource deposit to view its Grade and the amount of resources remaining in it.
 
 <goal>Place a Сьметнік and a Concrete Depot to store the extracted Concrete.",
-9248,Waste Rock and the Concrete Depot,Waste Rock and the Concrete Depot,Odpady skalne i skład cementu
-9249,Waste Rock is a byproduct of all extractors and is best stored at designated locations. This way you can ensure that it will not be in the way of future construction.,Waste Rock is a byproduct of all extractors and is best stored at designated locations. This way you can ensure that it will not be in the way of future construction.,Odpady skalne są produktem ubocznym wszystkich ekstraktorów. Najlepiej składować je w wyznaczonych miejscach. Dzięki temu nie będą przeszkadzać w późniejszych budowach.
+9248,Waste Rock and the Concrete Depot,Пустая парода й схоў бэтону,Odpady skalne i skład cementu
+9249,Waste Rock is a byproduct of all extractors and is best stored at designated locations. This way you can ensure that it will not be in the way of future construction.,Пустая парода з'яўляецца пабочным прадуктам усіх экстрактараў. Захоўваць іх лепш за ўсё ў адведзеных для гэтага мейсцах. Дзякуючы гэтаму яны ня будуць перашкаджаць наступным будоўлям.,Odpady skalne są produktem ubocznym wszystkich ekstraktorów. Najlepiej składować je w wyznaczonych miejscach. Dzięki temu nie będą przeszkadzać w późniejszych budowach.
 9253,"Currently all Drones are assigned to the Rocket. When the Rocket is selected the work range of all Drones assigned to it will be visualized. If the Rocket takes off, however, all these Drones will need another controller.
 
 <goal>Build a Drone Hub and make sure it is supplied with power.","Currently all Drones are assigned to the Rocket. When the Rocket is selected the work range of all Drones assigned to it will be visualized. If the Rocket takes off, however, all these Drones will need another controller.
 
 <goal>Build a Drone Hub and make sure it is supplied with power.",
-9251,Drones and Drone Hubs,Drones and Drone Hubs,Drony i gniazda dronów
-9252,Drones will pick pending tasks on their own within the range of the drone controllers they are assigned to.,Drones will pick pending tasks on their own within the range of the drone controllers they are assigned to.,Drony będą samoczynnie podejmować się oczekujących zadań w zasięgu swojego kontrolera.
+9251,Drones and Drone Hubs,Дроны й ЦК Дронаў,Drony i gniazda dronów
+9252,Drones will pick pending tasks on their own within the range of the drone controllers they are assigned to.,Дроны будуць аўтаматычна выконваць даступныя задачы ў зоне дзеяньня свайго кіраўніка.,Drony będą samoczynnie podejmować się oczekujących zadań w zasięgu swojego kontrolera.
 9255,"Every Drone Hub has two Recharge Stations built-in, but you might need additional ones as the Colony spreads out. Constructing Recharge Stations, especially along areas with heavy Drone activity, will prove vital for maintaining an efficient work force.
 
 <goal>Build a Recharge Station near the Concrete Extractor.","Every Drone Hub has two Recharge Stations built-in, but you might need additional ones as the Colony spreads out. Constructing Recharge Stations, especially along areas with heavy Drone activity, will prove vital for maintaining an efficient work force.
@@ -4601,7 +4601,7 @@ When moving far distances the RC Commander will first recall its drones before m
 <goal>Go to the Map Overview.","You can scan new sectors to discover more resource deposits and Anomalies. This is done from the Map Overview.
 
 <goal>Go to the Map Overview.",
-9286,It is time to learn about scanning sectors and exploration.,It is time to learn about scanning sectors and exploration.,Czas poznać wiadomości o skanowaniu sektorów i eksploracji.
+9286,It is time to learn about scanning sectors and exploration.,Прыйшоў час даведацца пра сканаваньне й выведкі сэктараў.,Czas poznać wiadomości o skanowaniu sektorów i eksploracji.
 9289,"There are two main ways to scan - one is to queue sectors for scanning. These sectors will be scanned one by one gradually over time. Sensor Towers speed up the scanning process of sectors near them.
 
 The other way is to use Probes which you can buy using funding and bring on resupply Rockets from Earth.
