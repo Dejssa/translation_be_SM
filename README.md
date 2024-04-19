@@ -116,13 +116,13 @@
 - Health - Здароўе
 - Social - Сацыяльнае
 - Relaxation - Разьнявольваньне
-- Exercise - Практыкаваньне
+- Exercise - Практыкаваньне (Гімнастыка?)
 - Gaming - Гульні
 - Shopping - Закупы
-- Luxury - 
+- Luxury - Раскоша
 - Drinking - Выпіўка
 - Gambling - Азартныя гульні
-- Playing - 
+- Playing - Забаўка
 - Dining - Харчаваньне
 - Safari - 
 - Medical Checks - Мед. агляды
@@ -181,7 +181,7 @@
 
 - The Power of Three - Моц трох
 - The Dredgers - Драгеры
-- The Spheres - Сферы
+- The Spheres - Сфэры
 - The Inner Light - Унутранае сьвятло
 - The Artificial Intelligence - Штучны Інтэлект
 - The Marsgate - Брама Марса
@@ -198,6 +198,6 @@
 
 100 строк - прыблізна 0,595%
 
-2800/16881 (16.34%)
+2903/16881 (17.2%)
 
 Мэта 3488 (~20.91%)
