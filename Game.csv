@@ -4816,154 +4816,154 @@ Colonists with MORE of the desired traits will board the Rocket while colonists 
 9353,From this screen you can inspect all available applicants and determine which ones will travel to the Colony.,"На гэтым экране можна праглядзець сьпіс даступных кандыдатаў і абраць тых, каго накіруюць у калёнію.","Na tym ekranie możesz przeglądać listę dostępnych ochotników i wybrać tych, którzy zostaną wysłani do kolonii."
 9356,By highlighting individual applicants one by one you can review their Perks and Flaws. It may be a good idea to do this for the Founders in order to get an exact number of specialists you desire as well as hand pick the traits of these Colonists. ,"Вылучаючы асобных кандыдатаў, вы можаце даведацца пра іх моцныя й слабыя бакі. Варта скарыстацца такім спосабам, каб атрымаць неабходную колькасць спэцыялістаў у пэўных галінах. Гэта таксама дазваляе абраць кандыдатаў з патрэбнымі характарыстыкамі.","Podświetlając poszczególnych ochotników, możesz poznać ich zalety i wady. Warto skorzystać z tej metody w przypadku Założycieli, aby uzyskać niezbędną liczbę specjalistów z poszczególnych dziedzin. Dzięki temu możesz też wybrać kandydatów mających odpowiednie cechy. "
 4071,Review Applicants,Прагляд кандыдатаў,Przegląd ochotników
-9355,You may want to review and hand pick individual candidates for the Founders.,You may want to review and hand pick individual candidates for the Founders.,Warto przejrzeć i samodzielnie wybrać kandydatów na Założycieli.
-9358,<goal>Construct a Hydroponic Farm and a Grocer inside your Dome.,<goal>Construct a Hydroponic Farm and a Grocer inside your Dome.,<goal>Zbuduj farmę hydroponiczną i sklep spożywczy wewnątrz kopuły.
-9357,"Colonists will arrive on Mars with a small amount of Food, but it will not last long. We need to make sure that they will be able to produce their own Food on the red planet. The Hydroponic Farm can produce Food. Although the Colonists can take Food directly from a Food Depot, they will be happier if they can pick it up from a Grocer.","Colonists will arrive on Mars with a small amount of Food, but it will not last long. We need to make sure that they will be able to produce their own Food on the red planet. The Hydroponic Farm can produce Food. Although the Colonists can take Food directly from a Food Depot, they will be happier if they can pick it up from a Grocer.","Koloniści przywiozą na Marsa niewielką ilość żywności, lecz nie wystarczy ona na długo. Musimy zadbać o to, aby na Czerwonej Planecie mogli wytwarzać własną. Żywność można produkować na farmie hydroponicznej. Koloniści będą bardziej zadowoleni, chodząc po żywność do sklepu spożywczego, choć mogą ją zabierać bezpośrednio ze składu żywności."
+9355,You may want to review and hand pick individual candidates for the Founders.,Варта прагледзець і абраць кандыдатаў у Заснавальнікі самастойна.,Warto przejrzeć i samodzielnie wybrać kandydatów na Założycieli.
+9358,<goal>Construct a Hydroponic Farm and a Grocer inside your Dome.,<goal>Збудуйце ўнутры купалу гідрапонную фэрму й харчовую краму. ,<goal>Zbuduj farmę hydroponiczną i sklep spożywczy wewnątrz kopuły.
+9357,"Colonists will arrive on Mars with a small amount of Food, but it will not last long. We need to make sure that they will be able to produce their own Food on the red planet. The Hydroponic Farm can produce Food. Although the Colonists can take Food directly from a Food Depot, they will be happier if they can pick it up from a Grocer.","Каляністы прывязуць на Марс невялікую колькасьць ежы, але гэтага хопіць нядоўга. Мы павінны пераканацца, што яны могуць гадаваць сваё ўласнае на Чырвонай плянеце. Ежу можна вырабляць на гідрапоннай фэрме. Каляністы будуць шчасьлівей ісьці ў харчовую краму па ежу, хоць яны могуць узяць яе прама са схову ежы.","Koloniści przywiozą na Marsa niewielką ilość żywności, lecz nie wystarczy ona na długo. Musimy zadbać o to, aby na Czerwonej Planecie mogli wytwarzać własną. Żywność można produkować na farmie hydroponicznej. Koloniści będą bardziej zadowoleni, chodząc po żywność do sklepu spożywczego, choć mogą ją zabierać bezpośrednio ze składu żywności."
 9360,"Different services satisfy different interests colonists may have. A colonist will feel more comfortable inside a Dome which has his interests covered but you don't need to cover every interest and in smaller Dome this might not be even possible.
 
 If the comfort of colonists falls too low they may become Earthsick and decide to leave Mars and go back to Earth. However, Martianborn colonists will never get Earthsick.
 
-<goal>Construct a Spacebar inside the Dome.","Different services satisfy different interests colonists may have. A colonist will feel more comfortable inside a Dome which has his interests covered but you don't need to cover every interest and in smaller Dome this might not be even possible.
+<goal>Construct a Spacebar inside the Dome.","Розныя службовыя будынкі задавальняюць розныя патрэбы каляністаў. Нашы людзі на Марсе будуць жыць больш камфортна ў купале, дзе будуць задавальняцца іх патрэбы, але ня трэба задавальняць усе патрэбы каляністаў адначасова. У меншым купале гэта можа быць наогул немагчыма.
 
-If the comfort of colonists falls too low they may become Earthsick and decide to leave Mars and go back to Earth. However, Martianborn colonists will never get Earthsick.
+Калі камфорт каляністаў занізкі, яны могуць адчуць настальгію й вырашыць вярнуцца на Зямлю. Не адчуваюць настальгіі толькі каляністы, якія нарадзіліся на Марсе («марсіяне»).
 
-<goal>Construct a Spacebar inside the Dome.",
-5439,Service Buildings,Service Buildings,Budynki usługowe
-9359,Colonists need service buildings to keep them comfortable on Mars. The Grocer that you already constructed is one such service building.,Colonists need service buildings to keep them comfortable on Mars. The Grocer that you already constructed is one such service building.,"Koloniści potrzebują budynków usługowych, które zapewnią im wygodne życie na Marsie. Jednym z budynków usługowych jest zbudowany właśnie przez ciebie sklep spożywczy."
+<goal>Збудуйце касьмічны бар у купале.",
+5439,Service Buildings,Службовыя будынкі,Budynki usługowe
+9359,Colonists need service buildings to keep them comfortable on Mars. The Grocer that you already constructed is one such service building.,"Каляністам патрэбны службовыя будынкі, якія забясьпечаць камфортнае жыцьцё на Марсе. Адзін са службовых будынкаў – харчовая крама, якую вы толькі што пабудавалі.","Koloniści potrzebują budynków usługowych, które zapewnią im wygodne życie na Marsie. Jednym z budynków usługowych jest zbudowany właśnie przez ciebie sklep spożywczy."
 9362,"The Founders that just arrived have taken available jobs automatically, but you can customize their work assignments.
 
 With the building selected, notice the three available work shifts on the info panel. Two of them are active, with two workers employed at each shift.
 
 The more workers assigned to a building, the better the building performes. Initially, however, we won’t be needing so many people working at the Space Bar as there will be other important jobs to fill and limited people to fill them – especially during the Founder Stage.
 
-<goal>Disable one job slot in every active shift.","The Founders that just arrived have taken available jobs automatically, but you can customize their work assignments.
+<goal>Disable one job slot in every active shift.","Заснавальнікі, якія толькі што прыбылі, будуць аўтаматычна запаўняць даступныя вакансіі, але вы можаце перапрызначыць іх.
 
-With the building selected, notice the three available work shifts on the info panel. Two of them are active, with two workers employed at each shift.
+Пры выбары касьмічнага бару на яго інфапанелі вы ўбачыце, што ён працуе ў тры зьмены. Дзьве з іх дзейнічаюць і ў кожнай працуюць па два чалавекі.
 
-The more workers assigned to a building, the better the building performes. Initially, however, we won’t be needing so many people working at the Space Bar as there will be other important jobs to fill and limited people to fill them – especially during the Founder Stage.
+Чым больш людзей працуе ў будынку, тым лепш яго эфэктыўнасьць. Першапачаткова, аднак, нам не спатрэбіцца так шмат працаўнікоў у касьмічным баре, таму што маем больш важныя справы, а колькасьць даступных каляністаў абмежавана - асабліва на этапе піянера.
 
-<goal>Disable one job slot in every active shift.",
+<goal>Заблакаваць па адному працоўнаму мейсцу ў кожнай актыўнай зьмене.",
 9177,Managing Jobs,Кіраваньне працамі,Zarządzanie miejscami pracy
-9361,Great! Now that you have a Spacebar you can customize its work settings.,Great! Now that you have a Spacebar you can customize its work settings.,"Świetnie! Skoro masz kosmobar, możesz zmienić jego ustawienia pracy."
+9361,Great! Now that you have a Spacebar you can customize its work settings.,"Выдатна! Цяпер, калі маеце касьмічны бар, вы можаце зьмяніць яго працоўныя налады.","Świetnie! Skoro masz kosmobar, możesz zmienić jego ustawienia pracy."
 9365,"Some buildings are more effective with workers with a certain specialization. For example, Scientists are the best workers for a Research Lab.
 
-<goal>Construct a Research Lab inside the Dome.","Some buildings are more effective with workers with a certain specialization. For example, Scientists are the best workers for a Дасьледчая лабараторыя.
+<goal>Construct a Research Lab inside the Dome.","Некаторыя будынкі працуюць больш эфэктыўна, калі працаўнікі маюць пэўную спэцыялізацыю. Напрыклад, навукоўцы лепш за ўсё працуюць у дасьледчай лабараторыі.
 
-<goal>Construct a Дасьледчая лабараторыя inside the Dome.",
-9363,Colonist Specializations ,Colonist Specializations ,Specjalizacje kolonistów 
-9364,Healthy colonists at working age are able to fill any position but how well they perform at a certain position varies between colonists. ,Healthy colonists at working age are able to fill any position but how well they perform at a certain position varies between colonists. ,"Zdrowi koloniści w wieku produkcyjnym mogą pracować na dowolnym stanowisku, ale wydajność ich pracy w danym miejscu będzie różna. "
+<goal>Збудуйце дасьледчую лабараторыю ў купале.",
+9363,Colonist Specializations ,Спэцыялізацыі каляністаў,Specjalizacje kolonistów 
+9364,Healthy colonists at working age are able to fill any position but how well they perform at a certain position varies between colonists. ,"Здаровыя каляністы працаздольнага ўзросту могуць працаваць на любой працы, але эфэктыўнасць іх працы ў дадзеным мейсцы будзе адрознівацца.","Zdrowi koloniści w wieku produkcyjnym mogą pracować na dowolnym stanowisku, ale wydajność ich pracy w danym miejscu będzie różna. "
 9367,"Colonists don't like to work at night and will lose Sanity while doing so. Furthermore, you may activate the Heavy Workload option which boosts the performance of a building during that shift but inflicts Sanity and Health problems on the workers due to the increased stress at their job.
 
-<goal> With the Research Lab selected, activate the second Work Shift.","Colonists don't like to work at night and will lose Sanity while doing so. Furthermore, you may activate the Heavy Workload option which boosts the performance of a building during that shift but inflicts Sanity and Health problems on the workers due to the increased stress at their job.
+<goal> With the Research Lab selected, activate the second Work Shift.","Каляністы ня любяць працаваць ноччу й губляюць разважлівасьць пад час працы ў начную зьмену. Дадаткова вы можаце актываваць опцыю «Высокая нагрузка», якая павысіць эфэктыўнасць будынку на працягу дадзенай зьмены, але павышаны стрэс падчас працы выкліча праблемы з псіхічным і фізічным здароўем працаўніка.
 
-<goal> With the Дасьледчая лабараторыя selected, activate the second Work Shift.",
-9366,"Work Shifts, among other things, are a way to manage your work force. The more shifts a building has open the more colonists it will attract to work there. ","Work Shifts, among other things, are a way to manage your work force. The more shifts a building has open the more colonists it will attract to work there. ","Zmiany są jedną z rzeczy umożliwiających zarządzanie siłą roboczą. Im więcej aktywnych zmian ma dany budynek, tym większą liczbę kolonistów przyciągnie do pracy. "
+<goal>Пасься актывацыі дасьледчай лабараторыі актывуйце другую зьмену.",
+9366,"Work Shifts, among other things, are a way to manage your work force. The more shifts a building has open the more colonists it will attract to work there. ","Зьмены - гэта адна з рэчаў, якая робіць магчымым кіраваньне працоўнай сілай. Чым больш актыўных зьмен ў будынку, тым больш каляністаў яно прыцягне да працы.","Zmiany są jedną z rzeczy umożliwiających zarządzanie siłą roboczą. Im więcej aktywnych zmian ma dany budynek, tym większą liczbę kolonistów przyciągnie do pracy. "
 9369,"On-site research is very important for the long-term prosperity and survival of your colony, so let us prioritize it!
 
-<goal>Set the priority of the Research Lab to High.","On-site research is very important for the long-term prosperity and survival of your colony, so let us prioritize it!
+<goal>Set the priority of the Research Lab to High.","Навуковыя дасьледаваньні на мейсцы вельмі важныя для доўгатэрміновага посьпеху й выжываньня калёніі, таму давайце зробім гэта прыярытэтам!
 
-<goal>Set the priority of the Дасьледчая лабараторыя to High.",
-9310,Building Priority,Building Priority,Priorytet budynku
-9368,"Buildings with higher priority will be allocated workers, Power and Maintenance before others. ","Buildings with higher priority will be allocated workers, Power and Maintenance before others. ","Budynki o wyższym priorytecie będą mieć przydzielanych robotników, energię i konserwację jako pierwsze. "
-9371,"<goal>From the Research screen, queue at least three of the available technologies. ","<goal>From the Research screen, queue at least three of the available technologies. ",<goal>Na ekranie badań umieść w kolejce co najmniej trzy z dostępnych technologii. 
-9370,With the Research Lab up and running let's begin researching some technologies.,With the Дасьледчая лабараторыя up and running let's begin researching some technologies.,"Skoro laboratorium badawcze zostało uruchomione, zacznijmy badać jakieś technologie."
+<goal>Усталюйце высокі прыярытэт дасьледчай лабараторыі.",
+9310,Building Priority,Прыярытэт будаўніцтву,Priorytet budynku
+9368,"Buildings with higher priority will be allocated workers, Power and Maintenance before others. ","Будынкі з больш высокім прыярытэтам будуць у першую чаргу прызначаны працкаўнікам, энэргарэсурсам і абслугоўваньню.","Budynki o wyższym priorytecie będą mieć przydzielanych robotników, energię i konserwację jako pierwsze. "
+9371,"<goal>From the Research screen, queue at least three of the available technologies. ",<goal>На экране дасьледаваньня пастаўце ў чаргу як мінімум тры з даступных тэхналёгій. ,<goal>Na ekranie badań umieść w kolejce co najmniej trzy z dostępnych technologii. 
+9370,With the Research Lab up and running let's begin researching some technologies.,"Цяпер, калі дасьледчая лабараторыя запрацавала, давайце пачнем дасьледаваць некаторыя тэхналёгіі.","Skoro laboratorium badawcze zostało uruchomione, zacznijmy badać jakieś technologie."
 9374,"The Founder Stage takes ten Sols to complete. Be careful, if all of your colonists die during this period the mission will be terminated. 
 
-Having a baby born on Mars before the end of this period will also complete the Founder Stage. This can happen if the comfort of your Colonists is very high.","The Founder Stage takes ten Sols to complete. Be careful, if all of your colonists die during this period the mission will be terminated. 
+Having a baby born on Mars before the end of this period will also complete the Founder Stage. This can happen if the comfort of your Colonists is very high.","Этап Заснавальніку доўжыцца дзесяць Сол (марсіянскіх дзён). Будзьце пільныя - калі ўсе каляністы загінуць у гэты перыяд, місія будзе спынена.
 
-Having a baby born on Mars before the end of this period will also complete the Founder Stage. This can happen if the comfort of your Colonists is very high.",
-9372,The Founder Stage,The Founder Stage,Etap pionierski
-9373,Congratulations! You have provided everything needed for a successful Founder Stage.,Congratulations! You have provided everything needed for a successful Founder Stage.,"Gratulacje! Udało ci się zapewnić wszystko, czego wymaga powodzenie etapu pionierskiego."
-9377,"Normally the Founder Stage takes ten Sols to complete, but you have performed beyond expectations as the first born Martian baby proves. The founder stage is now over and you are free to invite more colonists to Mars. ","Normally the Founder Stage takes ten Sols to complete, but you have performed beyond expectations as the first born Martian baby proves. The founder stage is now over and you are free to invite more colonists to Mars. ","Normalnie ukończenie etapu pionierskiego wymaga dziesięciu soli, lecz narodziny pierwszego dziecka na Marsie oznaczają, że działasz wyjątkowo sprawnie. Etap pionierski zakończył się - możesz zaprosić na Marsa więcej kolonistów. "
-9375,The First Baby,The First Baby,Pierwsze dziecko
-9376,Congratulations! A baby has been born on Mars and the Founder stage is completed!,Congratulations! A baby has been born on Mars and the Founder stage is completed!,Gratulacje! Na Marsie urodziło się dziecko - etap pionierski został zakończony!
+Наватарскі этап таксама будзе пасьпяхова завершаны, калі дзіця народзіцца на Марсе на працягу першых дзесяці Сол. Гэта можа адбыцца, калі камфорт каляністаў вельмі высокі.",
+9372,The Founder Stage,Этап Заснавальніку ,Etap pionierski
+9373,Congratulations! You have provided everything needed for a successful Founder Stage.,Віншую! Вам удалося забясьпечыць усё неабходнае для пасьпяховага заканэньня этапу Заснавальніку.,"Gratulacje! Udało ci się zapewnić wszystko, czego wymaga powodzenie etapu pionierskiego."
+9377,"Normally the Founder Stage takes ten Sols to complete, but you have performed beyond expectations as the first born Martian baby proves. The founder stage is now over and you are free to invite more colonists to Mars. ","Звычайна патрабуецца дзесяць Сол, каб прайсьці этап Заснавальніку, але нараджэньне вашага першага дзіцяці на Марсе азначае, што вы вельмі спрытныя. Этап скончаны - вы можаце запрасіць больш каляністаў на Марс.","Normalnie ukończenie etapu pionierskiego wymaga dziesięciu soli, lecz narodziny pierwszego dziecka na Marsie oznaczają, że działasz wyjątkowo sprawnie. Etap pionierski zakończył się - możesz zaprosić na Marsa więcej kolonistów. "
+9375,The First Baby,Першае дзіця,Pierwsze dziecko
+9376,Congratulations! A baby has been born on Mars and the Founder stage is completed!,Віншую! На Марсе нарадзілася дзіця - этап Заснавальніку завершаны!,Gratulacje! Na Marsie urodziło się dziecko - etap pionierski został zakończony!
 9380,"Play Next Tutorial - ""Multiple Domes""","Прайграйце наступнае навучаньне – ""Некалькі купалаў""",Rozegraj następny samouczek - „Wiele kopuł”
 9379,"The Founder Stage takes ten Sols to complete normally, but for the purposes of this tutorial it has already been completed.
 
-In the next and final tutorial you will learn how to manage a larger colony, consisting of multiple Domes.","The Founder Stage takes ten Sols to complete normally, but for the purposes of this tutorial it has already been completed.
+In the next and final tutorial you will learn how to manage a larger colony, consisting of multiple Domes.","Звычайна патрабуецца дзесяць Сол, каб прайсьці этап Заснавальніку, але для мэт гэтага ўроку гэты этап ужо завершаны.
 
-In the next and final tutorial you will learn how to manage a larger colony, consisting of multiple Domes.",
-9265,Mission Complete!,Mission Complete!,Misja wykonana!
-9378,You have completed the tutorial for the Founder Stage.,You have completed the tutorial for the Founder Stage.,Samouczek etapu pionierskiego został ukończony.
-9383,As you expand your base and try to obtain various resources scattered across the map you will inevitably end up with a colony that consists of several Domes. This tutorial will introduce you to a lot of the typical situations that you can expect to come up in a big colony.,As you expand your base and try to obtain various resources scattered across the map you will inevitably end up with a colony that consists of several Domes. This tutorial will introduce you to a lot of the typical situations that you can expect to come up in a big colony.,"W miarę rozbudowywania bazy i prób pozyskania różnych surowców rozrzuconych po terenie w nieunikniony sposób twoja kolonia uzyska postać wielu kopuł. Ten samouczek przedstawi wiele typowych sytuacji, jakie mogą zajść w dużej kolonii."
+У наступным і апошнім навучаньні вы даведаецеся, як кіраваць вялікай калёніяй, якая складаецца з некалькіх купалоў.",
+9265,Mission Complete!,Місія выканана!,Misja wykonana!
+9378,You have completed the tutorial for the Founder Stage.,Навучаньне па Заснавальнікам завершаны.,Samouczek etapu pionierskiego został ukończony.
+9383,As you expand your base and try to obtain various resources scattered across the map you will inevitably end up with a colony that consists of several Domes. This tutorial will introduce you to a lot of the typical situations that you can expect to come up in a big colony.,"Калі вы пашыраеце сваю базу й спрабуеце здабыць розныя рэсурсы, раскіданыя па ўсёй тэрыторыі, ваша калёнія непазьбежна пашырыцца некалькімі купаламі. Гэты урок ахоплівае шмат тыповых сітуацый, якія могуць узьнікнуць у вялікай калёніі.","W miarę rozbudowywania bazy i prób pozyskania różnych surowców rozrzuconych po terenie w nieunikniony sposób twoja kolonia uzyska postać wielu kopuł. Ten samouczek przedstawi wiele typowych sytuacji, jakie mogą zajść w dużej kolonii."
 9381,Multiple Domes Tutorial,Навучаньне па «Некалькі купалаў»,Samouczek wielu kopuł 
-9382,"Welcome back, Commander! In this tutorial you will manage a larger colony that consists of multiple Domes.","Welcome back, Commander! In this tutorial you will manage a larger colony that consists of multiple Domes.","Witaj ponownie, dowódco! W tym samouczku będziesz zarządzać większą kolonią, składającą się z wielu kopuł."
+9382,"Welcome back, Commander! In this tutorial you will manage a larger colony that consists of multiple Domes.","Зь павяртаньнем, камандзір! У гэтым уроку вы будзеце кіраваць вялікай калёніяй, якая складаецца з некалькіх купалоў.","Witaj ponownie, dowódco! W tym samouczku będziesz zarządzać większą kolonią, składającą się z wielu kopuł."
 9385,"The complex technology needed for Shuttles flying in the thin Martian atmosphere typically must be researched. For the purposes of this tutorial, however, it has been already granted to you.
 
-<goal>Construct a Shuttle Hub.","The complex technology needed for Shuttles flying in the thin Martian atmosphere typically must be researched. For the purposes of this tutorial, however, it has been already granted to you.
+<goal>Construct a Shuttle Hub.","Складаная тэхналёгія руху, якая дазваляе шатлам лётаць у разрэджанай марсіянскай атмасфэры, звычайна патрабуе навуковых дасьледаваньняў. Аднак для мэт гэтага уроку мы зрабілі яе даступным для вас адразу.
 
-<goal>Construct a Shuttle Hub.",
+<goal>Пабудаваць ЦК Шатлаў.",
 745,Shuttles,Шатлы,Wahadłowiec
 9384,Shuttles can transport resources and colonists across great distances. ,Шатлы могуць перавозіць рэсурсы й каляністаў на адлегласьці. ,Wahadłowce mogą transportować zasoby i kolonistów na duże odległości. 
 9388,"Colonists can work in some outside buildings placed close to their Domes - such as extractors for Metals and Rare Metals. Since colonists will be needed for the extraction of these underground deposits, it is a good practice to place Domes near such deposits, as is the case in this simulation.
 
-<goal>Construct a Rare Metals Extractor next to the Rare Metals Deposit and connect it to the power grid.","Colonists can work in some outside buildings placed close to their Domes - such as extractors for Metals and Rare Metals. Since colonists will be needed for the extraction of these underground deposits, it is a good practice to place Domes near such deposits, as is the case in this simulation.
+<goal>Construct a Rare Metals Extractor next to the Rare Metals Deposit and connect it to the power grid.","Каляністы могуць працаваць у некаторых вонкавых будынках, размешчаных побач з купаламі - напрыклад, у экстрактарах мэталу й рэдкіх мэталаў. Паколькі для распрацоўкі гэтых падземных радовішчаў спатрэбяцца каляністы, добрай ідэяй будзе усталяваць купалы каля такіх радовішчаў - як у гэтай сімуляцыі.
 
-<goal>Construct <em>Экстрактар рэдкіх мэталаў</em> каля <em>Радовішча рэдкіх мэталаў</em> and connect it to the power grid.",
-9386,Workplaces Outside the Domes,Workplaces Outside the Domes,Miejsca pracy poza kopułą 
-9387,Now that we have operational Shuttles it's time to establish a mining Dome.,Now that we have operational Shuttles it's time to establish a mining Dome.,"Skoro mamy działające wahadłowce, można założyć kopułę górniczą."
+<goal>Пабудуйце экстрактар рэдкіх мэталаў побач з радовішчам рэдкіх мэталаў і падключыце яго да элэктрасеткі.",
+9386,Workplaces Outside the Domes,Вонкавыя мейсцы працы,Miejsca pracy poza kopułą 
+9387,Now that we have operational Shuttles it's time to establish a mining Dome.,"Цяпер, калі ў нас працуюць шатлы, можна ўсталяваць купал для здабычы.","Skoro mamy działające wahadłowce, można założyć kopułę górniczą."
 9390,"Once you have provided a Dome with living space, colonists from other Domes will be able to resettle in it, provided it is within walkable distance or there are available Shuttles to fly them there.
 
-<goal>Construct a Living Complex inside the mining Dome.","Once you have provided a Dome with living space, colonists from other Domes will be able to resettle in it, provided it is within walkable distance or there are available Shuttles to fly them there.
+<goal>Construct a Living Complex inside the mining Dome.","Пасьля забясьпячэньня купалужылой плошчай, каляністы змогуць перамяшчацца сюды з іншых купалоў, калі яны знаходзяцца ў некалькіх хвілінах кроку або маюць шатлы для іх транспарціроўкі.
 
-<goal>Construct a Living Complex inside the mining Dome.",
-9347,Housing,Housing,Mieszkania
-9389,There are no Colonists in the mining Dome. We must provide living space for the Colonists so they can move there.,There are no Colonists in the mining Dome. We must provide living space for the Colonists so they can move there.,"W kopule górniczej nie ma kolonistów. Musimy zapewnić przestrzeń mieszkalną, aby mogli się tam wprowadzić."
-9393,<goal>Select a Dome and open the Filter Screen from its Info Panel.,<goal>Select a Dome and open the Filter Screen from its Info Panel.,<goal>Wybierz jakąś kopułę i otwórz ekran filtrów w jej infopanelu.
-9391,Filter Colonists,Filter Colonists,Filtrowanie kolonistów
-9392,You can setup filters for every Dome to attract colonists with desired traits and block or push out colonists with undesired ones.,You can setup filters for every Dome to attract colonists with desired traits and block or push out colonists with undesired ones.,"W każdej kopule można wyznaczyć filtry, aby przyciągnąć kolonistów o pożądanych cechach i zablokować lub usunąć kolonistów o cechach niepożądanych."
+<goal>Пабудаваць жылы комплэкс у здабываюшчым купале.",
+9347,Housing,Памешканьня,Mieszkania
+9389,There are no Colonists in the mining Dome. We must provide living space for the Colonists so they can move there.,У горным купале няма каляністаў. Нам трэба даць ім жылплошчу для засяленьня.,"W kopule górniczej nie ma kolonistów. Musimy zapewnić przestrzeń mieszkalną, aby mogli się tam wprowadzić."
+9393,<goal>Select a Dome and open the Filter Screen from its Info Panel.,<goal>Аберыце купал і адкрыйце экран фільтру на яго інфармацыйнай панэлі.,<goal>Wybierz jakąś kopułę i otwórz ekran filtrów w jej infopanelu.
+9391,Filter Colonists,Фільтр каляністаў,Filtrowanie kolonistów
+9392,You can setup filters for every Dome to attract colonists with desired traits and block or push out colonists with undesired ones.,Унутры кожнага купалу могуць быць прызначаныя фільтры для прыцягненьня каляністаў з жаданымі характарыстыкамі й блакаваньня або выдаленьня каляністаў з непажаданымі характарыстыкамі.,"W każdej kopule można wyznaczyć filtry, aby przyciągnąć kolonistów o pożądanych cechach i zablokować lub usunąć kolonistów o cechach niepożądanych."
 9396,"And because we want to make sure that the mining Dome gets all the available Geologists (which are best suited for work inside extractor buildings) we will also ban Geologists from inhabiting this Dome.
 
-<goal> From the Specialization Category, activate the Thumbs Up icon for Scientists and the Thumbs Down one for Geologists.","And because we want to make sure that the mining Dome gets all the available Geologists (which are best suited for work inside extractor buildings) we will also ban Geologists from inhabiting this Dome.
+<goal> From the Specialization Category, activate the Thumbs Up icon for Scientists and the Thumbs Down one for Geologists.","І паколькі мы хочам, каб купал здабычы прыцягваў усіх даступных геолагаў (якія лепш за ўсё пасуюць для працы ў экстрактарах), мы забаранім навукоўцам сяліцца ў купале.
 
-<goal> From the Specialization Category, activate the Thumbs Up icon for Scientists and the Thumbs Down one for Geologists.",
-9394,Research Dome,Research Dome,Kopuła badawcza
-9395,This Dome has been designated for research purposes so it's best to attract more colonists with the Scientist specialization.,This Dome has been designated for research purposes so it's best to attract more colonists with the Scientist specialization.,"Ta kopuła została przeznaczona do uprawiania nauki, więc najlepiej przyciągnąć do niej więcej kolonistów o specjalizacji „naukowiec”."
+<goal>У катэгорыі «Спэцыялізацыя» актывуйце значок «палец уверх» для навукоўцаў і значок «палец уніз» для геолагаў.",
+9394,Research Dome,Купал навукі,Kopuła badawcza
+9395,This Dome has been designated for research purposes so it's best to attract more colonists with the Scientist specialization.,"Гэты купал быў распрацаваны для навукі, таму лепш прыцягнуць да яго больш каляністаў са спэцыялізацыяй «Навуковец».","Ta kopuła została przeznaczona do uprawiania nauki, więc najlepiej przyciągnąć do niej więcej kolonistów o specjalizacji „naukowiec”."
 9399,"And because we want to make sure that the research Dome gets all the available Scientists we will also ban Scientists from inhabiting this Dome.
 
-<goal> From the Specialization Category, activate the Thumbs Up icon for Geologists and the Thumbs Down one for Scientists.","And because we want to make sure that the research Dome gets all the available Scientists we will also ban Scientists from inhabiting this Dome.
+<goal> From the Specialization Category, activate the Thumbs Up icon for Geologists and the Thumbs Down one for Scientists.","І паколькі мы хочам, каб дасьледчы купал прыцягваў усіх даступных навукоўцаў, мы забаронім геолагам сяліцца ў дасьледчым купале.
 
-<goal> From the Specialization Category, activate the Thumbs Up icon for Geologists and the Thumbs Down one for Scientists.",
-9397,Mining Dome,Mining Dome,Kopuła górnicza
-9398,"Being near a Rare Metals Deposit, this Dome is best suited as a mining hub so it's best to encourage Geologists to migrate here.","Being near <em>Радовішча рэдкіх мэталаў</em>, this Dome is best suited as a mining hub so it's best to encourage Geologists to migrate here.","Skoro ta kopuła znajduje się blisko złoża rzadkich metali, to najlepiej nadaje się na placówkę górniczą. Zatem trzeba zachęcić geologów, by się do niej przenieśli."
+<goal> У катэгорыі «Спэцыялізацыя» актывуйце значок «палец уверх» для геолагаў і значок «палец уніз» для навукоўцаў.",
+9397,Mining Dome,Купіл здабычы,Kopuła górnicza
+9398,"Being near a Rare Metals Deposit, this Dome is best suited as a mining hub so it's best to encourage Geologists to migrate here.","Паколькі гэты купал знаходзіцца недалёка ад радовішча рэдкіх мэталаў, ён лепш за ўсё падыходзіць для варты здабычы. Таму геолагаў трэба заахвочваць туды пераязджаць.","Skoro ta kopuła znajduje się blisko złoża rzadkich metali, to najlepiej nadaje się na placówkę górniczą. Zatem trzeba zachęcić geologów, by się do niej przenieśli."
 9402,"To demonstrate Dome connections, let's first build a new Dome near our research Dome.
 
-<goal>Construct a Dome at the indicated location.","To demonstrate Dome connections, let's first build a new Dome near our research Dome.
+<goal>Construct a Dome at the indicated location.","Каб убачыць, як працуюць купальныя злучэньні, давайце спачатку пабудуем новы купал каля дасьледчага купалу.
 
-<goal>Construct a Dome at the indicated location.",
-9400,Third Dome,Third Dome,Trzecia kopuła
-9401,"Colonists can migrate between Domes using shuttles or walking when they are positioned close to one another. However, they cannot usually visit buildings in nearby Domes on a daily basis, unless they are connected to their own Dome.","Colonists can migrate between Domes using shuttles or walking when they are positioned close to one another. However, they cannot usually visit buildings in nearby Domes on a daily basis, unless they are connected to their own Dome.","Koloniści mogą przenosić się między kopułami pieszo (gdy znajdują się one blisko siebie) lub za pomocą wahadłowców. Nie mogą natomiast codziennie odwiedzać budynków w innych kopułach, chyba że są one połączone z tą, w której mieszkają."
+<goal>Пабудуйце купал у адзначаным мейсцы.",
+9400,Third Dome,Трэці купал,Trzecia kopuła
+9401,"Colonists can migrate between Domes using shuttles or walking when they are positioned close to one another. However, they cannot usually visit buildings in nearby Domes on a daily basis, unless they are connected to their own Dome.","Каляністы могуць перамяшчацца паміж купаламі пешшу (калі яны знаходзяцца побач адзін з адным) або з дапамогай шатлаў. Аднак яны не могуць штодзень наведваць будынкі ў іншых купалах, калі яны не зьвязаны з тым, у якім жывуць.","Koloniści mogą przenosić się między kopułami pieszo (gdy znajdują się one blisko siebie) lub za pomocą wahadłowców. Nie mogą natomiast codziennie odwiedzać budynków w innych kopułach, chyba że są one połączone z tą, w której mieszkają."
 9404,"Passages allow colonists to travel safely to Domes directly connected to their own, seeking work or services there.
 
-<goal>Connect the Research Dome and the newly constructed dome with a Passage.","Passages allow colonists to travel safely to Domes directly connected to their own, seeking work or services there.
+<goal>Connect the Research Dome and the newly constructed dome with a Passage.","Праходы дазваляюць каляністам, якія шукаюць на працу або паслугі, бясьпечна дабрацца да купалоў, непасрэдна зьвязаных з мейсцам іх пражываньня.
 
-<goal>Connect the Research Dome and the newly constructed dome with a Passage.",
-9403,Domes positioned closely to each other may be connected with Passages.,Domes positioned closely to each other may be connected with Passages.,Kopuły umieszczone blisko siebie można połączyć przejściami.
-9406,"Now that the two Domes are connected, colonists from the first can start working on the newly built farms in the third Dome. The Passage will also connect the two Domes for the purposes of distributing Power, Water and Oxygen.","Now that the two Domes are connected, colonists from the first can start working on the newly built farms in the third Dome. The Passage will also connect the two Domes for the purposes of distributing Power, Water and Oxygen.","Skoro te dwie kopuły zostały połączone, koloniści z pierwszej mogą zacząć pracę w nowo zbudowanych farmach w trzeciej kopule. Przejście zapewnia też połączenie kopuł do przekazywania energii, wody i tlenu."
-9405,Good job!,Good job!,Dobra robota!
+<goal>Злучыце дасьледчы купал і нядаўна пабудаваны купал праходам.",
+9403,Domes positioned closely to each other may be connected with Passages.,"Купалы, пабудаваныя побач, могуць злучацца праходамі.",Kopuły umieszczone blisko siebie można połączyć przejściami.
+9406,"Now that the two Domes are connected, colonists from the first can start working on the newly built farms in the third Dome. The Passage will also connect the two Domes for the purposes of distributing Power, Water and Oxygen.","Цяпер, калі гэтыя два купалы былі злучаныя, каляністы з першага могуць пачаць працаваць на новапабудаваных фэрмах у трэцім купале. Праход таксама забясьпечвае злучэньне купалоў для перадачы энэргіі, вады й тлёну.","Skoro te dwie kopuły zostały połączone, koloniści z pierwszej mogą zacząć pracę w nowo zbudowanych farmach w trzeciej kopule. Przejście zapewnia też połączenie kopuł do przekazywania energii, wody i tlenu."
+9405,Good job!,Добра праца!,Dobra robota!
 9409,"All upgrades become available after specific technologies are researched and have construction costs. Furthermore, some upgrades will increase the resource consumption of the building.
 
-<goal>Research the Extractor Amplification tech from the Research screen.","All upgrades become available after specific technologies are researched and have construction costs. Furthermore, some upgrades will increase the resource consumption of the building.
+<goal>Research the Extractor Amplification tech from the Research screen.","Кожнае паляпшэньне становіцца даступным пасьля вывучэньня адпаведнай тэхналёгіі й мае кошт будаўніцтву. Акрамя таго, некаторыя паляпшэньні павялічаць спажываньне рэсурсаў абноўленым будынкам.
 
-<goal>Research the Extractor Amplification tech from the Research screen.",
-9408,Some buildings can have upgrades that can improve them in various ways.,Some buildings can have upgrades that can improve them in various ways.,"Niektóre budynki mają ulepszenia, które na różne sposoby usprawniają ich działanie."
-9412,<goal>Select the Water Extractor and then select the indicated Upgrade Icon.,<goal>Select the Water Extractor and then select the indicated Upgrade Icon.,"<goal>Wybierz ekstraktor wody, a następnie wskazaną ikonę ulepszenia."
-9410,Upgrades ,Upgrades ,Ulepszenia 
-9411,"Congratulations - with the research complete, a new upgrade for your Extractors is now available. It is not automatically activated in your buildings, you must construct it first.","Congratulations - with the research complete, a new upgrade for your Extractors is now available. It is not automatically activated in your buildings, you must construct it first.",Gratulacje - dzięki ukończonym badaniom dostępne jest nowe ulepszenie ekstraktorów. Nie jest ono jednak automatycznie aktywowane w budynkach - musisz je najpierw zbudować.
-9415,Some Upgrades will consume more Power or Water while active. After an Upgrade has been constructed it may be turned On and Off from the same button that was used for its construction.,Some Upgrades will consume more Power or Water while active. After an Upgrade has been constructed it may be turned On and Off from the same button that was used for its construction.,"Niektóre ulepszenia po uaktywnieniu spowodują wzrost zużycia wody lub energii. Po zbudowaniu ulepszenia można je włączać i wyłączać tym samym przyciskiem, który posłużył do ich budowy."
-9413,Upgrade Complete,Upgrade Complete,Ulepszenie zakończone
-9414,The Upgrade has been constructed.,The Upgrade has been constructed.,Ulepszenie zostało zbudowane.
+<goal>Даследуйце тэхналёгію «Узмацненьне экстрактару» на экране дасьледаваньняў.",
+9408,Some buildings can have upgrades that can improve them in various ways.,"Некаторыя будынкі маюць паляпгэньні, якія рознымі спосабамі паляпшаюць іх працу.","Niektóre budynki mają ulepszenia, które na różne sposoby usprawniają ich działanie."
+9412,<goal>Select the Water Extractor and then select the indicated Upgrade Icon.,"<goal>Абярыце экстрактар вады, а затым пазначаны значок паляпшэньня.","<goal>Wybierz ekstraktor wody, a następnie wskazaną ikonę ulepszenia."
+9410,Upgrades ,Паляпшэньні,Ulepszenia 
+9411,"Congratulations - with the research complete, a new upgrade for your Extractors is now available. It is not automatically activated in your buildings, you must construct it first.",Віншуем - дзякуючы вашым завершаным дасьледаваньням цяпер даступна новае паляпшэньне экстрактару. Аднак ён не актывуецца аўтаматычна ў будынках - вы павінны спачатку іх пабудаваць.,Gratulacje - dzięki ukończonym badaniom dostępne jest nowe ulepszenie ekstraktorów. Nie jest ono jednak automatycznie aktywowane w budynkach - musisz je najpierw zbudować.
+9415,Some Upgrades will consume more Power or Water while active. After an Upgrade has been constructed it may be turned On and Off from the same button that was used for its construction.,"Некаторыя паляпшэньні пры актывацыі павялічаць спажываньне вады ці энэргіі. Пасьля стварэньня паляпшэньня вы можаце ўключаць і выключаць яго з дапамогай той жа кнопкі, якая выкарыстоўвалася для яго стварэньня.","Niektóre ulepszenia po uaktywnieniu spowodują wzrost zużycia wody lub energii. Po zbudowaniu ulepszenia można je włączać i wyłączać tym samym przyciskiem, który posłużył do ich budowy."
+9413,Upgrade Complete,Паляпшэньне пабудавана.,Ulepszenie zakończone
+9414,The Upgrade has been constructed.,Паляпшэньне было пабудавана.,Ulepszenie zostało zbudowane.
 9417,"It offers historical data for various colony metrics as well as overviews of Domes, Buildings, Colonists and transportation.
 
-<goal>Open the Command Center and try it out. ","It offers historical data for various colony metrics as well as overviews of Domes, Buildings, Colonists and transportation.
+<goal>Open the Command Center and try it out. ","Зьмяшчае гістарычныя дадзеныя аб розных параметрах калёніі, а таксама агляд купалоў, будынкаў, каляністаў і транспарту.
 
-<goal>Open the Command Center and try it out. ",
-9416,The Command Center is a treasure trove of information about the colony.,The Command Center is a treasure trove of information about the colony.,Centrum dowodzenia to prawdziwy skarbiec informacji o kolonii.
+<goal>Адкрыйце камандны цэнтр і аглядзіце яго.",
+9416,The Command Center is a treasure trove of information about the colony.,Камандны цэнтр - сапраўдная скарбніца інфармацыі аб калоніі.,Centrum dowodzenia to prawdziwy skarbiec informacji o kolonii.
 9420,"The team at Mission Control is eager to meet you and serve under your command. The challenge of conquering Mars for the sake of humankind is still a tough one, but with a Commander as skillful and resourceful as you the task seems a bit easier now.
 
-The colonization of Mars awaits! Good luck, Commander, and may the Cosmos be with you!","The team at Mission Control is eager to meet you and serve under your command. The challenge of conquering Mars for the sake of humankind is still a tough one, but with a Commander as skillful and resourceful as you the task seems a bit easier now.
+The colonization of Mars awaits! Good luck, Commander, and may the Cosmos be with you!","У камандаваньні будуць рады пазнаёміцца з вамі й служыць пад вашым кіраваньнем. Задача заваяваньня Марсу ад імя чалавецтву застаецца складанай, але з такім умелым і вынаходлівым камандзірам яна здаецца крыху лягчэй.
 
-The colonization of Mars awaits! Good luck, Commander, and may the Cosmos be with you!",
+Калянізацыя Марсу чакае! Посьпехаў, Камандзір, і няхай Космас беражэ Вас!",
 9418,Mission Complete,Місія выканана,Misja wykonana!
 9419,"Congratulations, Commander! You have graduated from the International Mars Mission training simulation! ","Віншую, камандзір! Вы скончылі вучэбную сімуляцыю Міжнароднай місіі на Марс!","Gratulacje, dowódco! Udało ci się ukończyć symulację szkoleniową Międzynarodowej Misji Marsjańskiej! "
 9423,Play the tutorials,Гульць навучаньне,Rozegraj samouczki
@@ -4986,40 +4986,40 @@ The colonization of Mars awaits! Good luck, Commander, and may the Cosmos be wit
 10480,Retry the challenge,Паўтарыць выклік,Powtórz wyzwanie
 10318,"We didn't manage to complete the <challenge_name> challenge within the <challenge_sols> Sols limit.
 
-As a great man famously said, failure is not fatal, it is the courage to continue that counts. Let's take this opportunity to learn from our mistakes and try again.","We didn't manage to complete the <challenge_name> challenge within the <challenge_sols> Sols limit.
+As a great man famously said, failure is not fatal, it is the courage to continue that counts. Let's take this opportunity to learn from our mistakes and try again.","Не атрымалась завяршыць выклік <challenge_name> у абмяжаваным часе Солаў <challenge_sols>.
 
-As a great man famously said, failure is not fatal, it is the courage to continue that counts. Let's take this opportunity to learn from our mistakes and try again.",
-10316,Challenge Failed,Challenge Failed,Porażka w wyzwaniu
-10317,"Sadly, we have failed this challenge.","Sadly, we have failed this challenge.","Niestety, nie udało się ukończyć tego wyzwania."
+Як казаў адзін вялікі чалавек: «Няўдача не канчатковая, галоўнае - гэта мужнасьць паспрабаваць ізноў. Давайце ўспрымем гэтыя памылкі як урок і паспрабуем яшчэ раз». ",
+10316,Challenge Failed,Параза ў выкліку,Porażka w wyzwaniu
+10317,"Sadly, we have failed this challenge.","На жаль, мы не змаглі перамагчы гэты выклік.","Niestety, nie udało się ukończyć tego wyzwania."
 10481,"Our mission should focus on a single objective: <challenge_objective>.
 
-We have to accomplish this goal within <challenge_deadline> Sols or only <perfect_deadline> Sols for a perfect completion.","Our mission should focus on a single objective: <challenge_objective>.
+We have to accomplish this goal within <challenge_deadline> Sols or only <perfect_deadline> Sols for a perfect completion.","Ваша задача падчас гэтай місіі: <challenge_objective>.
 
-We have to accomplish this goal within <challenge_deadline> Sols or only <perfect_deadline> Sols for a perfect completion.",
+Мы павінны дасягнуць гэтай мэты ў межах <challenge_deadline> Сол, або <perfect_deadline> Сол калі мы хацім зрабіць гэта ідэальна.",
 10482,<challenge_name>,<challenge_name>,<challenge_name>
-5500,Welcome to Mars!,Welcome to Mars!,Witaj na Marsie!
+5500,Welcome to Mars!,Вітаем на Марсе!,Witaj na Marsie!
 10323,"You have completed the <challenge_name> challenge for <elapsed_sols> Sols out of the <challenge_sols> Sols limit.
 
 The score of our colony is <score>.
 
-If you feel you can do even better, feel free to retry the challenge and complete the objective for under <perfected_sols> Sols for a perfect evaluation.","You have completed the <challenge_name> challenge for <elapsed_sols> Sols out of the <challenge_sols> Sols limit.
+If you feel you can do even better, feel free to retry the challenge and complete the objective for under <perfected_sols> Sols for a perfect evaluation.","Вы завяршэлі выклік <challenge_name> за <elapsed_sols> Сол, з ліміту <challenge_sols> Сол.
 
-The score of our colony is <score>.
+Ацэнка вашай калоніі: <score>.
 
-If you feel you can do even better, feel free to retry the challenge and complete the objective for under <perfected_sols> Sols for a perfect evaluation.",
-10321,Challenge Completed,Challenge Completed,Wyzwanie ukończone
-10322,"Good work, Commander! Your colony has passed the challenge.","Good work, Commander! Your colony has passed the challenge.","Dobra robota, dowódco! Twoja kolonia poradziła sobie z wyzwaniem."
-10319,Keep playing with this colony,Keep playing with this colony,Graj dalej tą kolonią
-10324,Take a screenshot (overwrites any existing screenshot for this Challenge),Take a screenshot (overwrites any existing screenshot for this Challenge),Zrób zrzut ekranu (zastąpi ewentualny istniejący zrzut ekranu z tego wyzwania)
-10320,Return to main menu,Return to main menu,Wróć do menu głównego
+Калі вы адчуваеце, што можаце зрабіць лепш, вы можаце паўтарыць выклік і дасягнуць мэты менш за <perfected_sols> Сол, каб атрымаць найбольшы бал. ",
+10321,Challenge Completed,Выклік выкананы,Wyzwanie ukończone
+10322,"Good work, Commander! Your colony has passed the challenge.","Добра праца, камандзір! Ваша калёнія пераадолела выклік.","Dobra robota, dowódco! Twoja kolonia poradziła sobie z wyzwaniem."
+10319,Keep playing with this colony,Гуляць далей гэтай калёніяй,Graj dalej tą kolonią
+10324,Take a screenshot (overwrites any existing screenshot for this Challenge),Зрабіце здымак экрану (будзе заменены любы існуючы здымак з гэтага спаборніцтву),Zrób zrzut ekranu (zastąpi ewentualny istniejący zrzut ekranu z tego wyzwania)
+10320,Return to main menu,Вярнуцца ў галоўнае меню,Wróć do menu głównego
 10327,"You have perfected the <challenge_name> challenge for <elapsed_sols> Sols out of the <perfected_sols> Sols limit for perfect score.
 
-The score of our colony is <score>.","You have perfected the <challenge_name> challenge for <elapsed_sols> Sols out of the <perfected_sols> Sols limit for perfect score.
+The score of our colony is <score>.","Вы скончылі выклік <challenge_name> пасьля <elapsed_sols> Сол, з ліміту <perfected_sols> Сол - гэта ідэальны вынік.
 
-The score of our colony is <score>.",
-10325,Challenge Perfected,Challenge Perfected,Wyzwanie ukończone perfekcyjnie
-10326,"Congratulations are in order, Commander! Your colony has passed the challenge with flying colors.","Congratulations are in order, Commander! Your colony has passed the challenge with flying colors.","Należą ci się gratulacje, dowódco! Twoja kolonia śpiewająco poradziła sobie z wyzwaniem."
-12821,Lava Coils,Lava Coils,Spirale lawy
+Ацэнка нашай калоніі: <score>.",
+10325,Challenge Perfected,Выклік выкананы ідэальна,Wyzwanie ukończone perfekcyjnie
+10326,"Congratulations are in order, Commander! Your colony has passed the challenge with flying colors.","Віншую вас, камандзір! Ваша калёнія выдатна справілася з задачай.","Należą ci się gratulacje, dowódco! Twoja kolonia śpiewająco poradziła sobie z wyzwaniem."
+12821,Lava Coils,Лававыя сьпіралі,Spirale lawy
 12822,Geysers,Гэйзер,Gejzery
 12823,Crater,Кратэр,Krater
 12824,Cold Area,Халодная тэрыторыя,Strefa zimna
@@ -5040,18 +5040,18 @@ The score of our colony is <score>.",
 4833,Movement,Рух,Ruch
 4832,Night Light,Начное асьвятленьне,Oświetlenie nocne
 4799,Construction,Будоўля,Budowa
-4800,Second Stage Construction,Second Stage Construction,Drugi etap budowy
-217,Work Shifts,Work Shifts,Zmiany robocze
-4801,Workplace,Workplace,Miejsce pracy
-4802,Outside building with shifts,Outside building with shifts,Budynek zewnętrzny ze zmianami
-4803,Power Storage,Power Storage,Magazyn energii
-4804,Deposit Requirements,Deposit Requirements,Wymagania złoża
-4805,Resource Production,Resource Production,Produkcja zasobu
+4800,Second Stage Construction,Другі этап будовы,Drugi etap budowy
+217,Work Shifts,Зьмены працы,Zmiany robocze
+4801,Workplace,Мейсца працы,Miejsce pracy
+4802,Outside building with shifts,Вонкавы будынка са зьменамі,Budynek zewnętrzny ze zmianami
+4803,Power Storage,Схоў энэргіі,Magazyn energii
+4804,Deposit Requirements,Патрабаваньні радовішчу,Wymagania złoża
+4805,Resource Production,Вытворчасьць рэсурсаў,Produkcja zasobu
 519,Storage,Сховішча,Magazyn
-4808,Storage Space,Storage Space,Przestrzeń magazynowa
-4809,Residence,Residence,Miejsce zamieszkania
-4810,Service,Service,Usługowy
-4811,Satisfying,Satisfying,Stat Satisfying
+4808,Storage Space,Мейсца для захоўваньня,Przestrzeń magazynowa
+4809,Residence,Жыльлё,Miejsce zamieszkania
+4810,Service,Служба,Usługowy
+4811,Satisfying,Задавальненьне,Stat Satisfying
 4812,Farm,Фэрма,Farma
 4813,MDS Laser,САМ Лазер,Laser SOP
 4814,Education Building,Адукацыйны будынак,Budynek edukacyjny
@@ -5112,86 +5112,86 @@ This is a significant discovery because it allows us to overcome an old problem 
 
 <effect>Памяншае кошт тэхналёгій Робататэхнітцы на 10%.",
 5793,Great news!,Выдатныя навіны!,Znakomita wiadomość!
-7163,The probe’s drill had hit one hundred meters before it detected a spike in temperature. The data tells us it was ignited Magnesium compounds.,The probe’s drill had hit one hundred meters before it detected a spike in temperature. The data tells us it was ignited Magnesium compounds.,Na głębokości około stu metrów sonda wykryła w odwiercie nagły wzrost temperatury. Dane sugerują obecność płonącego magnezu!
+7163,The probe’s drill had hit one hundred meters before it detected a spike in temperature. The data tells us it was ignited Magnesium compounds.,На глыбіні каля ста мэтраў зонд зафіксаваў раптоўнае павышэньне тэмпературы ў сьвідравіне. Дадзеныя сьведчаць аб наяўнасьці пякучага магнію!,Na głębokości około stu metrów sonda wykryła w odwiercie nagły wzrost temperatury. Dane sugerują obecność płonącego magnezu!
 5795,"We are still waiting for confirmation but the preliminary results are clear. There are signs of chemical burning, indicating a combustible material in contact with the probe. The mechanical friction of the drilling head must have ignited the magnesium. What a great discovery!
 
 Scientists on Earth had long planned the creation of jet engines that could burn the carbon dioxide in the Martian atmosphere with the use of magnesium powder. With abundant amounts on site, the research teams could begin preliminary testing of a working prototype right away!
 
-<effect>Reduces the cost of Robotics techs by 10%.","We are still waiting for confirmation but the preliminary results are clear. There are signs of chemical burning, indicating a combustible material in contact with the probe. The mechanical friction of the drilling head must have ignited the magnesium. What a great discovery!
+<effect>Reduces the cost of Robotics techs by 10%.","Мы ўсё яшчэ чакаем пацверджаньня, але папярэднія вынікі відавочныя. Мы выявілі прыкметы гарэньня, якія сьведчаць аб наяўнасьці гаручага матэрыялу ў кантакце з зондам. Ад трэньня сьвідравальнай галоўкі мог загарэцца магній. Якое вялікае адкрыцьцё! 
 
-Scientists on Earth had long planned the creation of jet engines that could burn the carbon dioxide in the Martian atmosphere with the use of magnesium powder. With abundant amounts on site, the research teams could begin preliminary testing of a working prototype right away!
+Навукоўцы на Зямлі даўно плянавалі стварыць рэактыўны рухавік, які мог бы працаваць у атмасфэры Марсу, у асноўным вуглякіслага газу, з выкарыстантнем парашку магнію. Дзякуючы гэтай багатай знаходцы мы можам неадкладна пачаць тэставаньне працоўнага прататыпу! 
 
 <effect>Памяншае кошт тэхналёгій Робататэхнітцы на 10%.",
-7165,We’ve just confirmed the location of a metal-rich deposit. A drilling accident turned to our advantage.,We’ve just confirmed the location of a metal-rich deposit. A drilling accident turned to our advantage.,Właśnie potwierdziliśmy położenie niezwykle bogatego złoża głębinowego metalu. Wypadek z sondą wiertniczą ostatecznie obrócił się na naszą korzyść.
+7165,We’ve just confirmed the location of a metal-rich deposit. A drilling accident turned to our advantage.,Мы толькі што пацьвердзілі мейсцазнаходжаньне надзвычай багатага радовішчу глыбакаводнага мэталу. Аварыя з буравым зондам у выніку аказалася на нашу карысьць.,Właśnie potwierdziliśmy położenie niezwykle bogatego złoża głębinowego metalu. Wypadek z sondą wiertniczą ostatecznie obrócił się na naszą korzyść.
 5797,"We lost a drilling probe while trying to analyze this Anomaly. The signal was suddenly lost and we got the tingling feeling that we would get lucky with the second one. The operators were extra careful and the second insertion revealed a vast network of underground cavities beneath the hard rock plate. On top of that, we managed to get in contact with the first probe which had fallen through in another section of the crust faults. We used the two probes as triangulation points for telemetry and pinpointed the location of the deposit.
 
-<effect>Discovered a Metal deposit.","We lost a drilling probe while trying to analyze this Anomaly. The signal was suddenly lost and we got the tingling feeling that we would get lucky with the second one. The operators were extra careful and the second insertion revealed a vast network of underground cavities beneath the hard rock plate. On top of that, we managed to get in contact with the first probe which had fallen through in another section of the crust faults. We used the two probes as triangulation points for telemetry and pinpointed the location of the deposit.
+<effect>Discovered a Metal deposit.","Спрабуючы дасьледаваць гэтую анамалію, мы згубілі наш буравы зонд. Сігнал раптам абарваўся, і ў нас засталося толькі мімалётнае ўражаньне, што наступным разам нам будзе лепш. Аператары былі надзвычай уважлівымі, і другое абсьледаваньне высьветліла шырокую сетку пячор пад суцэльнай каменнай плітой. Акрамя таго, мы здолелі аднавіць кантакт з першым зондам, які апусьціўся на больш нізкі ўзровень разлому ў кары. Мы выкарыстоўвалі абодва зонды ў якасьці перадатчыкаў трыангуляцыі й вызначылі мейсцазнаходжаньне радовішча. 
 
 <effect>Адкрыта радовішча мэталаў.",
-7171,The analysis tells us that we’ve found Iridium-rich sulfides! That’s a real rarity on Earth!,The analysis tells us that we’ve found Iridium-rich sulfides! That’s a real rarity on Earth!,"Wyniki analizy wskazują, że znaleźliśmy siarczki o dużej zawartości irydu! Jest to jeden z najrzadszych metali na Ziemi!"
+7171,The analysis tells us that we’ve found Iridium-rich sulfides! That’s a real rarity on Earth!,"Вынікі аналізу паказваюць, што мы знайшлі сульфіды з высокім складаньнем ірыдыю! Гэта адзін з самых рэдкіх мэталаў на Зямлі!","Wyniki analizy wskazują, że znaleźliśmy siarczki o dużej zawartości irydu! Jest to jeden z najrzadszych metali na Ziemi!"
 5814,"Mankind's ingenuity had found a myriad of applications for it. But we focused our plan on a much simpler, more vital role in our growing Colony – RTGs. Free energy for everyone!
 
-<effect>Reduces the cost of Physics techs by 10%.","Mankind's ingenuity had found a myriad of applications for it. But we focused our plan on a much simpler, more vital role in our growing Colony – RTGs. Free energy for everyone!
+<effect>Reduces the cost of Physics techs by 10%.","Вынаходніцтва чалавеку прывяло да стварэньня тысяч прылад. Аднак мы засяродзіліся на нечым простым, што адыгрывае больш важную ролю ў нашым разьвіцьці калёніі - гэнэратары радыеізатопаў. Дармовая энэргія для ўсіх! 
 
-<effect>Зніжае кошт тэхналёгій Фізітцы на 10%.",
+<effect>Памяншае кошт тэхналёгій Фізітцы на 10%.",
 5815,Excellent!,Цудоўна!,Wyśmienicie!
-7172,"The Rover went dark for five hours. When it rebooted, it confirmed it had come into contact with an unusually high-voltage electrical charge.","The Rover went dark for five hours. When it rebooted, it confirmed it had come into contact with an unusually high-voltage electrical charge.","Łazik umilkł na pięć godzin, a potem uruchomił się ponownie i potwierdził zetknięcie się z niezwykle dużym ładunkiem elektrycznym!"
+7172,"The Rover went dark for five hours. When it rebooted, it confirmed it had come into contact with an unusually high-voltage electrical charge.","Марсаход замаўчаў на пяць гадзін, потым перазапусьціўся й пацьвердзіў кантакт зь незвычайна вялікім элэктрычным зарадам!","Łazik umilkł na pięć godzin, a potem uruchomił się ponownie i potwierdził zetknięcie się z niezwykle dużym ładunkiem elektrycznym!"
 5816,"The red alert was sounded immediately after we lost contact with the RC Explorer vehicle. Five long hours of fear and desperation ended with the reinstating of data feed. A wave of relief passed through the crowd of scientists gathered at the control center. The telescopic drill used to probe the crust at the Anomaly site disturbed a layer of magnetite-rich rocks, the source of the electric charge. The rover is still functional but it would take time before its locomotion systems are fully restored. The operators turned the defeat into a victory, devoting the unexpected time window to studying the magnetic properties of the Martian crust.
 
 <effect>The RC Explorer has malfunctioned. It has to be repaired by Drones.
 <effect>50% cost reduction for the following technologies: Low-G Drive (faster Drones and Rovers), Autonomous Sensors (Sensor Towers require no Power or Maintenance).
-<effect> Gain <funding(200000000)> Funding.","The red alert was sounded immediately after we lost contact with the RC Explorer vehicle. Five long hours of fear and desperation ended with the reinstating of data feed. A wave of relief passed through the crowd of scientists gathered at the control center. The telescopic drill used to probe the crust at the Anomaly site disturbed a layer of magnetite-rich rocks, the source of the electric charge. The rover is still functional but it would take time before its locomotion systems are fully restored. The operators turned the defeat into a victory, devoting the unexpected time window to studying the magnetic properties of the Martian crust.
+<effect> Gain <funding(200000000)> Funding.","Адразу пасьля страты сувязі з нашым РК Выведчыка мы аб'явілі чырвоны сігнал трывогі. Пяць доўгіх гадзін страху й няўпэўненасьці скончыліся, калі сувязь была адноўлена, што выклікала хвалю палёгкі сярод навукоўцаў, якія сабраліся ў камандаваньні. Тэлескапічны сьвердзел, які выкарыстоўваўся для дасьледаваньня кары, дзе была выяўленая анамалія, парушыў сістэму магнетытавых парод, крыніцу элэктрычнага зараду. Марсаход усё яшчэ працуе, але для аднаўленьня працаздольнасьці рухальных сістэм спатрэбіцца час. Аператары ператварылі паразу ў перамогу, прысьвяціўшы дадатковы вольны час вывучэньню магнітных уласьцівасьцяў марсіянскай кары.
 
-<effect>The RC Explorer has malfunctioned. It has to be repaired by Drones.
-<effect>50% cost reduction for the following technologies: Low-G Drive (faster Drones and Rovers), Аўтаномныя сэнсары (Вежы-сканэры не патрабуюць абслугоўваньне альбо энэргію).
-<effect> Атрымаць <funding(200000000)> фінансаваньня.",
-7176,We found some useful material in the debris from a small meteorite.,We found some useful material in the debris from a small meteorite.,Wśród szczątków małego meteorytu odkryliśmy cenny stosik przydatnych materiałów.
+<effect>РК Выведчык разладжаны. Трэба адрамантаваць яго дронамі.
+<effect>Кошт наступных тэхналёгій паменшаны на 50 %: Нізкагравітацыйная цяга (больш хуткія дроны й марсаходы), Аўтаномныя сэнсары (Вежы-сканэры не патрабуюць ані абслугоўваньне, ані энэргію).
+<effect>Вы атрымліваеце <funding(200000000)> фінансаваньня.",
+7176,We found some useful material in the debris from a small meteorite.,Сярод рэшткаў невялікага метэарыту мы выявілі каштоўную кучу карысных матэрыялаў.,Wśród szczątków małego meteorytu odkryliśmy cenny stosik przydatnych materiałów.
 5824,"After minimal processing, the resources can be transported and put to good use for the benefit of the Colony.
 
-<effect> We discovered 30 Rare Metals at the Anomaly site.","After minimal processing, the resources can be transported and put to good use for the benefit of the Colony.
+<effect> We discovered 30 Rare Metals at the Anomaly site.","Пасьля мінімальнай апрацоўкі гэтую сыравіну можна транспартаваць і выкарыстоўваць на карысьць калёніі.
 
-<effect> We discovered 30 Rare Metals at the Anomaly site.",
-5825,Every little bit helps.,Every little bit helps.,Ziarnko do ziarnka...
-7180,"Though initially fruitless, we recalibrated the operating spectrum for our scans and voila!","Though initially fruitless, we recalibrated the operating spectrum for our scans and voila!","Choć nasze skany były początkowo bezowocne, po regulacji ich zakresu widmowego dały zadowalający wynik."
+<effect> У анамаліі мы выявілі 30 адзінак рэдкіх мэталаў.",
+5825,Every little bit helps.,Зерне да зярнятка...,Ziarnko do ziarnka...
+7180,"Though initially fruitless, we recalibrated the operating spectrum for our scans and voila!","Нягледзячы на тое, што нашы сканаваньні першапачаткова не далі плёну, пасьля карэкціроўкі іх спэктральнага дыяпазону яны далі здавальняючы вынік.","Choć nasze skany były początkowo bezowocne, po regulacji ich zakresu widmowego dały zadowalający wynik."
 5837,"The unusual chemical composition of the regolith near the Anomaly site effectively shielded it from our data gathering. As we re-purposed and improved our scanning technology based on these new findings, we were rewarded with an unexpected surprise.
 
-<effect>Large Water deposit discovered.","The unusual chemical composition of the regolith near the Anomaly site effectively shielded it from our data gathering. As we re-purposed and improved our scanning technology based on these new findings, we were rewarded with an unexpected surprise.
+<effect>Large Water deposit discovered.","Незвычайны хімічны склад рэгаліту побач з мейсцам анамаліі эфэктыўна хаваўся ад нашых дэтэктараў. Пасьля пераробкі й ўдасканаленьня тэхналёгіі нашых сканараў мы былі ўзнагароджаны дзіўным адкрыцьцём.
 
 <effect>Вялікае радовішча вады знойдзена.",
-7182,We discovered unusual crystals in the remains of a meteorite. The magnified images of their crystalline matrix were broadcast by every major news channel on Earth.,We discovered unusual crystals in the remains of a meteorite. The magnified images of their crystalline matrix were broadcast by every major news channel on Earth.,W pozostałościach pewnego meteorytu odkryliśmy niezwykłe kryształy. Powiększone obrazy ich matrycy krystalicznej obiegły wszystkie wielkie media na Ziemi.
+7182,We discovered unusual crystals in the remains of a meteorite. The magnified images of their crystalline matrix were broadcast by every major news channel on Earth.,Мы выявілі незвычайныя крышталі ў рэштках нейкага метэарыту. Павялічаныя выявы іх крышталічнай матрыцы разышліся па ўсіх асноўных СМІ на Зямлі.,W pozostałościach pewnego meteorytu odkryliśmy niezwykłe kryształy. Powiększone obrazy ich matrycy krystalicznej obiegły wszystkie wielkie media na Ziemi.
 5839,"One tabloid even claims that the crystal is in fact artificially created - some kind of artwork of a microscopic alien race.
 
 ""The work resembles million tiny cylinders surrounded by flames. If you squint your eyes, the very static of the composition resembles a star map. The image is bordered by double rainbows while the work has an abstract feeling and a very dynamic structure.""
 
 While all this unscientific sensationalism had outraged our experts, the publicity provided us with some unexpected benefits.
 
-<effect>You gain <funding(reg_param1)>.","One tabloid even claims that the crystal is in fact artificially created - some kind of artwork of a microscopic alien race.
+<effect>You gain <funding(reg_param1)>.","Адзін таблоід нават сьцьвярджае, што гэты крышталь насамрэч з'яўляецца штучным стварэньнем - нейкім творам мастацтва мініяцюрнай іншаплянетнай цывілізацыі.
 
-""The work resembles million tiny cylinders surrounded by flames. If you squint your eyes, the very static of the composition resembles a star map. The image is bordered by double rainbows while the work has an abstract feeling and a very dynamic structure.""
+«Гэта нагадвае мільён маленечкіх цыліндраў, акружаных полымем. Калі прымружыцца, нязьменнасьць гэтай кампазіцыі нагадвае зорную карту. Карціна акружана падвойнай вясёлкай і характарызуецца абстрактнасьцю й вельмі дынамічнай структурай.
 
-While all this unscientific sensationalism had outraged our experts, the publicity provided us with some unexpected benefits.
+Хаця ненавуковая сэнсацыйнасць абурыла нашых экспэртаў, увесь шум вакол адкрыцьця прынёс нечаканыя перавагі.
 
-<effect>You gain <funding(reg_param1)>.",
-5840,I want to believe!,I want to believe!,Pragnę uwierzyć!
-7183,The Explorer made a thorough scan of the Anomaly site but couldn't find anything unusual.,The Explorer made a thorough scan of the Anomaly site but couldn't find anything unusual.,"Eksplorator przeskanował dokładnie miejsce anomalii, ale nie zdołał odkryć nic niezwykłego."
-5841,"Regrettably, it appears that the unusual readings were just a sensor glitch.","Regrettably, it appears that the unusual readings were just a sensor glitch.","Niestety okazało się, że nietypowe odczyty były tylko zakłóceniem aparaturowym."
-5842,Or were they?,Or were they?,A może nie?
-7157,We’ve got bad news. The RC Explorer investigating the anomaly accidentally released a pocket of high-pressure gas.,We’ve got bad news. The RC Explorer investigating the anomaly accidentally released a pocket of high-pressure gas.,"Ponure wieści. Podczas badania anomalii eksplorator sterowany przypadkowo przebił wielką jamę, w której znajdował się gaz pod wysokim ciśnieniem."
+<effect>Вы атрымліваеце <funding(reg_param1)>.",
+5840,I want to believe!,Прагну верыць!,Pragnę uwierzyć!
+7183,The Explorer made a thorough scan of the Anomaly site but couldn't find anything unusual.,"РК Выведчык старанна агледзеў мейсца анамаліі, але не змог высьветліць нічога незвычайнага.","Eksplorator przeskanował dokładnie miejsce anomalii, ale nie zdołał odkryć nic niezwykłego."
+5841,"Regrettably, it appears that the unusual readings were just a sensor glitch.","На жаль, адбылося, што незвычайныя паказаньні былі проста адхіленьнем у абсталяваньні.","Niestety okazało się, że nietypowe odczyty były tylko zakłóceniem aparaturowym."
+5842,Or were they?,Можа не?,A może nie?
+7157,We’ve got bad news. The RC Explorer investigating the anomaly accidentally released a pocket of high-pressure gas.,"Змрочныя навіны. Дасьледуючы анамалію, РК Выведчык выпадкова прабіў вялікую паражніну з газам пад высокім ціскам.","Ponure wieści. Podczas badania anomalii eksplorator sterowany przypadkowo przebił wielką jamę, w której znajdował się gaz pod wysokim ciśnieniem."
 5779,"The carbon dioxide erupted, damaging the rover and lifting tons of fine dust into the atmosphere, forming a Dust Devil. The Red Planet reminded us how dangerous an alien world could be.
 
-<effect>Expect fierce Dust Devils to form at the Anomaly location.","The carbon dioxide erupted, damaging the rover and lifting tons of fine dust into the atmosphere, forming a Dust Devil. The Red Planet reminded us how dangerous an alien world could be.
+<effect>Expect fierce Dust Devils to form at the Anomaly location.","Адбыўся выкід вуглякіслага газу, які пашкодзіў марсаход і падняў тоны пылу ў паветра, стварыўшы пясчаны віхор. Чырвоная плянета нагадала нам, наколькі гэта чужы сьвет.
 
-<effect>Expect fierce Dust Devils to form at the Anomaly location.",
-7158,"The readings told us it was a vein rich with ore, but the data turned out to be incorrect. Under those fine red sands lay the intact hull of a rover.","The readings told us it was a vein rich with ore, but the data turned out to be incorrect. Under those fine red sands lay the intact hull of a rover.","Odczyty metalu sugerowały istnienie bogatego złoża, ale dane były... dziwne. Pod drobnym czerwonym piaskiem znaleźliśmy nietknięty kadłub łazika!"
-5780,"We immediately recognized it – Curiosity. A historic finding that stretched its hand in a welcoming gesture through the years back to the first missions on the Red Planet. It belonged in a museum, but on the other hand was an opportunity to gain more parts that we could rarely get our hands on. It was a tough decision.","We immediately recognized it – Curiosity. A historic finding that stretched its hand in a welcoming gesture through the years back to the first missions on the Red Planet. It belonged in a museum, but on the other hand was an opportunity to gain more parts that we could rarely get our hands on. It was a tough decision.","Rozpoznaliśmy natychmiast - to Curiosity. Historyczne odkrycie, które jest niczym gest powitania z czasów pierwszych misji na Czerwonej Planecie. Łazik powinien się znaleźć w muzeum, ale z drugiej strony okazja zdobycia części nie pojawia się często. Decyzja była bardzo trudna."
-5781,Send Curiosity back to Earth. (<funding(500000000)> Funding),Send Curiosity back to Earth. (<funding(500000000)> Funding),Wyślij Curiosity z powrotem na Ziemię. (<funding(500000000)> funduszy)
-5783,Display it as a monument in the Colony. (Reduces the cost of Social techs by 10%),Display it as a monument in the Colony. (Памяншае кошт тэхналёгій Сацыяльных на 10%),Ustaw go jako pomnik w kolonii. (Koszt technologii socjologicznych zmniejszony o 10%)
-7166,The on-site data validates our predictive models of the electrically-charged dust devils.,The on-site data validates our predictive models of the electrically-charged dust devils.,Dane zebrane w terenie potwierdzają naszą hipotezę dotyczącą zachowania diabłów pyłowych naładowanych elektrycznością statyczną.
+<effect>Моцныя пясчаныя віхры будуць стварацца там, дзе існуе анамалія.",
+7158,"The readings told us it was a vein rich with ore, but the data turned out to be incorrect. Under those fine red sands lay the intact hull of a rover.","Паказаньні мэталу паказвалі на багатае радовішча, але дадзеныя былі... дзіўнымі. Мы знайшлі корпус марсаходу цэлым пад дробным чырвоным пяском!","Odczyty metalu sugerowały istnienie bogatego złoża, ale dane były... dziwne. Pod drobnym czerwonym piaskiem znaleźliśmy nietknięty kadłub łazika!"
+5780,"We immediately recognized it – Curiosity. A historic finding that stretched its hand in a welcoming gesture through the years back to the first missions on the Red Planet. It belonged in a museum, but on the other hand was an opportunity to gain more parts that we could rarely get our hands on. It was a tough decision.","Мы адразу пазналі гэта - гэта быў «Curiosity». Гістарычнае адкрыцьцё, падобнае на вітальны жэст з часоў першых місій на Чырвонай плянеце. Марсаход павінен быць у музеі, але, з іншага боку, магчымасьць атрымаць запчасткі выпадае не часта. Рашэньне было вельмі цяжкім.","Rozpoznaliśmy natychmiast - to Curiosity. Historyczne odkrycie, które jest niczym gest powitania z czasów pierwszych misji na Czerwonej Planecie. Łazik powinien się znaleźć w muzeum, ale z drugiej strony okazja zdobycia części nie pojawia się często. Decyzja była bardzo trudna."
+5781,Send Curiosity back to Earth. (<funding(500000000)> Funding),Адправіць «Curiosity» назад на Зямлю. (<funding(500000000)> Funding),Wyślij Curiosity z powrotem na Ziemię. (<funding(500000000)> funduszy)
+5783,Display it as a monument in the Colony. (Reduces the cost of Social techs by 10%),Усталяваць помнік у калёніі. (Памяншае кошт тэхналёгій Сацыяльных на 10%),Ustaw go jako pomnik w kolonii. (Koszt technologii socjologicznych zmniejszony o 10%)
+7166,The on-site data validates our predictive models of the electrically-charged dust devils.,"Дадзеныя, сабраныя ў палявых умовах, пацьвярджаюць нашу гіпотэзу аб паводзінах пясчаных віхораў, зараджаных статычнай элэктрычнасьцю.",Dane zebrane w terenie potwierdzają naszą hipotezę dotyczącą zachowania diabłów pyłowych naładowanych elektrycznością statyczną.
 5798,"Science is well aware of the causes of the massive Earth storms, monsoons and tornadoes and yet we never ceased to admire the primeval forces unleashed before our eyes. The same goes for Martian electrostatic dust storms. Our scientists already had a good working model on the behavior of these peculiar weather Anomalies on the Red Planet. Now we can refine this model even further. With the current expedition complete, we can confirm their theory, yet I doubt anyone would ever cease to revere the massive dust storms.
 
-<effect>Gain <research(2000)>","Science is well aware of the causes of the massive Earth storms, monsoons and tornadoes and yet we never ceased to admire the primeval forces unleashed before our eyes. The same goes for Martian electrostatic dust storms. Our scientists already had a good working model on the behavior of these peculiar weather Anomalies on the Red Planet. Now we can refine this model even further. With the current expedition complete, we can confirm their theory, yet I doubt anyone would ever cease to revere the massive dust storms.
+<effect>Gain <research(2000)>","Навука ведае прычыны вялікіх ураганаў, мусонаў і тарнада на Зямлі, і гэтыя першабытныя сілы, якія праяўляюцца на нашых вачах, не перастаюць выклікаць у нас дзіўленьне. Тое ж самае адбываецца з элэктрастатычнымі пясчанымі бурамі на Марсе. Нашы навукоўцы распрацавалі працоўную мадэль паводзінаў гэтых канкрэтных анамалій надвор'я на Чырвонай плянеце, і цяпер мы можам палепшыць гэта пасьля бягучай экспэдыцыі, мы зможам пацьвердзіць іх гіпотэзу, хоць я сумняваюся, што хто-небудзь перастане баяцца гэтых вялікіх пясчаных бур.
 
-<effect>Gain <research(2000)>",
+<effect>Вы атрымліваеце <research(2000)>",
 7167,The Anomaly turned out to be one of the most well-preserved asteroid impacts in our area. No geologist could ever put a price on it.,The Anomaly turned out to be one of the most well-preserved asteroid impacts in our area. No geologist could ever put a price on it.,"Ta anomalia okazała się chyba najlepiej zachowanym miejscem upadku asteroidy, jakie jest w naszym zasięgu! Zdobyte dane będą bezcenne dla egzogeologów."
 5799,"Earth scientists had long wondered about the effect of ancient asteroid impacts on Martian climate and geology. Several missions had been sent to gather data about these primordial events but the landers failed, as if the Red Planet wanted to keep some of its secrets for itself. Generations had to pass until we managed to send a successful expedition to lift the shroud of mystery.
 
@@ -12104,7 +12104,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 <grey>An engine design optimized for low-gravity environments.</grey>","<em>Дроны</em> й <em>Марсаходы</em> рухаюцца хутчэй на <param1>%.
 
 <grey>Канструкцыя рухавіка аптымізавана для асяроддзя зь нізкай гравітацыяй.</grey>",
-6401,Low-G Drive,Язда пры нізкай гравітацыі,Napęd mikrograwitacyjny
+6401,Low-G Drive,Нізкагравітацыйная цяга,Napęd mikrograwitacyjny
 6404,"<em>Drone Hubs</em> are constructed with additional <param1> Drones and the maximum number of Drones is increased by <param2>.
 
 <grey>Drones being the backbone for most of the heavy and dangerous labor on Mars, it is essential our Hubs have greater operating capacity in order to employ more Drones at any given time.</grey>","<em>ЦК Дронаў</em> будуецца з дадатоквымі <param1> дронамі, а максімальная колькасьць дронаў павышана на <param2>.
@@ -23732,7 +23732,7 @@ Mission parameters and colony site are predetermined.",Выклічце сабе
 13691,<UsedCapacity>/<TotalCapacity> kg,<UsedCapacity>/<TotalCapacity> kg,<UsedCapacity>/<TotalCapacity> kg
 1129,MOD MANAGER,НАЛАДЧЫК МОДАЎ,MENEDŻER MODÓW
 756622437336,TUTORIAL,НАВУЧАНЬНЕ,SAMOUCZEK
-427174640796,"Start a survival game, which allows you to choose Mission Sponsor, Commander Profile, Rocket payload and landing location.","Пачніце гульню на выжываньне, якая дазваляе вам абраць фундатара місіі, профіль камандыру, карысную нагрузку ракеты й мейсца пасадкі.","Rozpoczyna grę na przetrwanie, w której możesz wybrać sponsora misji, profil dowódcy, ładunek rakiety i miejsce lądowania."
+427174640796,"Start a survival game, which allows you to choose Mission Sponsor, Commander Profile, Rocket payload and landing location.","Пачніце гульню на выжываньне, якая дазваляе вам абраць фундатару місіі, профіль камандыру, карысную нагрузку ракеты й мейсца пасадкі.","Rozpoczyna grę na przetrwanie, w której możesz wybrać sponsora misji, profil dowódcy, ładunek rakiety i miejsce lądowania."
 10455,NEW GAME,НОВАЯ ГУЛЬНЯ,NOWA GRA
 554914047909,"Challenge yourself to accomplish a specific objective within a time limit.
 
@@ -23740,8 +23740,8 @@ Mission parameters and colony site are predetermined.","Паспрабуйце �
 
 Параметры місіі й мейсца калёніі загадзя вызначаны.",
 10519,CHALLENGE MODE,РЭЖЫМ СПАБОРНІЦТВУ,TRYB WYZWANIA
-650579644429,Create the colony that you imagine and test how it works without worrying about survival threats.<newline><newline><NoAchievements()>,"Стварыце 
-калёнію, якую вы ўяўляеце не турбуючыся аб выжываньні.<newline><newline><NoAchievements()>","Stwórz swoją wymarzoną kolonię i sprawdź, jak będzie funkcjonować, nie obawiając się zagrożeń ze strony otoczenia.<newline><newline><NoAchievements()>"
+650579644429,Create the colony that you imagine and test how it works without worrying about survival threats.<newline><newline><NoAchievements()>,"Стварыце калёнію, 
+якую вы ўяўляеце не хвалючыся аб выжываньні.<newline><newline><NoAchievements()>","Stwórz swoją wymarzoną kolonię i sprawdź, jak będzie funkcjonować, nie obawiając się zagrożeń ze strony otoczenia.<newline><newline><NoAchievements()>"
 144559490492,CREATIVE MODE,ТВОРЧЫ РЭЖЫМ,TRYB ARCHITEKTA
 12309,<image UI/Mods/platypus-white.tga 500>   PARADOX MOD MANAGER,<image UI/Mods/platypus-white.tga 500>   PARADOX МЕНЕДЖЭР МОДАЎ,<image UI/Mods/platypus-white.tga 500>   MENEDŻER MODÓW PARADOX
 1130,MOD EDITOR,РЭДАКТАР МОДАЎ,EDYTOR MODÓW
