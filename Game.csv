@@ -4186,7 +4186,7 @@ If we want to stop the change, we must find a breakthrough based on what we alre
 Калі мы хочам спыніць гэтыя зьмены, нам трэба зрабіць прарыў на аснове таго, што мы ўжо ведаем, і высветліць, як кантраляваць або спыніць увесь працэс.
 
 <effect> Пачалася працяглая надзвычай моцная хваля холаду.
-<effect>Даступна тэхнолёгія <em>Ксэнатэрафарміраваньне.</em>",
+<effect>Даступна тэхнолёгія <em>Ксэна-Тэраформаваньне.</em>",
 5748,"The Cold Wave that had gripped our Colony has finally been dispelled. Temperatures have returned to the normal, cruelly cold levels we are used to.
 
 Our scientists are confident that we have recorded and gathered all data necessary for making sense of this encounter in the coming decades. Also, they are confident that the Spheres themselves had overstayed their welcome. 
@@ -4717,7 +4717,7 @@ You can then use these Metals to setup additional Solar Panels and power up ever
 9319,We need more Metals to secure this base. Use the RC Transport to collect some Metals and transport them back.,"Патрабуецца больш мэталаў, каб гэтая база працавала. Адпраўце РК Пагрузчык, каб сабраць некаторыя мэталы й прывезьці іх назад.","Potrzebujemy więcej metali, aby zabezpieczyć działanie tej bazy. Wyślij ciężarówkę sterowaną, by zebrała nieco metali i przywiozła je z powrotem."
 9323,"Using Rockets to resupply from Earth is the best way to secure Resources early on. You'll need funding to buy the Resources but your sponsor usually will provide you with enough to get a basic colony up and running.
 
-<goal>Open the Resupply screen and order Advanced resources from Earth.","Ужываньне ракет для транспарціроўкі забесьпячэньня зь Зямлі - лепшы спосаб атрымаць рэсурсы на раньняй фазе калянізацыі. Для набыцьця рэсурсаў неабходна фінансаваньне, але ваш спонсар звычайна забясьпечыць дастаткова грошай для стварэньня й кіраваньня базавай калёніі.
+<goal>Open the Resupply screen and order Advanced resources from Earth.","Ужываньне ракет для транспарціроўкі забесьпячэньня зь Зямлі - лепшы спосаб атрымаць рэсурсы на раньняй фазе калянізацыі. Для набыцьця рэсурсаў неабходна фінансаваньне, але ваш фундатар звычайна забясьпечыць дастаткова грошай для стварэньня й кіраваньня базавай калёніі.
 
 <goal>Адкрыйце экран забесьпячэньня й замоўце дадатковыя рэсурсы зь Зямлі.",
 9321,Advanced Resources and Resupply,Перадавыя рэсурсы й матэрыялы,Zaawansowane zasoby i zaopatrzenie
@@ -5192,146 +5192,147 @@ While all this unscientific sensationalism had outraged our experts, the publici
 <effect>Gain <research(2000)>","Навука ведае прычыны вялікіх ураганаў, мусонаў і тарнада на Зямлі, і гэтыя першабытныя сілы, якія праяўляюцца на нашых вачах, не перастаюць выклікаць у нас дзіўленьне. Тое ж самае адбываецца з элэктрастатычнымі пясчанымі бурамі на Марсе. Нашы навукоўцы распрацавалі працоўную мадэль паводзінаў гэтых канкрэтных анамалій надвор'я на Чырвонай плянеце, і цяпер мы можам палепшыць гэта пасьля бягучай экспэдыцыі, мы зможам пацьвердзіць іх гіпотэзу, хоць я сумняваюся, што хто-небудзь перастане баяцца гэтых вялікіх пясчаных бур.
 
 <effect>Вы атрымліваеце <research(2000)>",
-7167,The Anomaly turned out to be one of the most well-preserved asteroid impacts in our area. No geologist could ever put a price on it.,The Anomaly turned out to be one of the most well-preserved asteroid impacts in our area. No geologist could ever put a price on it.,"Ta anomalia okazała się chyba najlepiej zachowanym miejscem upadku asteroidy, jakie jest w naszym zasięgu! Zdobyte dane będą bezcenne dla egzogeologów."
+7167,The Anomaly turned out to be one of the most well-preserved asteroid impacts in our area. No geologist could ever put a price on it.,Анамалія аказалася адным з найлепш захаваных мейсцаў падзеньня астэроіда ў нашай зоне. Ніводзін геоляг ніколі ня змог бы ацаніць яго каштоўнасьць. ,"Ta anomalia okazała się chyba najlepiej zachowanym miejscem upadku asteroidy, jakie jest w naszym zasięgu! Zdobyte dane będą bezcenne dla egzogeologów."
 5799,"Earth scientists had long wondered about the effect of ancient asteroid impacts on Martian climate and geology. Several missions had been sent to gather data about these primordial events but the landers failed, as if the Red Planet wanted to keep some of its secrets for itself. Generations had to pass until we managed to send a successful expedition to lift the shroud of mystery.
 
 With the data we gathered from the site, our colleagues on Earth will have material for years of research. Maybe we would finally find out whether the Martian core was shut down or it died out on its own, and we would be able to predict the destiny of our home world.
 
 <effect>You gain <funding(800000000)> Funding
-<effect>You gain <research(3000)>","Earth scientists had long wondered about the effect of ancient asteroid impacts on Martian climate and geology. Several missions had been sent to gather data about these primordial events but the landers failed, as if the Red Planet wanted to keep some of its secrets for itself. Generations had to pass until we managed to send a successful expedition to lift the shroud of mystery.
+<effect>You gain <research(3000)>","Зямныя навукоўцы даўно цікавіліся ўплывам старажытных падзеньняў астэроідаў на клімат і геалёгію Марсу. Было адпраўлена некалькі місій для збору дадзеных пра гэтыя першабытныя падзеі, але ўсе яны праваліліся, нібыта Чырвоная Плянэта хацела захаваць некаторыя свае таямніцы для сябе. Прайшлі пакаленьні, пакуль мы здолелі адправіць пасьпяхова экспэдыцыю, каб зняць покрыва таямніцы.
 
-With the data we gathered from the site, our colleagues on Earth will have material for years of research. Maybe we would finally find out whether the Martian core was shut down or it died out on its own, and we would be able to predict the destiny of our home world.
+З дадзенымі, сабранымі на мейсцы, нашыя калегі на Зямлі будуць мець матэрыял на шмат год дасьледаваньняў. Магчыма, мы ўрэшце даведаемся, ці было марсіянскае ядро адключана або яно вымерла самастойна, і зможам прадказаць лёс нашай роднай плянэты.
 
-<effect>You gain <funding(800000000)> Funding
-<effect>You gain <research(3000)>",
-7168,We've just found Beagle 2. Or at least what’s left of it.,We've just found Beagle 2. Or at least what’s left of it.,"Właśnie odkryliśmy lądownik Beagle 2! Czy raczej to, co z niego zostało."
+<effect>Вы атрымліваеце <funding(800000000)> фінансаваньня
+<effect>Вы атрымліваеце <research(3000)>
+",
+7168,We've just found Beagle 2. Or at least what’s left of it.,"Мы толькі што выявілі пасадачны апарат «Beagle 2»! А дакладней тое, што ад яго засталося.","Właśnie odkryliśmy lądownik Beagle 2! Czy raczej to, co z niego zostało."
 5800,"Over the years over two-thirds of the missions sent to Mars ended in disaster. The tragic course of events, attributed to bad luck, human error, or simply to the inevitability of shooting blind in the dark, had created a dark humor revolving around the Great Galactic Ghoul which feeds on exploration probes and the mystery of the Martian Triangle.
 
 One of the best-equipped probe missions to Mars was Beagle 2, which failed dramatically in the last minutes before landing. Failed by the parachutes and the treacherous Martian atmosphere, the brave little probe crashed at fatally high speed against the red desert.
 
-<effect>Reduces the cost of Robotics techs by 10%.","Over the years over two-thirds of the missions sent to Mars ended in disaster. The tragic course of events, attributed to bad luck, human error, or simply to the inevitability of shooting blind in the dark, had created a dark humor revolving around the Great Galactic Ghoul which feeds on exploration probes and the mystery of the Martian Triangle.
+<effect>Reduces the cost of Robotics techs by 10%.","За гады больш за дзьве траціны місій, адпраўленых на Марс, закончыліся катастрофай. Трагічны ход падзеяў, прыпісаны няшчасьцю, чалавечай памылцы або проста непазьбежнасьці страляць наўздагад у цемры, стварыў чорны гумар вакол Вялікага Галактычнага Ваўкалаку, які харчуецца дасьледчымі зондамі, і таямніцы Марсіянскага Трохкутніку.
 
-One of the best-equipped probe missions to Mars was Beagle 2, which failed dramatically in the last minutes before landing. Failed by the parachutes and the treacherous Martian atmosphere, the brave little probe crashed at fatally high speed against the red desert.
+Адна з найлепш абсталяваных зондавага місій на Марс была місія «Beagle 2», якая драматычна правалілася ў апошнія хвіліны перад пасадкай. Парашуты не адкрыліся, таму адважны зонд праляцеў праз здрадліва разрэджаную атмасфэру Марсу й з-за вялікай хуткасьці ўрэзаўся ў чырвоную пустыню.
 
 <effect>Памяншае кошт тэхналёгій Робататэхнітцы 10%.",
-5801,Begin analysis on the crash site.,Begin analysis on the crash site.,Rozpocznij badania miejsca katastrofy.
-7173,We’ve just found the wreckage of Phobos-2! The old probe even had some new data for us to analyze.,We’ve just found the wreckage of Phobos-2! The old probe even had some new data for us to analyze.,"Właśnie odkryliśmy wrak Fobosa-2! Co ciekawe, w starej sondzie znaleźliśmy cenne dane."
+5801,Begin analysis on the crash site.,Пачніце дасьледаваньне мйесца крушэньня.,Rozpocznij badania miejsca katastrofy.
+7173,We’ve just found the wreckage of Phobos-2! The old probe even had some new data for us to analyze.,"Мы толькі што выявілі абломкі Phobos -2! Цікава, што ў старым апытаньні мы знайшлі каштоўныя дадзеныя.","Właśnie odkryliśmy wrak Fobosa-2! Co ciekawe, w starej sondzie znaleźliśmy cenne dane."
 5817,"On July 7th, 1988 the Soviet Union launched two Proton-K rockets carrying the Phobos-1 and Phobos-2 probes on a course to Mars. Of the two craft only Phobos-2 reached its final destination, but contact with it was lost just before it could deliver its precious payload.
 
 Humankind will be forever grateful for the information we salvaged from its computers.
 
 <effect>Locations of several Anomalies discovered.
-<hint> Check the map for the new locations.","On July 7th, 1988 the Soviet Union launched two Proton-K rockets carrying the Phobos-1 and Phobos-2 probes on a course to Mars. Of the two craft only Phobos-2 reached its final destination, but contact with it was lost just before it could deliver its precious payload.
+<hint> Check the map for the new locations.","7 ліпеня 1988 года Савецкі Зьвяз запусьціў дзьве ракеты « Proton-К», якія несьлі зонды «Phobos-1» і «Phobos-2», на курс да Марсу. Зь дзьвюх прылад толькі «Phobos-2» дасягнуў свайго канчатковага пункту прызначэньня, але сувязь зь ім была страчаная якраз перад тым, як ён мог даставіць свой каштоўны груз.
 
-Humankind will be forever grateful for the information we salvaged from its computers.
+Чалавецтва будзе вечна ўдзячнае за інфармацыю, якую нам удалося выратаваць з яго кампутараў.
 
 <effect>Выяўлены мейсцы некалькіх анамалій.
 <hint> Праверце мапу на новыя мейсцы.",
-7174,Our Explorer just got into a pretty serious accident. The good news is it’s still in one piece.,Our Explorer just got into a pretty serious accident. The good news is it’s still in one piece.,Nasz eksplorator uległ poważnemu wypadkowi! Na szczęście nadal jest cały.
+7174,Our Explorer just got into a pretty serious accident. The good news is it’s still in one piece.,"Наш дасьледчык трапіў у сур'ёзную аварыю! На шчасьце, ён яшчэ цэлы.",Nasz eksplorator uległ poważnemu wypadkowi! Na szczęście nadal jest cały.
 12233,"The vehicle stumbled upon a crust fault which could have lasted for a couple hundreds of years under the slow erosion of the planet. Disturbed by the mechanical motion of the scanning probes, the surface opened like a wound and swallowed the rover, luckily, only for a dozen meters. The sturdy machine got out of the hole, but nevertheless it sustained heavy damage.
 
 Millions of years ago Mars had been shaken to its core by cataclysmic impact which sealed the fate of the planet. Since then Mars, like all giants, is dying, too slow for our mortal eyes to witness. Yet even today the death-throes of the Red Planet can be felt unmistakably.
 
-<effect>The RC Explorer has malfunctioned. It has to be repaired by Drones.","The vehicle stumbled upon a crust fault which could have lasted for a couple hundreds of years under the slow erosion of the planet. Disturbed by the mechanical motion of the scanning probes, the surface opened like a wound and swallowed the rover, luckily, only for a dozen meters. The sturdy machine got out of the hole, but nevertheless it sustained heavy damage.
+<effect>The RC Explorer has malfunctioned. It has to be repaired by Drones.","Марсаход наткнуўся на разлом кары, які мог існаваць сотні гад пад павольнай эрозіяй плянэты. Парушаная мэханічным рухам скануючых зондаў, паверхня адкрылася, як рана, і праглынула ровар, на шчасьце, усяго на некалькі дзясяткаў мэтраў. Машына сама выбралася з ямы, але атрымала сур'ёзныя пашкоджаньні.
 
-Millions of years ago Mars had been shaken to its core by cataclysmic impact which sealed the fate of the planet. Since then Mars, like all giants, is dying, too slow for our mortal eyes to witness. Yet even today the death-throes of the Red Planet can be felt unmistakably.
+Мільёны гад таму Марс быў скалечаны катастрафічным ударом, які вызначыў лёс плянэты. З таго часу Марс, як і ўсе гіганты, памірае занадта павольна, каб нашы сьмяротныя вочы маглі гэта заўважыць. Але нават сёньня канвульсіі Чырвонай Плянэты можна лёгка адчуць.
 
-<effect>The RC Explorer has malfunctioned. It has to be repaired by Drones.",
-7177,We’ve discovered a magnificent vista at the site of the anomaly.,We’ve discovered a magnificent vista at the site of the anomaly.,Odkryliśmy piękny widok w miejscu anomalii.
+<effect>РК Выведчык выйшаў з ладу. Яго трэба адрамантаваць з дапамогай дронаў.",
+7177,We’ve discovered a magnificent vista at the site of the anomaly.,На мейсцы анамаліі мы адкрылі прыгожае відовішча.,Odkryliśmy piękny widok w miejscu anomalii.
 5826,"Even after watching the cold splendor of the Red Planet for so long, Mission Control was awestruck by the beautiful footage provided by our intrepid reconnaissance vehicle.
 
-<effect><reg_param1> new Applicants are available on Earth.","Even after watching the cold splendor of the Red Planet for so long, Mission Control was awestruck by the beautiful footage provided by our intrepid reconnaissance vehicle.
+<effect><reg_param1> new Applicants are available on Earth.","Нават пасьля таго, як на працягу доўгага часу назіралі за халодным велічам Чырвонай Плянэты, Камандаваньне было ўражана прыгожымі кадрамі, атрыманыя ад нашага адважнага выведвальнага марсаходу.
 
-<effect><reg_param1> new Applicants are available on Earth.",
-5827,Let's hope we never tire of this beauty!,Let's hope we never tire of this beauty!,"Miejmy nadzieję, że to piękno nigdy nas nie zmęczy!"
-7178,We’ve collected valuable geographic data at the site of the Anomaly.,We’ve collected valuable geographic data at the site of the Anomaly.,W miejscu anomalii zebrano cenne dane geologiczne.
+<effect>На Зямлі даступны <reg_param1> новых кандыдатаў.",
+5827,Let's hope we never tire of this beauty!,"Будзем спадзявацца, што гэтая прыгажосьць нам ніколі не надакучыць!","Miejmy nadzieję, że to piękno nigdy nas nie zmęczy!"
+7178,We’ve collected valuable geographic data at the site of the Anomaly.,На мейсцы анамаліі сабраны каштоўныя геалягічныя дадзеныя.,W miejscu anomalii zebrano cenne dane geologiczne.
 5828,"Analysis of the crust yielded rare insights on the geological history of Mars, especially about the ancient Theiikian period, in which volcanic activity released immense amounts of sulfur dioxide in the atmosphere. Several key hypotheses of the exo-geologists were confirmed by our findings.
 
-The scientific community praised the findings, raising the status of our mission in the eyes of humanity. Our sponsor committed additional funds to the mission.","Analysis of the crust yielded rare insights on the geological history of Mars, especially about the ancient Theiikian period, in which volcanic activity released immense amounts of sulfur dioxide in the atmosphere. Several key hypotheses of the exo-geologists were confirmed by our findings.
+The scientific community praised the findings, raising the status of our mission in the eyes of humanity. Our sponsor committed additional funds to the mission.","Аналіз кары даў рэдкія ўяўленьні пра геалягічную гісторыю Марсу, асабліва пра старажытны Тэіікскі пэрыяд, у які вульканічная актыўнасьць выкідвала велізарныя колькасьці дыяксіду серы ў атмасфэру. Некалькі ключавых гіпотэз экзагеолягаў былі пацьверджаны нашымі знаходкамі.
 
-The scientific community praised the findings, raising the status of our mission in the eyes of humanity. Our sponsor committed additional funds to the mission.",
-5829,Get <funding(choice_param1)> Funding.,Get <funding(choice_param1)> Funding.,Zdobywasz <funding(choice_param1)> funduszy.
-5831,Get 2 Drone Hub Prefabs.,Get 2 Drone Hub Prefabs.,Zdobywasz 2 prefabrykaty gniazd dronów.
-5833,Get 4 Moisture Vaporator Prefabs.,Get 4 Moisture Vaporator Prefabs.,Zdobywasz 4 prefabrykaty oddzielaczy wilgoci.
-7181,"There were no secrets to find near the Anomaly site, just a scene of breathtaking beauty.","There were no secrets to find near the Anomaly site, just a scene of breathtaking beauty.","Widowiskowe formacje skalne w pobliżu miejsca anomalii nie kryją żadnych tajemnic, ale są za to oszałamiająco piękne."
+Навуковая супольнасьць высока ацаніла гэтыя вынікі, падняўшы статус нашай місіі ў вачах чалавецтву. Наш фундатар вылучыў дадатковыя сродкі на місію.",
+5829,Get <funding(choice_param1)> Funding.,Атрымайць <funding(choice_param1)> фінансаваньня.,Zdobywasz <funding(choice_param1)> funduszy.
+5831,Get 2 Drone Hub Prefabs.,Атрымайць 2 зборнікаў ЦК Дронаў.,Zdobywasz 2 prefabrykaty gniazd dronów.
+5833,Get 4 Moisture Vaporator Prefabs.,Атрымайць 4 зборнікаў выпарніку вільгаці.,Zdobywasz 4 prefabrykaty oddzielaczy wilgoci.
+7181,"There were no secrets to find near the Anomaly site, just a scene of breathtaking beauty.","Відовішчныя скальныя фармацыі паблізу мейсца анамаліі ня хаваюць ніякіх таямніц, але яны надзвычай прыгожыя.","Widowiskowe formacje skalne w pobliżu miejsca anomalii nie kryją żadnych tajemnic, ale są za to oszałamiająco piękne."
 5838,"Such photo-ops have proven to be useful for the mission, inspiring people on Earth to believe that humanity should create its new home on the Red Planet.
 
-<effect> A Celebrity Applicant is available on Earth.","Such photo-ops have proven to be useful for the mission, inspiring people on Earth to believe that humanity should create its new home on the Red Planet.
+<effect> A Celebrity Applicant is available on Earth.","Такія фотасэсіі апынуліся карыснымі для місіі, натхняючы людзей на Зямлі верыць, што чалавецтва павінна стварыць свой новы дом на Чырвонай Планеце.
 
-<effect> A Celebrity Applicant is available on Earth.",
-7162,Get up close and personal with Mars and you’ll find it’s anything but barren. We found another treasure in the form of a small deposit of a Germanium-rich mineral.,Get up close and personal with Mars and you’ll find it’s anything but barren. We found another treasure in the form of a small deposit of a Germanium-rich mineral.,Tylko z daleka Mars wydaje się jałową pustynią. Znaleźliśmy dziś kolejny skarb - małą żyłę minerału zawierającego dużo germanu.
+<effect> На Зямлі даступны кандыдат-знакамітасьць.",
+7162,Get up close and personal with Mars and you’ll find it’s anything but barren. We found another treasure in the form of a small deposit of a Germanium-rich mineral.,"Толькі здалёк Марс здаецца бясплоднай пустыняй. Сёньня мы знайшлі яшчэ адзін скарб — невялікую жылу мінэралу, якая складае шмат германію.",Tylko z daleka Mars wydaje się jałową pustynią. Znaleźliśmy dziś kolejny skarb - małą żyłę minerału zawierającego dużo germanu.
 5794,"The purity of the Germanium found in the vein is amazing, which our scientific team presumes is due to the millennia-long loss of volatiles in the Martian atmosphere.
 
 Germanium started out as the humble ekasilicon proposed by Mendeleev and for almost a century it was discerned as a useless metal, only for late 20th century discoveries to make it one of the cornerstones of modern electronics.
 
-<effect>Discovered Rare Metals deposit.","The purity of the Germanium found in the vein is amazing, which our scientific team presumes is due to the millennia-long loss of volatiles in the Martian atmosphere.
+<effect>Discovered Rare Metals deposit.","Чысьціня германію, знойдзенага ў гэтай жыле, уражвае, і наша навуковая каманда мяркуе, што гэта зьвязана з тысячагадовай стратай летучых рэчываў у атмасфэры Марсу.
 
-Germanium started out as the humble ekasilicon proposed by Mendeleev and for almost a century it was discerned as a useless metal, only for late 20th century discoveries to make it one of the cornerstones of modern electronics.
+Спачатку германій лічыўся як сьціплая падоба крэмнію, прапанаваны Мендзялеевым, і на працягу амаль стагодзьдзя лічыўся бескарысным мэталам, пакуль адкрыцьці канца XX стагодзьдзя не зрабілі яго часткай падмурку сучаснай элэктронікі.
 
-<effect>Discovered Rare Metals deposit.",
-7164,"Until today, the only place we’d thought you could find Ice XV outside of a lab was on an icy planet or a moon. And here we find it. On Mars.","Until today, the only place we’d thought you could find Ice XV outside of a lab was on an icy planet or a moon. And here we find it. On Mars.","Aż do dziś przewidywano, że lód-XV istnieje poza laboratoriami tylko wewnątrz planet i księżyców lodowych. A my właśnie potwierdziliśmy jego istnienie na Marsie."
+<effect>Адкрыта радовішча рэдкіх мэталаў.",
+7164,"Until today, the only place we’d thought you could find Ice XV outside of a lab was on an icy planet or a moon. And here we find it. On Mars.","Да сёньняшняга дню прагназавалася, што лёд-XV будзе існаваць па-за лабараторыямі толькі ўнутры ледзяных плянэт і спадарожнікаў. А мы толькі што пацьвердзілі яго існаваньне на Марсе.","Aż do dziś przewidywano, że lód-XV istnieje poza laboratoriami tylko wewnątrz planet i księżyców lodowych. A my właśnie potwierdziliśmy jego istnienie na Marsie."
 5796,"Ice XV is a super-dense phase of water ice which is formed in extremely cold and extremely high-pressure environments. It turns out that the unique geological history of Mars allowed a small quantity of Ice XV to form under the crust.
 
 Even though we didn't confirm any substantial deposits of water, this discovery would cause uproar in the scientific communities and draw significant attention to our efforts on the Red Planet. Our sponsors immediately provided us with tools to discover more about the effects of Martian geology on the formation of underground ice.
 
-<effect>Gain <funding(500000000)> Funding.","Ice XV is a super-dense phase of water ice which is formed in extremely cold and extremely high-pressure environments. It turns out that the unique geological history of Mars allowed a small quantity of Ice XV to form under the crust.
+<effect>Gain <funding(500000000)> Funding.","Лёд XV — гэта надзвычай шчыльная фаза воднага лёду, якая ўтвараецца ў экстрэмальна халодных і экстрэмальна высокіх ціскавых умовах. Аказалася, што ўнікальная геалягічная гісторыя Марсу дазволіла ўтварыцца невялікай колькасьці лёду XV пад карой.
 
-Even though we didn't confirm any substantial deposits of water, this discovery would cause uproar in the scientific communities and draw significant attention to our efforts on the Red Planet. Our sponsors immediately provided us with tools to discover more about the effects of Martian geology on the formation of underground ice.
+Хаця мы не пацьвердзілі наяўнасьці значных радовішчаў вады, гэтае адкрыцьцё выкліча вялікі розгалас у навуковых супольнасьцях і прыцягне значную ўвагу да нашых намаганьняў на Чырвонай Плянэце. Нашы фундатары адразу ж забясьпечылі нас інструмэнтамі для дасьледаваньня ўплыву марсіянскай геалёгіі на ўтварэньне падземнага лёду.
 
 <effect>Атрымаць <funding(500000000)> фінансаваньня.",
-7169,We’ve analyzed material from the Anomaly and it completely validates our hypothesis on abiogenic petroleum!,We’ve analyzed material from the Anomaly and it completely validates our hypothesis on abiogenic petroleum!,Analizowany materiał z anomalii właśnie potwierdził hipotezę abiogennego pochodzenia ropy naftowej!
+7169,We’ve analyzed material from the Anomaly and it completely validates our hypothesis on abiogenic petroleum!,Прааналізаваны матэрыял з анамаліі толькі што пацьвердзіў гіпотэзу абіягеннага паходжаньня сырой нафты!,Analizowany materiał z anomalii właśnie potwierdził hipotezę abiogennego pochodzenia ropy naftowej!
 5802,"The pocket of natural gas we discovered deep among the hydrocarbon rocks was nothing short of an evidence of petroleum formation. The geophysicists here, at Mission Control, stare at the research data in disbelief. Mars, even in its alien nature, has proven once more a teacher in the mysteries so well veiled on our home world.
 
-This unique opportunity allows us to gaze into the past of Mars and gather knowledge which would take months to simulate inside a laboratory.","The pocket of natural gas we discovered deep among the hydrocarbon rocks was nothing short of an evidence of petroleum formation. The geophysicists here, at Mission Control, stare at the research data in disbelief. Mars, even in its alien nature, has proven once more a teacher in the mysteries so well veiled on our home world.
+This unique opportunity allows us to gaze into the past of Mars and gather knowledge which would take months to simulate inside a laboratory.","Лёд XV — гэта надзвычай шчыльная фаза воднага лёду, якая ўтвараецца ў экстрэмальна халодных і экстрэмальна высокіх ціскавых умовах. Адбылося, што ўнікальная геалягічная гісторыя Марсу дазволіла ўтварыцца невялікай колькасьці лёду XV пад карой.
 
-This unique opportunity allows us to gaze into the past of Mars and gather knowledge which would take months to simulate inside a laboratory.",
-5803,Conduct on-site volatiles experiments. (Reduce cost of Physics research by 10%),Conduct on-site volatiles experiments. (Reduce cost of Physics research by 10%),Przeprowadź terenowe badania związków lotnych. (Koszt technologii w dziedzinie fizyki zmniejsza się o 10%)
-5805,Conduct on-site polymerization experiments. (Reduce cost of Engineering research by 10%),Conduct on-site polymerization experiments. (Reduce cost of Engineering research by 10%),Przeprowadź terenowe badania polimeryzacji. (Koszt technologii w dziedzinie inżynierii zmniejsza się o 10%)
-5807,Sell the scientific data. (<funding(500000000)> Funding),Sell the scientific data. (<funding(500000000)> Funding),Sprzedaj uzyskane informacje (<funding(500000000)> funduszy).
-5808,Uranium-Rich Hematite,Uranium-Rich Hematite,Hematyt obfitujący w uran
-7170,It’s not every day that we have the luxury to choose from what Mars has to offer.,It’s not every day that we have the luxury to choose from what Mars has to offer.,Nie co dzień ma się na Marsie możliwość wyboru.
+Хаця мы не пацьвердзілі наяўнасьці значных радовішчаў вады, гэтае адкрыцьцё выкліча вялікі розгалас у навуковых супольнасьцях і прыцягне значную ўвагу да нашых намаганьняў на Чырвонай Плянэце. Нашы фундатары адразу ж забясьпечылі нас інструмэнтамі для дасьледаваньня ўплыву марсіянскай геалёгіі на ўтварэньне падземнага лёду.",
+5803,Conduct on-site volatiles experiments. (Reduce cost of Physics research by 10%),Правядзіце на мейсцы экспэрымэнты з летучымі рэчывамі. (Памяншае кошт тэхналёгій Фізітцы на 10%.) ,Przeprowadź terenowe badania związków lotnych. (Koszt technologii w dziedzinie fizyki zmniejsza się o 10%)
+5805,Conduct on-site polymerization experiments. (Reduce cost of Engineering research by 10%),Правядзіце на мейсцы экспэрымэнты па палімэрызацыі. (Памяншае кошт тэхналёгій Інжынэрыі на 10%.) ,Przeprowadź terenowe badania polimeryzacji. (Koszt technologii w dziedzinie inżynierii zmniejsza się o 10%)
+5807,Sell the scientific data. (<funding(500000000)> Funding),Прадайце навуковыя дадзеныя. (<funding(500000000)> фінансаваньня) ,Sprzedaj uzyskane informacje (<funding(500000000)> funduszy).
+5808,Uranium-Rich Hematite,Збагачаны уранам Гематыт ,Hematyt obfitujący w uran
+7170,It’s not every day that we have the luxury to choose from what Mars has to offer.,Не што дзень на Марсе маеш магчымасьць выбіраць. ,Nie co dzień ma się na Marsie możliwość wyboru.
 5809,"The planet constantly reminds us of its old habit – to give with one hand and take with the other. The rover came across coffinite rocks rich in uranium, clustered on top of a rich hematite deposit. The mineral veins were positioned in such a manner inside the rock that we couldn't blast through without compromising some of them.
 
-We faced a difficult decision, but at the end, it was a matter of simple pragmatics.","The planet constantly reminds us of its old habit – to give with one hand and take with the other. The rover came across coffinite rocks rich in uranium, clustered on top of a rich hematite deposit. The mineral veins were positioned in such a manner inside the rock that we couldn't blast through without compromising some of them.
+We faced a difficult decision, but at the end, it was a matter of simple pragmatics.","Плянэта пастаянна нагадвае нам пра сваю старую звычку — даваць адной рукой і браць другой. Марсаход наткнуўся на кофінітавыя пароды, багатыя на ўран, якія маюць выгляд згусткаў на багатым радовішчы гематыту. Мінэральныя жылкі былі разьмешчаны ў пародзе такім чынам, што прабіць іх без шкоды для некаторых з іх было немагчыма.
 
-We faced a difficult decision, but at the end, it was a matter of simple pragmatics.",
-5810,Exploit the Hematite vein. (rich Metals deposit),Exploit the Hematite vein. (rich Metals deposit),Eksploatuj żyłę hematytu (bogate złoże metali).
-5812,Exploit the Uranium vein. (Rare Metals deposit),Exploit the Uranium vein. (Rare Metals deposit),Eksploatuj żyłę uranową (złoże rzadkich metali).
-7175,We’ve found signs of native life!,We’ve found signs of native life!,Odkryto pozostałości miejscowych organizmów żywych!
+Мы сутыкнуліся зь цяжкім выбарам, але зрэшты гэта было пытаньне звычайнага прагматызму.",
+5810,Exploit the Hematite vein. (rich Metals deposit),Пачаць здабычу гематытавай жылы (багатае радовішча мэталу).,Eksploatuj żyłę hematytu (bogate złoże metali).
+5812,Exploit the Uranium vein. (Rare Metals deposit),Пачаць здабычу ўранавай жылы (радовішча рэдкіх мэталаў).,Eksploatuj żyłę uranową (złoże rzadkich metali).
+7175,We’ve found signs of native life!,Выяўлены рэшткі мясцовых жывых арганізмаў!,Odkryto pozostałości miejscowych organizmów żywych!
 5819,"The sensor reading from the Anomaly site provided the answer to one of the biggest mysteries about Mars. The Explorer examined a mineral cluster and found the preserved remains of microscopic life forms. We've managed to confirm that the deposit originated on Mars and not on one of the many asteroids that pockmark the surface of the planet.
 
-The team is ecstatic with the find. If there was past life on Mars, perhaps we are not alone in the universe!","The sensor reading from the Anomaly site provided the answer to one of the biggest mysteries about Mars. The Explorer examined a mineral cluster and found the preserved remains of microscopic life forms. We've managed to confirm that the deposit originated on Mars and not on one of the many asteroids that pockmark the surface of the planet.
+The team is ecstatic with the find. If there was past life on Mars, perhaps we are not alone in the universe!","Зьвесткі з датчыкаў на мейсцы анамаліі далі адказ на адну з найвялікшых таямніц Марсу. Дасьледнік дасьледаваў мінэральны згустак і знайшоў захаваныя рэшткі мікраскапічных жыцьцёвых формаў. Мы здолелі пацьвердзіць, што гэтае радовішча паходзіць з Марсу, а не з аднаго з шматлікіх астэроідаў, якія пакрываюць паверхню плянэты.
 
-The team is ecstatic with the find. If there was past life on Mars, perhaps we are not alone in the universe!",
-5820,Publicize the find as a triumph of the Mars mission. (<funding(choice_param1)> Funding),Publicize the find as a triumph of the Mars mission. (<funding(choice_param1)> Funding),Nagłośnij odkrycie jako triumf marsjańskiej misji. (<funding(choice_param1)> funduszy)
-5822,Publicize the find as a triumph of humankind. (<choice_param2> Applicants),Publicize the find as a triumph of humankind. (<choice_param2> Applicants),Nagłośnij odkrycie jako triumf ludzkości. (Ochotnicy - <choice_param2>)
-7179,The odd composition of the debris collected from the anomaly site has proven to be an uncrackable riddle for our science team.,The odd composition of the debris collected from the anomaly site has proven to be an uncrackable riddle for our science team.,Szczególny skład szczątków odkrytych w miejscu anomalii okazał się nieprzeniknioną zagadką dla naszego zespołu naukowego.
+Каманда ў захапленьні ад гэтай знаходкі. Калі на Марсе калісьці было жыцьцё, магчыма, мы не адны ў сусьвеце!",
+5820,Publicize the find as a triumph of the Mars mission. (<funding(choice_param1)> Funding),Абвясьціце знаходку як трыюмф марсіянскай місіі. (<funding(choice_param1)> фінансаваньня),Nagłośnij odkrycie jako triumf marsjańskiej misji. (<funding(choice_param1)> funduszy)
+5822,Publicize the find as a triumph of humankind. (<choice_param2> Applicants),Абвясьціце знаходку як трыюмф чалавецтву. (<choice_param2> кандыдатаў),Nagłośnij odkrycie jako triumf ludzkości. (Ochotnicy - <choice_param2>)
+7179,The odd composition of the debris collected from the anomaly site has proven to be an uncrackable riddle for our science team.,"Дзіўны склад абломкаў, сабраных на мейсцы анамаліі, апынуўся нявырашальнай загадкай для нашай навуковай каманды.",Szczególny skład szczątków odkrytych w miejscu anomalii okazał się nieprzeniknioną zagadką dla naszego zespołu naukowego.
 5835,"The experts all agree that the materials discovered at the Anomaly site could not originate on Mars, but they are also in agreement that they are not the remains of a meteorite or a contaminant introduced from our Rockets. For now it looks like the origin of the debris will remain a mystery.
 
 As wise men throughout history said more than once: the more we know, the more we realize that we don't know.
 
-<effect> A Genius Applicant is available on Earth.","The experts all agree that the materials discovered at the Anomaly site could not originate on Mars, but they are also in agreement that they are not the remains of a meteorite or a contaminant introduced from our Rockets. For now it looks like the origin of the debris will remain a mystery.
+<effect> A Genius Applicant is available on Earth.","Экспэрты ўсе згодныя, што матэрыялы, знойдзеныя на мейсцы анамаліі, ня могуць паходзіць з Марсу, але яны таксама пагаджаюцца, што гэта ня рэшткі мэтэарыту й не забруджвальнікі, занесеныя нашымі ракетамі. Пакуль што здаецца, што паходжаньне абломкаў застанецца таямніцай.
 
-As wise men throughout history said more than once: the more we know, the more we realize that we don't know.
+Як мудрацы заўсёды казалі: чым больш мы ведаем, тым больш разуменьня, што нічога ня ведаем.
 
-<effect> A Genius Applicant is available on Earth.",
-5836,Nothing like a good puzzle!,Nothing like a good puzzle!,Nie ma to jak dobra zagadka!
-7185,We should research the Dark Spectrometry technology to learn more about the Black Cubes.,We should research the Dark Spectrometry technology to learn more about the Black Cubes.,"Aby dowiedzieć się więcej o czarnych kostkach, powinniśmy opracować technologię ciemnej spektrometrii."
-5862,A peculiar black cube matrix has appeared near the Colony. We should send an Explorer to investigate.,A peculiar black cube matrix has appeared near the Colony. We should send an Explorer to investigate.,"W pobliżu kolonii pojawił się układ dziwnych czarnych kostek. Powinniśmy wysłać eksploratora, aby to zbadać."
-5863,"An unknown black, previously undetected cube-shaped object","An unknown black, previously undetected cube-shaped object","Nieznany czarny, niewykryty wcześniej obiekt w kształcie sześcianu."
-5864,Mystery Cube,Mystery Cube,Tajemnicza kostka
-5865,"Reportedly, a black cube has appeared within the extractor.","Reportedly, a black cube has appeared within the extractor.",Podobno w ekstraktorze pojawiła się czarna kostka.
-5866,Cube Disaster,Cube Disaster,Kostkostrofa
-5867,Power of Three: Disappearing Act,Power of Three: Disappearing Act,Potęga trójki: Numer ze znikaniem
-7186,A Concrete Extractor went abruptly silent. Maintenance requests were met with nothing but static.,A Concrete Extractor went abruptly silent. Maintenance requests were met with nothing but static.,Pewien ekstraktor cementu nagle ucichł. Jedyną reakcją na polecenia konserwacji był szum zakłóceń.
+<effect> На Зямлі даступны кандыдат-геній.",
+5836,Nothing like a good puzzle!,Няма нічога лепшага за добрую галаваломку!,Nie ma to jak dobra zagadka!
+7185,We should research the Dark Spectrometry technology to learn more about the Black Cubes.,"Каб даведацца больш пра чорныя кубы, мы павінны распрацаваць тэхналёгію цёмнай спэктраметрыі.","Aby dowiedzieć się więcej o czarnych kostkach, powinniśmy opracować technologię ciemnej spektrometrii."
+5862,A peculiar black cube matrix has appeared near the Colony. We should send an Explorer to investigate.,Каля калёніі з'явілася сістэма дзіўных чорных кубоў. Мы павінны адправіць РК Выведчык для дасьледваньня.,"W pobliżu kolonii pojawił się układ dziwnych czarnych kostek. Powinniśmy wysłać eksploratora, aby to zbadać."
+5863,"An unknown black, previously undetected cube-shaped object","Невядомы чорны, раней не выяўлены аб'ект у форме куба.","Nieznany czarny, niewykryty wcześniej obiekt w kształcie sześcianu."
+5864,Mystery Cube,Таямнічы куб,Tajemnicza kostka
+5865,"Reportedly, a black cube has appeared within the extractor.","Відаць, у экстрактары з'явіўся чорны куб.",Podobno w ekstraktorze pojawiła się czarna kostka.
+5866,Cube Disaster,Кубастрафія,Kostkostrofa
+5867,Power of Three: Disappearing Act,Моц трох: Нумар са зьнікненьнем,Potęga trójki: Numer ze znikaniem
+7186,A Concrete Extractor went abruptly silent. Maintenance requests were met with nothing but static.,Адзін з экстрактараў бэтону раптам змоўк. Адзінай рэакцыяй на каманды тэхнічнага абслугоўваньня было гудзеньне.,Pewien ekstraktor cementu nagle ucichł. Jedyną reakcją na polecenia konserwacji był szum zakłóceń.
 5868,"This event was unlike any malfunction predicted in the security protocols. Orbital scans on the site revealed no evidence of the existence of the huge structure – only a black cube matrix centered on the spot where the extractor was supposed to be.
 
-<effect>A Concrete Extractor has been destroyed by a Black Cube. An Anomaly has appeared on the site.","This event was unlike any malfunction predicted in the security protocols. Orbital scans on the site revealed no evidence of the existence of the huge structure – only a black cube matrix centered on the spot where the extractor was supposed to be.
+<effect>A Concrete Extractor has been destroyed by a Black Cube. An Anomaly has appeared on the site.","Гэта падзея не была падобная ні на якое з магчымых збояў, прадугледжаных у пратаколах бясьпекі. Арбітальныя сканаваньні мейсца не выявілі ніякіх адбіткаў існаваньня вялікай структуры — толькі чорная кубічная матрыца ў цэнтры таго мейсца, дзе павінен быў знаходзіцца эктрактар.
 
-<effect>A Concrete Extractor has been destroyed by a Black Cube. An Anomaly has appeared on the site.",
-5869,We must investigate,We must investigate,Musimy to zbadać
-5870,A Black Cube has led to the destruction of a Concrete Extractor. We should investigate the site with an Expedition.,A Black Cube has led to the destruction of a Concrete Extractor. We should investigate the site with an Expedition.,Jakaś czarna kostka spowodowała zniszczenie ekstraktora cementu. Musimy wysłać ekspedycję na miejsce katastrofy.
-5871,Power of Three: A Black Cube Appears,Power of Three: A Black Cube Appears,Potęga trójki: Pojawia się czarna kostka
+<effect>Экстрактар бэтону быў зьнішчаны Чорным Кубам. На мейсцы зьявілася анамалія.",
+5869,We must investigate,Мы мусім дасьледваваць,Musimy to zbadać
+5870,A Black Cube has led to the destruction of a Concrete Extractor. We should investigate the site with an Expedition.,Якісьці чорны куб выклікаў зьнішчэньне экстрактару цэмэнту. Мы павінны адправіць экспэдыцыю на мейсца катастрофы.,Jakaś czarna kostka spowodowała zniszczenie ekstraktora cementu. Musimy wysłać ekspedycję na miejsce katastrofy.
+5871,Power of Three: A Black Cube Appears,Моц трох: З'яўленьне чорнага кубу,Potęga trójki: Pojawia się czarna kostka
 7187,A routine scan of the perimeter has detected an unidentified object within immediate proximity of the Colony. Data logs confirm it – it isn’t a glitch.,A routine scan of the perimeter has detected an unidentified object within immediate proximity of the Colony. Data logs confirm it – it isn’t a glitch.,Rutynowy skan okolicy wykrył jakiś niezidentyfikowany obiekt bardzo blisko kolonii. Rejestry danych potwierdzają - to nie jest zakłócenie.
 5872,"The mysterious object appears to consist of pitch-black cubes arranged in a matrix. The cubes seemingly levitate above the ground without the aid of any support structure.
 
@@ -5925,9 +5926,10 @@ Pleased with our performance, the monitoring council of our sponsor offered us t
 7479,"Mission Control, the Dredgers are retreating!","Камандаваньне, Драгеры адыходзяць!","Dowództwo, bagrownice wycofują się!"
 6051,"As sudden as they fell upon us, the alien vessels are taking off all at once. Our scientists estimate they extracted a significant amount of materials from below the surface. This is a serious threat to the viability of our Colony and the monitoring council of our sponsor took that in mind. They offered us a small sum as a disaster relief, but from the subtle remarks in their message we can tell they are not happy with the situation.
 
-<effect>You've gained <funding(reg_param1)> Funding as disaster relief.","As sudden as they fell upon us, the alien vessels are taking off all at once. Our scientists estimate they extracted a significant amount of materials from below the surface. This is a serious threat to the viability of our Colony and the monitoring council of our sponsor took that in mind. They offered us a small sum as a disaster relief, but from the subtle remarks in their message we can tell they are not happy with the situation.
+<effect>You've gained <funding(reg_param1)> Funding as disaster relief.","Як раптоўна яны на нас абрынуліся, так нечакана іншаплянэтныя караблі ўсе разам узьлятаюць. Нашыя навукоўцы лічаць, што яны здабылі значную колькасьць матэрыялаў з-пад паверхні. Гэта сур’ёзная пагроза для жыцьцяздольнасьці нашай калёніі, і кантрольная рада нашага фундатару ўлічыла гэта. Яны прапанавалі нам невялікую суму ў якасьці дапамогі пры катастрофе, але па тонкіх заўвагах у іх паведамленьні можна было зразумець, што яны не задаволеныя сытуацыяй.
 
-<effect>You've gained <funding(reg_param1)> Funding as disaster relief.",
+<effect>Вы атрымалі <funding(reg_param1)> фінансаваньня ў якасьці дапамогі пры катастрофе.
+",
 6053,We have survived the Dredger invasion. Teams are working on evaluating the damage.,Мы перажылі нашэсьце Драгераў. Нашы тэхнічныя групы працуюць над ацэнкай шкоды.,Przetrwaliśmy inwazję bagrownic. Zespoły techniczne pracują nad oceną szkód.
 6054,The Dredgers: The Leviathan Rises,Драгеры: Левіяфан паўстае,Bagrownice - Lewiatan powstaje
 7480,Red alert! We have a massive object converging with Mars on a collision course!,Чырвоная трывога! Гіганцкі аб'ект з'явіўся на курсе сутыкненьня з Марсам!,Czerwony alarm! Pojawił się gigantyczny obiekt na kursie kolizyjnym z Marsem!
@@ -5939,15 +5941,16 @@ Just when we thought we survived the worst...
 
 <effect>A huge Dredger will land on Mars in <text_param1> Sols.
 
-<hint>You can dismantle the incoming Dredger using Drones.","Our readings confirm that this is a Dredger, but its size... There is no mistake, unfortunately.
+<hint>You can dismantle the incoming Dredger using Drones.","Нашыя дасьледаваньні пацьвярджаюць, што гэта Дрэджэр, але яго памеры... На жаль, памылкі няма.
 
-If we leave this massive Dredger unchecked, it could have a disastrous impact on our metal supply. On the other hand, our Tactical Advisor supposes that the arrival of this new Dredger may be caused by the threat our actions proved for the aliens' mining operations. At the end, the decision as to how we address the new situation was obvious.
+Калі мы не спынім гэтага велізарнага Дрэджэра, гэта можа мець катастрафічныя наступствы для нашых запасаў мэталу. Зь іншага боку, наш Тактычны Кансультант мяркуе, што зьяўленьне гэтага новага Дрэджэра можа быць выклікана пагрозай, якую нашыя дзеяньні стварылі для горназдабыўных апэрацый іншаплянэтнікаў. Напрыканцы, рашэньне, як супрацьстаяць новай сытуацыі, было відавочным.
 
-Just when we thought we survived the worst...
+Як толькі мы падумалі, што перажылі найгоршае...
 
-<effect>A huge Dredger will land on Mars in <text_param1> Sols.
+<effect>Велізарны Дрэджэр прызямліцца на Марс праз <text_param1> Сол.
 
-<hint>You can dismantle the incoming Dredger using Drones.",
+<hint>Вы можаце разабраць прыбываючы Дрэджэр з дапамогай Дронаў.
+",
 7200,5,5,5
 6056,A massive Dredger is inbound to land on Mars.,Велізарна Драга накіроўваецца да Марсу.,Ogromna bagrownica kieruje się w stronę Marsa.
 6057,The Dredgers – Conclusion: Fires of Tomorrow's Dawn,Драгеры – Канчатак: агні надыходзячага світанку,Bagrownice - Zakończenie - ognie nadciągającego świtu
@@ -5986,12 +5989,12 @@ You failed to destroy the massive Dredger and the Colony will pay the price in t
 Here comes the best part – the Dredgers are quite vulnerable! The alkaloid fuels they utilize for propulsion makes them highly volatile in oxygen-rich atmospheres. This is probably the reason why no Dredger landed on Earth so far.
 It is a tough decision whether we should use force against the Dredgers.
 
-<effect>You can now use Drones to destroy Dredgers","The scientists concluded that the organic appearance of the Dredgers is misleading. Even though their robust hulls are made to endure extreme impact forces, they are deprived of any sensors and react in no way to changes in their environment. Simply put, they are nothing more than extraction vehicles with simple programming.
+<effect>You can now use Drones to destroy Dredgers","Навукоўцы прыйшлі да высновы, што арганічны выгляд Драгераў зманлівы. Хаця іх трывалая абалонка распрацавана, каб вытрымліваць экстрэмальныя ўдары, яны пазбаўленыя любых датчыкаў і аніяк не рэагуюць на зьмены ў навакольным асяродзьдзі. Прастымі словамі, яны не што іншае, як здабываюшчыя машыны з простым праграмаваньнем.
 
-Here comes the best part – the Dredgers are quite vulnerable! The alkaloid fuels they utilize for propulsion makes them highly volatile in oxygen-rich atmospheres. This is probably the reason why no Dredger landed on Earth so far.
-It is a tough decision whether we should use force against the Dredgers.
+І вось найлепшая частка – Драгеры даволі ўразьлівыя! Алкалоіднае паліва, якое яны выкарыстоўваюць для руху, робіць іх высокавыбухованебясьпечнымі ў атмасфэрах, багатых на тлён. Магчыма, менавіта з гэтай прычыны ніводна Драга яшчэ не прызямліўся на Зямлі. Цяжкае рашэньне, ці варта ўжываць сілу супраць Драгераў.
 
-<effect>You can now use Drones to destroy Dredgers",
+<effect>Цяпер вы можаце выкарыстоўваць Дроны для зьнішчэньня Драгераў.
+",
 6066,Hostilities should be our last resort.,Варожыя дзеяньні – крайнасьць.,Wrogie działania to ostateczność.
 6067,They came uninvited and I believe it is our right to defend what is ours.,"Яны прыйшлі без запрашэньня, і я лічу, што мы маем права абараняць тое, што наша.","One przybyły tu nieproszone, a ja uważam, że mamy prawo bronić tego, co nasze."
 6068,We have researched a way to destroy landed Dredgers by using Drones.,Мы дасьледавалі спосаб зьнішчэньня Драгераў з дапамогай дронаў.,Opracowaliśmy metodę niszczenia bagrownic na powierzchni Marsa za pomocą dronów.
@@ -6001,11 +6004,12 @@ It is a tough decision whether we should use force against the Dredgers.
 
 The information transmitted by the Dredgers is surprisingly simple. They share data regarding plotted courses, the status of their excavations and the location of mineral-rich sites. We cannot identify the source in Koronis as the Dredgers do not use any call signs, but nevertheless we are able to intercept their transmissions and predict the sites of future landings.
 
-<effect>Dredger landing sites will be marked on the map.","Each transmission consists of several desynchronized threads – each of them sounds like cosmic static, but when combined in the right way they form a pattern which can be translated to binary.
+<effect>Dredger landing sites will be marked on the map.","Кожная перадача складаецца зь некалькіх дэсінхранізаваных плыняў — кожна асабліва гучыць як касьмічны статычны шум, але пры правільным сумяшчэньні яны ўтвараюць узор, які можна перавесьці ў бінарны код.
 
-The information transmitted by the Dredgers is surprisingly simple. They share data regarding plotted courses, the status of their excavations and the location of mineral-rich sites. We cannot identify the source in Koronis as the Dredgers do not use any call signs, but nevertheless we are able to intercept their transmissions and predict the sites of future landings.
+Інфармацыя, якую перадаюць Драгеры, зьдзіўляе сваёй прастатой. Яны дзеляцца дадзенымі пра пракладзеныя маршруты, статус сваіх выемак і месцазнаходжаньне участкаў, багатых на карысныя выкапні. Мы ня можам ідэнтыфікаваць крыніцу ў Каронісе, бо Драгеры не выкарыстоўваюць ніякіх пазывальных знакаў, але, нягледзячы на гэта, мы здольныя перахопліваць іх перадачы й прадказваць мейсцы будучых пасадак.
 
-<effect>Dredger landing sites will be marked on the map.",
+<effect>Мейсцы пасадак Драгераў будуць пазначаныя на мапе.
+",
 6071,Inform me immediately if you intercept anything unusual.,"Калі вы перахопіце што-небудзь незвычайнае, неадкладна паведаміце мне.","Jeśli przechwycicie coś niezwykłego, powiadomcie mnie natychmiast."
 6072,We have researched a way to detect the future landing sites of Dredgers.,Мы распрацавалі метад выяўленьня будучых мейсцаў пасадкі Драгераў.,Opracowaliśmy metodę wykrywania przyszłych miejsc lądowania bagrownic.
 5741,"Spheres: 3 Up, More to Come","Сфэры: 3 гатовы, час на большае","Kule: 3 gotowe, pora na więcej"
@@ -6016,13 +6020,14 @@ The good news is that the more there are, the more observation material is avail
 
 We should be able to paint a general picture of their purpose after investing some time to research them. 
 
-<effect> <em>Purpose of the Spheres</em> research available.","The new Sphere also exhibits the humming of the previous two and is also resonating with them and the atmosphere around it. We have adjusted the predicted trigger point of the unknown event, as now it is expected to come earlier due to the higher Sphere count.  
+<effect> <em>Purpose of the Spheres</em> research available.","Новая Сфэра таксама мае гул, як і папярэднія дзьве, й рэзаніруе зь імі й атмасфэрай вакол сябе. Мы адкарэктавалі прадказаны момант запуску невядомай падзеі, бо цяпер яна чакаецца раней з-за павялічэньня колькасьці Сфэр.
 
-The good news is that the more there are, the more observation material is available for our scientists.
+Добрая навіна ў тым, што чым больш іх, тым больш матэрыялу для назіраньня маюць нашыя навукоўцы.
 
-We should be able to paint a general picture of their purpose after investing some time to research them. 
+Мы павінны быць здольныя стварыць агульную карціну іх мэты пасьля таго, як укладзем некаторы час у дасьледаваньне.
 
-<effect> <em>Purpose of the Spheres</em> research available.",
+<effect>Даступнае дасьледаваньне<em>Прызначэньне Сфэр</em> .
+",
 5743,Can’t decide if this is good news or bad.,"Цяжка сказаць, добра гэта ці блага","Trudno powiedzieć, czy to dobrze, czy źle"
 5744,Spheres: Climate Change ,Сфэры: Зьмена клімату,Kule: Zmiana klimatu 
 7113,The Colony is expecting some sort of artificial cold wave. How’s that even possible?,"Падобна на тое, што калёнію накрыла халодная хваля штучнага паходжаньня! Як гэта наогул магчыма?","Wydaje się, że kolonię nawiedziła fala zimna sztucznego pochodzenia! Jak to w ogóle możliwe?"
@@ -6033,14 +6038,15 @@ What or who needs to lower the atmospheric temperature of contemporary Mars is b
 If we want to stop the change, we must find a breakthrough based on what we already know and learn how to control or cancel this process.
 
 <effect> A prolonged, extremely strong Cold Wave has begun.
-<effect> Xeno-Terraforming research available.","It is also confirmed that the Spheres are using their energies to maintain atmospheric stasis – in other words they have passed a critical point for their purpose. 
+<effect> Xeno-Terraforming research available.","Таксама пацьверджана, што Сфэры выкарыстоўваюць сваю энэргію для падтрыманьня атмасфэрнага стазісу — іншымі словамі, яны прайшлі крытычны пункт для сваёй мэты.
 
-What or who needs to lower the atmospheric temperature of contemporary Mars is beyond any of us – yet it is most evident that the Spheres are effective at what they are doing. 
+Што ці хто імкнецца панізіць атмасфэрную тэмпэратуру сучаснага Марсу, выходзіць за межы нашага разуменьня — але відавочна, што Сфэры эфэктыўна выконваюць сваю задачу.
 
-If we want to stop the change, we must find a breakthrough based on what we already know and learn how to control or cancel this process.
+Калі мы хочам спыніць гэтыя зьмены, мы павінны зрабіць прарыў, заснаваны на тым, што ўжо ведаем, і навучыцца кантраляваць ці адмяняць гэты працэс.
 
-<effect> A prolonged, extremely strong Cold Wave has begun.
-<effect> Xeno-Terraforming research available.",
+<effect>Пачалася працяглая, надзвычай моцная Халодная Хваля.
+ <effect>Дасьледаваньне Ксэна-Тэраформаваньня даступнае.
+",
 7487,This is now formally a fight for survival.,Цяпер мы афіцыйна змагаемся за выжываньне.,Teraz już oficjalnie walczymy o przetrwanie.
 5747,Spheres: To Future Generations,Сфэры: За прышлыя пакаленьні,Kule: Do przyszłych pokoleń
 7114,"We’ve dismantled the last Sphere, yet our unease with the alien technology still lingers.","Апошня Сфэры была дэмантавана, засталася толькі трывога, выкліканая кантактам з іншаплянетнымі тэхнолёгіямі.","Ostatnia Kula została zdemontowana, pozostał nam tylko niepokój spowodowany kontaktem z technologią kosmitów."
@@ -6053,16 +6059,17 @@ And despite the risks, despite the purely pragmatic reasons for destroying all t
 When our scientists give up on trying to determine the origin of these Spheres, will textbooks mention that because of the rash actions and fears of the few pioneers that lived on Mars at the time, the riddle will never be solved?
 
 <effect>No more Spheres are left.
-<effect>Gained a new Technology, <em><reg_param1></em>.","Our scientists are confident that we have recorded and gathered all data necessary for making sense of this encounter in the coming decades. Also, they are confident that the Spheres themselves had overstayed their welcome. 
+<effect>Gained a new Technology, <em><reg_param1></em>.","Нашыя навукоўцы ўпэўненыя, што мы запісалі й сабралі ўсе дадзеныя, неабходныя для разуменьня гэтай сустрэчы ў наступныя дзесяцігодзьдзі. Таксама яны ўпэўненыя, што Сфэры ўжо затрымаліся больш, чым трэба.
 
-Keeping them around would have meant living with the ever present danger of re-activating the endless cold wave once more and caused harm to our Colony as they did before. 
+Калі б мы пакінулі іх, гэта азначала б жыцьцё з пастаяннай небясьпекай паўторнага актываваньня бясконцай халоднай хвалі, якая магла б зноў нанесьці шкоду нашай калёніі.
 
-And despite the risks, despite the purely pragmatic reasons for destroying all the Spheres, one can’t help but wonder how the generations to come will feel of this deed. Will we go down in history as cowards? Or maybe as too insensitive to the magnitude of the encounter, the very first non-man made technology ever found?
+І нягледзячы на рызыкі, нягледзячы на чыста прагматычныя прычыны для зьнішчэньня ўсіх Сфэраў, нельга не задумацца, як будучыя пакаленьні будуць ставіцца да гэтага ўчынку. Ці зоймем мы мейсца ў гісторыі як баязьліўцы? Ці можа, як тыя, хто быў занадта нечулы да велічыні гэтай сустрэчы, першае не чалавечыя тэхналёгіі, знойдзенай калі-небудзь?
 
-When our scientists give up on trying to determine the origin of these Spheres, will textbooks mention that because of the rash actions and fears of the few pioneers that lived on Mars at the time, the riddle will never be solved?
+Калі нашыя навукоўцы перастануць спрабаваць вызначыць паходжаньне гэтых Сфэраў, ці будзе ў падручніках згадвацца, што з-за пасьпешлівых дзеяньняў і страхаў некалькіх піянераў, якія жылі на Марсе ў той час, загадка так і не будзе разгаданая?
 
-<effect>No more Spheres are left.
-<effect>Gained a new Technology, <em><reg_param1></em>.",
+<effect>Сфэр больш не засталося.
+<effect>Атрымана новая тэхналёгія, <em><reg_param1></em>.
+",
 5749,The end of an era.,Канец эпохі,Koniec pewnej ery
 6073,We discovered a mysterious sphere half-buried in the red sands. Its origins and purpose remain unknown.,"Мы выявілі таямнічу сфэры, напалову закапаную ў пясок. Яе паходжаньне й прызначэньне застаюцца невядомымі.",Odkryliśmy tajemniczą kulę na wpół zagrzebaną w piaskach. Jej pochodzenie i przeznaczenie pozostają nieznane.
 6074,The ominous Sphere has burst from the ground and is floating in an unknown direction.,Злавесна Сфэры вырываецца зь зямлі й ляціць у невядомым кірунку.,Złowróżbna Kula wyprysnęła spod ziemi i leci w nieznanym kierunku.
@@ -6070,11 +6077,11 @@ When our scientists give up on trying to determine the origin of these Spheres, 
 6076,"The harmful energy-draining aura of the Sphere has affected nearby Colonists, damaging their health. Mission Control advises extreme caution near the alien objects.",Шкодная энэргаспажывальная аўра Сфэры негатыўна адбілася на здароўі навакольных каляністаў. Камандаваньне раіць быць асабліва асьцярожнымі пры знаходжаньні паблізу староньніх прадметаў.,Szkodliwa energochłonna aura Kuli wywarła zły wpływ na zdrowie przebywających w pobliżu kolonistów. Dowództwo zaleca daleko posuniętą ostrożność w okolicy obcych obiektów.
 6077,The Sphere has used the energy it stored to create another copy of itself. Our scientists predict that the process will continue while also accelerating the coming of some related event.,"Сфэра выкарыстоўвае назапашаную энэргію, каб паўтарыць сябе. Нашы навукоўцы прагназуюць, што гэты працэс будзе працягвацца, адначасова паскараючы надыход падзеі.","Kula wykorzystała zgromadzoną energię do powielenia się. Nasi naukowcy przewidują, że ten proces będzie trwać, przyspieszając równocześnie nadejście jakiegoś wydarzenia."
 6078,"The power decoys worked! A Sphere is now trapped in one of them. If everything works, it will remain there until we can sustain the power feed of the decoy.","Энэргетычныя пасткі спрацавалі! У адной з іх нам удалося захапіць Сфэру. Калі ўсё пойдзе добра, ён застанецца ў пастцы, пакуль мы зможам сілкаваць вабік.","Pułapki energetyczne zadziałały! Udało się nam schwytać Kulę w jedną z nich. Jeśli wszystko pójdzie dobrze, pozostanie w pułapce, jak długo będziemy mogli zasilać wabik."
-6079,The Sphere obeyed our commands and has crash-landed on the surface. We can now safely harvest resources from the deposits left behind.,The Sphere obeyed our commands and has crash-landed on the surface. We can now safely harvest resources from the deposits left behind.,"Kula wykonała nasze polecenia i rozbiła się na powierzchni. Teraz możemy bezpiecznie zebrać zasoby ze złóż, które pozostawiła po sobie."
-6080,We have invented Power Decoys – buildings which should allow us to attract and trap a Sphere on a specific location.,We have invented Power Decoys – buildings which should allow us to attract and trap a Sphere on a specific location.,"Wynaleźliśmy pułapki energetyczne - budynki, które umożliwią nam zwabienie Kuli w określone miejsce i unieruchomienie jej."
-6081,"The Spheres had started to terraform Mars, draining it of its energy and making it colder – a massive Cold Wave has began!","The Spheres had started to terraform Mars, draining it of its energy and making it colder – a massive Cold Wave has began!","Kule zaczęły terraformować Marsa, pobierając energię planety i ochładzając ją - rozpoczęła się wielka fala zimna!"
-6082,Success! We managed to disable all of the Spheres!,Success! We managed to disable all of the Spheres!,Sukces! Udało się unieszkodliwić wszystkie Kule!
-6083,Inner Light: The Advent,Inner Light: The Advent,Wewnętrzne światło - Przybycie
+6079,The Sphere obeyed our commands and has crash-landed on the surface. We can now safely harvest resources from the deposits left behind.,"Сфэра падпарадкавалася нашым камандам і ўрэзалася ў паверхню. Цяпер мы можам бясьпечна здабываць рэсурсы з адкладаў, якія засталіся. ","Kula wykonała nasze polecenia i rozbiła się na powierzchni. Teraz możemy bezpiecznie zebrać zasoby ze złóż, które pozostawiła po sobie."
+6080,We have invented Power Decoys – buildings which should allow us to attract and trap a Sphere on a specific location.,"Мы вынайшлі энэргетычныя пасткі — будынкі, якія дазволяць нам прывабіць Сфэру ў пэўнае мейсца й абязрухоміць яе. ","Wynaleźliśmy pułapki energetyczne - budynki, które umożliwią nam zwabienie Kuli w określone miejsce i unieruchomienie jej."
+6081,"The Spheres had started to terraform Mars, draining it of its energy and making it colder – a massive Cold Wave has began!","Сфэры пачалі тэрафармаваць Марс, забіраючы энэргію плянэты й астуджаючы яе — пачалася вялікая хваля холаду!","Kule zaczęły terraformować Marsa, pobierając energię planety i ochładzając ją - rozpoczęła się wielka fala zimna!"
+6082,Success! We managed to disable all of the Spheres!,"Посьпех! Мы здолелі адключыць усе Сфэры, перш чым яны нанесьлі яшчэ больш шкоды нашай калёніі. ",Sukces! Udało się unieszkodliwić wszystkie Kule!
+6083,Inner Light: The Advent,Унутранае Сьвятло: Прыход ,Wewnętrzne światło - Przybycie
 7201,"Sitting at your desk, a strange light appears in the corner of your vision. It pulsates and intensifies, bathing the room in a warm glow. It feels... Actually, it feels just about right.","Sitting at your desk, a strange light appears in the corner of your vision. It pulsates and intensifies, bathing the room in a warm glow. It feels... Actually, it feels just about right.","Siedzisz za swoim biurkiem, gdy w kąciku pola widzenia pojawia się dziwne światło. Zaczyna pulsować, nabiera mocy i wypełnia pomieszczenie ciepłymi kolorami. Wydaje się... całkiem na miejscu."
 6084,"It is so unexpectedly pleasant that any fears of food or drug poisoning are quickly doused and forgotten. And then you hear the voices – people laughing, yelling, crying... speaking. The language is incomprehensible but you sense the presence of friendly and strangely familiar entities. The shimmering lights start forming patterns and sparks flash briefly, revealing scenes from another place.
 
@@ -6093,11 +6100,11 @@ You struggle to concentrate and maintain control and the mirage dissolves. You'r
 
 “What are you doing, Kal? Stop it, silly!” You hear her voice directly in your mind. The realization of where you are hits you with full force. You remember that your name is Kal. That you and your numerous Clan call this tree Home.
 
-You take a deep breath and look at the horizon, the bright sun is almost completely covered by thick veil of red and orange.","When you open your eyes, you find yourself hundreds of meters above the ground. The panic overtakes you and you wave your limbs frantically as you try to grasp something. Despite the fact that you aren't falling – a strong rope supports you near the trunk of a gigantic tree, taller than any skyscraper. You compose yourself just in time to hear your sister laughing way above you.
+You take a deep breath and look at the horizon, the bright sun is almost completely covered by thick veil of red and orange.","Калі вы адкрываеце вочы, вы знаходзіце сябе на сотні мэтраў над зямлёй. Паніка ахоплівае вас, і вы вар’яцка размахваеце канечнасьцямі, спрабуючы зачапіцца за нешта. Нягледзячы на тое, што вы ня падаеце — моцная вяроўка падтрымлівае вас каля ствала гіганцкага дрэва, вышэйшага за любы хмарачос. Вы супакойваецеся якраз у час, каб пачуць, як ваша сястра сьмяецца высока над вамі.
 
-“What are you doing, Kal? Stop it, silly!” You hear her voice directly in your mind. The realization of where you are hits you with full force. You remember that your name is Kal. That you and your numerous Clan call this tree Home.
+«Што ты робіш, Кал? Спыніся, дурненькі!» Вы чуеце яе голас непасрэдна ў сваім розуме. Разуменьне таго, дзе вы знаходзіцеся, накрывае вас з усёй моццу. Вы памятаеце, што вас завуць Кал. Што вы й ваш шматлікі Клян называеце гэта дрэва Домам.
 
-You take a deep breath and look at the horizon, the bright sun is almost completely covered by thick veil of red and orange.",
+Вы робіце глыбокі ўдых і глядзіце на гарызонт, яркае сонца амаль цалкам пакрыта густым чырвоным й аранжавым покрывам.",
 6091,Inner Light: Childhood's End,Inner Light: Childhood's End,Wewnętrzne światło - Koniec dzieciństwa
 7204,"Lea. Her name comes back to you as she looks toward the horizon, frowning.","Lea. Her name comes back to you as she looks toward the horizon, frowning.",Lea - przypominasz sobie jej imię - patrzy na horyzont i marszczy brwi.
 6094,"“Kal, another dust storm is coming. Let's finish with these moss veins and get back inside.” You clench the rope with your six-digit, two-thumb hands and start climbing towards the last of the moss veins which keeps the bark of Home healthy and alive.
@@ -7205,8 +7212,8 @@ But they see this as a means of a new clean beginning and have expressed their d
 8547,A new society emerged from the ruins on Earth.,A new society emerged from the ruins on Earth.,Z ruin na Ziemi powstaje nowa społeczność.
 8240,Only united can we hope to conquer the void. (constrain War Tension increase to <ChoiceA_Tension>%),Only united can we hope to conquer the void. (constrain War Tension increase to <ChoiceA_Tension>%),Tylko razem pokonamy kosmiczną pustkę. (Ogranicza wzrost napięcia wojennego do <ChoiceA_Tension>%)
 8241,Earth won't change. (<ChoiceB_Applicants> new applicants,Earth won't change. (<ChoiceB_Applicants> new applicants, War Tension will increase by <ChoiceB_Tension>%)
-8242,The Last War: Local Wars in the Third World,The Last War: Local Wars in the Third World,Ostatnia wojna: Lokalne wojenki w trzecim świecie
-8243,The ripples made by the attacks on Earth have toppled governments and paved the way for opportunists to ride a wave of populist fury.,The ripples made by the attacks on Earth have toppled governments and paved the way for opportunists to ride a wave of populist fury.,"Fale wzbudzone przez ataki na Ziemi obaliły wiele rządów i stworzyły okazję dla oportunistów, którzy mogą popłynąć z prądem obywatelskiego oburzenia."
+8242,The Last War: Local Wars in the Third World,Апошняя вайна: лакальныя войны ў трэцім сьвеце,Ostatnia wojna: Lokalne wojenki w trzecim świecie
+8243,The ripples made by the attacks on Earth have toppled governments and paved the way for opportunists to ride a wave of populist fury.,"Хваля, выкліканая нападамі на Зямлю, зрынула многія ўрады й стварыла магчымасьці для апартуністаў перасядзець грамадзянскае абурэньне.","Fale wzbudzone przez ataki na Ziemi obaliły wiele rządów i stworzyły okazję dla oportunistów, którzy mogą popłynąć z prądem obywatelskiego oburzenia."
 8244,"Border skirmishes are slowly spilling into full scale invasions and the major powers are so far failing to instate a cease fire. The relative peace Earth has been enjoying for the past century now seems to have been a fragile facade, beneath which grudges and ambitions have been festering in wait for the right moment. 
 
 The organization responsible has all but vanished after accomplishing more that it could have possibly hoped for. 
@@ -7216,20 +7223,20 @@ We, on the other hand, as a symbol of what humanity can achieve when working tog
 The organization responsible has all but vanished after accomplishing more that it could have possibly hoped for. 
 
 We, on the other hand, as a symbol of what humanity can achieve when working together and not by fighting between ourselves, are in a unique position to make a statement which may be of actual merit to the situation.",
-8247,The Last War: Too Many Unnatural Deaths,The Last War: Too Many Unnatural Deaths,Ostatnia wojna - Za dużo zgonów z przyczyn nienaturalnych
-8248,"Be it from the extra influx of colonists, the shortage of help from Earth or other reasons all together, the number of recently perished colonists by unnatural causes is disturbing. ","Be it from the extra influx of colonists, the shortage of help from Earth or other reasons all together, the number of recently perished colonists by unnatural causes is disturbing. ","Liczba kolonistów zmarłych czy to wskutek napływu dodatkowych kolonistów, czy z braku pomocy z Ziemi, czy też z innych przyczyn, jest ostatnio niepokojąco wysoka. "
+8247,The Last War: Too Many Unnatural Deaths,Апошняя вайна: зашмат сьмерцяў па ненатуральных прычынах,Ostatnia wojna - Za dużo zgonów z przyczyn nienaturalnych
+8248,"Be it from the extra influx of colonists, the shortage of help from Earth or other reasons all together, the number of recently perished colonists by unnatural causes is disturbing. ","Колькасьць каляністаў, якія загінулі з-за прытоку дадатковых каляністаў, адсутнасьці дапамогі зь Зямлі або па іншых прычынах, у апошні час стала трывожна высокай.","Liczba kolonistów zmarłych czy to wskutek napływu dodatkowych kolonistów, czy z braku pomocy z Ziemi, czy też z innych przyczyn, jest ostatnio niepokojąco wysoka. "
 8249,"People on Earth have been served a grim reminder that although far from the massive problems that they are experiencing right now, Mars is far from the safe heaven many have probably fooled themselves into believing.
 
 <effect>Too many colonists have died recently from unnatural causes. The War Tension has increased.","People on Earth have been served a grim reminder that although far from the massive problems that they are experiencing right now, Mars is far from the safe heaven many have probably fooled themselves into believing.
 
 <effect>Too many colonists have died recently from unnatural causes. The War Tension has increased.",
-8250,A sad day for humanity.,A sad day for humanity.,To smutny dzień dla całej ludzkości.
-8251,"Send Rare Metals to Earth to decrease War Tension, instead of receiving Funding. Rockets for the shipments will arrive regularly.","Send Rare Metals to Earth to decrease War Tension, instead of receiving Funding. Rockets for the shipments will arrive regularly.","Wysyłaj rzadkie metale na Ziemię, aby - zamiast otrzymywać fundusze - zmniejszyć napięcie wojenne. Rakiety będą regularnie przybywać po transporty."
-8252,Rare Metals Rocket,Rare Metals Rocket,Rakieta na rzadkie metale
-8253,Submit to UN inspection. (-<ChoiceA_MoralePenalty> Morale to all colonists),Submit to UN inspection. (-<ChoiceA_MoralePenalty> Morale to all colonists),Zgódź się na dochodzenie ONZ. (-<ChoiceA_MoralePenalty> morale dla wszystkich kolonistów)
-8254,Deny allegations. (+<ChoiceB_TensionIncrease>% War Tension),Deny allegations. (+<ChoiceB_TensionIncrease>% War Tension),Odrzuć zarzuty. (+<ChoiceB_TensionIncrease> do napięcia wojennego)
-8255,The Last War: Closer to Home,The Last War: Closer to Home,Ostatnia wojna - Bliżej domu
-8256,A blatant lie is gaining traction on Earth.,A blatant lie is gaining traction on Earth.,Na Ziemi zyskuje posłuch jakieś bezczelne łgarstwo.
+8250,A sad day for humanity.,Гэта сумны дзень для ўсяго чалавецтву.,To smutny dzień dla całej ludzkości.
+8251,"Send Rare Metals to Earth to decrease War Tension, instead of receiving Funding. Rockets for the shipments will arrive regularly.","Адпраўляйце рэдкія мэталы на Зямлю, каб паменшыць напружанасьць у вайне, замест атрыманьня сродкаў. Ракеты будуць прыбываць рэгулярна.","Wysyłaj rzadkie metale na Ziemię, aby - zamiast otrzymywać fundusze - zmniejszyć napięcie wojenne. Rakiety będą regularnie przybywać po transporty."
+8252,Rare Metals Rocket,Ракетка для рэдкіх мэталаў,Rakieta na rzadkie metale
+8253,Submit to UN inspection. (-<ChoiceA_MoralePenalty> Morale to all colonists),Даць згоду на расьследаваньне ААН. (-<ChoiceA_MoralePenalty> маральнага духу для ўсіх каляністаў),Zgódź się na dochodzenie ONZ. (-<ChoiceA_MoralePenalty> morale dla wszystkich kolonistów)
+8254,Deny allegations. (+<ChoiceB_TensionIncrease>% War Tension),Адхіліць абвінавачваньні. (+<ChoiceB_TensionIncrease>% да ваеннай напружанасці),Odrzuć zarzuty. (+<ChoiceB_TensionIncrease> do napięcia wojennego)
+8255,The Last War: Closer to Home,Апошняя вайна: бліжэй да дому,Ostatnia wojna - Bliżej domu
+8256,A blatant lie is gaining traction on Earth.,Нейкая відавочная хлусьня прыцягвае ўвагу на Зямлі.,Na Ziemi zyskuje posłuch jakieś bezczelne łgarstwo.
 8257,"A faction in the wars on Earth, an alliance of several smaller states, has come out and outright accused <reg_param1> of using the Mars project as a backdrop for developing and testing forbidden weapons, which are then used on their people.   
 
 The UN has requested that we allow a probe to be made so this nonsense is cleared, although we fear that instilling such doubts in our colonists may have an impact on morale as a whole.
@@ -7239,13 +7246,13 @@ What do we do?","A faction in the wars on Earth, an alliance of several smaller 
 The UN has requested that we allow a probe to be made so this nonsense is cleared, although we fear that instilling such doubts in our colonists may have an impact on morale as a whole.
 
 What do we do?",
-8258,<red>UN inspection -10</red>,<red>UN inspection -10</red>,<red>Inspekcja ONZ - 10</red>
-8259,I thought we lived in more enlightened times. (+<Tension>% War Tension),I thought we lived in more enlightened times. (+<Tension>% War Tension),"Wydawało mi się, że żyjemy w bardziej oświeconych czasach. (+<Tension>% do napięcia wojennego)"
-8260,"You do know this comet was predicted to come this close to Earth 50 years ago, right? (+<Tension>% War Tension)","You do know this comet was predicted to come this close to Earth 50 years ago, right? (+<Tension>% War Tension)","Ale wiecie, że już 50 lat temu przewidziano, że ta kometa zbliży się do Ziemi? (+<Tension>% do napięcia wojennego)"
-8261,"Earth has changed a lot since we departed for Mars, and not for the better. (+<Tension>% War Tension)","Earth has changed a lot since we departed for Mars, and not for the better. (+<Tension>% War Tension)","Ziemia bardzo się zmieniła, odkąd wyruszyliśmy na Marsa - i to nie na lepsze. (+<Tension>% do napięcia wojennego)"
-8262,Of course it's an omen. How could it possibly be anything but? (+<Tension>% War Tension),Of course it's an omen. How could it possibly be anything but? (+<Tension>% War Tension),"Oczywiście, że to jest znak. Czymże miałoby być? (+<Tension>% do napięcia wojennego)"
-8263,The Last War: Comet Sighted!,The Last War: Comet Sighted!,Ostatnia wojna - Dostrzeżono kometę!
-8264,"A comet suddenly lit up night skies above Earth, visible from all over the globe. ","A comet suddenly lit up night skies above Earth, visible from all over the globe. ",Jakaś kometa nagle rozświetliła nocne ziemskie niebo i jest widoczna na całym globie.
+8258,<red>UN inspection -10</red>,<red>Інспекцыя ААН – 10</red>,<red>Inspekcja ONZ - 10</red>
+8259,I thought we lived in more enlightened times. (+<Tension>% War Tension),"Я думаў, што мы жылі ў больш асьвечаныя часы. (+<Tension>% да ваеннай напружанасці)","Wydawało mi się, że żyjemy w bardziej oświeconych czasach. (+<Tension>% do napięcia wojennego)"
+8260,"You do know this comet was predicted to come this close to Earth 50 years ago, right? (+<Tension>% War Tension)","Але ці ведаеце вы, што 50 год таму было прадказана, што гэтая камета наблізіцца да Зямлі? (+<Tension>%  да ваеннай напружанасьці)","Ale wiecie, że już 50 lat temu przewidziano, że ta kometa zbliży się do Ziemi? (+<Tension>% do napięcia wojennego)"
+8261,"Earth has changed a lot since we departed for Mars, and not for the better. (+<Tension>% War Tension)","Зямля моцна зьмянілася з таго часу, як мы адправіліся на Марс. І не ў лепшы бок. (+<Tension>% да ваеннай напружанасьці) ","Ziemia bardzo się zmieniła, odkąd wyruszyliśmy na Marsa - i to nie na lepsze. (+<Tension>% do napięcia wojennego)"
+8262,Of course it's an omen. How could it possibly be anything but? (+<Tension>% War Tension),"Вядома, гэта знак. Што б гэта магло быць? (+<Tension>% да ваеннай напружанасьці) ","Oczywiście, że to jest znak. Czymże miałoby być? (+<Tension>% do napięcia wojennego)"
+8263,The Last War: Comet Sighted!,Апошняя вайна: была заўважана камета!,Ostatnia wojna - Dostrzeżono kometę!
+8264,"A comet suddenly lit up night skies above Earth, visible from all over the globe. ",Камета раптоўна асьвятліла начное неба Зямлі й бачная па ўсім зямным шары.,Jakaś kometa nagle rozświetliła nocne ziemskie niebo i jest widoczna na całym globie.
 8265,"Although the comet is well known and talked about by most space agencies, in the current atmosphere on Earth people have little time for space news and have chosen to see an omen in it. 
 
 Most interpretations have been that victory is imminent for the interpreter, but more alarmingly many believe this is a sign of the end times. 
@@ -7259,20 +7266,20 @@ Most interpretations have been that victory is imminent for the interpreter, but
 Some have chosen to embrace it… risking this becoming a self-fulfilling prophecy.
 
 We have to talk some sense into the Earthlings.",
-8245,<reg_param1> safely landed in the colony.,<reg_param1> safely landed in the colony.,<reg_param1> bezpiecznie ląduje w kolonii.
-8246,<reg_param1> have suffocated in orbit.,<reg_param1> have suffocated in orbit.,<reg_param1> ginie z braku tlenu na orbicie.
-8266,Export Rare Metals to Earth and reduce War Tension.,Export Rare Metals to Earth and reduce War Tension.,"Eksportuj rzadkie metale na Ziemię, by zmniejszyć napięcie wojenne."
-8267,Rare Metals Rocket,Rare Metals Rocket,Rakieta na rzadkie metale
-8268,Export Metals to Earth and reduce War Tension.,Export Metals to Earth and reduce War Tension.,"Eksportuj metale na Ziemię, by zmniejszyć napięcie wojenne."
-8269,Metals Rocket,Metals Rocket,Rakieta na metale
-8270,Export Electronics to Earth and reduce War Tension.,Export Electronics to Earth and reduce War Tension.,"Eksportuj artykuły elektroniczne na Ziemię, by zmniejszyć napięcie wojenne."
-8271,Electronics Rocket,Electronics Rocket,Rakieta na artykuły elektroniczne
-8272,Export Machine Parts to Earth and reduce War Tension.,Export Machine Parts to Earth and reduce War Tension.,"Eksportuj części maszyn na Ziemię, by zmniejszyć napięcie wojenne."
-8273,Machine Parts Rocket,Machine Parts Rocket,Rakieta na części maszyn
-8274,Export Food to Earth and reduce War Tension.,Export Food to Earth and reduce War Tension.,"Eksportuj żywność na Ziemię, by zmniejszyć napięcie wojenne."
-8275,Food Rocket,Food Rocket,Rakieta na żywność
-8276,The Last War: Cold War 2.0,The Last War: Cold War 2.0,Ostatnia wojna - Zimna wojna 2.0
-8277,Ceasefires are taking effect and armies are pulling back behind borders.,Ceasefires are taking effect and armies are pulling back behind borders.,"Zawieszenie broni weszło w życie, armie wycofują się i gromadzą na granicach. "
+8245,<reg_param1> safely landed in the colony.,<reg_param1> бясьпечна прызямліўся ў калоніі.,<reg_param1> bezpiecznie ląduje w kolonii.
+8246,<reg_param1> have suffocated in orbit.,<reg_param1> гіне ад браку тлёну на арбіце.,<reg_param1> ginie z braku tlenu na orbicie.
+8266,Export Rare Metals to Earth and reduce War Tension.,"Экспартуйце рэдкія мэталы на Зямлю, каб паменшыць напружанасць ваенных дзеянняў.","Eksportuj rzadkie metale na Ziemię, by zmniejszyć napięcie wojenne."
+8267,Rare Metals Rocket,Ракета для рэдкіх мэталаў,Rakieta na rzadkie metale
+8268,Export Metals to Earth and reduce War Tension.,"Экспартуйце мэталы на Зямлю, каб паменшыць напружанасць ваенных дзеянняў.","Eksportuj metale na Ziemię, by zmniejszyć napięcie wojenne."
+8269,Metals Rocket,Ракета для мэталаў,Rakieta na metale
+8270,Export Electronics to Earth and reduce War Tension.,"Экспартуйце элэктроніку на Зямлю, каб  паменшыць ваенную напружанасьць.","Eksportuj artykuły elektroniczne na Ziemię, by zmniejszyć napięcie wojenne."
+8271,Electronics Rocket,Ракетка для элэктронікі,Rakieta na artykuły elektroniczne
+8272,Export Machine Parts to Earth and reduce War Tension.,"Экспартуйце часткі машын на Зямлю, каб паменшыць ваенную напружанасьць.","Eksportuj części maszyn na Ziemię, by zmniejszyć napięcie wojenne."
+8273,Machine Parts Rocket,Ракета для частак машын,Rakieta na części maszyn
+8274,Export Food to Earth and reduce War Tension.,"Экспартуйце ежу на Зямлю, каб паменшыць ваенную напружанасьць.","Eksportuj żywność na Ziemię, by zmniejszyć napięcie wojenne."
+8275,Food Rocket,Ракета для ежы,Rakieta na żywność
+8276,The Last War: Cold War 2.0,Апошняя вайна: халодная вайна 2.0,Ostatnia wojna - Zimna wojna 2.0
+8277,Ceasefires are taking effect and armies are pulling back behind borders.,"Ажыцьцявіўся рэжым спыненьня агню, войска адыходзяць і зьбіраюцца на межах.","Zawieszenie broni weszło w życie, armie wycofują się i gromadzą na granicach. "
 8278,"Mistrust and disbelief is rampant and while the guns are finally silent, the road to healing the wounds of war will be longer than anything Earth has ever experienced before. 
 
 Millions have perished and those who survived will suffer a divide so huge, it seems impossible to fill. 
@@ -7954,17 +7961,17 @@ It looks like a failure in one of our MOXIE units has highlighted a design flaw 
 
 <effect>«МЭРТ 2.0» тэхнолёгія цяпер даступны да дасьледаваньня.",
 663664815047,"The expert report on the failing MOXIEs is almost 300 pages long, finding multiple issues with their design.","Экспэртная справаздача аб няспраўных МЭРТ налічвае амаль 300 старонак, знаходзячы мноства праблем з іх дызайнам.",Raport ekspertów na temat MAGETLEN-ów ulegających awariom liczy prawie 300 stron i wskazuje liczne usterki projektowe.
-434294412464,We seem to be missing some parts for our <DisplayName> prefab. Also there seem to be parts that don’t fit anywhere and the instructions are no help at all.,We seem to be missing some parts for our <DisplayName> prefab. Also there seem to be parts that don’t fit anywhere and the instructions are no help at all.,"Zdaje się, że brakuje nam pewnych części prefabrykatu (<DisplayName>). Dostaliśmy też części, które do niczego nie pasują, a instrukcja nie jest zbyt pomocna."
-725085981948,Bad Prefab,Bad Prefab,Wadliwy prefabrykat
-800200228748,"The drone attempts to put the square part into the round hole for the third consecutive time, determined to find a solution.","The drone attempts to put the square part into the round hole for the third consecutive time, determined to find a solution.","Już trzeci raz dron próbuje umieścić kwadratową część w okrągłym otworze, zdecydowany znaleźć jakieś rozwiązanie."
-935411421898,Let’s try to jury rig something…,Let’s try to jury rig something…,Spróbujmy dokładnie obrobić pilnikiem…
-437660882746,chance to fix the building or lose the drone,chance to fix the building or lose the drone,istnieje szansa naprawienia budynku lub utraty drona.
+434294412464,We seem to be missing some parts for our <DisplayName> prefab. Also there seem to be parts that don’t fit anywhere and the instructions are no help at all.,"Здаецца, у нас бракуе некаторых частак зборнага блоку (<DisplayName>). Мы таксама атрымалі дэталі, якія не пасуюць, і інструкцыі ня вельмі карысны.","Zdaje się, że brakuje nam pewnych części prefabrykatu (<DisplayName>). Dostaliśmy też części, które do niczego nie pasują, a instrukcja nie jest zbyt pomocna."
+725085981948,Bad Prefab,Няспраўны зборнік,Wadliwy prefabrykat
+800200228748,"The drone attempts to put the square part into the round hole for the third consecutive time, determined to find a solution.","Трэці раз дрон спрабуе зьмясціць квадратную частку ў круглую адтуліну, вырашыўшы знайсьці нейкае рашэнне.","Już trzeci raz dron próbuje umieścić kwadratową część w okrągłym otworze, zdecydowany znaleźć jakieś rozwiązanie."
+935411421898,Let’s try to jury rig something…,Паспрабуем акуратна апрацаваць яго напільнікам...,Spróbujmy dokładnie obrobić pilnikiem…
+437660882746,chance to fix the building or lose the drone,ёсьць шанец адрамантаваць будынак або страціць дрон.,istnieje szansa naprawienia budynku lub utraty drona.
 320806415324,"Taking manual control over the drone, we were able to put together the building but there were some places we had to improvise.
 
-<effect>The <DisplayName> has been constructed but it will require additional maintenance every time the building malfunctions.","Taking manual control over the drone, we were able to put together the building but there were some places we had to improvise.
+<effect>The <DisplayName> has been constructed but it will require additional maintenance every time the building malfunctions.","Пераняўшы ручное кіраваньне дронам, нам удалося сабраць будынак, але ў некаторых момантах прыйшлося крыху імправізаваць.
 
-<effect>The <DisplayName> has been constructed but it will require additional maintenance every time the building malfunctions.",
-686508844040,Well we had to use some of the parts from the drone itself but we were able to assemble the <DisplayName> prefab.,Well we had to use some of the parts from the drone itself but we were able to assemble the <DisplayName> prefab.,"Musieliśmy wykorzystać trochę części z samego drona, ale udało się nam zmontować prefabrykat (<DisplayName>)."
+<effect><DisplayName> створаны, але патрабуе дадатковага абслугоўвання кожную аварыю.",
+686508844040,Well we had to use some of the parts from the drone itself but we were able to assemble the <DisplayName> prefab.,"Нам прыйшлося выкарыстоўваць некаторыя дэталі ад самога беспілотніка, але нам удалося сабраць зборны фаб (<DisplayName>).","Musieliśmy wykorzystać trochę części z samego drona, ale udało się nam zmontować prefabrykat (<DisplayName>)."
 934749540017,"Taking manual control over the drone, we were able to assemble the <DisplayName> prefab but we are left with a lot of spare parts. Come to think of it I believe we can make another <DisplayName> with them.
 
 <effect>The <DisplayName> has been constructed and we’ve gained another <DisplayName> prefab.","Taking manual control over the drone, we were able to assemble the <DisplayName> prefab but we are left with a lot of spare parts. Come to think of it I believe we can make another <DisplayName> with them.
@@ -11938,7 +11945,7 @@ New Dome: <em>Mega Trigon</em> (<buildinginfo('DomeMegaTrigon')>) - A bigger tri
 ","Захопленыя люстраныя сфэры могуць быць разбіты на будаўнічыя часткі.
 
 <grey>Спроба зразумець прылады, люстэрныя сфэры, што могуць зьмяняюць клімат.</grey>",
-6622,Xeno-Terraforming,Ксэнатэрафарміраваньне,Ksenoterraforming
+6622,Xeno-Terraforming,Ксэна-Тэраформаваньне,Ksenoterraforming
 7299,Push to decipher the Dreamers’ brain patterns while in trance.,Націсьніце да дэшыфроўкі схэмы мозгу <em>Летуценнікаў</em> у трансе.,Próba zrozumienia stanu umysłu Śniącego podczas transu.
 6624,Dream Simulation,Сімулятар сноў,Symulacja snu
 7300,Track down Number Six's physical location.,Track down Number Six's physical location.,Ustalenie położenia Numeru Sześć.

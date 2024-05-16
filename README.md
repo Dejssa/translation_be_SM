@@ -39,7 +39,7 @@
 - Controller - Кантроллер
 - RC Commander - РК Кардынатар
 - RC Seeker - РК Шукач
-- Mission Control (Center) - Цэнтр Кіраваньня Місіяй [ЦКМ]
+- Mission Control (Center) - Камандаваньне [ЦКМ]
 - Mars Nouveau - Марс Нуво
 - Log-G - Нізкая гравітацыя
 - Amplify - Узмацніць
@@ -139,7 +139,7 @@
 - Glutton - Абжора
 - Gambler - Азартны
 - Hypochondriac - Іпахондрык
-- Idiot - Ідыёт
+- Idiot - Дурнота
 - Infected - Інфіцыраваны
 - Loner - Самотнік
 - Lazy - Лянівы
@@ -189,6 +189,7 @@
 - The Beyond Earth - Па-за Зямлёй
 - St. Elmo's Fire - Вогнішча сьвятога Эльму
 - Philosopher's Stone - Філёзофскі камень
+- - Апошняя вайна
 
 ### З'явы
 
@@ -198,6 +199,6 @@
 
 100 строк - прыблізна 0,595%
 
-2903/16881 (17.2%)
+3252/16881 (19.26%)
 
 Мэта 3488 (~20.91%)
