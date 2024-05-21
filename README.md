@@ -180,7 +180,7 @@
 ### Taямніцы
 
 - The Power of Three - Моц трох
-- The Dredgers - Драгеры
+- The Dredgers - Драгэры
 - The Spheres - Сфэры
 - The Inner Light - Унутранае сьвятло
 - The Artificial Intelligence - Штучны Інтэлект
@@ -199,6 +199,6 @@
 
 100 строк - прыблізна 0,595%
 
-3441/16881 (20.38%)
+3555/16881 (21.06%)
 
 Мэта 3488 (~20.91%)
