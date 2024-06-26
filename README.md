@@ -127,7 +127,7 @@
 - Safari - Сафар
 - Medical Checks - Мед. агляды
 - Performance - Прадукцыйнасьць
-- Comfort - Камфорт
+- Comfort - Выгода
 - Medical - Медыцына
 
 ##### Trait/Рысы
@@ -144,7 +144,7 @@
 - Loner - Самотнік
 - Lazy - Лянівы
 - Melancholic - Меланхолік
-- Composed - Трывалы,
+- Composed - Спакойны
 - Celebrity - Знакамітасьць
 - Empath - Эмпат
 - Enthusiast - Энтузіяст
@@ -155,7 +155,7 @@
 - Hippie - Хіпі
 - Nerd - Нерд
 - Religious - Рэлігійны
-- Rugged - Загартаваны
+- Rugged - Дужы
 - Saint - Сьвяты
 - Sexy - Сэксі
 - Survivor - Выжыўшы
@@ -199,7 +199,7 @@
 
 100 строк - прыблізна 0,595%
 
-4100/16881 (24.3%)
+4775/16881 (28.3%)
 
 6000
 
