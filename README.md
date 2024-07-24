@@ -176,12 +176,12 @@
 - The Spheres - Сфэры
 - The Inner Light - Унутранае сьвятло
 - The Artificial Intelligence - Штучны Інтэлект
-- The Marsgate - Брама Марса
+- The Marsgate - Брама Марсу
 - The Wildfire - Лясны пажар (Агнявая гарачка)
 - The Beyond Earth - Па-за Зямлёй
 - St. Elmo's Fire - Вогнішча сьвятога Эльму
 - Philosopher's Stone - Філёзофскі камень
-- - Апошняя вайна
+- The Last War - Апошняя вайна
 
 ### З'явы
 
